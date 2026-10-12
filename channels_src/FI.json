@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Eveo (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fFIq7tY.png",
+    "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+    "group": "General",
+    "country": "FI",
+    "is_premium": false,
+    "id": "5152872657245399067",
+    "quality": "HD"
+  },
+  {
+    "name": "Himlen TV7 (720p)",
+    "logo": "https://i.imgur.com/k8a7KNn.png",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "FI",
+    "is_premium": false,
+    "id": "2007650252687826875",
+    "quality": "HD"
+  },
+  {
+    "name": "Jim (720p)",
+    "logo": "https://i.imgur.com/PkMgY0K.png",
+    "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+    "group": "Entertainment",
+    "country": "FI",
+    "is_premium": false,
+    "id": "2011480243647251454",
+    "quality": "HD"
+  },
+  {
+    "name": "JRTV Järviradio (720p)",
+    "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+    "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+    "group": "Finland",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-383524727664347797",
+    "quality": "HD"
+  },
+  {
+    "name": "Liv (720p)",
+    "logo": "https://i.imgur.com/k6NsXBj.png",
+    "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+    "group": "Entertainment",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-3280819549482693924",
+    "quality": "HD"
+  },
+  {
+    "name": "MTV Ava (720p)",
+    "logo": "https://i.imgur.com/WxNCiAk.png",
+    "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+    "group": "Entertainment",
+    "country": "FI",
+    "is_premium": false,
+    "id": "2501840721833211971",
+    "quality": "HD"
+  },
+  {
+    "name": "MTV Sub (720p)",
+    "logo": "https://i.imgur.com/rmV8LO1.png",
+    "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+    "group": "Finland",
+    "country": "FI",
+    "is_premium": false,
+    "id": "5835378270944550023",
+    "quality": "HD"
+  },
+  {
+    "name": "MTV Uutiset (720p)",
+    "logo": "https://i.imgur.com/ZO8ShOK.png",
+    "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+    "group": "News",
+    "country": "FI",
+    "is_premium": false,
+    "id": "2306279554266671554",
+    "quality": "HD"
+  },
+  {
+    "name": "MTV3 (720p)",
+    "logo": "https://i.imgur.com/C5rQbBM.png",
+    "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+    "group": "General",
+    "country": "FI",
+    "is_premium": false,
+    "id": "4204452021190587863",
+    "quality": "HD"
+  },
+  {
+    "name": "National Geographic (Finland) (720p) [Geo-blocked]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png",
+    "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+    "group": "Documentary",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-4684333842401509339",
+    "quality": "HD"
+  },
+  {
+    "name": "Navahang TV (720p)",
+    "logo": "https://i.imgur.com/YteKXJy.png",
+    "url": "https://hls.navahang.live/hls/stream.m3u8",
+    "group": "Music",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-4994131582763437412",
+    "quality": "HD"
+  },
+  {
+    "name": "Nelonen (720p)",
+    "logo": "https://i.imgur.com/BFbCyfY.png",
+    "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+    "group": "General",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-2443928023750732968",
+    "quality": "HD"
+  },
+  {
+    "name": "Nopola News (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/vDoQaGl.png",
+    "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+    "group": "News",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-8961065339073271722",
+    "quality": "FHD"
+  },
+  {
+    "name": "NärTV (360p)",
+    "logo": "https://i.imgur.com/Ht5yePq.png",
+    "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+    "group": "General",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-7207807707456510972",
+    "quality": "SD"
+  },
+  {
+    "name": "Onni TV (720p)",
+    "logo": "https://i.imgur.com/Vba4jUk.png",
+    "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+    "group": "General",
+    "country": "FI",
+    "is_premium": false,
+    "id": "2095458455512177103",
+    "quality": "HD"
+  },
+  {
+    "name": "STAR Channel (Finland) (720p)",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/star-tv-seeklogo.png",
+    "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+    "group": "Movies",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-7613488934968890678",
+    "quality": "HD"
+  },
+  {
+    "name": "Taevas TV7 (720p)",
+    "logo": "https://i.imgur.com/usXedIj.png",
+    "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "FI",
+    "is_premium": false,
+    "id": "4256326259927289549",
+    "quality": "HD"
+  },
+  {
+    "name": "Taivas TV7 (720p)",
+    "logo": "https://i.imgur.com/JyJNiXy.png",
+    "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "FI",
+    "is_premium": false,
+    "id": "5029784512488249336",
+    "quality": "HD"
+  },
+  {
+    "name": "Viaplay TV (Finland) (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
+    "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+    "group": "Sports",
+    "country": "FI",
+    "is_premium": false,
+    "id": "4091557045000077222",
+    "quality": "HD"
+  },
+  {
+    "name": "YLE TV 1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/6yXZwUL.png",
+    "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+    "group": "Finland",
+    "country": "FI",
+    "is_premium": false,
+    "id": "5195289137968336088",
+    "quality": "FHD"
+  },
+  {
+    "name": "YLE TV 2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/4xkc6PL.png",
+    "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+    "group": "Finland",
+    "country": "FI",
+    "is_premium": false,
+    "id": "-7205422861680665376",
+    "quality": "FHD"
+  },
+  {
+    "name": "YLE TV Teema & Fem (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/yle-teema-fem-fi.png",
+    "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+    "group": "Finland",
+    "country": "FI",
+    "is_premium": false,
+    "id": "1740916847528456214",
+    "quality": "FHD"
+  },
+  {
+    "name": "YleX Studio Live (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/500px-Ylen_logo.svg.png",
+    "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+    "group": "Finland",
+    "country": "FI",
+    "is_premium": false,
+    "id": "840072228388230657",
+    "quality": "HD"
+  }
+]

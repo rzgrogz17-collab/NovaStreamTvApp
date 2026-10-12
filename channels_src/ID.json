@@ -1,0 +1,1288 @@
+[
+  {
+    "name": "Alwafa Tarim TV (Am Media) (720p)",
+    "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
+    "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4025932866699174388",
+    "quality": "HD"
+  },
+  {
+    "name": "Ashiil TV (480p)",
+    "logo": "https://i.imgur.com/bTktkcr.png",
+    "url": "https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8915739079452901365",
+    "quality": "SD"
+  },
+  {
+    "name": "Atambua TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",
+    "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1531595062798028991",
+    "quality": "HD"
+  },
+  {
+    "name": "Balikpapan TV (720p)",
+    "logo": "https://i.imgur.com/P3whqna.png",
+    "url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-2143839397860930247",
+    "quality": "HD"
+  },
+  {
+    "name": "Bandung TV (360p)",
+    "logo": "https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",
+    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7703901443715558949",
+    "quality": "SD"
+  },
+  {
+    "name": "Banjar TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TA76a10.png",
+    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7582619926268063513",
+    "quality": "HD"
+  },
+  {
+    "name": "Banten TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/tbtF40p.png",
+    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8357276060157098103",
+    "quality": "HD"
+  },
+  {
+    "name": "Banyumas TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/snMxng5.png",
+    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-6362106758534751822",
+    "quality": "HD"
+  },
+  {
+    "name": "Batam TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lo7YXnW.png",
+    "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5211923055683417382",
+    "quality": "SD"
+  },
+  {
+    "name": "BE TV (720p)",
+    "logo": "https://i.imgur.com/3EX0zax.png",
+    "url": "https://flv.intechmedia.net/live/ch58.m3u8",
+    "group": "Entertainment",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3924448628349431785",
+    "quality": "HD"
+  },
+  {
+    "name": "BeritaSatu English",
+    "logo": "https://i.postimg.cc/SRDWxRGs/13092012142252.jpg",
+    "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5006212636142832799"
+  },
+  {
+    "name": "Biznet Adventure (1080p)",
+    "logo": "https://i.imgur.com/ZREy4zM.png",
+    "url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "4990791195530796926",
+    "quality": "FHD"
+  },
+  {
+    "name": "Biznet Kids (1080p)",
+    "logo": "https://i.imgur.com/J5QNqJ0.png",
+    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+    "group": "Kids",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-6565973216821202242",
+    "quality": "FHD"
+  },
+  {
+    "name": "Biznet Lifestyle (1080p)",
+    "logo": "https://i.imgur.com/XqUfQKA.png",
+    "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+    "group": "Lifestyle",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-2847404968656067806",
+    "quality": "FHD"
+  },
+  {
+    "name": "BN Channel (720p)",
+    "logo": "https://i.imgur.com/DUBvfWb.png",
+    "url": "https://flv.intechmedia.net/live/ch112.m3u8",
+    "group": "News",
+    "country": "ID",
+    "is_premium": false,
+    "id": "944157239572764842",
+    "quality": "HD"
+  },
+  {
+    "name": "BTV (720p)",
+    "logo": "https://i.imgur.com/P3whqna.png",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "6677872903684524996",
+    "quality": "HD"
+  },
+  {
+    "name": "Caruban TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",
+    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8578611461152714484",
+    "quality": "FHD"
+  },
+  {
+    "name": "DAAI TV",
+    "logo": "https://i.imgur.com/YC7JCHo.png",
+    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "5511914838821664366"
+  },
+  {
+    "name": "Dhamma TV (720p) [Not 24/7]",
+    "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",
+    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7341011393055917906",
+    "quality": "HD"
+  },
+  {
+    "name": "Dhoho TV (720p)",
+    "logo": "https://i.imgur.com/4Khyyfh.png",
+    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7025480769280658885",
+    "quality": "HD"
+  },
+  {
+    "name": "dTVi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png",
+    "url": "https://e.siar.us/live/dtvi.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8178268952442885187"
+  },
+  {
+    "name": "Duta TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/B4JW54M.png",
+    "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7278593016312363573",
+    "quality": "SD"
+  },
+  {
+    "name": "Efarina TV (720p)",
+    "logo": "https://i.imgur.com/iYTimXh.png",
+    "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-2215284609321868285",
+    "quality": "HD"
+  },
+  {
+    "name": "Ficom Channel (720p)",
+    "logo": "https://i.imgur.com/KMEf0Cc.png",
+    "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-3168840724789990144",
+    "quality": "HD"
+  },
+  {
+    "name": "Garuda TV (1080p)",
+    "logo": "https://i.imgur.com/sXsAcZ3.png",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8229666587294746904",
+    "quality": "FHD"
+  },
+  {
+    "name": "GTV (576p)",
+    "logo": "https://i.imgur.com/jjuKnYs.png",
+    "url": "https://mncmedia.malingtv.workers.dev/gtv.m3u8",
+    "group": "Legislative",
+    "country": "ID",
+    "is_premium": false,
+    "id": "6722110589974718564",
+    "quality": "SD"
+  },
+  {
+    "name": "I Am Channel (576p)",
+    "logo": "https://i.imgur.com/Gg6OcGT.png",
+    "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3466501773415023119",
+    "quality": "SD"
+  },
+  {
+    "name": "Indonesiana.TV (720p)",
+    "logo": "https://i.imgur.com/192wiS1.png",
+    "url": "https://tvstreamcast.com/indonesiana.m3u8",
+    "group": "Entertainment",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5183296372850152305",
+    "quality": "HD"
+  },
+  {
+    "name": "Izzah TV (480p)",
+    "logo": "https://i.imgur.com/my7aqLc.png",
+    "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "547907689908960109",
+    "quality": "SD"
+  },
+  {
+    "name": "Jambi TV (480p) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png",
+    "url": "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1877994132757930466",
+    "quality": "SD"
+  },
+  {
+    "name": "Jawa Pos TV Bali (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "4497801457556846569",
+    "quality": "SD"
+  },
+  {
+    "name": "Jek TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/wh75d1f.png",
+    "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7356149897387591089",
+    "quality": "HD"
+  },
+  {
+    "name": "Jogja Istimewa TV (720p)",
+    "logo": "https://i.imgur.com/VEqQfTu.png",
+    "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7886883971901847006",
+    "quality": "HD"
+  },
+  {
+    "name": "Jogja TV (720p) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+    "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-3692159114228827660",
+    "quality": "HD"
+  },
+  {
+    "name": "JTV (480p)",
+    "logo": "https://i.imgur.com/mIDWIQk.png",
+    "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7720649799361780340",
+    "quality": "SD"
+  },
+  {
+    "name": "JTV Kediri",
+    "logo": "https://i.imgur.com/mIDWIQk.png",
+    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8479834817722144828"
+  },
+  {
+    "name": "Kawanua TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",
+    "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-895658839199880418",
+    "quality": "HD"
+  },
+  {
+    "name": "Kids TV",
+    "logo": "https://i.imgur.com/B5YiUIP.png",
+    "url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
+    "group": "Kids",
+    "country": "ID",
+    "is_premium": false,
+    "id": "9165835578439343723"
+  },
+  {
+    "name": "Kilisuci TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
+    "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "6413073456904731711"
+  },
+  {
+    "name": "KTV (720p)",
+    "logo": "https://i.imgur.com/j3wtaDc.png",
+    "url": "https://flv.intechmedia.net/live/ch118.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8169249279684283029",
+    "quality": "HD"
+  },
+  {
+    "name": "Lingkar TV",
+    "logo": "https://lingkartv.com/assets/img/logo-square.png",
+    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+    "group": "News",
+    "country": "ID",
+    "is_premium": false,
+    "id": "2601716298314759513"
+  },
+  {
+    "name": "Madani TV (720p)",
+    "logo": "https://i.imgur.com/8aonQ0v.png",
+    "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "5983409498356943303",
+    "quality": "HD"
+  },
+  {
+    "name": "Madu TV (576p)",
+    "logo": "https://i.imgur.com/cKpgbgW.png",
+    "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7620398422827414579",
+    "quality": "SD"
+  },
+  {
+    "name": "Magna Channel (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/tfJo0SO.png",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "1691233439633896466",
+    "quality": "FHD"
+  },
+  {
+    "name": "MDTV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-6824495077397381570",
+    "quality": "FHD"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/aiiinzg.png",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "group": "International",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1770999431936743751",
+    "quality": "FHD"
+  },
+  {
+    "name": "Metro TV",
+    "logo": "https://i.imgur.com/QnU70NI.png",
+    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
+    "group": "News",
+    "country": "ID",
+    "is_premium": false,
+    "id": "5bda5244-fa33-5e5a-886f-30dc1667f2ae"
+  },
+  {
+    "name": "MGI TV (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/xrNtabe.png",
+    "url": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3471250883700348936",
+    "quality": "HD"
+  },
+  {
+    "name": "Mojitv",
+    "logo": "",
+    "url": "https://odmedia-mojitv-1-be.samsung.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8865725619118797335"
+  },
+  {
+    "name": "Mojitv",
+    "logo": "",
+    "url": "https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8993289155789787703"
+  },
+  {
+    "name": "MQTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/d8dQo6E.png",
+    "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "ID",
+    "is_premium": false,
+    "id": "820549871657877324",
+    "quality": "HD"
+  },
+  {
+    "name": "Music Information Channel (720p)",
+    "logo": "https://i.imgur.com/OUPGCWG.png",
+    "url": "https://mic.siar.us/mic/live/mic.m3u8",
+    "group": "Music",
+    "country": "ID",
+    "is_premium": false,
+    "id": "639297462642124032",
+    "quality": "HD"
+  },
+  {
+    "name": "My Cinema (1080p)",
+    "logo": "https://i.imgur.com/BTmcTQO.png",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
+    "group": "Movies",
+    "country": "ID",
+    "is_premium": false,
+    "id": "6600308486710999431",
+    "quality": "FHD"
+  },
+  {
+    "name": "My Cinema Asia (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/4XVZLW0.png",
+    "url": "http://210.210.155.37/uq2663/h/h193/index.m3u8",
+    "group": "Movies",
+    "country": "ID",
+    "is_premium": false,
+    "id": "9147750037901121170",
+    "quality": "FHD"
+  },
+  {
+    "name": "My Family",
+    "logo": "https://i.imgur.com/IaCmCt9.png",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
+    "group": "Family",
+    "country": "ID",
+    "is_premium": false,
+    "id": "6f2f35be-4a88-54c3-aab9-b4bd6998a32a"
+  },
+  {
+    "name": "My Family Channel (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/IaCmCt9.png",
+    "url": "http://210.210.155.37/uq2663/h/h194/index.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "5548464930606105781",
+    "quality": "FHD"
+  },
+  {
+    "name": "My Kidz (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/qzZFU6d.png",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd",
+    "group": "Kids",
+    "country": "ID",
+    "is_premium": false,
+    "id": "6538717955100117143",
+    "quality": "FHD"
+  },
+  {
+    "name": "Nusantara TV (1080p)",
+    "logo": "https://i.imgur.com/viun5hj.png",
+    "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4934880705091661298",
+    "quality": "FHD"
+  },
+  {
+    "name": "Padang TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EL2BfxY.png",
+    "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8982068868012790543",
+    "quality": "HD"
+  },
+  {
+    "name": "Palembang TV (720p)",
+    "logo": "https://i.imgur.com/e2F1zyU.png",
+    "url": "https://flv.intechmedia.net/live/ch18.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "4483197041347353706",
+    "quality": "HD"
+  },
+  {
+    "name": "PKTV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/mldv8Sf.png",
+    "url": "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7274693702455704366",
+    "quality": "SD"
+  },
+  {
+    "name": "PONTV (720p)",
+    "logo": "https://i.imgur.com/P5erWzm.png",
+    "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5254280462337090509",
+    "quality": "HD"
+  },
+  {
+    "name": "Radar Lampung TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
+    "url": "https://www.streaming.radartv.co.id/hls/test.m3u8",
+    "group": "Asya",
+    "country": "ID",
+    "is_premium": false,
+    "id": "9857617d-9751-58ed-b4ee-642de2b2547b"
+  },
+  {
+    "name": "Radar Tasikmalaya TV (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",
+    "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1515143862143067551",
+    "quality": "HD"
+  },
+  {
+    "name": "Radar TV Lampung (480p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
+    "url": "http://122.248.43.138:1935/ch17/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1221987621839013420",
+    "quality": "SD"
+  },
+  {
+    "name": "Radio Kita TV (1080p)",
+    "logo": "https://i.imgur.com/Dz3BzBe.png",
+    "url": "https://streaming.yufid.com/hls/radiokitatv.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "5741203891214050747",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rajawali TV",
+    "logo": "https://i.imgur.com/dlsv1sl.png",
+    "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3150822685736523037"
+  },
+  {
+    "name": "Rakyat Bengkulu TV (720p)",
+    "logo": "https://i.imgur.com/5L2q081.png",
+    "url": "https://flv.intechmedia.net/live/ch59.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7710563590337334784",
+    "quality": "HD"
+  },
+  {
+    "name": "RBTV Jogja (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png",
+    "url": "http://live.rbtvjogja.tv/hls/0/stream.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "4607714827597011731",
+    "quality": "FHD"
+  },
+  {
+    "name": "RCTI (1080p)",
+    "logo": "https://i.imgur.com/iLFx8ia.png",
+    "url": "https://mncmedia.malingtv.workers.dev/rcti.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-3218952455002901887",
+    "quality": "FHD"
+  },
+  {
+    "name": "RCTV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/CyIlt0y.png",
+    "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8562015260002432273",
+    "quality": "SD"
+  },
+  {
+    "name": "Riau TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1g8FtJi.png",
+    "url": "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-6481721021944025680",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rodja TV (720p)",
+    "logo": "https://i.imgur.com/XwCeHlC.png",
+    "url": "https://rodjatv.com/rodjatv/live.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5244044154629159797",
+    "quality": "HD"
+  },
+  {
+    "name": "Salam TV (1080p)",
+    "logo": "https://i.imgur.com/00Ifzgo.png",
+    "url": "https://live.salamtelevisi.com/hls/0/stream.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5853243279196399871",
+    "quality": "FHD"
+  },
+  {
+    "name": "Salira TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",
+    "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+    "group": "Culture",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5204172972742132224",
+    "quality": "HD"
+  },
+  {
+    "name": "Sampit TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8cFJa8G.png",
+    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-2064281689649455358",
+    "quality": "HD"
+  },
+  {
+    "name": "Sangaji TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4rTNT8F.png",
+    "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-2092347384597581804",
+    "quality": "HD"
+  },
+  {
+    "name": "Semarang TV (720p)",
+    "logo": "https://i.imgur.com/KFC2WSB.png",
+    "url": "http://116.254.112.74/hls/cakralive.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8104091024179204305",
+    "quality": "HD"
+  },
+  {
+    "name": "SMTV (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png",
+    "url": "https://e.siar.us/live/smtv.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8521044992423346317",
+    "quality": "HD"
+  },
+  {
+    "name": "Sriwijaya TV (576p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
+    "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7827089127894720583",
+    "quality": "SD"
+  },
+  {
+    "name": "Stara TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png",
+    "url": "https://stream.staratv.id/hls/0/stream.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8797620198769813769",
+    "quality": "HD"
+  },
+  {
+    "name": "Stara TV Bandung (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png",
+    "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "1155515980125379225",
+    "quality": "FHD"
+  },
+  {
+    "name": "Stara TV Cianjur (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png",
+    "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "1940281263799379193",
+    "quality": "HD"
+  },
+  {
+    "name": "Stara TV Malang (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png",
+    "url": "https://malang.staratv.id/hls/0/stream.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "1010072200403112404",
+    "quality": "FHD"
+  },
+  {
+    "name": "STV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EIrXgT8.png",
+    "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5912483231888706227",
+    "quality": "HD"
+  },
+  {
+    "name": "Sultra TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/cmpbNJz.png",
+    "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4442159523623278181",
+    "quality": "HD"
+  },
+  {
+    "name": "Surau TV (720p)",
+    "logo": "https://i.imgur.com/CKoxcWL.png",
+    "url": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "4605854132796404468",
+    "quality": "HD"
+  },
+  {
+    "name": "TATV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1f0EC7t.png",
+    "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3754201687143710562",
+    "quality": "HD"
+  },
+  {
+    "name": "Tawaf TV (720p)",
+    "logo": "https://i.postimg.cc/VvVgb6dN/logo-tawaf.png",
+    "url": "https://tvstreamcast.com/tawaftv.m3u8",
+    "group": "Religious",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3351080825406268372",
+    "quality": "HD"
+  },
+  {
+    "name": "Timor TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
+    "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4025137531031215321",
+    "quality": "FHD"
+  },
+  {
+    "name": "Trans TV (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5732974053112396561",
+    "quality": "HD"
+  },
+  {
+    "name": "Trans7 (720p)",
+    "logo": "https://i.imgur.com/fAbGImS.png",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3792643730132232267",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Mu (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
+    "url": "https://e.siar.us/live/tvmu.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4103561359667349137",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Tabalong (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/2YhDH98.png",
+    "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "2522017922824214829",
+    "quality": "HD"
+  },
+  {
+    "name": "TV9 Nusantara (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
+    "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7834908959155803508",
+    "quality": "HD"
+  },
+  {
+    "name": "TVR Parlemen (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/2XYpmHL.png",
+    "url": "https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8",
+    "group": "Legislative",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1890120901627076600",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Aceh (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4236952755204751139",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Bali (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "4583074697134833262",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Bangka Belitung (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7678404172181571332",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Bengkulu (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "917689127507843390",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI DKI Jakarta (720p) [Not 24/7]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8135449784096387332",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Gorontalo (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "8875393804303697735",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Jambi (720p) [Not 24/7]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-6761847859140194342",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Jawa Barat (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3046007364436711390",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Jawa Tengah (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "1475170301118253909",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Jawa Timur (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1278039894499181369",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Kalimantan Barat (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "1436485620279316779",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Kalimantan Selatan (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3229943105139855818",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Kalimantan Tengah (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "9020203140513936787",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Kalimantan Timur (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-2490285131060582339",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Lampung (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7461104589041839238",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Maluku (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-6163280535831946074",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Nasional (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+    "group": "General",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-772153817904717737",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI North Sulawesi (1080p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "2238876111392126691",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVRI North Sumatra (1080p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-8271483568497112444",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVRI Nusa Tenggara Barat (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1828190089104980069",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Nusa Tenggara Timur (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-7503049927292895106",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Papua (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7385893848953343001",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Riau (720p) [Not 24/7]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "2936132551766499815",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Sulawesi Barat (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20SULSEL%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1567207988112889514",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Sulawesi Selatan (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20SULSEL%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-3157947217101739968",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Sulawesi Tengah (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20SULSEL%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1148806378165161582",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Sulawesi Tenggara (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20SULSEL%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-5858488541296933547",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI Sumatera Barat (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "9058628566790578585",
+    "quality": "HD"
+  },
+  {
+    "name": "TVRI Sumatera Selatan (480p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "3275381791220532137",
+    "quality": "SD"
+  },
+  {
+    "name": "TVRI West Papua (1080p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "7175575600128214865",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVRI World",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-world-id.png",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "5672156939651351824"
+  },
+  {
+    "name": "TVRI Yogyakarta (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI%20Jambi%202023.svg",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4188064697436297919",
+    "quality": "HD"
+  },
+  {
+    "name": "U Channel (720p)",
+    "logo": "https://i.imgur.com/qxkb0cy.png",
+    "url": "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-1700465362716779653",
+    "quality": "HD"
+  },
+  {
+    "name": "UGTV (720p)",
+    "logo": "https://i.imgur.com/iEKDH26.png",
+    "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+    "group": "Indonesia",
+    "country": "ID",
+    "is_premium": false,
+    "id": "-4470607107951148890",
+    "quality": "HD"
+  }
+]

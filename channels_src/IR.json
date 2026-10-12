@@ -1,0 +1,1074 @@
+[
+  {
+    "name": "247 Box TV",
+    "logo": "https://i.imgur.com/t5AUthL.png",
+    "url": "https://hls.247box.live/hls/stream.m3u8",
+    "group": "Entertainment",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-7179669961341338484"
+  },
+  {
+    "name": "Abadan",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png",
+    "url": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "5682272760819342886"
+  },
+  {
+    "name": "Aflak",
+    "logo": "https://i.imgur.com/LkLCHpf.png",
+    "url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6806280559654891197"
+  },
+  {
+    "name": "AFN TV",
+    "logo": "https://i.imgur.com/LctanF8.png",
+    "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+    "group": "Music",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6805972092192636416"
+  },
+  {
+    "name": "Afra Film",
+    "logo": "https://i.postimg.cc/vZWdM86g/afra-film.jpg",
+    "url": "https://afrafhls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "2407749328374974826"
+  },
+  {
+    "name": "Aftab",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png",
+    "url": "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6919222014819008832"
+  },
+  {
+    "name": "Al Alam (360p)",
+    "logo": "https://i.imgur.com/Zdi31dy.png",
+    "url": "https://live2.alalam.ir/alalam.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "714462888905857670",
+    "quality": "SD"
+  },
+  {
+    "name": "Al Wilayah",
+    "logo": "https://i.imgur.com/OI1HQv5.png",
+    "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "401525524046015306"
+  },
+  {
+    "name": "Alalam News Channel Syria (1080p)",
+    "logo": "https://i.imgur.com/WQKYPKD.png",
+    "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6956745688442146157",
+    "quality": "FHD"
+  },
+  {
+    "name": "Alborz",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png",
+    "url": "https://ncdn.telewebion.ir/alborz/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6235549414520115632"
+  },
+  {
+    "name": "Amouzesh",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png",
+    "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6401152529551960975"
+  },
+  {
+    "name": "Ara",
+    "logo": "https://i.ibb.co/dwSHt2SG/Ara.png",
+    "url": "https://ncdn.telewebion.ir/ara/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "716984715616424169"
+  },
+  {
+    "name": "Arax TV",
+    "logo": "https://i.postimg.cc/0QqcjgXX/araxtv.png",
+    "url": "https://araxhls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "239366615310552292"
+  },
+  {
+    "name": "Arko TV",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/arko-tv.png",
+    "url": "https://arkhls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6648997159787021278"
+  },
+  {
+    "name": "Arvan TV",
+    "logo": "https://i.postimg.cc/9z3M5pQ9/arvan.png",
+    "url": "https://arvhls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-475368724225582773"
+  },
+  {
+    "name": "Asil TV",
+    "logo": "https://i.imgur.com/gROQqFD.png",
+    "url": "https://live.asil.tv/asiltv/index.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "1820866682244793929"
+  },
+  {
+    "name": "Assirat TV (576p)",
+    "logo": "https://i.imgur.com/ps4Gtj0.png",
+    "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "5921282600841438994",
+    "quality": "SD"
+  },
+  {
+    "name": "Atrak",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png",
+    "url": "https://ncdn.telewebion.ir/atrak/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1897596578141545863"
+  },
+  {
+    "name": "Atrina TV",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/%D0%9A-560_%C2%AB%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%C2%BB.jpg/500px-%D0%9A-560_%C2%AB%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%C2%BB.jpg",
+    "url": "https://atrihls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "3901031043336912857"
+  },
+  {
+    "name": "AVA Family",
+    "logo": "https://i.postimg.cc/mZNchF5b/avafamily.png",
+    "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+    "group": "Family",
+    "country": "IR",
+    "is_premium": false,
+    "id": "5229734907146000221"
+  },
+  {
+    "name": "AVA Series",
+    "logo": "https://i.imgur.com/8AfAfZE.png",
+    "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+    "group": "Series",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-202186274207937939"
+  },
+  {
+    "name": "Ayeneh TV",
+    "logo": "https://i.imgur.com/F0AevIQ.png",
+    "url": "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8",
+    "group": "Education",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-20176873716756926"
+  },
+  {
+    "name": "Azerbaijan Gharbi",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",
+    "url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "1411156052050306445"
+  },
+  {
+    "name": "Baran",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png",
+    "url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5553750620600845586"
+  },
+  {
+    "name": "Bravo Farsi TV (360p)",
+    "logo": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+    "url": "https://bravoohls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1459095419695088411",
+    "quality": "SD"
+  },
+  {
+    "name": "Bushehr",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bushehr_City.jpg/330px-Bushehr_City.jpg",
+    "url": "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6862491843078398788"
+  },
+  {
+    "name": "Cafe Film",
+    "logo": "https://i.postimg.cc/bJV7Ls4M/cafe-film.jpg",
+    "url": "https://cafefhls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-928994952455914389"
+  },
+  {
+    "name": "Cafe Trade TV",
+    "logo": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
+    "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+    "group": "Business",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-7212047525466138748"
+  },
+  {
+    "name": "Classic TV",
+    "logo": "https://i.imgur.com/eBOzTMO.jpeg",
+    "url": "https://clshls.wns.live/hls/stream.m3u8",
+    "group": "Classic",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-4887062584015957288"
+  },
+  {
+    "name": "Datis TV",
+    "logo": "https://i.postimg.cc/GtXQX4L6/datistv.png",
+    "url": "https://dathls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "5919476058081192638"
+  },
+  {
+    "name": "Dena",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png",
+    "url": "https://ncdn.telewebion.ir/dena/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "3486264678487180775"
+  },
+  {
+    "name": "Ekran Movies",
+    "logo": "https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png",
+    "url": "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5412618857373420274"
+  },
+  {
+    "name": "Energy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png",
+    "url": "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5585287204551131640"
+  },
+  {
+    "name": "EPlanet TV",
+    "logo": "https://i.postimg.cc/1RBJmjGM/EPlanet-TV.png",
+    "url": "https://eplhls.wns.live/hls/stream.m3u8",
+    "group": "Documentary",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8498808655298820393"
+  },
+  {
+    "name": "Eshragh",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU",
+    "url": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8988193667010734834"
+  },
+  {
+    "name": "Fars",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png",
+    "url": "https://ncdn.telewebion.ir/fars/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6043427421097915324"
+  },
+  {
+    "name": "FX TV 1",
+    "logo": "https://www.lyngsat.com/logo/tv/ff/fx-1.png",
+    "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5049944336208118387"
+  },
+  {
+    "name": "FX TV 2",
+    "logo": "https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",
+    "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-2702665264785805737"
+  },
+  {
+    "name": "GEM Drama Plus",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_7.png",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "268672633915746002"
+  },
+  {
+    "name": "GEM Mifa Plus",
+    "logo": "https://i.imgur.com/8FIAqR5.png",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-3703302102009372044"
+  },
+  {
+    "name": "GEM River Plus",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_29.png",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemriverplus/index-0.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6051964270059752803"
+  },
+  {
+    "name": "GEM Rubix Plus",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_31.png",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8075730037146228729"
+  },
+  {
+    "name": "GEM Series Plus",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_33.png",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-2527071376950034942"
+  },
+  {
+    "name": "Gold Star",
+    "logo": "https://i.postimg.cc/KvsfL3sM/goldstar.jpg",
+    "url": "https://moviethls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6724156143477869110"
+  },
+  {
+    "name": "Golkhane TV",
+    "logo": "",
+    "url": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8605574413626193158"
+  },
+  {
+    "name": "Habib TV",
+    "logo": "https://i.ibb.co/spZRy7mg/habib.png",
+    "url": "https://ncdn.telewebion.ir/habib/live/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-7742294795255053947"
+  },
+  {
+    "name": "Hamedan",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png",
+    "url": "https://ncdn.telewebion.ir/sina/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "926650558874487171"
+  },
+  {
+    "name": "Hamoon",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png",
+    "url": "https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1252717376992256098"
+  },
+  {
+    "name": "Hispan TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg",
+    "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "group": "International",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-7006630255917365215"
+  },
+  {
+    "name": "Home Plus",
+    "logo": "https://i.imgur.com/3cjaXIF.png",
+    "url": "https://homeplushls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-9080980455471702966"
+  },
+  {
+    "name": "iFilm 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
+    "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8698112881805388272"
+  },
+  {
+    "name": "iFilm Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-4588521008938628345"
+  },
+  {
+    "name": "iFilm English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6920653959235033466"
+  },
+  {
+    "name": "iFilm Persian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "3284335996620247001"
+  },
+  {
+    "name": "Ilam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png",
+    "url": "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "2020751123554206131"
+  },
+  {
+    "name": "Iran Jewish TV",
+    "logo": "https://i.ibb.co/JWXs7csN/en.png",
+    "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "1815514110288524922"
+  },
+  {
+    "name": "Iran Press",
+    "logo": "https://i.postimg.cc/T2KLGqyF/iranpress.png",
+    "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6258282370087477328"
+  },
+  {
+    "name": "IRIB UHD (2160p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png",
+    "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+    "group": "General",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-2462301109751223162",
+    "quality": "4K"
+  },
+  {
+    "name": "IRIB1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png",
+    "url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
+    "group": "General",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-4401523824890330772"
+  },
+  {
+    "name": "IRIB2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png",
+    "url": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
+    "group": "General",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-4304458520690469427"
+  },
+  {
+    "name": "IRIB3 (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/330px-IRIB_TV3_LOGO.svg.png",
+    "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+    "group": "Sports",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6648695800619362952",
+    "quality": "FHD"
+  },
+  {
+    "name": "IRIB4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png",
+    "url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
+    "group": "Culture",
+    "country": "IR",
+    "is_premium": false,
+    "id": "2419524735713212041"
+  },
+  {
+    "name": "IRINN",
+    "logo": "https://i.imgur.com/8tzsC9h.png",
+    "url": "http://185.9.2.18/chid_926/index.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8145459118078099498"
+  },
+  {
+    "name": "Isfahan",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png",
+    "url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5843840825365602443"
+  },
+  {
+    "name": "ITV Life (2160p)",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "url": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8",
+    "group": "Entertainment",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6455412177283957113"
+  },
+  {
+    "name": "ITV Persian Music (1080p)",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "url": "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8",
+    "group": "Music",
+    "country": "IR",
+    "is_premium": false,
+    "id": "2563290662869338374",
+    "quality": "FHD"
+  },
+  {
+    "name": "Jahanbin",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png",
+    "url": "https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-4325288854131659382"
+  },
+  {
+    "name": "Kerman",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png",
+    "url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6392690421773019128"
+  },
+  {
+    "name": "Khalij-e Fars",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png",
+    "url": "https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6342973285316448882"
+  },
+  {
+    "name": "Khavaran",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png",
+    "url": "https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-293514529288312011"
+  },
+  {
+    "name": "Khorasan Razavi",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png",
+    "url": "https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-326847359459065739"
+  },
+  {
+    "name": "Kish",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png",
+    "url": "https://ncdn.telewebion.ir/kish/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8804827497175485150"
+  },
+  {
+    "name": "Kordestan",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png",
+    "url": "https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-2309115573209058265"
+  },
+  {
+    "name": "Labbayk TV",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Labbaik_Ya_Aqsa_Million_March.png/500px-Labbaik_Ya_Aqsa_Million_March.png",
+    "url": "https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6925758552558229765"
+  },
+  {
+    "name": "Mahabad",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png",
+    "url": "https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-4921822198168412529"
+  },
+  {
+    "name": "Manoto TV",
+    "logo": "https://i.imgur.com/8wE1Lbp.png",
+    "url": "https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1739023658722303997"
+  },
+  {
+    "name": "Meta Film TV",
+    "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+    "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5933679105600914902"
+  },
+  {
+    "name": "Mihan TV",
+    "logo": "https://i.imgur.com/XEMsM7w.png",
+    "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8200181081754461958"
+  },
+  {
+    "name": "Mohabat TV (540p)",
+    "logo": "https://i.imgur.com/Ig0SPev.png",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8575903251932628347"
+  },
+  {
+    "name": "Mostanad",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",
+    "url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6073704787097998363"
+  },
+  {
+    "name": "Namayesh",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png",
+    "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1443536525456511096"
+  },
+  {
+    "name": "Nasim",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png",
+    "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-7836828360436579915"
+  },
+  {
+    "name": "Newflix",
+    "logo": "",
+    "url": "https://newfhls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "1352861873003667127"
+  },
+  {
+    "name": "Noor",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/960px-Qum_Noor_TV.svg.png",
+    "url": "https://ncdn.telewebion.ir/noor/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "7026433870009776818"
+  },
+  {
+    "name": "Ofogh",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png",
+    "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "3471243813910873548"
+  },
+  {
+    "name": "Omid",
+    "logo": "https://i.imgur.com/CeMf68L.png",
+    "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "188337975929638392"
+  },
+  {
+    "name": "OXIR TV",
+    "logo": "https://i.imgur.com/MGMhUDx.png",
+    "url": "https://hls.oxir.live/hls/stream.m3u8",
+    "group": "Entertainment",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8398216372786757258"
+  },
+  {
+    "name": "Palestine",
+    "logo": "https://i.ibb.co/svrZNZTX/Palestine.png",
+    "url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5057416626513409116"
+  },
+  {
+    "name": "Payvand TV [Not 24/7]",
+    "logo": "https://i.imgur.com/o2Ww77N.png",
+    "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1424315413919864054"
+  },
+  {
+    "name": "Pooya & Nahal",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+    "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8463544748171234636"
+  },
+  {
+    "name": "Pooya TV Plus",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
+    "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
+    "group": "Kids",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5507868567895993848"
+  },
+  {
+    "name": "Press TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
+    "url": "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "5080330528494913709",
+    "quality": "HD"
+  },
+  {
+    "name": "Press TV French (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
+    "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
+    "group": "News",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-6591607515847688765",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qazvin",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png",
+    "url": "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "1004085180594885379"
+  },
+  {
+    "name": "Quran",
+    "logo": "https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg",
+    "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-3822494802316085697"
+  },
+  {
+    "name": "RasoulallahTv (1080p)",
+    "logo": "https://i.imgur.com/Jh5ADee.png",
+    "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-5607956668881164100",
+    "quality": "FHD"
+  },
+  {
+    "name": "Razavi TV",
+    "logo": "",
+    "url": "https://ncdn.telewebion.ir/razavi/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6977171891495310367"
+  },
+  {
+    "name": "Roya TV",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Roya%20Tv%20Logo.svg",
+    "url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "7177328287753301611"
+  },
+  {
+    "name": "Sabalan",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png",
+    "url": "https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-2320348346431322349"
+  },
+  {
+    "name": "Sabz",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/960px-Logo_Golestan.png",
+    "url": "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "4803863652066995533"
+  },
+  {
+    "name": "Sahand",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png",
+    "url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "7498882509198992989"
+  },
+  {
+    "name": "Salamat",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png",
+    "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-2640896924526139496"
+  },
+  {
+    "name": "Sarbedaran",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Post-Ilkhanid_territories_%281345%29.png/330px-Post-Ilkhanid_territories_%281345%29.png",
+    "url": "https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "7318855909253287796"
+  },
+  {
+    "name": "Semnan",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png",
+    "url": "https://ncdn.telewebion.ir/semnan/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8570471771864963950"
+  },
+  {
+    "name": "Sepehr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png",
+    "url": "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "4535209495770287180"
+  },
+  {
+    "name": "SL 1",
+    "logo": "https://i.imgur.com/n9cuM2W.jpg",
+    "url": "https://slonehls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-3261238560017699759"
+  },
+  {
+    "name": "SL 2",
+    "logo": "https://i.imgur.com/BVuUx5R.jpg",
+    "url": "https://sltwohls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "5841367059593878309"
+  },
+  {
+    "name": "T2 Movies",
+    "logo": "",
+    "url": "https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "209148967138314043"
+  },
+  {
+    "name": "T2 TV",
+    "logo": "https://i.imgur.com/Wu8MBb7.png",
+    "url": "https://t2hls.wns.live/hls/stream.m3u8",
+    "group": "Music",
+    "country": "IR",
+    "is_premium": false,
+    "id": "4732510480478084893"
+  },
+  {
+    "name": "Tamasha",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png",
+    "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
+    "group": "Movies",
+    "country": "IR",
+    "is_premium": false,
+    "id": "8319953150092913455"
+  },
+  {
+    "name": "TBN Nejat TV",
+    "logo": "https://i.imgur.com/e4WffQA.png",
+    "url": "https://hls.nejat.live/hls/stream.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-8706049904617315724"
+  },
+  {
+    "name": "TVA Nava",
+    "logo": "https://i.imgur.com/JRxrsrw.png",
+    "url": "https://ncdn.telewebion.ir/nava/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6992242971388559384"
+  },
+  {
+    "name": "Varzesh TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png",
+    "url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
+    "group": "Sports",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6544854487025941921"
+  },
+  {
+    "name": "Velayat TV",
+    "logo": "https://i.imgur.com/bRQSzhs.png",
+    "url": "https://ncdn.telewebion.ir/velayat/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1727094324942034573"
+  },
+  {
+    "name": "WiseHumanTv",
+    "logo": "https://i.imgur.com/BT7EtfB.png",
+    "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
+    "group": "Religious",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-985610882038867346"
+  },
+  {
+    "name": "Yazd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png",
+    "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
+    "group": "Iran",
+    "country": "IR",
+    "is_premium": false,
+    "id": "-1108763658322955476"
+  },
+  {
+    "name": "YourTime TV",
+    "logo": "https://i.imgur.com/X38vWJ1.png",
+    "url": "https://hls.yourtime.live/hls/stream.m3u8",
+    "group": "Entertainment",
+    "country": "IR",
+    "is_premium": false,
+    "id": "4078931281107348590"
+  },
+  {
+    "name": "Zed TV",
+    "logo": "https://i.imgur.com/EYU0kfP.png",
+    "url": "https://zedhls.wns.live/hls/stream.m3u8",
+    "group": "General",
+    "country": "IR",
+    "is_premium": false,
+    "id": "6842872196035180144"
+  }
+]

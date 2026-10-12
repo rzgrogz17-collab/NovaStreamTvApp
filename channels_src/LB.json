@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Aghani Aghani TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/o6HSfNg.png",
+    "url": "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8",
+    "group": "Music",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-9160483792717415271",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Iraqia (720p)",
+    "logo": "https://i.imgur.com/8qQouTW.jpg",
+    "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
+    "group": "General",
+    "country": "LB",
+    "is_premium": false,
+    "id": "7152302293773287986",
+    "quality": "HD"
+  },
+  {
+    "name": "Al Iraqia News (720p)",
+    "logo": "https://i.imgur.com/feQTXeZ.jpg",
+    "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "3344490007818892165",
+    "quality": "HD"
+  },
+  {
+    "name": "Al Ittihad (552p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QMUjPXx.png",
+    "url": "http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8",
+    "group": "Lebanon",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-6394578950039874660"
+  },
+  {
+    "name": "Al Jadeed (1080p)",
+    "logo": "https://i.imgur.com/CfxR8o3.png",
+    "url": "http://185.9.2.18/chid_391/mono.m3u8",
+    "group": "General",
+    "country": "LB",
+    "is_premium": false,
+    "id": "3687658657292338489",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Manar (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/sOQLV7L.png",
+    "url": "https://edge.fastpublish.me/live/index.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-6998636091250788735",
+    "quality": "SD"
+  },
+  {
+    "name": "Al Mayadeen (576p)",
+    "logo": "https://i.imgur.com/GtQOKeW.png",
+    "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+    "group": "Lebanon",
+    "country": "LB",
+    "is_premium": false,
+    "id": "6256026311153791360",
+    "quality": "SD"
+  },
+  {
+    "name": "ALWifak News TV (720p)",
+    "logo": "https://i.imgur.com/1vqhmNz.png",
+    "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "2420629739154865021",
+    "quality": "HD"
+  },
+  {
+    "name": "Arabica TV (720p)",
+    "logo": "https://i.imgur.com/sTOoDy1.png",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "group": "Music",
+    "country": "LB",
+    "is_premium": false,
+    "id": "7704578871303231933",
+    "quality": "HD"
+  },
+  {
+    "name": "Charity TV",
+    "logo": "https://i.imgur.com/U9z8WBY.png",
+    "url": "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "LB",
+    "is_premium": false,
+    "id": "8012157030164874521"
+  },
+  {
+    "name": "Future TV (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/future-tv-lb.png",
+    "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8",
+    "group": "Lebanon",
+    "country": "LB",
+    "is_premium": false,
+    "id": "4771537103335322820",
+    "quality": "FHD"
+  },
+  {
+    "name": "LTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/KBYUOcP.png",
+    "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8",
+    "group": "General",
+    "country": "LB",
+    "is_premium": false,
+    "id": "302937798021625213",
+    "quality": "HD"
+  },
+  {
+    "name": "Nabaa TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/p8eRgSs.png",
+    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "5794961646664553857",
+    "quality": "HD"
+  },
+  {
+    "name": "NBN (1080p)",
+    "logo": "https://i.imgur.com/EefFcIk.png",
+    "url": "http://5.9.119.146:8883/nbn/index.m3u8",
+    "group": "Lebanon",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-31433821366297666",
+    "quality": "FHD"
+  },
+  {
+    "name": "Nour Al Koddas (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dF4Mvts.png",
+    "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
+    "group": "Lebanon",
+    "country": "LB",
+    "is_premium": false,
+    "id": "9199444712866486428"
+  },
+  {
+    "name": "Nour Al Sharq (576p)",
+    "logo": "https://i.imgur.com/EEy2dUr.png",
+    "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
+    "group": "Religious",
+    "country": "LB",
+    "is_premium": false,
+    "id": "1844168907421169736",
+    "quality": "SD"
+  },
+  {
+    "name": "NourSAT (576p)",
+    "logo": "https://i.imgur.com/6Zs5rx4.png",
+    "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+    "group": "Religious",
+    "country": "LB",
+    "is_premium": false,
+    "id": "4235358125825430345",
+    "quality": "SD"
+  },
+  {
+    "name": "Noursat English (576p)",
+    "logo": "https://i.imgur.com/RC5Kw82.png",
+    "url": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-3257589250073839670",
+    "quality": "SD"
+  },
+  {
+    "name": "OneFM (720p) [Not 24/7]",
+    "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+    "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
+    "group": "Music",
+    "country": "LB",
+    "is_premium": false,
+    "id": "2700141108446528649",
+    "quality": "HD"
+  },
+  {
+    "name": "OTV (1080p)",
+    "logo": "https://i.imgur.com/toxFMeY.png",
+    "url": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8",
+    "group": "Culture",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-542286854062439860",
+    "quality": "FHD"
+  },
+  {
+    "name": "Palestine Al Yawm (720p)",
+    "logo": "https://i.imgur.com/n8dSgx4.png",
+    "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "1956516945016895044",
+    "quality": "HD"
+  },
+  {
+    "name": "Red TV Lebanon (1080p)",
+    "logo": "https://i.imgur.com/bWwY885.png",
+    "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "6849109051242166917",
+    "quality": "FHD"
+  },
+  {
+    "name": "Senses TV (1080p)",
+    "logo": "https://i.imgur.com/hnTx8eK.png",
+    "url": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
+    "group": "Lebanon",
+    "country": "LB",
+    "is_premium": false,
+    "id": "4325159269483919871",
+    "quality": "FHD"
+  },
+  {
+    "name": "Taha TV",
+    "logo": "https://i.imgur.com/hdsrxvX.png",
+    "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8",
+    "group": "Kids",
+    "country": "LB",
+    "is_premium": false,
+    "id": "5647684149558961862"
+  },
+  {
+    "name": "Tele Liban (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5VPYxJi.png",
+    "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
+    "group": "General",
+    "country": "LB",
+    "is_premium": false,
+    "id": "4791677136481710258",
+    "quality": "HD"
+  },
+  {
+    "name": "UNews",
+    "logo": "https://www.lyngsat.com/logo/tv/uu/unews-lb.png",
+    "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "451543267661312510"
+  },
+  {
+    "name": "Voice of Lebanon (1080p)",
+    "logo": "https://i.imgur.com/f8WcqRY.png",
+    "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
+    "group": "News",
+    "country": "LB",
+    "is_premium": false,
+    "id": "-5965106389357801092",
+    "quality": "FHD"
+  }
+]

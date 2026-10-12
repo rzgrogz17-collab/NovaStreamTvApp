@@ -1,0 +1,2975 @@
+[
+  {
+    "name": "BBC Drama Italy (1080p)",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-643551360092594531",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Impossible",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1297895584705393882"
+  },
+  {
+    "name": "BBC One South (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3755281865966778813",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC One South East (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2371964955200657300",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC One South West (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7958532693968507099",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC One Wales (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-wales-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3967211473941450780",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC One West (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1426144025068635023",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC One West Midlands (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6290724590037436787",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Top Gear",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "676998007210625138"
+  },
+  {
+    "name": "BBC Top Gear (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7098046924133844433",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Top Gear Finland (1080p)",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8371965255306462343",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Top Gear Italy (1080p)",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1089620680407551606",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Two Wales (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-wales-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7771927842724945626",
+    "quality": "FHD"
+  },
+  {
+    "name": "Chukker",
+    "logo": "",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8946578793578685233"
+  },
+  {
+    "name": "Gaki no Tsukai (English Subs) (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/01/Downtown_Talk.jpg/330px-Downtown_Talk.jpg",
+    "url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6464839897640817387",
+    "quality": "HD"
+  },
+  {
+    "name": "Jewelery Maker (1080p)",
+    "logo": "https://i.imgur.com/O7SdkBh.png",
+    "url": "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1570332189262068978",
+    "quality": "FHD"
+  },
+  {
+    "name": "Pluto TV Antiques Roadshow UK (240p)",
+    "logo": "https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4294843996346415904"
+  },
+  {
+    "name": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+    "logo": "https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4314981943993619961",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Reality UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8407080684605561230",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Romance Movies UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6663712689233413097",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Sci-Fi UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2982960498375403096",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Thrillers UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1241137224552925185",
+    "quality": "FHD"
+  },
+  {
+    "name": "21 Jump Street (1080p)",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
+    "url": "https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8",
+    "group": "Series",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2368306303457417622",
+    "quality": "FHD"
+  },
+  {
+    "name": "8 Out of 10 Cats (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/8_out_of_10_acts.png/250px-8_out_of_10_acts.png",
+    "url": "https://amg00627-amg00627c37-samsung-au-4294.playouts.now.amagi.tv/playlist/amg00627-banijayfast-8outof10cats-samsungau/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4898820768299290919",
+    "quality": "FHD"
+  },
+  {
+    "name": "8 Out of 10 Cats (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/8_out_of_10_acts.png/250px-8_out_of_10_acts.png",
+    "url": "https://amg00627-amg00627c37-samsung-nz-4295.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4899735959035367011",
+    "quality": "FHD"
+  },
+  {
+    "name": "Aathavan TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/LEVEhTH.png",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8161881795505563895",
+    "quality": "HD"
+  },
+  {
+    "name": "Adjugé vendu !",
+    "logo": "https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6235564717898324213"
+  },
+  {
+    "name": "Afghanistan International (720p)",
+    "logo": "https://i.imgur.com/r8MmFRX.png",
+    "url": "https://hls.afintl.com/hls/stream.m3u8",
+    "group": "News",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6186017988979185632",
+    "quality": "HD"
+  },
+  {
+    "name": "Afrobeats (1080p)",
+    "logo": "https://i.imgur.com/232ndRK.png",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3567504873542915501",
+    "quality": "FHD"
+  },
+  {
+    "name": "Aftershock",
+    "logo": "https://images.pluto.tv/channels/63e36b374e83e70008987c58/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-63e36b374e83e70008987c58.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6519669225717392300"
+  },
+  {
+    "name": "Ahlulbayt TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lNGJGjy.png",
+    "url": "https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5730023259363896991",
+    "quality": "FHD"
+  },
+  {
+    "name": "Akaal Channel (396p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/K81vNbk.png",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1557799319818544786"
+  },
+  {
+    "name": "AlbUK TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TMg4Kxi.png",
+    "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2108958878605610370",
+    "quality": "FHD"
+  },
+  {
+    "name": "Alerte Cobra",
+    "logo": "https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5508058220125200738"
+  },
+  {
+    "name": "Alhiwar TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/UjOxwdd.png",
+    "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+    "group": "Education",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1637366438289863395",
+    "quality": "FHD"
+  },
+  {
+    "name": "American Pickers",
+    "logo": "https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6408ae8f9b39550008caf94f.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-9157038799294902542"
+  },
+  {
+    "name": "Arthur",
+    "logo": "https://images.pluto.tv/channels/6482f27c17f5e10008c10ff0/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6482f27c17f5e10008c10ff0.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3564570991310921583"
+  },
+  {
+    "name": "Auto Motor Sport",
+    "logo": "https://i.imgur.com/0YJYgR7.png",
+    "url": "https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8",
+    "group": "Norway",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-515812784022310911"
+  },
+  {
+    "name": "Ax Men (720p)",
+    "logo": "https://images.pluto.tv/channels/6540fe4bbdf3cf0008aa2cdd/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6540fe4bbdf3cf0008aa2cdd.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3013634555318344040",
+    "quality": "HD"
+  },
+  {
+    "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6075203343232535668",
+    "quality": "FHD"
+  },
+  {
+    "name": "Banijay Mr Bean Animé",
+    "logo": "",
+    "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-201787326155453855"
+  },
+  {
+    "name": "BBC Alba (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/36KDxLg.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3630107841732528012",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Arabic (720p)",
+    "logo": "https://i.imgur.com/ScyTG6P.png",
+    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+    "group": "International",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5756401336466021755",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC Drama (720p)",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Series",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3153179547665821869",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC Earth (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "url": "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Documentary",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7334325697270327471",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Four (540p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
+    "group": "Documentary",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3877508093529597768"
+  },
+  {
+    "name": "BBC Four UK HD",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",
+    "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4695374630966965191",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC News (1080p) [Geo-blocked]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "group": "International",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4675946558726945432",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC News Europe",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+    "group": "International",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2415748795067664063"
+  },
+  {
+    "name": "BBC News Pashto (720p)",
+    "logo": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png",
+    "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2390393834559929957",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC One (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7845746432067384248",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC One East (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "811167380229510738",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC One East Midlands (720p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3785975988718491228",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC One East Yorkshire (540p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4163269886295295174"
+  },
+  {
+    "name": "BBC One North East (720p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8576143423747658430",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC One North West (720p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1874835718892674900",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC One Northern Ireland HD (720p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-northern-ireland-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1500250627518193697",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC One Scotland (540p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-scotland-uk.png",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2562816812986545911"
+  },
+  {
+    "name": "BBC Parliament (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd",
+    "group": "Legislative",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1537873424040437924",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Persian (720p)",
+    "logo": "https://i.imgur.com/4uTMnPb.png",
+    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+    "group": "News",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4813006761433148693",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC RB 1 (1080p) [Geo-blocked]",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png",
+    "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7640484526546139186",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 10 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4910254420319275602",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 11 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3555219482754755284",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 12 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2696435404527446409",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 13 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3530147857492316731",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 14 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3942584860665250675",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 15 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "488581138956581639",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 16 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1459816822301185469",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 17 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3136281385586231313",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 18 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3676225339280605030",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 19 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2892168276096423520",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-219953757506691956",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 20 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6788768553035143937",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 21 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8157666584232479648",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 22 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "774804905073516553",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 23 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4495858595896297613",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 24 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5900501815367331262",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 3 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6827995545468975054",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 4 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4592387261044692821",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 5 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5226490037753916653",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 6 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5669009261097366002",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 7 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7434913178372090178",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 8 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "132070625905903104",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Red Button 9 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/g2Aga13.png",
+    "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2581808599308068944",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Scotland (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2958557755247681350",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBC Three",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4659952519409164129"
+  },
+  {
+    "name": "BBC Two",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",
+    "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-973429437092902077"
+  },
+  {
+    "name": "BBC Two Northern Ireland (540p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-northern-ireland-uk.png",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8278392695837293281"
+  },
+  {
+    "name": "BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
+    "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7439299772732187724",
+    "quality": "4K"
+  },
+  {
+    "name": "BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
+    "url": "https://xemzi.short.gy/1000002",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4932222992183127671",
+    "quality": "4K"
+  },
+  {
+    "name": "BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
+    "url": "http://45.14.84.37/bbc3/index.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-375966667106981701",
+    "quality": "4K"
+  },
+  {
+    "name": "BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
+    "url": "http://45.14.84.37/bbc4/index.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8442207511114925254",
+    "quality": "4K"
+  },
+  {
+    "name": "BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
+    "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7020904588245430409",
+    "quality": "4K"
+  },
+  {
+    "name": "Beyond History",
+    "logo": "https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2716477615424539217"
+  },
+  {
+    "name": "Blaze (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/6UcPWP9.png",
+    "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5093528088793528675",
+    "quality": "SD"
+  },
+  {
+    "name": "Brit Asia TV (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png",
+    "url": "https://hls.autopo.st/hls/britasiatv/index.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8378045572603606653",
+    "quality": "FHD"
+  },
+  {
+    "name": "Busted at the Border",
+    "logo": "https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb9c4539183b00076a3875.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-194264471796020807"
+  },
+  {
+    "name": "C'est pas sorcier",
+    "logo": "https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1422627867110935320"
+  },
+  {
+    "name": "Canaf54 TV",
+    "logo": "https://i.imgur.com/viB0FS2.png",
+    "url": "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4529424452409507911"
+  },
+  {
+    "name": "Canal 6 CDMX (720p)",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8",
+    "group": "Mexico",
+    "country": "GB",
+    "is_premium": false,
+    "id": "897463372448451683",
+    "quality": "HD"
+  },
+  {
+    "name": "Casos de la Dra. Polo",
+    "logo": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6057503228010657223"
+  },
+  {
+    "name": "Channel S (1080p)",
+    "logo": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "group": "Culture",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7957453637698860572",
+    "quality": "FHD"
+  },
+  {
+    "name": "Charlotte aux Fraises",
+    "logo": "https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8407418581821914638"
+  },
+  {
+    "name": "Cheaters (720p)",
+    "logo": "https://images.pluto.tv/channels/6582f7d612d5ee00089a663d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2722368063804015304",
+    "quality": "HD"
+  },
+  {
+    "name": "Christmas 365",
+    "logo": "https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6772553359737094284"
+  },
+  {
+    "name": "Cold Case Files by A&E",
+    "logo": "https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3664914930457124571"
+  },
+  {
+    "name": "Confess by Nosey",
+    "logo": "https://images.pluto.tv/channels/638e0f4832494900074481e7/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-638e0f4832494900074481e7.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2834060143229758888"
+  },
+  {
+    "name": "Criminal Minds",
+    "logo": "https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8025465771757797403"
+  },
+  {
+    "name": "DAZN Combat",
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
+    "group": "Sports",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6646781705749640283"
+  },
+  {
+    "name": "Deal Masters (1080p)",
+    "logo": "https://i.imgur.com/lZvNXA1.png",
+    "url": "https://jmp2.uk/plu-69c6a93486431735d974bc2a.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5283308162630174097",
+    "quality": "FHD"
+  },
+  {
+    "name": "Deen TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Zp62Nbd.png",
+    "url": "https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "544046010553102679",
+    "quality": "SD"
+  },
+  {
+    "name": "Der Denver-Clan",
+    "logo": "https://images.pluto.tv/channels/62cebd7302478b00073a6b71/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-510897457419727880"
+  },
+  {
+    "name": "Digimon Adventure",
+    "logo": "https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5175414257018792905"
+  },
+  {
+    "name": "Don't Tell The Bride (1080p)",
+    "logo": "https://i.imgur.com/h0bc3Fa.png",
+    "url": "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Series",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-184649163681692849",
+    "quality": "FHD"
+  },
+  {
+    "name": "Dunya News (UK Feed) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dtrTfZC.png",
+    "url": "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8",
+    "group": "News",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4502378489255800864",
+    "quality": "HD"
+  },
+  {
+    "name": "Echappées Belles & Co",
+    "logo": "https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2809026176501902716"
+  },
+  {
+    "name": "Ein Engel auf Erden",
+    "logo": "https://images.pluto.tv/channels/622f487722d9d400075f74dd/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5461680480353171309"
+  },
+  {
+    "name": "Eman Channel (576p)",
+    "logo": "https://i.imgur.com/ugn0DWe.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4873363147068573301",
+    "quality": "SD"
+  },
+  {
+    "name": "English Club TV",
+    "logo": "https://i.imgur.com/gst7wW7.png",
+    "url": "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
+    "group": "Education",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6297190671654642236"
+  },
+  {
+    "name": "Enquêtes de Choc",
+    "logo": "https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "579574228055408155"
+  },
+  {
+    "name": "ENT Channel (720p)",
+    "logo": "https://static.elektamedia.com/ch/entch.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4449913838760912024",
+    "quality": "HD"
+  },
+  {
+    "name": "ENT Family (720p)",
+    "logo": "https://static.elektamedia.com/ch/entf.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7536544712436241251",
+    "quality": "HD"
+  },
+  {
+    "name": "Faith World TV",
+    "logo": "https://i.imgur.com/RLHRjQ3.png",
+    "url": "https://faithworldtv.abs.tv/1826926230/index.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5656285307966449897"
+  },
+  {
+    "name": "FIFA+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+    "group": "Sports",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6379890544074829080"
+  },
+  {
+    "name": "FIFA+ French (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "group": "Belgium",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7181681704671496277",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ German (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+    "group": "Austria",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5730395440639574335",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ Hispanic America (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+    "group": "Argentina",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6293428222290111333",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ Italy (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
+    "group": "Italy",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6306951124661497558",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ Portuguese (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
+    "group": "Brazil",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5053210232759028104",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ Spain (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+    "group": "Spain",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2449119814676298038",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ United States (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/500px-FIFA_logo_without_slogan.svg.png",
+    "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "group": "Canada",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1582397882556919321",
+    "quality": "HD"
+  },
+  {
+    "name": "FIFA+ Women (720p)",
+    "logo": "https://i.imgur.com/xy9ZxVO.png",
+    "url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+    "group": "Sports",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8211040216309918596",
+    "quality": "HD"
+  },
+  {
+    "name": "Filmgold",
+    "logo": "https://images.pluto.tv/channels/6305ca798bd95300072d2f93/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7761989173413647065"
+  },
+  {
+    "name": "Fixers and Flippers",
+    "logo": "https://images.pluto.tv/channels/62fb62081afad500077e915e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb62081afad500077e915e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2237502246608725672"
+  },
+  {
+    "name": "Frecuencia Musical TV [Not 24/7]",
+    "logo": "https://i.imgur.com/vPxvbVv.png",
+    "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
+    "group": "International",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8494102970352624291"
+  },
+  {
+    "name": "Fury",
+    "logo": "https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6270ea4345f5bc0007823048.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8341044299781660137"
+  },
+  {
+    "name": "GB News (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png",
+    "url": "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
+    "group": "News",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2289808419309292465",
+    "quality": "FHD"
+  },
+  {
+    "name": "Gems TV (720p)",
+    "logo": "https://i.imgur.com/WgaJufI.png",
+    "url": "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2923810643527654057",
+    "quality": "HD"
+  },
+  {
+    "name": "Global News BC",
+    "logo": "https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbf063257170000724590c.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5705445139825488049"
+  },
+  {
+    "name": "Global News Calgary",
+    "logo": "https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbf23dcfb48300077f8348.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3560153611212151754"
+  },
+  {
+    "name": "Global News Edmonton",
+    "logo": "https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbf2de1fba5f0007e47d9c.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7451408552562571610"
+  },
+  {
+    "name": "Global News Halifax",
+    "logo": "https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbf398b8e02600071deda5.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4797265263621338639"
+  },
+  {
+    "name": "Global News Kingston",
+    "logo": "https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbf4964446e2000742073e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4216908829673513901"
+  },
+  {
+    "name": "Global News Lethbridge",
+    "logo": "https://images.pluto.tv/channels/62cbf7439cb58900088dc77b/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbf7439cb58900088dc77b.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7427644406912428833"
+  },
+  {
+    "name": "Global News Montreal",
+    "logo": "https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbfbd6ad95670007f567af.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5106656204300451784"
+  },
+  {
+    "name": "Global News National",
+    "logo": "https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6347579114121104118"
+  },
+  {
+    "name": "Global News Okanagan",
+    "logo": "https://images.pluto.tv/channels/62cbfc572dc3750007a493ce/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbfc572dc3750007a493ce.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3658520277403486938"
+  },
+  {
+    "name": "Global News Peterborough",
+    "logo": "https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbfcd8c2db990007861e43.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5921770684004583167"
+  },
+  {
+    "name": "Global News Regina",
+    "logo": "https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cbff53ca8f2200080253b5.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2313510071477678831"
+  },
+  {
+    "name": "Global News Saskatoon",
+    "logo": "https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6321548830949528884"
+  },
+  {
+    "name": "Global News Toronto",
+    "logo": "https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "57101012358756052"
+  },
+  {
+    "name": "Global News Winnipeg",
+    "logo": "https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cc0120880c890007191016.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7835767564961143174"
+  },
+  {
+    "name": "Graham Norton (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/GrahamNorton-byPhilipRomano.jpg/330px-GrahamNorton-byPhilipRomano.jpg",
+    "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5335710862160581192",
+    "quality": "FHD"
+  },
+  {
+    "name": "GREAT! movies (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
+    "url": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
+    "group": "Movies",
+    "country": "GB",
+    "is_premium": false,
+    "id": "817603504530178329",
+    "quality": "FHD"
+  },
+  {
+    "name": "GREAT! Mystery (1080p)",
+    "logo": "https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png",
+    "url": "https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8",
+    "group": "Movies",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-256390253403478599",
+    "quality": "FHD"
+  },
+  {
+    "name": "GREAT! romance (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
+    "url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
+    "group": "Movies",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5515644129682035217",
+    "quality": "FHD"
+  },
+  {
+    "name": "Hala London (1080p)",
+    "logo": "https://i.imgur.com/bM4VZDH.png",
+    "url": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2830539101662767321",
+    "quality": "FHD"
+  },
+  {
+    "name": "Hausmeister Krause",
+    "logo": "https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6426574248370682911"
+  },
+  {
+    "name": "Hellenic TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/NE7ddhC.png",
+    "url": "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7079225817841044271",
+    "quality": "HD"
+  },
+  {
+    "name": "Hidayat TV (576p)",
+    "logo": "https://i.imgur.com/BNrq4VX.png",
+    "url": "http://66.102.120.18:8000/play/a04p/index.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6165225302850750757",
+    "quality": "SD"
+  },
+  {
+    "name": "History Hit (720p)",
+    "logo": "https://i.imgur.com/ulHoqlP.png",
+    "url": "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Documentary",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5188201567006455790",
+    "quality": "HD"
+  },
+  {
+    "name": "Hobby Maker (720p)",
+    "logo": "https://i.imgur.com/VWHp5Tl.png",
+    "url": "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8",
+    "group": "Lifestyle",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5482146517294415778",
+    "quality": "HD"
+  },
+  {
+    "name": "Homicide",
+    "logo": "https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5629940323279434628"
+  },
+  {
+    "name": "Horse and Country (720p)",
+    "logo": "https://i.imgur.com/1x6zYZr.png",
+    "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+    "group": "Australia",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7706003677582037342",
+    "quality": "HD"
+  },
+  {
+    "name": "IBC Bakthi (1080p)",
+    "logo": "https://i.imgur.com/ZNEz5Wx.png",
+    "url": "https://ibc.massstream.net/IBC2/index.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6569215332378735330",
+    "quality": "FHD"
+  },
+  {
+    "name": "IBC Tamil (1080p)",
+    "logo": "https://i.imgur.com/uVt9vBa.png",
+    "url": "https://ibc.massstream.net/IBC/index.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6503113106301427490",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ice Road Truckers (1080p)",
+    "logo": "https://i.imgur.com/F8GBYq3.png",
+    "url": "https://jmp2.uk/plu-633560bfa693390008b99cf0.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3951840761288175814",
+    "quality": "FHD"
+  },
+  {
+    "name": "INA 70",
+    "logo": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7421985819366216763"
+  },
+  {
+    "name": "Income Property",
+    "logo": "https://images.pluto.tv/channels/62e926429cb58900088f951f/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62e926429cb58900088f951f.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7661499753763117085"
+  },
+  {
+    "name": "iON TV (576p)",
+    "logo": "https://i.imgur.com/E8VwnK7.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1294538952881237167",
+    "quality": "SD"
+  },
+  {
+    "name": "Iqra TV",
+    "logo": "https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png",
+    "url": "https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-334601034989413909"
+  },
+  {
+    "name": "Iran International (720p)",
+    "logo": "https://i.imgur.com/55RpaF3.png",
+    "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+    "group": "News",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-746266994027052320",
+    "quality": "HD"
+  },
+  {
+    "name": "IraneFarda TV (720p)",
+    "logo": "https://i.imgur.com/ixgcgZY.png",
+    "url": "https://iranefardalive.com/stream/live.m3u8",
+    "group": "News",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3094199115113280447",
+    "quality": "HD"
+  },
+  {
+    "name": "Islam Channel (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bJdFH7x.png",
+    "url": "https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2831702690438891598",
+    "quality": "SD"
+  },
+  {
+    "name": "Jail",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+    "url": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8",
+    "group": "Documentary",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1037521161898688167"
+  },
+  {
+    "name": "Jail (720p)",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+    "url": "https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "group": "Documentary",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3850705493684980763",
+    "quality": "HD"
+  },
+  {
+    "name": "Just.fishing",
+    "logo": "https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7301236762639602309"
+  },
+  {
+    "name": "Kalsan TV (576p)",
+    "logo": "https://i.imgur.com/AqyY1bR.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8",
+    "group": "Culture",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2546853737157815933",
+    "quality": "SD"
+  },
+  {
+    "name": "Kanal Jadid",
+    "logo": "https://i.imgur.com/7oGGgfD.png",
+    "url": "https://kjhls.wns.live/hls/stream.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4259061926186650082"
+  },
+  {
+    "name": "Kanshi TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/w6uXMrK.png",
+    "url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2534922268788055848",
+    "quality": "HD"
+  },
+  {
+    "name": "KICCTV (576p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kicc-tv-uk.png",
+    "url": "https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7001984830121307557",
+    "quality": "SD"
+  },
+  {
+    "name": "King of Queens",
+    "logo": "https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62f4f414c2ba130007f8b24e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3362355736793576505"
+  },
+  {
+    "name": "Kitchen Battles",
+    "logo": "https://images.pluto.tv/channels/62fb66c867976d0007647e54/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb66c867976d0007647e54.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2425594807495349378"
+  },
+  {
+    "name": "KultKrimi",
+    "logo": "https://images.pluto.tv/channels/5cb5cfe5caf83414128f209e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1906829703487690579"
+  },
+  {
+    "name": "KultKrimi: Der Alte",
+    "logo": "https://images.pluto.tv/channels/65dde5ef28730900089af7cf/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-773027900205081695"
+  },
+  {
+    "name": "KultKrimi: Der Kommissar",
+    "logo": "https://images.pluto.tv/channels/65dde626ec9fda0008b3dc89/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7479357013320075268"
+  },
+  {
+    "name": "Kultkrimi: Derrick",
+    "logo": "https://images.pluto.tv/channels/65dde5848145cb00083277f6/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-957087653546959229"
+  },
+  {
+    "name": "Latest TV (480p)",
+    "logo": "https://i.imgur.com/Cl1iGEb.jpeg",
+    "url": "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6252109030395529814",
+    "quality": "SD"
+  },
+  {
+    "name": "Leave it to Bryan",
+    "logo": "https://images.pluto.tv/channels/62e91b5ca909cb0008114ae4/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62e91b5ca909cb0008114ae4.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4139993071940963304"
+  },
+  {
+    "name": "Les Z'amours",
+    "logo": "https://images.pluto.tv/channels/652d0b756208700008d758ad/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1703467059287273968"
+  },
+  {
+    "name": "Let's Make a deal",
+    "logo": "https://images.pluto.tv/channels/64c2201a2a7f2200089a0af2/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64c2201a2a7f2200089a0af2.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4141162019898813944"
+  },
+  {
+    "name": "Life & Legend of Wyatt Earp",
+    "logo": "https://images.pluto.tv/channels/62b97c5f0d8c8e0007cf48b9/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "966483323776587047"
+  },
+  {
+    "name": "Little Angel's Playroom",
+    "logo": "https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5445346018413330948"
+  },
+  {
+    "name": "Love Boat",
+    "logo": "https://i.imgur.com/7ad6NQ8.png",
+    "url": "https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8",
+    "group": "United States",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8387440985771236659"
+  },
+  {
+    "name": "Max & Ruby",
+    "logo": "https://images.pluto.tv/channels/62fb6a4feb32e8000708f4d0/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb6a4feb32e8000708f4d0.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1346625646349986735"
+  },
+  {
+    "name": "MBC (1080p)",
+    "logo": "https://i.imgur.com/uR0gScb.png",
+    "url": "https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8276092497932952490",
+    "quality": "FHD"
+  },
+  {
+    "name": "Miracle TV",
+    "logo": "https://i.imgur.com/pTn8Vc3.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2565714985153401991"
+  },
+  {
+    "name": "Mister Rogers' Neighborhood",
+    "logo": "https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3087405991687656413"
+  },
+  {
+    "name": "Modern Marvels",
+    "logo": "https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6540ff2d770cf1000866b90a.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2689629565879981528"
+  },
+  {
+    "name": "Moonbug Kids (1080p)",
+    "logo": "https://i.imgur.com/vZHtxQb.png",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8920708555454155856",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mr Bean Live Action (1080p)",
+    "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+    "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+    "group": "Comedy",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2166239957883271781",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mr. Bean Animated (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "144523064828490025",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mr. Bean Anime (1080p)",
+    "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+    "url": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7203650439565928491",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mr. Bean Anime Italy (1080p)",
+    "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+    "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3233147993837598992",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mr. Bean Anime Spain (1080p)",
+    "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+    "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1395703520808078924",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTA1 World (720p)",
+    "logo": "https://i.imgur.com/bYiRfAg.png",
+    "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1252016463898540888",
+    "quality": "HD"
+  },
+  {
+    "name": "MTA2 Europe (720p)",
+    "logo": "https://i.imgur.com/aVts0sz.png",
+    "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7678397364363316475",
+    "quality": "HD"
+  },
+  {
+    "name": "MTA3 Al-Arabia (1080p)",
+    "logo": "https://i.imgur.com/m3PEldJ.png",
+    "url": "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1731876302960861722",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTA4 Africa (1080p)",
+    "logo": "https://i.imgur.com/lmVeQQX.png",
+    "url": "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1738299428359038111",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTA5 Africa (1080p)",
+    "logo": "https://i.imgur.com/9Cobb2i.png",
+    "url": "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6490155147558582474",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTA6 Asia (1080p)",
+    "logo": "https://i.imgur.com/nhCNPJI.png",
+    "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8517400054935972649",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTA7 Asia (1080p)",
+    "logo": "https://i.imgur.com/3Nl8Tpu.png",
+    "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5304776062185290257",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTA8 America (1080p)",
+    "logo": "https://i.imgur.com/CF6X9wB.png",
+    "url": "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1461218831245920187",
+    "quality": "FHD"
+  },
+  {
+    "name": "MUTV (720p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
+    "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+    "group": "Sports",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8468564553680902381",
+    "quality": "HD"
+  },
+  {
+    "name": "MyTime Movie Network (1080p)",
+    "logo": "https://i.imgur.com/aiGQtzI.png",
+    "url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
+    "group": "Movies",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4126132372453998178",
+    "quality": "FHD"
+  },
+  {
+    "name": "NBC Los Angeles News",
+    "logo": "https://i.imgur.com/KNaaG5u.png",
+    "url": "https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7220831165388558568"
+  },
+  {
+    "name": "Nolly Africa [Geo-blocked]",
+    "logo": "https://i.imgur.com/IxtGpti.png",
+    "url": "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8",
+    "group": "Movies",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2294696511872690808"
+  },
+  {
+    "name": "Nonstop Drama",
+    "logo": "https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5678414812099749961"
+  },
+  {
+    "name": "Noor TV (720p)",
+    "logo": "https://i.imgur.com/DlKgIuQ.png",
+    "url": "https://sscsott.com/srt/noortvuk/index.m3u8",
+    "group": "Iran",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7419769517847254991",
+    "quality": "HD"
+  },
+  {
+    "name": "NOW 70s",
+    "logo": "https://i.imgur.com/qiCCX5X.png",
+    "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2725107322153561515"
+  },
+  {
+    "name": "Now 70s (720p)",
+    "logo": "https://i.imgur.com/qiCCX5X.png",
+    "url": "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6190641633349789162",
+    "quality": "HD"
+  },
+  {
+    "name": "NOW 80s",
+    "logo": "https://i.imgur.com/YyPnMeB.png",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6288691669336073379"
+  },
+  {
+    "name": "Now 80s (1080p)",
+    "logo": "https://i.imgur.com/YyPnMeB.png",
+    "url": "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5459565766215113570",
+    "quality": "FHD"
+  },
+  {
+    "name": "NOW 90s00s",
+    "logo": "https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png",
+    "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2359401885606477322"
+  },
+  {
+    "name": "NOW Rock",
+    "logo": "https://i.imgur.com/GuM4GnX.png",
+    "url": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5964624786076119136"
+  },
+  {
+    "name": "Now Rock (720p)",
+    "logo": "https://i.imgur.com/GuM4GnX.png",
+    "url": "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4337539071447409493",
+    "quality": "HD"
+  },
+  {
+    "name": "Oxygen True Crime Archives",
+    "logo": "https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8075854102413603350"
+  },
+  {
+    "name": "Pickers & Pawn",
+    "logo": "https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6625548675431011273"
+  },
+  {
+    "name": "Pop (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/fGUlCY3.png",
+    "url": "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8255810005719638112",
+    "quality": "FHD"
+  },
+  {
+    "name": "POP Television (720p)",
+    "logo": "https://i.imgur.com/STbfHwE.png",
+    "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-8896954368518119160",
+    "quality": "HD"
+  },
+  {
+    "name": "Pop Up (1080p)",
+    "logo": "https://i.imgur.com/GdSotmS.png",
+    "url": "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2231434036018747495",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qello Concerts",
+    "logo": "https://i.imgur.com/IRyFTWq.png",
+    "url": "https://jmp2.uk/plu-696998915a0ae9e1b563f0c6.m3u8",
+    "group": "Canada",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3008711287852064042"
+  },
+  {
+    "name": "Qui veut gagner des millions?",
+    "logo": "https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-962598215235222422"
+  },
+  {
+    "name": "QVC UK (540p)",
+    "logo": "https://i.imgur.com/6TWUVrh.png",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1027179758340952661"
+  },
+  {
+    "name": "QVC UK Beauty (540p)",
+    "logo": "https://i.imgur.com/ZBHtqk1.png",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2439851429792650326"
+  },
+  {
+    "name": "QVC UK Extra (540p)",
+    "logo": "https://i.imgur.com/TIe5T9Z.png",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7005959942702371785"
+  },
+  {
+    "name": "QVC UK Style (540p)",
+    "logo": "https://i.imgur.com/6HZlLL3.png",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3958583552791096497"
+  },
+  {
+    "name": "Rauchende Colts",
+    "logo": "https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2163273504622960268"
+  },
+  {
+    "name": "Rawhide Tausend Meilen Staub",
+    "logo": "https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1616393795939822266"
+  },
+  {
+    "name": "Real Wild (1080p)",
+    "logo": "https://i.imgur.com/T9HHmAO.png",
+    "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7127850850789392909",
+    "quality": "FHD"
+  },
+  {
+    "name": "Red Shoe Diaries",
+    "logo": "https://images.pluto.tv/channels/645a0ddfe1979c00086d83ff/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4732747612117613004"
+  },
+  {
+    "name": "Reno Duo",
+    "logo": "https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb61992443200008c59aef.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2846737552748738126"
+  },
+  {
+    "name": "Reno Rehab",
+    "logo": "https://images.pluto.tv/channels/62fb6057f923fb0007eafb24/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb6057f923fb0007eafb24.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7169668228189999307"
+  },
+  {
+    "name": "RoboCop",
+    "logo": "https://images.pluto.tv/channels/6628e513cee0d90008639b46/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7691578703252720316"
+  },
+  {
+    "name": "Romance 365",
+    "logo": "https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6357058442891973127"
+  },
+  {
+    "name": "Rules of Engagement",
+    "logo": "https://images.pluto.tv/channels/64be635a40962900080aaca5/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2440563544822883204"
+  },
+  {
+    "name": "Rustic Retreats",
+    "logo": "https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-794596112844916982"
+  },
+  {
+    "name": "S4C (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/vrcbnBv.png",
+    "url": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2023441442760619818",
+    "quality": "FHD"
+  },
+  {
+    "name": "Safeer TV (1080p)",
+    "logo": "https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png",
+    "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
+    "group": "Religious",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1162500515929534159",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sailor Moon",
+    "logo": "https://images.pluto.tv/channels/642be30baa2d690008ed2935/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-637e55347427a40007fac703.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7113444046736882086"
+  },
+  {
+    "name": "Shaun the Sheep & Friends",
+    "logo": "https://i.imgur.com/jQgnFcQ.png",
+    "url": "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4789911067036876164"
+  },
+  {
+    "name": "Simaye Azadi (1080p)",
+    "logo": "https://i.imgur.com/yXcczMq.png",
+    "url": "https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-162266214923569117",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sky News Weather (720p)",
+    "logo": "https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg",
+    "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
+    "group": "Weather",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2262803798011891431",
+    "quality": "HD"
+  },
+  {
+    "name": "Spark TV (1080p)",
+    "logo": "https://i.imgur.com/c4pthr9.png",
+    "url": "https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6806454990687174542",
+    "quality": "FHD"
+  },
+  {
+    "name": "SPIEGEL TV Konflikte",
+    "logo": "https://images.pluto.tv/channels/65b9268fc798e800085add89/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1493809735158767764"
+  },
+  {
+    "name": "Stargate",
+    "logo": "https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3175817379328437200"
+  },
+  {
+    "name": "Strongman Champions League (720p)",
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+    "group": "Sports",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7328586448384516539",
+    "quality": "HD"
+  },
+  {
+    "name": "Talking Pictures TV (576p)",
+    "logo": "https://i.imgur.com/S1zoIp7.png",
+    "url": "http://92.114.85.72:8000/play/a0la",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6690965202102488919",
+    "quality": "SD"
+  },
+  {
+    "name": "talkSPORT (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png",
+    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
+    "group": "Sports",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4231856100340660696",
+    "quality": "FHD"
+  },
+  {
+    "name": "TalkTV (1080p)",
+    "logo": "https://i.imgur.com/KxHWpQB.png",
+    "url": "https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "9185319621901544191",
+    "quality": "FHD"
+  },
+  {
+    "name": "TBN UK (1080p)",
+    "logo": "https://i.imgur.com/vFllwLd.png",
+    "url": "https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "9054673929005744436",
+    "quality": "FHD"
+  },
+  {
+    "name": "Telemundo Noticias California",
+    "logo": "https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7496079339984609657"
+  },
+  {
+    "name": "Telenovela ZDF",
+    "logo": "https://images.pluto.tv/channels/5cb5d043a461406ffe3fb2de/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-321266491638476975"
+  },
+  {
+    "name": "That's 70s (576p)",
+    "logo": "https://i.imgur.com/j2q53JQ.png",
+    "url": "https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2738530077750886035",
+    "quality": "SD"
+  },
+  {
+    "name": "That's TV (576p)",
+    "logo": "https://i.imgur.com/rmdfcyG.png",
+    "url": "http://92.114.85.72:8000/play/a0lb",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3476889663317680504",
+    "quality": "SD"
+  },
+  {
+    "name": "The Chat Show Channel (1080p)",
+    "logo": "https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
+    "group": "Comedy",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4755000782421506502",
+    "quality": "FHD"
+  },
+  {
+    "name": "The Chat Show Channel (1080p)",
+    "logo": "https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Comedy",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5229495843022107440",
+    "quality": "FHD"
+  },
+  {
+    "name": "The Dick Van Dyke Show",
+    "logo": "https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "8425932027722822178"
+  },
+  {
+    "name": "Thrillers 365",
+    "logo": "https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5468461769186420866"
+  },
+  {
+    "name": "Timeline (720p)",
+    "logo": "https://i.imgur.com/PZRQvFv.png",
+    "url": "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2896435558380882554",
+    "quality": "HD"
+  },
+  {
+    "name": "Tiny Pop +1 (576p)",
+    "logo": "https://i.imgur.com/zCTf71x.png",
+    "url": "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7039099336979105947",
+    "quality": "SD"
+  },
+  {
+    "name": "TJC (1080p)",
+    "logo": "https://i.imgur.com/fk5rEje.png",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
+    "group": "Shop",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2717335047786655534",
+    "quality": "FHD"
+  },
+  {
+    "name": "Together TV (576p)",
+    "logo": "https://i.imgur.com/wf62HhM.png",
+    "url": "http://92.114.85.72:8000/play/a0j8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3050682533876436452",
+    "quality": "SD"
+  },
+  {
+    "name": "Top Gear",
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "url": "https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3714771402499214928"
+  },
+  {
+    "name": "Top Gear (720p)",
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "url": "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3440498667405832823",
+    "quality": "HD"
+  },
+  {
+    "name": "Top Rank Classics (1080p)",
+    "logo": "https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1960764152898816857",
+    "quality": "FHD"
+  },
+  {
+    "name": "Totalmusic (720p)",
+    "logo": "https://static.elektamedia.com/ch/tmc_main.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5803540799056769110",
+    "quality": "HD"
+  },
+  {
+    "name": "Totalmusic 2000s (720p)",
+    "logo": "https://static.elektamedia.com/ch/tmc_00s.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3117364097809854612",
+    "quality": "HD"
+  },
+  {
+    "name": "Totalmusic 80s (720p)",
+    "logo": "https://static.elektamedia.com/ch/tmc_80s.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-1086616845044024465",
+    "quality": "HD"
+  },
+  {
+    "name": "Totalmusic Concerts (720p)",
+    "logo": "https://static.elektamedia.com/ch/tmc_concerts.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4535216337040955644",
+    "quality": "HD"
+  },
+  {
+    "name": "Totalmusic Dance (720p)",
+    "logo": "https://static.elektamedia.com/ch/tmc_dance.png",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-3101768800463673923",
+    "quality": "HD"
+  },
+  {
+    "name": "Trace Hits (1080p)",
+    "logo": "https://i.imgur.com/Vvxz6KX.png",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5404444492609715801",
+    "quality": "FHD"
+  },
+  {
+    "name": "TRACE UK (1080p)",
+    "logo": "https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png",
+    "url": "https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Music",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4879908300991249306",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV One (576p)",
+    "logo": "https://i.imgur.com/qkbRslf.png",
+    "url": "http://92.114.85.72:8000/play/a070",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5827966339511221234",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Warehouse (720p)",
+    "logo": "https://i.imgur.com/CMuczfY.png",
+    "url": "https://tvwarehouse.r.worldssl.net/mystream.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4077708983662544272",
+    "quality": "HD"
+  },
+  {
+    "name": "Täterjagd",
+    "logo": "https://images.pluto.tv/channels/642abea1283aa4000805bb5b/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6150676553967167123"
+  },
+  {
+    "name": "U&Alibi (576p)",
+    "logo": "https://i.imgur.com/uazjv8g.png",
+    "url": "http://92.114.85.72:8000/play/a0bi",
+    "group": "Series",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3584783455542449474",
+    "quality": "SD"
+  },
+  {
+    "name": "U&W",
+    "logo": "https://i.imgur.com/puBkpGj.png",
+    "url": "http://92.114.85.72:8000/play/a0bj",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "4563438322594811690"
+  },
+  {
+    "name": "UFC (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ufc-us.png",
+    "url": "https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1827929990201344924",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ultimate Builds",
+    "logo": "https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "7121221405837330727"
+  },
+  {
+    "name": "Un gars une fille",
+    "logo": "https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5268527276298490507"
+  },
+  {
+    "name": "Un Village Français",
+    "logo": "https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "6118412363068678290"
+  },
+  {
+    "name": "Unentdeckt Mörder unter uns",
+    "logo": "https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-417330383157034451"
+  },
+  {
+    "name": "UnXplained Zone (720p)",
+    "logo": "https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-656538f8954b020008d389db.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "2058992042801951847",
+    "quality": "HD"
+  },
+  {
+    "name": "V2BEAT (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/PXGqyLn.png",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5780841365422982853",
+    "quality": "HD"
+  },
+  {
+    "name": "Vevo Íconos Latinos",
+    "logo": "https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2368913581701349881"
+  },
+  {
+    "name": "Vevo Regional Mexicano",
+    "logo": "https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1036505485433840006"
+  },
+  {
+    "name": "Vive Kanal D Drama (1080p)",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "url": "https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8",
+    "group": "International",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-2697009715463663019",
+    "quality": "FHD"
+  },
+  {
+    "name": "Warner Bros. TV Say Yes to the Dress",
+    "logo": "https://images.pluto.tv/channels/6532e8342cf13100083b404c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5864334911464034061"
+  },
+  {
+    "name": "Warner Bros. TV Sweet Escapes",
+    "logo": "https://images.pluto.tv/channels/6532e7fa045c3d0008514ca7/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-5563204357015189808"
+  },
+  {
+    "name": "Wonder (720p)",
+    "logo": "https://i.imgur.com/LquGNbh.png",
+    "url": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+    "group": "Science",
+    "country": "GB",
+    "is_premium": false,
+    "id": "5383720209415896527",
+    "quality": "HD"
+  },
+  {
+    "name": "WPT",
+    "logo": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-607241257246240934"
+  },
+  {
+    "name": "X-Factor: Das Unfassbare",
+    "logo": "https://images.pluto.tv/channels/642d7e029189ce0008958af5/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-408229078413600025"
+  },
+  {
+    "name": "XITE Gospel",
+    "logo": "https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8",
+    "group": "General",
+    "country": "GB",
+    "is_premium": false,
+    "id": "1923782483962684665"
+  },
+  {
+    "name": "YAAAS! (720p) [Geo-blocked]",
+    "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png",
+    "url": "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8",
+    "group": "Kids",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-4385481487303483985",
+    "quality": "HD"
+  },
+  {
+    "name": "Zee One",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg",
+    "url": "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7441480309394048201"
+  },
+  {
+    "name": "Zee One (1080p)",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg",
+    "url": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
+    "group": "Poland",
+    "country": "GB",
+    "is_premium": false,
+    "id": "3250738478396505129",
+    "quality": "FHD"
+  },
+  {
+    "name": "Zee One Français (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
+    "url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8",
+    "group": "Belgium",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-7798222160664550857",
+    "quality": "HD"
+  },
+  {
+    "name": "Zee One German (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
+    "url": "https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8",
+    "group": "Austria",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6358602247092800795",
+    "quality": "HD"
+  },
+  {
+    "name": "Zee TV UK HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg",
+    "url": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8",
+    "group": "Entertainment",
+    "country": "GB",
+    "is_premium": false,
+    "id": "-6526097759702096900",
+    "quality": "HD"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Afrique Media (720p)",
+    "logo": "https://i.imgur.com/spQgX7X.png",
+    "url": "https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8",
+    "group": "News",
+    "country": "CM",
+    "is_premium": false,
+    "id": "9184259774343687040",
+    "quality": "HD"
+  },
+  {
+    "name": "Afrique54 TV (720p)",
+    "logo": "https://i.imgur.com/WIaRpiS.png",
+    "url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+    "group": "News",
+    "country": "CM",
+    "is_premium": false,
+    "id": "9039456316687870151",
+    "quality": "HD"
+  },
+  {
+    "name": "CAM 10 TV",
+    "logo": "https://i.imgur.com/xspb9uY.png",
+    "url": "https://stream.it-innov.com/cam10tv/index.m3u8",
+    "group": "General",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-8970239723038148582"
+  },
+  {
+    "name": "CTV Afrique (720p)",
+    "logo": "https://i.ibb.co/k0mws9B/Ctv-Afrique.jpg",
+    "url": "https://stream.it-innov.com/ctv/index.m3u8",
+    "group": "General",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-7568689298442177734",
+    "quality": "HD"
+  },
+  {
+    "name": "EducaTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nDRVsIc.png",
+    "url": "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8",
+    "group": "Education",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-3470244288962840735",
+    "quality": "HD"
+  },
+  {
+    "name": "For You TV (480p)",
+    "logo": "https://i.imgur.com/1oMboXL.png",
+    "url": "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8",
+    "group": "News",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-459271742765523608",
+    "quality": "SD"
+  },
+  {
+    "name": "Laura Dave Media TV (720p)",
+    "logo": "https://i.imgur.com/zzG1S2n.png",
+    "url": "https://streaming.lauradavemedia.com/ldm/index.m3u8",
+    "group": "General",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-7266030374352875391",
+    "quality": "HD"
+  },
+  {
+    "name": "MISEC TV (720p)",
+    "logo": "https://i.imgur.com/3ID1RQB.png",
+    "url": "https://stream.it-innov.com/misec/index.m3u8",
+    "group": "Religious",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-8601896602818432895",
+    "quality": "HD"
+  },
+  {
+    "name": "My Righteous TV",
+    "logo": "https://i.imgur.com/wKSLNHB.png",
+    "url": "https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
+    "group": "Religious",
+    "country": "CM",
+    "is_premium": false,
+    "id": "813112011025514797"
+  },
+  {
+    "name": "My TV Channel (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/vh2373L.png",
+    "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8",
+    "group": "Cameroon",
+    "country": "CM",
+    "is_premium": false,
+    "id": "303935706028568925",
+    "quality": "HD"
+  },
+  {
+    "name": "Play TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1dmBqpf.png",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "group": "Brazil",
+    "country": "CM",
+    "is_premium": false,
+    "id": "2847310358308302780",
+    "quality": "HD"
+  },
+  {
+    "name": "PLEX TV",
+    "logo": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
+    "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "CM",
+    "is_premium": false,
+    "id": "-6350572612468485729"
+  },
+  {
+    "name": "TR24 (720p)",
+    "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+    "url": "https://stream.it-innov.com/tr24/index.m3u8",
+    "group": "Cameroon",
+    "country": "CM",
+    "is_premium": false,
+    "id": "4003227267835516269",
+    "quality": "HD"
+  }
+]

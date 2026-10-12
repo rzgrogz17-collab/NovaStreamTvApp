@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Brian TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/zG1WNgU.jpg",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+    "group": "News",
+    "country": "LA",
+    "is_premium": false,
+    "id": "1910342406401046637",
+    "quality": "HD"
+  },
+  {
+    "name": "Dao Lane Xang (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yE7nZ6w.png",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8",
+    "group": "Laos",
+    "country": "LA",
+    "is_premium": false,
+    "id": "-6000587269699396475",
+    "quality": "HD"
+  },
+  {
+    "name": "ISTV (480p)",
+    "logo": "https://i.imgur.com/TGAKFcV.jpg",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+    "group": "Education",
+    "country": "LA",
+    "is_premium": false,
+    "id": "5277736953422087314",
+    "quality": "SD"
+  },
+  {
+    "name": "Lao Net TV (720p)",
+    "logo": "https://i.imgur.com/ohbRT05.png",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8",
+    "group": "Laos",
+    "country": "LA",
+    "is_premium": false,
+    "id": "8521477619947756169",
+    "quality": "HD"
+  },
+  {
+    "name": "Look Thoong TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/eT7iE34.png",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+    "group": "Music",
+    "country": "LA",
+    "is_premium": false,
+    "id": "-3587030345597348421",
+    "quality": "HD"
+  },
+  {
+    "name": "LS TV (480p)",
+    "logo": "https://i.imgur.com/fs3dQ6J.png",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+    "group": "Culture",
+    "country": "LA",
+    "is_premium": false,
+    "id": "8591040501708968732",
+    "quality": "SD"
+  },
+  {
+    "name": "MV Lao TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/oVlQUKM.png",
+    "url": "https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "LA",
+    "is_premium": false,
+    "id": "2055200079178553464"
+  },
+  {
+    "name": "Ning TV (720p)",
+    "logo": "https://i.imgur.com/ANnEPnK.png",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "LA",
+    "is_premium": false,
+    "id": "-1628631163614057724",
+    "quality": "HD"
+  },
+  {
+    "name": "Oh Muang Lao TV (720p)",
+    "logo": "https://i.imgur.com/SdB3Vyr.jpg",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8",
+    "group": "General",
+    "country": "LA",
+    "is_premium": false,
+    "id": "4570026882086063395",
+    "quality": "HD"
+  },
+  {
+    "name": "Vati Lao TV (720p)",
+    "logo": "https://i.imgur.com/NwxXABV.png",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+    "group": "Laos",
+    "country": "LA",
+    "is_premium": false,
+    "id": "-9057851901697872154",
+    "quality": "HD"
+  }
+]

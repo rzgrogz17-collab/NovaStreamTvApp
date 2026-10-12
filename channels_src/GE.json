@@ -1,0 +1,124 @@
+[
+  {
+    "name": "1TV (720p)",
+    "logo": "https://i.imgur.com/FSkYLPK.png",
+    "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+    "group": "General",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-3244886980218071345",
+    "quality": "HD"
+  },
+  {
+    "name": "2TV (720p)",
+    "logo": "https://i.imgur.com/FJBL6zI.png",
+    "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+    "group": "General",
+    "country": "GE",
+    "is_premium": false,
+    "id": "3830032104480849811",
+    "quality": "HD"
+  },
+  {
+    "name": "Adjarasport 1",
+    "logo": "https://i.imgur.com/SVV5xHC.png",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
+    "group": "Sports",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-1842100015136924237"
+  },
+  {
+    "name": "Comedy TV",
+    "logo": "https://i.imgur.com/i1TANKv.png",
+    "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
+    "group": "Comedy",
+    "country": "GE",
+    "is_premium": false,
+    "id": "5859687435870084323"
+  },
+  {
+    "name": "Comedy TV",
+    "logo": "https://i.imgur.com/KLfXnba.png",
+    "url": "https://fl1.moveonjoy.com/Comedy_TV/index.m3u8",
+    "group": "Comedy",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-3504737723516648938"
+  },
+  {
+    "name": "Ertsulovneba",
+    "logo": "https://i.imgur.com/KuuODMM.png",
+    "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
+    "group": "Religious",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-8768698062043799321"
+  },
+  {
+    "name": "Formula (1080p)",
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "group": "News",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-7413395547533085045",
+    "quality": "FHD"
+  },
+  {
+    "name": "GDS TV",
+    "logo": "https://i.imgur.com/gv61tFf.png",
+    "url": "http://31.146.5.178:8087/play/a00a/index.m3u8",
+    "group": "General",
+    "country": "GE",
+    "is_premium": false,
+    "id": "6471097468172342428"
+  },
+  {
+    "name": "Imedi TV (1080p)",
+    "logo": "https://i.imgur.com/94hNyxZ.png",
+    "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+    "group": "General",
+    "country": "GE",
+    "is_premium": false,
+    "id": "6641704917569632465",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mtavari Arkhi",
+    "logo": "https://i.imgur.com/tLtGnJW.png",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
+    "group": "General",
+    "country": "GE",
+    "is_premium": false,
+    "id": "1244587650873104433"
+  },
+  {
+    "name": "Obieqtivi TV",
+    "logo": "https://i.imgur.com/Kqc8H8X.png",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8",
+    "group": "News",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-3019454839181879448"
+  },
+  {
+    "name": "Rioni TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ogMqmth.png",
+    "url": "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
+    "group": "Georgia",
+    "country": "GE",
+    "is_premium": false,
+    "id": "8272059197817937867",
+    "quality": "HD"
+  },
+  {
+    "name": "Rustavi 2",
+    "logo": "https://i.imgur.com/rPqd1Cx.png",
+    "url": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts",
+    "group": "Georgia",
+    "country": "GE",
+    "is_premium": false,
+    "id": "-2256788083239949261"
+  }
+]

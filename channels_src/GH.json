@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Channel247 (1080p)",
+    "logo": "https://i.imgur.com/8qNPgBa.png",
+    "url": "https://tv.localstreamgh.com/Channel247/index.m3u8",
+    "group": "General",
+    "country": "GH",
+    "is_premium": false,
+    "id": "8871737239489307108",
+    "quality": "FHD"
+  },
+  {
+    "name": "MOGPA TV (720p)",
+    "logo": "https://i.imgur.com/34PmVAq.png",
+    "url": "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8",
+    "group": "Religious",
+    "country": "GH",
+    "is_premium": false,
+    "id": "9204121524558432990",
+    "quality": "HD"
+  },
+  {
+    "name": "OTV",
+    "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
+    "url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
+    "group": "Culture",
+    "country": "GH",
+    "is_premium": false,
+    "id": "-5696537357018767397"
+  },
+  {
+    "name": "Pent TV (576p)",
+    "logo": "https://i.imgur.com/Jw6d3dR.png",
+    "url": "https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8",
+    "group": "Religious",
+    "country": "GH",
+    "is_premium": false,
+    "id": "-2452897838547541709",
+    "quality": "SD"
+  },
+  {
+    "name": "Resurrection TV (720p)",
+    "logo": "https://i.imgur.com/IncyJW8.png",
+    "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
+    "group": "Ghana",
+    "country": "GH",
+    "is_premium": false,
+    "id": "5090016607927770055",
+    "quality": "HD"
+  },
+  {
+    "name": "St. Johns County Government GTV (St. Johns County FL) (720p)",
+    "logo": "https://i.imgur.com/xN6WM3N.png",
+    "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8",
+    "group": "United States",
+    "country": "GH",
+    "is_premium": false,
+    "id": "-5650282277075636901",
+    "quality": "HD"
+  },
+  {
+    "name": "TV3",
+    "logo": "https://i.imgur.com/8t967Hq.png",
+    "url": "https://adesa.tv/live/tv3_AdesaAdb.m3u8",
+    "group": "Denmark",
+    "country": "GH",
+    "is_premium": false,
+    "id": "512475223227546226"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Amou Yazid TV (576p)",
+    "logo": "https://i.imgur.com/L8UPGPC.png",
+    "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+    "group": "Kids",
+    "country": "DZ",
+    "is_premium": false,
+    "id": "6527843554282170048",
+    "quality": "SD"
+  },
+  {
+    "name": "TV4 Tamazight TV (576p)",
+    "logo": "https://i.imgur.com/BZvdjBN.png",
+    "url": "http://149.62.177.98:8000/play/a01t/index.m3u8",
+    "group": "Algeria",
+    "country": "DZ",
+    "is_premium": false,
+    "id": "-3157620782447753515",
+    "quality": "SD"
+  },
+  {
+    "name": "TV7+",
+    "logo": "https://i.imgur.com/PcTDZ8e.png",
+    "url": "http://185.9.2.18/chid_352/index.m3u8",
+    "group": "Religious",
+    "country": "DZ",
+    "is_premium": false,
+    "id": "2468336519924812615"
+  }
+]

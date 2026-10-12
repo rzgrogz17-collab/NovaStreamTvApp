@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Alfa Sport (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/vhMPYIW.png",
+    "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+    "group": "Sports",
+    "country": "CY",
+    "is_premium": false,
+    "id": "-2647317727067740086",
+    "quality": "FHD"
+  },
+  {
+    "name": "ANT1 Cyprus (1080p)",
+    "logo": "https://i.imgur.com/2KAObBt.png",
+    "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "CY",
+    "is_premium": false,
+    "id": "-7634689794503328608",
+    "quality": "FHD"
+  },
+  {
+    "name": "City Channel (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/oo2fxta.png",
+    "url": "https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+    "group": "General",
+    "country": "CY",
+    "is_premium": false,
+    "id": "-3523793764142534938",
+    "quality": "HD"
+  },
+  {
+    "name": "RΙΚ Sat (CYBC S) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BIKwFhD.png",
+    "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+    "group": "Cyprus",
+    "country": "CY",
+    "is_premium": false,
+    "id": "3136130170287622611",
+    "quality": "HD"
+  },
+  {
+    "name": "Sat 7 Arabic (240p)",
+    "logo": "https://i.imgur.com/BzDjQeQ.png",
+    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+    "group": "Cyprus",
+    "country": "CY",
+    "is_premium": false,
+    "id": "8237847858802689694"
+  },
+  {
+    "name": "Sat 7 Kids (1080p)",
+    "logo": "https://i.imgur.com/M0ik0i2.png",
+    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+    "group": "Kids",
+    "country": "CY",
+    "is_premium": false,
+    "id": "1643622002685135196",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sat 7 Turk",
+    "logo": "https://i.imgur.com/cKQIK4i.png",
+    "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+    "group": "Yurt Disi",
+    "country": "CY",
+    "is_premium": false,
+    "id": "2009611746807480011"
+  },
+  {
+    "name": "Sat 7 Türk (720p)",
+    "logo": "https://i.imgur.com/cKQIK4i.png",
+    "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+    "group": "Cyprus",
+    "country": "CY",
+    "is_premium": false,
+    "id": "6677999856950157731",
+    "quality": "HD"
+  },
+  {
+    "name": "Sat7 Pars (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sat7-turk-tr.png",
+    "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+    "group": "Religious",
+    "country": "CY",
+    "is_premium": false,
+    "id": "-8596802122198237031",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sigma TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/DXKx102.png",
+    "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+    "group": "Cyprus",
+    "country": "CY",
+    "is_premium": false,
+    "id": "-1317814003983406380",
+    "quality": "SD"
+  },
+  {
+    "name": "Vouli TV (1080p) [Not 24/7]",
+    "logo": "https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png",
+    "url": "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+    "group": "News",
+    "country": "CY",
+    "is_premium": false,
+    "id": "8755354343179561914",
+    "quality": "FHD"
+  },
+  {
+    "name": "BRT 3",
+    "logo": "https://i.imgur.com/uczNZ3E.png",
+    "url": "http://185.234.111.229:8000/play/a07e",
+    "group": "Cyprus",
+    "country": "CY",
+    "is_premium": false,
+    "id": "6179554150207910315"
+  }
+]
