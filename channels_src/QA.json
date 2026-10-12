@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Al Araby TV (1080p)",
+    "logo": "https://i.imgur.com/YMqWEe4.png",
+    "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "7580129492979021552",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Araby TV 2 (1080p)",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-3321698409150853639",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Jazeera (1080p)",
+    "logo": "https://i.imgur.com/7bRVpnu.png",
+    "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-1724784751660351589",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+    "group": "Documentary",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-6416858479847782043",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Jazeera English (1080p)",
+    "logo": "https://i.imgur.com/7bRVpnu.png",
+    "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-2564958157434825771",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Jazeera Mubasher (1080p)",
+    "logo": "https://i.imgur.com/X80DQvF.png",
+    "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "386852825127779249",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Jazeera Mubasher 24 (1080p)",
+    "logo": "https://i.imgur.com/LMCcIZ2.png",
+    "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "4167774564761938002",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "logo": "https://i.imgur.com/nJmi6G6.png",
+    "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+    "group": "International",
+    "country": "QA",
+    "is_premium": false,
+    "id": "3726172047725058919",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Maaref (350p)",
+    "logo": "https://i.imgur.com/QFnztgo.png",
+    "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+    "group": "Qatar",
+    "country": "QA",
+    "is_premium": false,
+    "id": "5167772935660819163"
+  },
+  {
+    "name": "Al Rayyan (1080p)",
+    "logo": "https://i.imgur.com/Ts3RjTV.png",
+    "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+    "group": "Qatar",
+    "country": "QA",
+    "is_premium": false,
+    "id": "6119093307491056779",
+    "quality": "FHD"
+  },
+  {
+    "name": "Al Rayyan Al Qadeem (1080p)",
+    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+    "group": "Qatar",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-6164115553125012756",
+    "quality": "FHD"
+  },
+  {
+    "name": "Alkass Three (720p)",
+    "logo": "https://i.imgur.com/d57BdFh.png",
+    "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
+    "group": "Sports",
+    "country": "QA",
+    "is_premium": false,
+    "id": "7743881241207374797",
+    "quality": "HD"
+  },
+  {
+    "name": "Libya Al Ahrar TV (1080p)",
+    "logo": "https://i.imgur.com/xkQKVGi.png",
+    "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
+    "group": "News",
+    "country": "QA",
+    "is_premium": false,
+    "id": "5343520146352749061",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qatar Television (1080p)",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+    "group": "General",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-6624821036148431390",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qatar Television 2 (1080p)",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+    "group": "General",
+    "country": "QA",
+    "is_premium": false,
+    "id": "-4875963498023064092",
+    "quality": "FHD"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Al Alamiya 2",
+    "logo": "https://i.imgur.com/5FrE3Nv.png",
+    "url": "http://82.212.74.98:8000/live/7815.m3u8",
+    "group": "Education",
+    "country": "SD",
+    "is_premium": false,
+    "id": "-7963401844662643481"
+  },
+  {
+    "name": "Dabanga TV (1080p)",
+    "logo": "https://i.imgur.com/BH1N6TA.png",
+    "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
+    "group": "News",
+    "country": "SD",
+    "is_premium": false,
+    "id": "-7380081843615737749",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sudan TV (360p)",
+    "logo": "https://i.imgur.com/XUPAYAA.png",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+    "group": "Sudan",
+    "country": "SD",
+    "is_premium": false,
+    "id": "9135369040720233958",
+    "quality": "SD"
+  }
+]

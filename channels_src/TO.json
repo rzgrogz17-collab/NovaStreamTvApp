@@ -1,0 +1,39 @@
+[
+  {
+    "name": "WJLP-DT1",
+    "logo": "https://i.imgur.com/MfLl1HS.png",
+    "url": "https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8",
+    "group": "United States",
+    "country": "TO",
+    "is_premium": false,
+    "id": "-2016848736023684593"
+  },
+  {
+    "name": "WNBC-DT1 (720p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-wnbc-us.png",
+    "url": "https://e1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8",
+    "group": "United States",
+    "country": "TO",
+    "is_premium": false,
+    "id": "3239683081335447115",
+    "quality": "HD"
+  },
+  {
+    "name": "WNET-DT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+    "url": "https://e5.thetvapp.to/hls/WNET/index.m3u8",
+    "group": "United States",
+    "country": "TO",
+    "is_premium": false,
+    "id": "543020005227786879"
+  },
+  {
+    "name": "WPIX-DT1",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-11-wpix-us.png",
+    "url": "https://e1.thetvapp.to/hls/WPIX/index.m3u8",
+    "group": "General",
+    "country": "TO",
+    "is_premium": false,
+    "id": "6112642029497120923"
+  }
+]

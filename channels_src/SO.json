@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Arlaadi TV",
+    "logo": "https://i.imgur.com/2tlFMXF.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8",
+    "group": "General",
+    "country": "SO",
+    "is_premium": false,
+    "id": "-5379480960847826707"
+  },
+  {
+    "name": "Hirshabelle TV (576p)",
+    "logo": "https://i.imgur.com/Kk0A2o7.png",
+    "url": "http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8",
+    "group": "General",
+    "country": "SO",
+    "is_premium": false,
+    "id": "6535240525569809730",
+    "quality": "SD"
+  },
+  {
+    "name": "Puntland TV (720p)",
+    "logo": "https://i.imgur.com/C8EvQUo.png",
+    "url": "http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8",
+    "group": "General",
+    "country": "SO",
+    "is_premium": false,
+    "id": "-7975852038540464183",
+    "quality": "HD"
+  },
+  {
+    "name": "Saab TV (576p)",
+    "logo": "https://i.imgur.com/JEC1J89.png",
+    "url": "https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8",
+    "group": "General",
+    "country": "SO",
+    "is_premium": false,
+    "id": "-4972578909948969953",
+    "quality": "SD"
+  },
+  {
+    "name": "SBC TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/VLhgTIA.png",
+    "url": "http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "SO",
+    "is_premium": false,
+    "id": "3869131050519474022",
+    "quality": "HD"
+  },
+  {
+    "name": "SNTV Daljir (576p)",
+    "logo": "https://i.imgur.com/zmVKI26.jpg",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
+    "group": "General",
+    "country": "SO",
+    "is_premium": false,
+    "id": "7889170085810288376",
+    "quality": "SD"
+  },
+  {
+    "name": "Somali National TV (576p)",
+    "logo": "https://i.imgur.com/2y8gv7V.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8",
+    "group": "General",
+    "country": "SO",
+    "is_premium": false,
+    "id": "-1189884480106025728",
+    "quality": "SD"
+  }
+]

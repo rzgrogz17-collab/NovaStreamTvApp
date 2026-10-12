@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Beautiful Life TV",
+    "logo": "https://i.imgur.com/hkwcBM9.png",
+    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "group": "Religious",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-8587491317885712583"
+  },
+  {
+    "name": "CGNTV Chinese (1080p)",
+    "logo": "https://i.imgur.com/bPoPAbR.png",
+    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "group": "Religious",
+    "country": "TW",
+    "is_premium": false,
+    "id": "5877336226181993728",
+    "quality": "FHD"
+  },
+  {
+    "name": "DaAi1 (大愛1) (720p)",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "690648388113908488",
+    "quality": "HD"
+  },
+  {
+    "name": "DaAi2 (大愛2) (720p)",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-6992271712754507725",
+    "quality": "HD"
+  },
+  {
+    "name": "Dali TV (大立電視台) (720p)",
+    "logo": "https://i.imgur.com/pFIMLsA.png",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-4016986479545510443",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH1 綜合台 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "4858373099893430076",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH12 維他命施 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech12.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "427198455115773359",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH14 真情部落格 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech14.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "6249728511685901166",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH15 真情之夜 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech15.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "3280654261331875812",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH16 葉光明 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech16.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "5540190474953788579",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech17.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "5978119007083006034",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH18 國際講員 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech18.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "1975453591667875722",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH2 真理台 (720p)",
+    "logo": "https://i.imgur.com/YxFRoft.png",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "2360454479269137846",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH20 恩典時分 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech20.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "2897325425875681391",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH21 華語講員 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech21.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-8816994716297837368",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH24 劉三講古 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech24.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "6742271601988180366",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech27.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "2339800583152634933",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH28 現代詩歌 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech28.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "1658207496957739450",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH29 經典音樂河 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech29.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-4858804660722063522",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH3 真情部落格 短版 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech3.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-1357920256399600997",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech30.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "3890882610618423626",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH31 福音佈道音樂會 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech31.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "1660190565829303368",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech32.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "6168499322706406436",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH33 特會系列：研經培靈 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech33.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-4612070992227218855",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech38.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "2927963122656012724",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech40.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "9078950521148766043",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH45 卡通 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech45.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "1617879393084136050",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH47 牧者頻道 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech47.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-6445448099439935798",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH49 禱告頻道 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech49.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-3356595781341803268",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech5.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-7825457737525310429",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech50.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "6474666206965167810",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech6.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-8273205235411231950",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH7 禱告大軍 信息 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech7.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-5714464851926019729",
+    "quality": "HD"
+  },
+  {
+    "name": "GOOD TV CH9 愛+好醫生 短版 (720p)",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "url": "https://live.streamingfast.net/osmflivech9.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-6609861574185996843",
+    "quality": "HD"
+  },
+  {
+    "name": "Indigenous TV (720p)",
+    "logo": "https://i.imgur.com/vmk4F9u.png",
+    "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+    "group": "Culture",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-4423409112849964126",
+    "quality": "HD"
+  },
+  {
+    "name": "Supreme Master TV (720p)",
+    "logo": "https://i.imgur.com/kFMHayP.png",
+    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "2793266976731919512",
+    "quality": "HD"
+  },
+  {
+    "name": "Taiwan Indigenous TV (原住民電視) (720p)",
+    "logo": "https://i.imgur.com/QqIdVqz.png",
+    "url": "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+    "group": "General",
+    "country": "TW",
+    "is_premium": false,
+    "id": "5747607935055457569",
+    "quality": "HD"
+  },
+  {
+    "name": "Taiwan Plus TV (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "-5887398256807281979",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVBS Asia (1080p)",
+    "logo": "https://i.imgur.com/4S1rkhm.png",
+    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "TW",
+    "is_premium": false,
+    "id": "8629671346410650641",
+    "quality": "FHD"
+  },
+  {
+    "name": "中天新聞台 (1080p)",
+    "logo": "https://i.imgur.com/FZONZEr.png",
+    "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "3424171417003474080",
+    "quality": "FHD"
+  },
+  {
+    "name": "台视 (720p)",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "4298585350124296720",
+    "quality": "HD"
+  },
+  {
+    "name": "唯心電視 (480p)",
+    "logo": "https://i.imgur.com/s8tiTeb.png",
+    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "918361185437642904",
+    "quality": "SD"
+  },
+  {
+    "name": "天才衝衝衝 (1080p)",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
+    "group": "Taiwan",
+    "country": "TW",
+    "is_premium": false,
+    "id": "3457091899644490804",
+    "quality": "FHD"
+  },
+  {
+    "name": "東森購物60 (480p)",
+    "logo": "https://i.imgur.com/nvm6dyH.png",
+    "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8",
+    "group": "Shop",
+    "country": "TW",
+    "is_premium": false,
+    "id": "8854299822217937393",
+    "quality": "SD"
+  }
+]

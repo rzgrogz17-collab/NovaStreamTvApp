@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Alsat [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "9020747083179069411"
+  },
+  {
+    "name": "Cool TV (1080p)",
+    "logo": "https://i.imgur.com/rXJtthd.png",
+    "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "1686383014471230576",
+    "quality": "FHD"
+  },
+  {
+    "name": "Folk TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4b9aZ9P.png",
+    "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+    "group": "Music",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-9044632691841353904",
+    "quality": "FHD"
+  },
+  {
+    "name": "Jazz TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/CbQlSFX.png",
+    "url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
+    "group": "Music",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-6818009955647217975",
+    "quality": "FHD"
+  },
+  {
+    "name": "Kanal 5 (360p)",
+    "logo": "https://i.imgur.com/Qw7N3S2.png",
+    "url": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-3595047591160519058",
+    "quality": "SD"
+  },
+  {
+    "name": "Kanal 8 (720p)",
+    "logo": "https://i.imgur.com/jHbTDhH.png",
+    "url": "http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "2016709854458704388",
+    "quality": "HD"
+  },
+  {
+    "name": "M-Net Info (720p)",
+    "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
+    "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
+    "group": "News",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-72141037950110811",
+    "quality": "HD"
+  },
+  {
+    "name": "MRT 1 (480p)",
+    "logo": "https://i.imgur.com/EkkyAE0.png",
+    "url": "https://s1.teve.mk/tvstanici/6/playlist.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-2702741519177865733",
+    "quality": "SD"
+  },
+  {
+    "name": "MRT 2 [Geo-blocked]",
+    "logo": "https://i.imgur.com/YvOrUnN.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
+    "group": "Culture",
+    "country": "MK",
+    "is_premium": false,
+    "id": "6573395126018444275"
+  },
+  {
+    "name": "MRT Sobraniski kanal [Geo-blocked]",
+    "logo": "https://i.imgur.com/fyNQ8Nf.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
+    "group": "Legislative",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-6402226470972299993"
+  },
+  {
+    "name": "MTM 1 [Geo-blocked]",
+    "logo": "https://i.ibb.co/HCRZVVz/images-4.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
+    "group": "North Macedonia",
+    "country": "MK",
+    "is_premium": false,
+    "id": "7424380282300685940"
+  },
+  {
+    "name": "Naša TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9rB4VZy.png",
+    "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+    "group": "North Macedonia",
+    "country": "MK",
+    "is_premium": false,
+    "id": "741912790547165400",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rock TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Y9miDQo.png",
+    "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
+    "group": "Ghana",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-7454663627617910953",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sitel (480p)",
+    "logo": "https://i.imgur.com/pdobwKt.png",
+    "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-1984984713495791147",
+    "quality": "SD"
+  },
+  {
+    "name": "Sky Folk TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ya5xpUL.png",
+    "url": "https://eu.live.skyfolk.mk/live.m3u8",
+    "group": "Music",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-4827806036269557938",
+    "quality": "HD"
+  },
+  {
+    "name": "Sutel TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/hk3lhuF.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-8595646675274496918"
+  },
+  {
+    "name": "Telma TV (480p)",
+    "logo": "https://i.imgur.com/Fqunp0h.png",
+    "url": "http://135.125.204.34:8081/tvstanici/3/playlist.m3u8",
+    "group": "North Macedonia",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-2869886784556121318",
+    "quality": "SD"
+  },
+  {
+    "name": "TopEstrada TV (720p)",
+    "logo": "https://i.imgur.com/0Dh1FJZ.png",
+    "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+    "group": "Music",
+    "country": "MK",
+    "is_premium": false,
+    "id": "3205066093309513700",
+    "quality": "HD"
+  },
+  {
+    "name": "TV 24 (480p)",
+    "logo": "https://i.imgur.com/o5n40jq.png",
+    "url": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
+    "group": "Switzerland",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-4238330251335174006",
+    "quality": "SD"
+  },
+  {
+    "name": "TV ERA [Geo-blocked]",
+    "logo": "https://i.imgur.com/ds0uf7A.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
+    "group": "Entertainment",
+    "country": "MK",
+    "is_premium": false,
+    "id": "4597680151007948540"
+  },
+  {
+    "name": "TV NOVA 12 (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Qo3Hj3t.png",
+    "url": "http://151.236.247.171:8080/nova/index.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "4985412896775272518",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Orbis (720p)",
+    "logo": "https://i.imgur.com/TlzpQy6.png",
+    "url": "http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "2367825787893407530",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Shenja [Geo-blocked]",
+    "logo": "https://i.imgur.com/JsdUpB8.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
+    "group": "North Macedonia",
+    "country": "MK",
+    "is_premium": false,
+    "id": "6513597722061234835"
+  },
+  {
+    "name": "TV Zdravkin (400p)",
+    "logo": "https://i.imgur.com/w4rRUNQ.png",
+    "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-3589417882234246170"
+  },
+  {
+    "name": "TV21 [Geo-blocked]",
+    "logo": "https://i.imgur.com/IC1f4h3.png",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
+    "group": "General",
+    "country": "MK",
+    "is_premium": false,
+    "id": "-6149822377913050924"
+  }
+]

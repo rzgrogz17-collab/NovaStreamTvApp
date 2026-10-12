@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Exodus TV (720p)",
+    "logo": "https://i.imgur.com/WKr5ncQ.png",
+    "url": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+    "group": "Religious",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-7318613366971021519",
+    "quality": "HD"
+  },
+  {
+    "name": "Extreme+ (1080p)",
+    "logo": "https://i.imgur.com/NYfn2n6.png",
+    "url": "https://d3p1dbb9xrkmd5.cloudfront.net/scheduler/scheduleMaster/276.m3u8",
+    "group": "Xxx",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-136622653347545246",
+    "quality": "FHD"
+  },
+  {
+    "name": "Folx Slovenija (1080p)",
+    "logo": "https://i.imgur.com/RK1IASU.png",
+    "url": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
+    "group": "Music",
+    "country": "SI",
+    "is_premium": false,
+    "id": "3943264216206293924",
+    "quality": "FHD"
+  },
+  {
+    "name": "History Channel (1080p)",
+    "logo": "https://i.imgur.com/OWIK7FJ.png",
+    "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "group": "Documentary",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-6557157248062863337",
+    "quality": "FHD"
+  },
+  {
+    "name": "Kanal A",
+    "logo": "https://i.imgur.com/JHNpcqF.png",
+    "url": "https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "group": "General",
+    "country": "SI",
+    "is_premium": false,
+    "id": "3846477394444585313"
+  },
+  {
+    "name": "Pop TV",
+    "logo": "https://i.imgur.com/XySNnh0.png",
+    "url": "https://fl1.moveonjoy.com/Pop_TV/index.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "795548958358454769"
+  },
+  {
+    "name": "Radio Aktual (1080p)",
+    "logo": "https://i.imgur.com/HwO1h74.png",
+    "url": "https://vr1.radioaktual.si/hls/stream.m3u8",
+    "group": "Music",
+    "country": "SI",
+    "is_premium": false,
+    "id": "7315912752681778086",
+    "quality": "FHD"
+  },
+  {
+    "name": "SIP TV (1084p)",
+    "logo": "https://i.imgur.com/SkrpQ5l.png",
+    "url": "https://data.siptv.si/live-siptv/hls/index.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-6790055406138112521"
+  },
+  {
+    "name": "SLO 1",
+    "logo": "https://i.imgur.com/E3YmlxF.png",
+    "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-5486730072330138113"
+  },
+  {
+    "name": "SLO 2",
+    "logo": "https://i.imgur.com/OPlzjjv.png",
+    "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-4007762018938020412"
+  },
+  {
+    "name": "SLO 3",
+    "logo": "https://i.imgur.com/yPb2FKg.png",
+    "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "4504133501064124254"
+  },
+  {
+    "name": "Tržič TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/VZiaoqz.png",
+    "url": "https://vpn.video2go.live:444/trzic/tv/playlist.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-6399130517377498279",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV SLO 1 HD (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/E3YmlxF.png",
+    "url": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "724641188265810665",
+    "quality": "HD"
+  },
+  {
+    "name": "TV SLO 2 HD (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/OPlzjjv.png",
+    "url": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "8013159843398343030",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Veseljak Golica HD",
+    "logo": "https://i.imgur.com/49VrbSW.png",
+    "url": "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "1761175441244242725",
+    "quality": "HD"
+  },
+  {
+    "name": "Veseljak TV (1080p)",
+    "logo": "https://i.imgur.com/JtWEyXX.png",
+    "url": "https://vr.veseljak.tv/hls/stream.m3u8",
+    "group": "Slovenia",
+    "country": "SI",
+    "is_premium": false,
+    "id": "-3392271936433771681",
+    "quality": "FHD"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Al Masar TV (576p)",
+    "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+    "group": "News",
+    "country": "LY",
+    "is_premium": false,
+    "id": "-632272243009278780",
+    "quality": "SD"
+  },
+  {
+    "name": "Libya Al Wataniya (360p)",
+    "logo": "https://i.imgur.com/KSUny9D.jpeg",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+    "group": "General",
+    "country": "LY",
+    "is_premium": false,
+    "id": "-3036727400064833522",
+    "quality": "SD"
+  },
+  {
+    "name": "Tanasuh TV (1080p)",
+    "logo": "https://i.imgur.com/iBAhM2v.png",
+    "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+    "group": "General",
+    "country": "LY",
+    "is_premium": false,
+    "id": "7944518527871925015",
+    "quality": "FHD"
+  },
+  {
+    "name": "Wasat TV (1080p)",
+    "logo": "https://i.imgur.com/f9pL2NE.png",
+    "url": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
+    "group": "General",
+    "country": "LY",
+    "is_premium": false,
+    "id": "-3784177487097980196",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ланет.TV (486p)",
+    "logo": "https://i.imgur.com/Jdy4SoG.png",
+    "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
+    "group": "General",
+    "country": "LY",
+    "is_premium": false,
+    "id": "1527504395598352507"
+  }
+]

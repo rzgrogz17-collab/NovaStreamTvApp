@@ -1,0 +1,300 @@
+[
+  {
+    "name": "América TeVé (1080p)",
+    "logo": "https://i.imgur.com/K9o3mLP.png",
+    "url": "https://live.gideo.video/americateve2/master.m3u8",
+    "group": "General",
+    "country": "PR",
+    "is_premium": false,
+    "id": "4731470615108217910",
+    "quality": "FHD"
+  },
+  {
+    "name": "Buena TV (1080p)",
+    "logo": "https://i.imgur.com/tsajuxi.png",
+    "url": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "PR",
+    "is_premium": false,
+    "id": "3524797507524289198",
+    "quality": "FHD"
+  },
+  {
+    "name": "Candelita TV (480p)",
+    "logo": "https://i.imgur.com/34BvVDl.png",
+    "url": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-1891729652395280322",
+    "quality": "SD"
+  },
+  {
+    "name": "Caribbean Advantage TV (1080p) [Not 24/7]",
+    "logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
+    "url": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
+    "group": "General",
+    "country": "PR",
+    "is_premium": false,
+    "id": "4376873744648803879",
+    "quality": "FHD"
+  },
+  {
+    "name": "CDM Internacional (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/N7IneVk.png",
+    "url": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "4505555869254035648",
+    "quality": "SD"
+  },
+  {
+    "name": "CTNi (Christian Television Network International) (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/42UdwD0.png",
+    "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-3479248008603645866",
+    "quality": "SD"
+  },
+  {
+    "name": "DeFiance Media (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png",
+    "url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+    "group": "Business",
+    "country": "PR",
+    "is_premium": false,
+    "id": "1207480019417981734",
+    "quality": "FHD"
+  },
+  {
+    "name": "EBN Televisión (720p)",
+    "logo": "https://i.imgur.com/4OCptwT.png",
+    "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "2986698090352133683",
+    "quality": "HD"
+  },
+  {
+    "name": "Familia Visión HD [Not 24/7]",
+    "logo": "https://i.imgur.com/uqTH7m5.jpg",
+    "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "1083522948622906844",
+    "quality": "HD"
+  },
+  {
+    "name": "Faro de Santidad TV (720p)",
+    "logo": "https://i.imgur.com/GoNBFzI.png",
+    "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "195240650655006712",
+    "quality": "HD"
+  },
+  {
+    "name": "La-X (720p)",
+    "logo": "https://i.imgur.com/i2GnQTq.png",
+    "url": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
+    "group": "Music",
+    "country": "PR",
+    "is_premium": false,
+    "id": "1563189557800472379",
+    "quality": "HD"
+  },
+  {
+    "name": "Master Video (1080p)",
+    "logo": "https://i.imgur.com/0jj9Vx0.png",
+    "url": "https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-9306591155716130",
+    "quality": "FHD"
+  },
+  {
+    "name": "NotiUno TV (854p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qNdywBT.png",
+    "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
+    "group": "News",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-2732066707641298993"
+  },
+  {
+    "name": "Nueva Vida TV (720p)",
+    "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
+    "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "3859239806009261144",
+    "quality": "HD"
+  },
+  {
+    "name": "Paraíso TV (720p)",
+    "logo": "https://i.imgur.com/wE31GIP.jpg",
+    "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-4459503009855278994",
+    "quality": "HD"
+  },
+  {
+    "name": "Pura Palabra (718p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nl5vyIw.png",
+    "url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-2812188014822991722"
+  },
+  {
+    "name": "Radio Isla TV (720p)",
+    "logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
+    "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
+    "group": "News",
+    "country": "PR",
+    "is_premium": false,
+    "id": "644423872049202914",
+    "quality": "HD"
+  },
+  {
+    "name": "Salvación TV (720p)",
+    "logo": "https://i.imgur.com/6HOViG9.png",
+    "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "9152303091544051837",
+    "quality": "HD"
+  },
+  {
+    "name": "Telenorte (480p)",
+    "logo": "https://i.imgur.com/rvxjAO6.png",
+    "url": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8",
+    "group": "General",
+    "country": "PR",
+    "is_premium": false,
+    "id": "1137391382363582852",
+    "quality": "SD"
+  },
+  {
+    "name": "TeleOnce (1080p)",
+    "logo": "https://i.imgur.com/Crt3P4N.png",
+    "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "1462449301112661670",
+    "quality": "FHD"
+  },
+  {
+    "name": "The Retro Channel (1080p)",
+    "logo": "https://i.imgur.com/t3i1HtE.jpg",
+    "url": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "group": "Music",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-328510898747832839",
+    "quality": "FHD"
+  },
+  {
+    "name": "Triunfo 96.9 FM TV (360p)",
+    "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+    "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "6960210494433857339",
+    "quality": "SD"
+  },
+  {
+    "name": "WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/B7lqYZe.png",
+    "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "64873570845626961",
+    "quality": "HD"
+  },
+  {
+    "name": "WECN (Único TV) (720p)",
+    "logo": "https://i.imgur.com/NYBZBY0.png",
+    "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
+    "group": "Religious",
+    "country": "PR",
+    "is_premium": false,
+    "id": "9046414718007809862",
+    "quality": "HD"
+  },
+  {
+    "name": "WIPR (1080p)",
+    "logo": "https://i.imgur.com/MGJaxFO.png",
+    "url": "https://streamwipr.pr/hls/stream/index.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-7672384011136625930",
+    "quality": "FHD"
+  },
+  {
+    "name": "WKAQ-DT2 (Punto 2) (720p)",
+    "logo": "https://i.imgur.com/TL6xy4y.png",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "2821155006426281196",
+    "quality": "HD"
+  },
+  {
+    "name": "WRUA-DT1 (Tiva TV) (720p)",
+    "logo": "https://i.imgur.com/YtTlZq3.png",
+    "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "1513263974305114983",
+    "quality": "HD"
+  },
+  {
+    "name": "WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lAhIGsI.png",
+    "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "3495378913012334923",
+    "quality": "HD"
+  },
+  {
+    "name": "WXWZ-LD1 (MásTV Canal 23) (720p)",
+    "logo": "https://i.imgur.com/rjmGc9p.png",
+    "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+    "group": "Puerto Rico",
+    "country": "PR",
+    "is_premium": false,
+    "id": "2972396620419223750",
+    "quality": "HD"
+  },
+  {
+    "name": "WZNT (Zeta 93) (1080p) [Not 24/7]",
+    "logo": "https://i.ibb.co/KzqWLZR/images-57.jpg",
+    "url": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8",
+    "group": "Music",
+    "country": "PR",
+    "is_premium": false,
+    "id": "-1897640630601016642",
+    "quality": "FHD"
+  }
+]

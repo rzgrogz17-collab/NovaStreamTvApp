@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Altyn Asyr (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/D7RBtZ2.png",
+    "url": "https://alpha.tv.online.tm/hls/ch001.m3u8",
+    "group": "General",
+    "country": "TM",
+    "is_premium": false,
+    "id": "1297130500092972051"
+  },
+  {
+    "name": "Arkadag TV (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JdEb4Ug.png",
+    "url": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+    "group": "General",
+    "country": "TM",
+    "is_premium": false,
+    "id": "-7958151394372361786"
+  },
+  {
+    "name": "Aşgabat (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EzjR1vo.png",
+    "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+    "group": "General",
+    "country": "TM",
+    "is_premium": false,
+    "id": "-6387777764797384618"
+  },
+  {
+    "name": "Miras (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pWbJzr9.png",
+    "url": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+    "group": "Culture",
+    "country": "TM",
+    "is_premium": false,
+    "id": "-5163830664795407870"
+  },
+  {
+    "name": "Türkmen Owazy (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ap7l2jC.png",
+    "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+    "group": "Music",
+    "country": "TM",
+    "is_premium": false,
+    "id": "8973018079805960411"
+  },
+  {
+    "name": "Türkmenistan (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/iBBpBx4.png",
+    "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+    "group": "General",
+    "country": "TM",
+    "is_premium": false,
+    "id": "5944659829295758556"
+  },
+  {
+    "name": "Türkmenistan Sport (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/n6vITLu.png",
+    "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+    "group": "Sports",
+    "country": "TM",
+    "is_premium": false,
+    "id": "-4394505044291090718"
+  },
+  {
+    "name": "Ýaşlyk (406p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QVWBNGM.png",
+    "url": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+    "group": "Education",
+    "country": "TM",
+    "is_premium": false,
+    "id": "-4944773094075042445"
+  }
+]

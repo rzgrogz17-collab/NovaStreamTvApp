@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Chandel TV (720p)",
+    "logo": "https://i.imgur.com/jQO7dVE.png",
+    "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+    "group": "Entertainment",
+    "country": "TG",
+    "is_premium": false,
+    "id": "-14370079921303444",
+    "quality": "HD"
+  },
+  {
+    "name": "NW Economie (576p)",
+    "logo": "https://i.imgur.com/OmlFQa8.png",
+    "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+    "group": "Business",
+    "country": "TG",
+    "is_premium": false,
+    "id": "5251064768784932053",
+    "quality": "SD"
+  },
+  {
+    "name": "NW Info 2 EN (576p)",
+    "logo": "https://i.imgur.com/0W4GqFD.png",
+    "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+    "group": "Togo",
+    "country": "TG",
+    "is_premium": false,
+    "id": "1564382951855285878",
+    "quality": "SD"
+  },
+  {
+    "name": "NW Info FR (576p)",
+    "logo": "https://i.imgur.com/UDEY91v.png",
+    "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+    "group": "Togo",
+    "country": "TG",
+    "is_premium": false,
+    "id": "8639972845749042508",
+    "quality": "SD"
+  },
+  {
+    "name": "NW Magazine (576p)",
+    "logo": "https://i.imgur.com/RZNJZYN.png",
+    "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+    "group": "Entertainment",
+    "country": "TG",
+    "is_premium": false,
+    "id": "-4528460685155323804",
+    "quality": "SD"
+  },
+  {
+    "name": "RT JVA (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+    "group": "Religious",
+    "country": "TG",
+    "is_premium": false,
+    "id": "-4357376760941346800",
+    "quality": "HD"
+  },
+  {
+    "name": "SMA Togo TV (720p)",
+    "logo": "https://i.imgur.com/t91FPZf.png",
+    "url": "https://smatogo.tv:89/smatogo/smatogo.m3u8",
+    "group": "Religious",
+    "country": "TG",
+    "is_premium": false,
+    "id": "3862660665670526858",
+    "quality": "HD"
+  },
+  {
+    "name": "Television Espoir 47 (720p)",
+    "logo": "https://i.imgur.com/utBh0xL.png",
+    "url": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+    "group": "General",
+    "country": "TG",
+    "is_premium": false,
+    "id": "-6398913048817546267",
+    "quality": "HD"
+  }
+]

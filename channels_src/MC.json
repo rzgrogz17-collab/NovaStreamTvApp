@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Monaco Info (1080p)",
+    "logo": "https://i.imgur.com/FPyPaL1.png",
+    "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+    "group": "News",
+    "country": "MC",
+    "is_premium": false,
+    "id": "1174805208532868386",
+    "quality": "FHD"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "logo": "https://i.imgur.com/cgjgjE1.png",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "group": "International",
+    "country": "MC",
+    "is_premium": false,
+    "id": "2777039041476749448",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Monaco (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TVMonaco_2023.svg",
+    "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+    "group": "General",
+    "country": "MC",
+    "is_premium": false,
+    "id": "2656379771356379123",
+    "quality": "FHD"
+  }
+]

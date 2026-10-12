@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Canal Cvisión (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/WUq3NlG.png",
+    "url": "https://stream.cvision.live/cvision_stream.m3u8",
+    "group": "General",
+    "country": "NI",
+    "is_premium": false,
+    "id": "4790306990663726316",
+    "quality": "HD"
+  },
+  {
+    "name": "CooTel Nicaragua (1080p)",
+    "logo": "",
+    "url": "http://138.117.4.70:8075/channel9/playlist.m3u8",
+    "group": "General",
+    "country": "NI",
+    "is_premium": false,
+    "id": "-7918027726695977332",
+    "quality": "FHD"
+  },
+  {
+    "name": "Escúchame Radio TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/gt6UvG8.png",
+    "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+    "group": "Religious",
+    "country": "NI",
+    "is_premium": false,
+    "id": "-4600565450157926171",
+    "quality": "HD"
+  },
+  {
+    "name": "JBN Canal 39 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/vFi0FMZ.png",
+    "url": "https://hdbox.chunklistv.com/live?stream=jbn39",
+    "group": "Nicaragua",
+    "country": "NI",
+    "is_premium": false,
+    "id": "-8991365480997088859",
+    "quality": "HD"
+  },
+  {
+    "name": "MegaBox (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JqaW7Ei.png",
+    "url": "https://hdbox.chunklistv.com/live?stream=megabox",
+    "group": "Music",
+    "country": "NI",
+    "is_premium": false,
+    "id": "9014040943858828207",
+    "quality": "HD"
+  },
+  {
+    "name": "Olam Metro TV (720p)",
+    "logo": "https://i.imgur.com/dDZnyUA.jpeg",
+    "url": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+    "group": "Religious",
+    "country": "NI",
+    "is_premium": false,
+    "id": "7359318565170336939",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Visión de Dios Stereo (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ckY8DRW.jpg",
+    "url": "https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8",
+    "group": "Religious",
+    "country": "NI",
+    "is_premium": false,
+    "id": "2435516262739822693",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Centro Canal Regional (720p)",
+    "logo": "https://i.imgur.com/w5RYpcZ.png",
+    "url": "https://amixtv.com:19360/tvcentro/tvcentro.m3u8",
+    "group": "General",
+    "country": "NI",
+    "is_premium": false,
+    "id": "-6023960984687584782",
+    "quality": "HD"
+  },
+  {
+    "name": "TV45-3ABN Nicaragua (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/sI0msrn.png",
+    "url": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua",
+    "group": "Nicaragua",
+    "country": "NI",
+    "is_premium": false,
+    "id": "-7256888990550081419",
+    "quality": "HD"
+  },
+  {
+    "name": "TVONE Nicaragua (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/FNk6rdz.png",
+    "url": "https://hdbox.chunklistv.com/live?stream=tvone",
+    "group": "Music",
+    "country": "NI",
+    "is_premium": false,
+    "id": "-5223790265409594276",
+    "quality": "HD"
+  },
+  {
+    "name": "Vos TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rJ3xUec.png",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "group": "Bolivia",
+    "country": "NI",
+    "is_premium": false,
+    "id": "2143025738570738453",
+    "quality": "HD"
+  },
+  {
+    "name": "WTV Canal 20 (1080p)",
+    "logo": "https://i.imgur.com/nb81xeU.png",
+    "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "NI",
+    "is_premium": false,
+    "id": "241573417340904529",
+    "quality": "FHD"
+  }
+]

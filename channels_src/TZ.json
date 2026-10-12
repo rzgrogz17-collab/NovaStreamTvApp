@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dodoma TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bLq9eFa.png",
+    "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
+    "group": "General",
+    "country": "TZ",
+    "is_premium": false,
+    "id": "-1286502953124496247",
+    "quality": "SD"
+  },
+  {
+    "name": "IBN TV (480p)",
+    "logo": "https://i.imgur.com/hkV51ij.png",
+    "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+    "group": "Religious",
+    "country": "TZ",
+    "is_premium": false,
+    "id": "-5007234020502384867",
+    "quality": "SD"
+  },
+  {
+    "name": "IBN TV Africa (720p)",
+    "logo": "https://i.imgur.com/eKy2ocd.png",
+    "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+    "group": "Religious",
+    "country": "TZ",
+    "is_premium": false,
+    "id": "-6419864183567951659",
+    "quality": "HD"
+  },
+  {
+    "name": "TBC2 (1080p)",
+    "logo": "https://i.imgur.com/VkUJt2q.png",
+    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8",
+    "group": "Entertainment",
+    "country": "TZ",
+    "is_premium": false,
+    "id": "-2955956416460870105",
+    "quality": "FHD"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Abante TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+    "group": "News",
+    "country": "PH",
+    "is_premium": false,
+    "id": "5570835884314630263",
+    "quality": "FHD"
+  },
+  {
+    "name": "ANC (1080p)",
+    "logo": "https://i.imgur.com/odwRbRk.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+    "group": "News",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-3852810284289843762",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/iTH9Z0j.png",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "group": "News",
+    "country": "PH",
+    "is_premium": false,
+    "id": "4360375370433236070",
+    "quality": "FHD"
+  },
+  {
+    "name": "CCTN 47 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/IFpAmvW.png",
+    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+    "group": "Religious",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-5745992772999360963",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cinema One (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/cinema-one-ph.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
+    "group": "Movies",
+    "country": "PH",
+    "is_premium": false,
+    "id": "4560217914123986308",
+    "quality": "FHD"
+  },
+  {
+    "name": "CineMo (1080p)",
+    "logo": "https://i.imgur.com/rGAOD3f.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
+    "group": "Movies",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-5173391678987004812",
+    "quality": "FHD"
+  },
+  {
+    "name": "CLTV 36 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/IUcTFQ2.png",
+    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+    "group": "General",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-1339044038771626126",
+    "quality": "HD"
+  },
+  {
+    "name": "Kapamilya Channel (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/kapamilya-channel-ph.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
+    "group": "Entertainment",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-1966135849614371966",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mindanow Network TV (1080p)",
+    "logo": "https://i.imgur.com/xBlYirh.jpeg",
+    "url": "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+    "group": "General",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-5638181123872624538",
+    "quality": "FHD"
+  },
+  {
+    "name": "MYX (1080p)",
+    "logo": "https://i.imgur.com/pbHuUuV.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd",
+    "group": "Music",
+    "country": "PH",
+    "is_premium": false,
+    "id": "-744195495564929889",
+    "quality": "FHD"
+  },
+  {
+    "name": "Premier Sports (1080p)",
+    "logo": "https://i.imgur.com/BURPHzI.png",
+    "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
+    "group": "Sports",
+    "country": "PH",
+    "is_premium": false,
+    "id": "6461286642594011875",
+    "quality": "FHD"
+  },
+  {
+    "name": "Premier Sports 2 (1080p)",
+    "logo": "https://i.imgur.com/Fx1n84p.png",
+    "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+    "group": "Sports",
+    "country": "PH",
+    "is_premium": false,
+    "id": "3271613161876855072",
+    "quality": "FHD"
+  }
+]

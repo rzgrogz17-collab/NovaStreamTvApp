@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Diktyo TV (576p)",
+    "logo": "https://i.imgur.com/02V5ecC.jpg",
+    "url": "https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8",
+    "group": "General",
+    "country": "TT",
+    "is_premium": false,
+    "id": "6547558529145677188",
+    "quality": "SD"
+  },
+  {
+    "name": "Epiloges TV (480p)",
+    "logo": "https://i.imgur.com/3S4P7ob.png",
+    "url": "https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8",
+    "group": "General",
+    "country": "TT",
+    "is_premium": false,
+    "id": "5618562997601387219",
+    "quality": "SD"
+  },
+  {
+    "name": "Sankhya TV (720p)",
+    "logo": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
+    "url": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "TT",
+    "is_premium": false,
+    "id": "7180507310425032454",
+    "quality": "HD"
+  },
+  {
+    "name": "The Islamic Network (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EtQolw6.png",
+    "url": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8",
+    "group": "Religious",
+    "country": "TT",
+    "is_premium": false,
+    "id": "-8963166697131266701",
+    "quality": "SD"
+  },
+  {
+    "name": "Trinity TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/69igLlk.png",
+    "url": "https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8",
+    "group": "Religious",
+    "country": "TT",
+    "is_premium": false,
+    "id": "1438702984980670483",
+    "quality": "SD"
+  }
+]

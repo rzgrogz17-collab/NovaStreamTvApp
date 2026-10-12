@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Isibo TV",
+    "logo": "https://i.imgur.com/bXhEeTC.png",
+    "url": "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "RW",
+    "is_premium": false,
+    "id": "-7132333766504883252"
+  },
+  {
+    "name": "KC2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/PsYPzNc.png",
+    "url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8",
+    "group": "Entertainment",
+    "country": "RW",
+    "is_premium": false,
+    "id": "5993381882611041311",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Rwanda (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4nbGvxW.png",
+    "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
+    "group": "Rwanda",
+    "country": "RW",
+    "is_premium": false,
+    "id": "-8268335962132668292",
+    "quality": "SD"
+  },
+  {
+    "name": "TV10 (720p)",
+    "logo": "https://i.imgur.com/DeaWC1N.png",
+    "url": "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8",
+    "group": "General",
+    "country": "RW",
+    "is_premium": false,
+    "id": "2739217580504869483",
+    "quality": "HD"
+  }
+]

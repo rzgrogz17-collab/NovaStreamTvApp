@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Busuioc TV (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/CQtfBPu.png",
+    "url": "https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8",
+    "group": "Music",
+    "country": "MD",
+    "is_premium": false,
+    "id": "2028766082474137733"
+  },
+  {
+    "name": "Bălţi TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/S1vEqZp.png",
+    "url": "http://77.89.199.174:8000/play/1024/index.m3u8",
+    "group": "Moldova",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-4816329216679264983",
+    "quality": "FHD"
+  },
+  {
+    "name": "Moldova 1 (1080p)",
+    "logo": "https://i.imgur.com/ZbQY56v.png",
+    "url": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
+    "group": "General",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-4398849100740242624",
+    "quality": "FHD"
+  },
+  {
+    "name": "Moldova 2 (1080p)",
+    "logo": "https://i.imgur.com/Hv6Nk8A.png",
+    "url": "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8",
+    "group": "General",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-3140604239254981754",
+    "quality": "FHD"
+  },
+  {
+    "name": "Moldova TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/gPMlDCP.png",
+    "url": "http://89.38.8.130:39435",
+    "group": "General",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-2434297108680651279",
+    "quality": "SD"
+  },
+  {
+    "name": "Noroc TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/XvYqpqG.png",
+    "url": "https://live.noroc.tv/noroc/noroc.m3u8",
+    "group": "Music",
+    "country": "MD",
+    "is_premium": false,
+    "id": "5756857969176347126",
+    "quality": "SD"
+  },
+  {
+    "name": "Privesc.Eu TV (2160p)",
+    "logo": "https://i.imgur.com/ukBacSn.png",
+    "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+    "group": "Legislative",
+    "country": "MD",
+    "is_premium": false,
+    "id": "1945155209253877294"
+  },
+  {
+    "name": "PRO TV Chisinau (480p)",
+    "logo": "https://i.imgur.com/X5PYRxF.png",
+    "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
+    "group": "General",
+    "country": "MD",
+    "is_premium": false,
+    "id": "6489335962653379117",
+    "quality": "SD"
+  },
+  {
+    "name": "Publika TV (720p)",
+    "logo": "https://i.imgur.com/Vyx6wo5.png",
+    "url": "https://livebeta.publika.press/LIVE/P/6810.m3u8",
+    "group": "Moldova",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-3416902815006110894",
+    "quality": "HD"
+  },
+  {
+    "name": "Rlive TV (406p)",
+    "logo": "https://i.imgur.com/Ul4IIfX.png",
+    "url": "https://realitatealive.md/tv/rlive.m3u8",
+    "group": "News",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-72898989651947366"
+  },
+  {
+    "name": "Sor TV (720p)",
+    "logo": "https://i.imgur.com/BcfZgD8.png",
+    "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+    "group": "General",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-2799918186006024306",
+    "quality": "HD"
+  },
+  {
+    "name": "Tezaur TV (1080p)",
+    "logo": "https://i.imgur.com/eAagwLW.png",
+    "url": "https://tezaurtv.md/stream/index.m3u8",
+    "group": "Music",
+    "country": "MD",
+    "is_premium": false,
+    "id": "2399494007186664871",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Moldova (720p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+    "group": "General",
+    "country": "MD",
+    "is_premium": false,
+    "id": "-8957780889225199731",
+    "quality": "HD"
+  },
+  {
+    "name": "Vocea Basarabiei TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/irP8QLs.png",
+    "url": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+    "group": "Moldova",
+    "country": "MD",
+    "is_premium": false,
+    "id": "8342238062647312903",
+    "quality": "HD"
+  }
+]

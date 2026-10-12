@@ -1,0 +1,220 @@
+[
+  {
+    "name": "3ABN TV Uganda (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/mml9lI2.png",
+    "url": "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "3955216946117143988",
+    "quality": "HD"
+  },
+  {
+    "name": "Alpha Digital (480p)",
+    "logo": "https://i.imgur.com/sLt242H.png",
+    "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "1247012599403265628",
+    "quality": "SD"
+  },
+  {
+    "name": "Ark TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yCHNZXD.png",
+    "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "2429018015997755608",
+    "quality": "FHD"
+  },
+  {
+    "name": "BTV (480p)",
+    "logo": "https://i.imgur.com/5CZ6HHn.png",
+    "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "group": "General",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-195105843961674363",
+    "quality": "SD"
+  },
+  {
+    "name": "Bukedde TV 1 (576p)",
+    "logo": "https://i.imgur.com/HFq5QlJ.png",
+    "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+    "group": "General",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-3736456265944986762",
+    "quality": "SD"
+  },
+  {
+    "name": "Bukedde TV 2 (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ukwPZeY.png",
+    "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+    "group": "General",
+    "country": "UG",
+    "is_premium": false,
+    "id": "3548550418849777521",
+    "quality": "SD"
+  },
+  {
+    "name": "CCCO Aspire TV (676p)",
+    "logo": "https://i.imgur.com/33FHk1A.jpg",
+    "url": "https://panel.freedomflixtv.org:3948/hybrid/play.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-4394242528299075105"
+  },
+  {
+    "name": "COU Family Television (720p)",
+    "logo": "https://i.imgur.com/l53Eur6.png",
+    "url": "https://stream.castr.com/66b2205a464da535308e57e1/live_2c12d7a053f511ef9a978b0191f4a826/index.fmp4.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-5354443655391440240",
+    "quality": "HD"
+  },
+  {
+    "name": "Faraja Television (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/NmnOGHI.jpg",
+    "url": "https://panel.freedomflixtv.org:3868/hybrid/play.m3u8",
+    "group": "General",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-4738362619613782437",
+    "quality": "FHD"
+  },
+  {
+    "name": "FORT TV (480p)",
+    "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+    "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+    "group": "Entertainment",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-3169716287830459513",
+    "quality": "SD"
+  },
+  {
+    "name": "Freedom Experience TV (720p)",
+    "logo": "https://i.imgur.com/1SiJpPy.png",
+    "url": "https://panel.freedomflixtv.org:3934/hybrid/play.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "6837946873081216509",
+    "quality": "HD"
+  },
+  {
+    "name": "Freedom Love Zone TV (720p)",
+    "logo": "https://i.imgur.com/PmbLsTk.jpg",
+    "url": "https://panel.freedomflixtv.org:3665/hybrid/play.m3u8",
+    "group": "Entertainment",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-3809214549052859640",
+    "quality": "HD"
+  },
+  {
+    "name": "Freedom Movie Sphere (720p)",
+    "logo": "https://i.imgur.com/jEyrlPp.jpg",
+    "url": "https://panel.freedomflixtv.org:3311/stream/play.m3u8",
+    "group": "Movies",
+    "country": "UG",
+    "is_premium": false,
+    "id": "4442966628791871446",
+    "quality": "HD"
+  },
+  {
+    "name": "Galaxy TV (576p)",
+    "logo": "https://i.imgur.com/BV0JuyX.png",
+    "url": "https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8",
+    "group": "News",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-2246944030479809752",
+    "quality": "SD"
+  },
+  {
+    "name": "Ground TV",
+    "logo": "https://i.imgur.com/BqLHvvk.png",
+    "url": "https://panel.freedomflixtv.org:3764/hybrid/play.m3u8",
+    "group": "Music",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-3031659569819908160"
+  },
+  {
+    "name": "Host TV (720p)",
+    "logo": "https://i.imgur.com/quKplFg.jpg",
+    "url": "https://panel.freedomflixtv.org:3994/hybrid/play.m3u8",
+    "group": "Entertainment",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-8117801356923523154",
+    "quality": "HD"
+  },
+  {
+    "name": "KSTV Uganda (480p)",
+    "logo": "https://i.imgur.com/MMPzPSl.png",
+    "url": "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-5150080448328721011",
+    "quality": "SD"
+  },
+  {
+    "name": "Praise Jesus Tower TV (480p)",
+    "logo": "https://i.imgur.com/KT4qIve.png",
+    "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-5388237637792417467",
+    "quality": "SD"
+  },
+  {
+    "name": "Spirit Of Glory TV (360p)",
+    "logo": "https://i.imgur.com/tR3Vfco.png",
+    "url": "https://panel.freedomflixtv.org:3937/hybrid/play.m3u8",
+    "group": "Religious",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-4361449627577786963",
+    "quality": "SD"
+  },
+  {
+    "name": "Trust TV (720p)",
+    "logo": "https://i.imgur.com/01k6voZ.png",
+    "url": "https://panel.freedomflixtv.org:3900/hybrid/play.m3u8",
+    "group": "News",
+    "country": "UG",
+    "is_premium": false,
+    "id": "7257577016295783184",
+    "quality": "HD"
+  },
+  {
+    "name": "TV West (720p)",
+    "logo": "https://i.imgur.com/EiJzkIz.png",
+    "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+    "group": "Netherlands",
+    "country": "UG",
+    "is_premium": false,
+    "id": "7026864262345406477",
+    "quality": "HD"
+  },
+  {
+    "name": "Wan Luo TV (576p)",
+    "logo": "https://i.imgur.com/4PUUp3E.png",
+    "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+    "group": "General",
+    "country": "UG",
+    "is_premium": false,
+    "id": "-987060373399297623",
+    "quality": "SD"
+  }
+]

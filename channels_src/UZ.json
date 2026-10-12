@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Aqlvoy (480p)",
+    "logo": "https://i.imgur.com/ekF5cAi.png",
+    "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+    "group": "Kids",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "7336786825718129066",
+    "quality": "SD"
+  },
+  {
+    "name": "BIZ Cinema (1080p)",
+    "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+    "group": "Movies",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-233084784403579045",
+    "quality": "FHD"
+  },
+  {
+    "name": "BIZ Music (1080p)",
+    "logo": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+    "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+    "group": "Music",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "1727484088791371933",
+    "quality": "FHD"
+  },
+  {
+    "name": "BIZ TV (1080p)",
+    "logo": "https://biztv.uz/static/media/logo.5f993187.png",
+    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
+    "group": "Business",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "6098673099340879685",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bolajon (576p)",
+    "logo": "https://i.imgur.com/s7o0ifu.png",
+    "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+    "group": "Kids",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "2914929219962304546",
+    "quality": "SD"
+  },
+  {
+    "name": "Dasturxon TV (576p)",
+    "logo": "https://i.imgur.com/APM2ej5.jpeg",
+    "url": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "2299380959820643851",
+    "quality": "SD"
+  },
+  {
+    "name": "Dunyo bo'ylab (1080p)",
+    "logo": "https://i.imgur.com/KArB5U6.png",
+    "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-4986146782757778268",
+    "quality": "FHD"
+  },
+  {
+    "name": "FTV (576p)",
+    "logo": "https://i.imgur.com/7lpISyN.jpg",
+    "url": "https://stream8.cinerama.uz/1018/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "2105370055655060592",
+    "quality": "SD"
+  },
+  {
+    "name": "Kinoteatr (1080p)",
+    "logo": "https://i.imgur.com/emH1BgC.png",
+    "url": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
+    "group": "Movies",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-5673680133314521827",
+    "quality": "FHD"
+  },
+  {
+    "name": "Madaniyat va ma'rifat (576p)",
+    "logo": "https://i.imgur.com/eeNLXCP.png",
+    "url": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "3745479576916532761",
+    "quality": "SD"
+  },
+  {
+    "name": "Mahalla (576p)",
+    "logo": "https://i.imgur.com/GtABiJI.png",
+    "url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
+    "group": "Uzbekistan",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "5933860193334357191",
+    "quality": "SD"
+  },
+  {
+    "name": "Milliy (1080p)",
+    "logo": "https://i.imgur.com/v4FBm26.png",
+    "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "7766342838733509929",
+    "quality": "FHD"
+  },
+  {
+    "name": "MY5 (576p)",
+    "logo": "https://i.imgur.com/bjlzu5k.png",
+    "url": "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "3128268523968403171",
+    "quality": "SD"
+  },
+  {
+    "name": "Navo (576p)",
+    "logo": "https://i.imgur.com/7dZ64y9.png",
+    "url": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "920461718582747325",
+    "quality": "SD"
+  },
+  {
+    "name": "O'zbekiston (576p)",
+    "logo": "https://i.imgur.com/QUIIhTD.png",
+    "url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-603619854188943538",
+    "quality": "SD"
+  },
+  {
+    "name": "O'zbekiston 24 (1080p)",
+    "logo": "https://i.imgur.com/VRFhKbw.png",
+    "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
+    "group": "News",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-8164191852643241942",
+    "quality": "FHD"
+  },
+  {
+    "name": "O'zbekiston Tarixi (1080p)",
+    "logo": "https://i.imgur.com/iTTd3Ir.png",
+    "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+    "group": "Documentary",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "6724672218196161007",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qaraqalpaqstan (720p)",
+    "logo": "https://i.imgur.com/G3qrUJh.png",
+    "url": "https://stream8.cinerama.uz/1467/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "4604499051771663513",
+    "quality": "HD"
+  },
+  {
+    "name": "Renessans TV (576p)",
+    "logo": "https://i.imgur.com/cVlcqCX.png",
+    "url": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "8230577392381087810",
+    "quality": "SD"
+  },
+  {
+    "name": "Sevimli TV (1080p)",
+    "logo": "https://i.imgur.com/iMwzRlr.png",
+    "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
+    "group": "Family",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-5476673216803187992",
+    "quality": "FHD"
+  },
+  {
+    "name": "Toshkent (576p)",
+    "logo": "https://i.imgur.com/Z9R4nZg.png",
+    "url": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-17383433399118564",
+    "quality": "SD"
+  },
+  {
+    "name": "UzReport TV (1080p)",
+    "logo": "https://i.imgur.com/Bch2RHc.jpg",
+    "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+    "group": "News",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "9212849579344190979",
+    "quality": "FHD"
+  },
+  {
+    "name": "Yoshlar (1080p)",
+    "logo": "https://i.imgur.com/s4xfUSx.png",
+    "url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
+    "group": "General",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-5076445279656612726",
+    "quality": "FHD"
+  },
+  {
+    "name": "Zo'r TV (576p)",
+    "logo": "https://i.imgur.com/NuzyhVM.png",
+    "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
+    "group": "Entertainment",
+    "country": "UZ",
+    "is_premium": false,
+    "id": "-8790492602344395973",
+    "quality": "SD"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "name": "98.1 Pearl FM (720p)",
+    "logo": "https://i.imgur.com/GY750xh.jpg",
+    "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "group": "Music",
+    "country": "SX",
+    "is_premium": false,
+    "id": "-2477370725557957949",
+    "quality": "HD"
+  },
+  {
+    "name": "Nolan Nanton Productions (720p) [Not 24/7]",
+    "logo": "",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8",
+    "group": "General",
+    "country": "SX",
+    "is_premium": false,
+    "id": "-7520358723376992754",
+    "quality": "HD"
+  },
+  {
+    "name": "TVCARiB Cinema (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+    "group": "Movies",
+    "country": "SX",
+    "is_premium": false,
+    "id": "7145217415871962683",
+    "quality": "HD"
+  },
+  {
+    "name": "TVCARiB Gospel (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+    "group": "Religious",
+    "country": "SX",
+    "is_premium": false,
+    "id": "7523438275122040244",
+    "quality": "SD"
+  },
+  {
+    "name": "TVCARiB Kids & Teens (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "group": "Kids",
+    "country": "SX",
+    "is_premium": false,
+    "id": "-3323990203859897648",
+    "quality": "HD"
+  },
+  {
+    "name": "TVCARiB Latino (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+    "group": "Entertainment",
+    "country": "SX",
+    "is_premium": false,
+    "id": "8040126141478598592",
+    "quality": "HD"
+  },
+  {
+    "name": "Unife TV",
+    "logo": "https://i.imgur.com/lVpDLVU.png",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
+    "group": "Religious",
+    "country": "SX",
+    "is_premium": false,
+    "id": "-1567023911877760186"
+  }
+]

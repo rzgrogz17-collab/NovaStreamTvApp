@@ -1,0 +1,553 @@
+[
+  {
+    "name": "AsianBox (720p)",
+    "logo": "https://i.imgur.com/WAYZSgx.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
+    "group": "Entertainment",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-6830753954681407228",
+    "quality": "HD"
+  },
+  {
+    "name": "Auto TV (720p)",
+    "logo": "https://i.imgur.com/FRnE50u.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8",
+    "group": "Auto",
+    "country": "MN",
+    "is_premium": false,
+    "id": "2424614727484351567",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC Earth Asia (720p)",
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-8063166371197110502",
+    "quality": "HD"
+  },
+  {
+    "name": "BBC News Asia Pacific (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-2724024680577031247",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bloomberg TV Mongolia HD (720p)",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+    "group": "Business",
+    "country": "MN",
+    "is_premium": false,
+    "id": "6334929685242202897",
+    "quality": "HD"
+  },
+  {
+    "name": "C1 (720p)",
+    "logo": "https://i.imgur.com/v1mHG5x.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "386801445572096250",
+    "quality": "HD"
+  },
+  {
+    "name": "CBeebies Asia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-8965242686993416838",
+    "quality": "HD"
+  },
+  {
+    "name": "Central TV (720p)",
+    "logo": "https://i.imgur.com/E9wAUrT.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-7686189535881258753",
+    "quality": "HD"
+  },
+  {
+    "name": "Channel 11 (720p)",
+    "logo": "https://i.imgur.com/GztOajC.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "7870869546491450386",
+    "quality": "HD"
+  },
+  {
+    "name": "Cinema",
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+    "group": "Movies",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-8185624961915860700"
+  },
+  {
+    "name": "CNBC MGL (720p)",
+    "logo": "https://i.ibb.co/kcpSwmK/cnbce.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8",
+    "group": "News",
+    "country": "MN",
+    "is_premium": false,
+    "id": "7974398563719920218",
+    "quality": "HD"
+  },
+  {
+    "name": "Dream TV (480p)",
+    "logo": "https://i.imgur.com/XRUDhqQ.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
+    "group": "Entertainment",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-6576249226604732182",
+    "quality": "SD"
+  },
+  {
+    "name": "Dream TV (720p)",
+    "logo": "https://i.imgur.com/YPbvzgV.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
+    "group": "Entertainment",
+    "country": "MN",
+    "is_premium": false,
+    "id": "692897895268424895",
+    "quality": "HD"
+  },
+  {
+    "name": "Eagle News HD (720p)",
+    "logo": "https://i.imgur.com/2oqXpve.jpg",
+    "url": "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+    "group": "News",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-1880089144198166666",
+    "quality": "HD"
+  },
+  {
+    "name": "Education (1080p)",
+    "logo": "https://i.imgur.com/0m8t3vh.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd",
+    "group": "Mongolia",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-9150781702858336412",
+    "quality": "FHD"
+  },
+  {
+    "name": "ETV (720p)",
+    "logo": "https://i.imgur.com/qTO3g37.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "2360415248917536741",
+    "quality": "HD"
+  },
+  {
+    "name": "Gandan TV (720p)",
+    "logo": "https://i.imgur.com/z18PSIo.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8",
+    "group": "Religious",
+    "country": "MN",
+    "is_premium": false,
+    "id": "912535174753692942",
+    "quality": "HD"
+  },
+  {
+    "name": "Global TV",
+    "logo": "https://i.imgur.com/Es5FX4z.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8",
+    "group": "Music",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-7717032430736667947"
+  },
+  {
+    "name": "Global TV (720p)",
+    "logo": "https://i.imgur.com/1rQaROm.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd",
+    "group": "Music",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-9222921644224401106",
+    "quality": "HD"
+  },
+  {
+    "name": "Lotus Macau HD (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7j8Lnog.png",
+    "url": "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8",
+    "group": "Macao",
+    "country": "MN",
+    "is_premium": false,
+    "id": "3633210119796011147",
+    "quality": "HD"
+  },
+  {
+    "name": "Malchin TV (720p)",
+    "logo": "https://i.imgur.com/vCdEBZo.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8",
+    "group": "Culture",
+    "country": "MN",
+    "is_premium": false,
+    "id": "4314512097165692244",
+    "quality": "HD"
+  },
+  {
+    "name": "MN25 (1080p)",
+    "logo": "https://i.imgur.com/F3MMJMd.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "6560029667476754851",
+    "quality": "FHD"
+  },
+  {
+    "name": "MNB (1080p)",
+    "logo": "https://i.imgur.com/RdRd0to.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-7318026870094242708",
+    "quality": "FHD"
+  },
+  {
+    "name": "MNB Sport (1080p)",
+    "logo": "https://i.imgur.com/z854PC3.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+    "group": "Sports",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-4603600642733211508",
+    "quality": "FHD"
+  },
+  {
+    "name": "MNB World (1080p)",
+    "logo": "https://i.imgur.com/PHlj84Q.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-2561401534695534275",
+    "quality": "FHD"
+  },
+  {
+    "name": "MNB Гэр бүл (1080p) [Not 24/7]",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/2.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-3450255773783893424",
+    "quality": "FHD"
+  },
+  {
+    "name": "MNB Гэр бүл (576p)",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/2.png",
+    "url": "https://live.mnb.mn/hls/mnb_family.stream.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-5230896926858833696",
+    "quality": "SD"
+  },
+  {
+    "name": "MNB Монголын Мэдээ (1080p)",
+    "logo": "https://i.imgur.com/KUvJzUD.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-2792291186421256316",
+    "quality": "FHD"
+  },
+  {
+    "name": "MNC (720p)",
+    "logo": "https://i.imgur.com/gMVqbwU.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+    "group": "News",
+    "country": "MN",
+    "is_premium": false,
+    "id": "3114686708408588825",
+    "quality": "HD"
+  },
+  {
+    "name": "MovieBox (720p)",
+    "logo": "https://i.imgur.com/xeO1Zb4.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+    "group": "Movies",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-4203690639501525441",
+    "quality": "HD"
+  },
+  {
+    "name": "NTV (1080p)",
+    "logo": "https://i.imgur.com/2JbqbPY.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "7926899079364066598",
+    "quality": "FHD"
+  },
+  {
+    "name": "ONTV (720p)",
+    "logo": "https://i.imgur.com/EzODUBO.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
+    "group": "India",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-8221452812238696056",
+    "quality": "HD"
+  },
+  {
+    "name": "Popcorn (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Popcorn_-_Studio_-_2011.jpg/330px-Popcorn_-_Studio_-_2011.jpg",
+    "url": "https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-1806443035265237283",
+    "quality": "HD"
+  },
+  {
+    "name": "Premier Sports 1 (480p)",
+    "logo": "https://i.imgur.com/t5qCejI.png",
+    "url": "http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8",
+    "group": "Sports",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-4645428188838852751",
+    "quality": "SD"
+  },
+  {
+    "name": "Premier Sports 2",
+    "logo": "https://i.imgur.com/eMNWhDq.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8",
+    "group": "Sports",
+    "country": "MN",
+    "is_premium": false,
+    "id": "740183858618683780"
+  },
+  {
+    "name": "Premier Sports 4 (480p)",
+    "logo": "https://i.imgur.com/XHBJ7UB.png",
+    "url": "http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8",
+    "group": "Sports",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-5125686472345577115",
+    "quality": "SD"
+  },
+  {
+    "name": "Premier Sports 5 (480p)",
+    "logo": "https://i.imgur.com/LkIe9gR.png",
+    "url": "http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8",
+    "group": "Sports",
+    "country": "MN",
+    "is_premium": false,
+    "id": "4687971884571301314",
+    "quality": "SD"
+  },
+  {
+    "name": "SBN (720p)",
+    "logo": "https://i.imgur.com/E3fvpwn.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "5287217254445488057",
+    "quality": "HD"
+  },
+  {
+    "name": "Seven Channel (480p)",
+    "logo": "https://i.imgur.com/9Ld5ATz.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8",
+    "group": "Mongolia",
+    "country": "MN",
+    "is_premium": false,
+    "id": "7509603374248390391",
+    "quality": "SD"
+  },
+  {
+    "name": "Star TV (1080p)",
+    "logo": "https://i.imgur.com/R6hxJgl.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+    "group": "Entertainment",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-4276048410676469090",
+    "quality": "FHD"
+  },
+  {
+    "name": "Suld TV (720p)",
+    "logo": "https://i.imgur.com/CnLxehv.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8",
+    "group": "Mongolia",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-3109122214884717635",
+    "quality": "HD"
+  },
+  {
+    "name": "TenGer TV (720p)",
+    "logo": "https://i.imgur.com/MmPvkcO.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "8891734473064060751",
+    "quality": "HD"
+  },
+  {
+    "name": "TM TV (720p)",
+    "logo": "https://i.imgur.com/Bza9r7U.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-5128470969956852395",
+    "quality": "HD"
+  },
+  {
+    "name": "TV5 (1080p)",
+    "logo": "https://i.imgur.com/asGQfGN.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "6240880638790152627",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV7 (720p)",
+    "logo": "https://i.imgur.com/N2gSCGT.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8",
+    "group": "Religious",
+    "country": "MN",
+    "is_premium": false,
+    "id": "8025501537652415227",
+    "quality": "HD"
+  },
+  {
+    "name": "TV8 (720p)",
+    "logo": "https://i.imgur.com/EguOdxW.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "8983744991193886532",
+    "quality": "HD"
+  },
+  {
+    "name": "TV9 (1080i)",
+    "logo": "https://i.imgur.com/aVgM9CA.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+    "group": "Legislative",
+    "country": "MN",
+    "is_premium": false,
+    "id": "3369256700936637629"
+  },
+  {
+    "name": "UBS (1080p)",
+    "logo": "https://i.imgur.com/dIRMYYd.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "30679033013806464",
+    "quality": "FHD"
+  },
+  {
+    "name": "Домашний International",
+    "logo": "https://i.imgur.com/nf7GRXb.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
+    "group": "Kids",
+    "country": "MN",
+    "is_premium": false,
+    "id": "5905143223850978080"
+  },
+  {
+    "name": "Карусель International",
+    "logo": "https://i.imgur.com/DnlngRZ.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "8268796135017528059"
+  },
+  {
+    "name": "Перец International",
+    "logo": "https://i.imgur.com/On6ggLe.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "1890439579596999925"
+  },
+  {
+    "name": "РЕН ТВ International",
+    "logo": "https://i.imgur.com/gBjk9oF.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-8985313952339992217"
+  },
+  {
+    "name": "Соён Гэгээрүүлэгч (720p)",
+    "logo": "https://i.imgur.com/iBZVvtW.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8",
+    "group": "Mongolia",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-2816407269142295114",
+    "quality": "HD"
+  },
+  {
+    "name": "СТС International",
+    "logo": "https://i.imgur.com/mwiC0RG.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
+    "group": "International",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-2307313328661100022"
+  },
+  {
+    "name": "Хөгжим (720p)",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8",
+    "group": "General",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-1060221448512849566",
+    "quality": "HD"
+  },
+  {
+    "name": "Өлзий ТВ (720p)",
+    "logo": "https://i.imgur.com/p7tsUTI.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
+    "group": "Mongolia",
+    "country": "MN",
+    "is_premium": false,
+    "id": "-3788242573197494928",
+    "quality": "HD"
+  }
+]

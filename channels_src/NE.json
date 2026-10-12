@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dounia TV",
+    "logo": "https://i.imgur.com/ENBCDaQ.png",
+    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
+    "group": "General",
+    "country": "NE",
+    "is_premium": false,
+    "id": "7873992693859209398"
+  },
+  {
+    "name": "Saraounia TV",
+    "logo": "https://i.imgur.com/O8XIcpH.png",
+    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8",
+    "group": "General",
+    "country": "NE",
+    "is_premium": false,
+    "id": "-6077672697112379240"
+  },
+  {
+    "name": "Tal TV",
+    "logo": "https://i.imgur.com/KWMP0t1.png",
+    "url": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
+    "group": "Entertainment",
+    "country": "NE",
+    "is_premium": false,
+    "id": "6135954255169445014"
+  },
+  {
+    "name": "Tele Sahel",
+    "logo": "https://i.imgur.com/vboq428.png",
+    "url": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
+    "group": "General",
+    "country": "NE",
+    "is_premium": false,
+    "id": "-8013944346149385062"
+  }
+]

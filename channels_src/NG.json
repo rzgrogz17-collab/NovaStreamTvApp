@@ -1,0 +1,395 @@
+[
+  {
+    "name": "ACNN (480p)",
+    "logo": "https://i.imgur.com/91JLpxr.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "61277616698395015",
+    "quality": "SD"
+  },
+  {
+    "name": "Advocate Broadcasting Network (576p)",
+    "logo": "https://i.imgur.com/ZkBEAp7.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
+    "group": "News",
+    "country": "NG",
+    "is_premium": false,
+    "id": "5891259291980629051",
+    "quality": "SD"
+  },
+  {
+    "name": "AMusic Channel (720p)",
+    "logo": "https://i.imgur.com/06zuf64.png",
+    "url": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+    "group": "Music",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-6747449134419163673",
+    "quality": "HD"
+  },
+  {
+    "name": "Approval TV (720p)",
+    "logo": "https://storage.approvaltv.com/2026/03/approvallogo.png",
+    "url": "https://live.approvaltv.com/approvaltv/index.m3u8",
+    "group": "General",
+    "country": "NG",
+    "is_premium": false,
+    "id": "4421546236389462294",
+    "quality": "HD"
+  },
+  {
+    "name": "BCS StarCross TV (576p)",
+    "logo": "https://i.imgur.com/VKv1Y6p.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
+    "group": "General",
+    "country": "NG",
+    "is_premium": false,
+    "id": "3054069638429625170",
+    "quality": "SD"
+  },
+  {
+    "name": "Bride TV (576p)",
+    "logo": "https://i.imgur.com/snZMucg.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-3207534682079003222",
+    "quality": "SD"
+  },
+  {
+    "name": "Channels 24",
+    "logo": "https://i.imgur.com/ww5zNmY.png",
+    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8",
+    "group": "News",
+    "country": "NG",
+    "is_premium": false,
+    "id": "6226848900029016380"
+  },
+  {
+    "name": "Channels TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
+    "url": "https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8",
+    "group": "News",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-8297585894676969153"
+  },
+  {
+    "name": "Chosen TV English (360p)",
+    "logo": "https://www.lyngsat.com/logo/tv/cc/chosen-tv-ng.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "3634078691235705832",
+    "quality": "SD"
+  },
+  {
+    "name": "Coza TV (576p)",
+    "logo": "https://i.imgur.com/QVBdpuF.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "2198558746420921988",
+    "quality": "SD"
+  },
+  {
+    "name": "Flame TV (576p)",
+    "logo": "https://i.imgur.com/ORKcnzr.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "509798748027517001",
+    "quality": "SD"
+  },
+  {
+    "name": "Itage TV",
+    "logo": "https://i.imgur.com/FP1aUPw.jpg",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+    "group": "Movies",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-36877053032102865"
+  },
+  {
+    "name": "LoveWorld Arabic (360p)",
+    "logo": "https://i.imgur.com/KYMjRjK.png",
+    "url": "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "3803268882161109272",
+    "quality": "SD"
+  },
+  {
+    "name": "LoveWorld Persia (720p)",
+    "logo": "https://i.imgur.com/Vd2xPxh.png",
+    "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "2678100308535825979",
+    "quality": "HD"
+  },
+  {
+    "name": "Loveworld TV (1080p) [Not 24/7]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/loveworld-uk.png",
+    "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "5345229145615243221",
+    "quality": "FHD"
+  },
+  {
+    "name": "LoveWorld USA (720p)",
+    "logo": "https://i.imgur.com/KYMjRjK.png",
+    "url": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "4473542836791357863",
+    "quality": "HD"
+  },
+  {
+    "name": "LoveworldSAT (1080p)",
+    "logo": "https://i.imgur.com/Fg65XCS.png",
+    "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "9180693344961905801",
+    "quality": "FHD"
+  },
+  {
+    "name": "Master's TV (720p)",
+    "logo": "https://www.lyngsat.com/logo/tv/mm/masters-tv-ng.png",
+    "url": "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-3542071992759068785",
+    "quality": "HD"
+  },
+  {
+    "name": "New Vision TV (360p)",
+    "logo": "https://i.imgur.com/D6u3ThD.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
+    "group": "News",
+    "country": "NG",
+    "is_premium": false,
+    "id": "6112146837006943886",
+    "quality": "SD"
+  },
+  {
+    "name": "News Central",
+    "logo": "https://i.imgur.com/qvCgI8N.png",
+    "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+    "group": "News",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-1557578207157306944"
+  },
+  {
+    "name": "Nigbati (720p) [Not 24/7]",
+    "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+    "group": "Culture",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-4407284752618875445",
+    "quality": "HD"
+  },
+  {
+    "name": "NTA International (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/mN8j8CR.png",
+    "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
+    "group": "Culture",
+    "country": "NG",
+    "is_premium": false,
+    "id": "9005991238539283976",
+    "quality": "SD"
+  },
+  {
+    "name": "OSBC TV (480p)",
+    "logo": "https://i.imgur.com/lj9WEq8.png",
+    "url": "https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8",
+    "group": "General",
+    "country": "NG",
+    "is_premium": false,
+    "id": "6247573802834576053",
+    "quality": "SD"
+  },
+  {
+    "name": "Phenomenal Life TV (1080p)",
+    "logo": "https://i.imgur.com/JHbhLuK.jpg",
+    "url": "https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "8997997937721691451",
+    "quality": "FHD"
+  },
+  {
+    "name": "Plus TV Africa (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/6RT3yao.png",
+    "url": "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-4363076363164439041",
+    "quality": "HD"
+  },
+  {
+    "name": "Qausain TV (720p)",
+    "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+    "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+    "group": "Culture",
+    "country": "NG",
+    "is_premium": false,
+    "id": "6807284086316526545",
+    "quality": "HD"
+  },
+  {
+    "name": "Rave TV (576p)",
+    "logo": "https://i.imgur.com/pXKQE0G.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "6711080881235383310",
+    "quality": "SD"
+  },
+  {
+    "name": "Salvation TV (576p)",
+    "logo": "https://i.imgur.com/Nb08dfK.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-7205378272494495553",
+    "quality": "SD"
+  },
+  {
+    "name": "Silverbird News 24 (576p)",
+    "logo": "https://i.imgur.com/9jcV9oG.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8",
+    "group": "News",
+    "country": "NG",
+    "is_premium": false,
+    "id": "7182325707060156697",
+    "quality": "SD"
+  },
+  {
+    "name": "Soundcity TV",
+    "logo": "https://i.imgur.com/fKtPcT4.png",
+    "url": "https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "7189548290637529459"
+  },
+  {
+    "name": "Sunna TV (576p)",
+    "logo": "https://i.imgur.com/K2Snk2T.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-8362097048822288406",
+    "quality": "SD"
+  },
+  {
+    "name": "Superscreen TV (412p)",
+    "logo": "https://i.imgur.com/uTNmSWE.png",
+    "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+    "group": "Culture",
+    "country": "NG",
+    "is_premium": false,
+    "id": "2168124809079448174"
+  },
+  {
+    "name": "Synagogue TV (576p)",
+    "logo": "https://i.imgur.com/MOaBr9M.png",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "4190075218971260090",
+    "quality": "SD"
+  },
+  {
+    "name": "TVC (1080p)",
+    "logo": "https://i.imgur.com/ReV8R5S.png",
+    "url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8",
+    "group": "General",
+    "country": "NG",
+    "is_premium": false,
+    "id": "6474432084816461272",
+    "quality": "FHD"
+  },
+  {
+    "name": "Waffi TV (240p)",
+    "logo": "https://i.imgur.com/3uEuzVH.jpeg",
+    "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8",
+    "group": "General",
+    "country": "NG",
+    "is_premium": false,
+    "id": "1899192133896904696"
+  },
+  {
+    "name": "Wap TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Djng8pI.png",
+    "url": "https://newproxy3.vidivu.tv/waptv/index.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "984970748744793218",
+    "quality": "HD"
+  },
+  {
+    "name": "Wazobia Max TV Abuja (720p)",
+    "logo": "https://i.imgur.com/XYMKPPT.png",
+    "url": "https://wazobia.live:8333/channel/wmaxabuja.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-5199701487241999063",
+    "quality": "HD"
+  },
+  {
+    "name": "Wazobia Max TV Nigeria (720p)",
+    "logo": "https://i.imgur.com/IeioxBp.png",
+    "url": "https://wazobia.live:8333/channel/wmax.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-1527244882415911860",
+    "quality": "HD"
+  },
+  {
+    "name": "Wazobia Max TV Port Harcourt (720p)",
+    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+    "group": "Nigeria",
+    "country": "NG",
+    "is_premium": false,
+    "id": "-4825822503362671015",
+    "quality": "HD"
+  },
+  {
+    "name": "Whole Word TV (720p)",
+    "logo": "https://i.imgur.com/71MRtuK.png",
+    "url": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8",
+    "group": "Religious",
+    "country": "NG",
+    "is_premium": false,
+    "id": "1460908280584433949",
+    "quality": "HD"
+  }
+]

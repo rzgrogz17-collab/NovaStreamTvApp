@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Berita RTM [Geo-blocked]",
+    "logo": "https://i.imgur.com/1Xzxsgl.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "group": "News",
+    "country": "MY",
+    "is_premium": false,
+    "id": "5129977215675002886"
+  },
+  {
+    "name": "CinemaWorld (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/D2qNVZ7.png",
+    "url": "https://cdn.qd.je/163189/cinemaworld",
+    "group": "International",
+    "country": "MY",
+    "is_premium": false,
+    "id": "3509925498150870819",
+    "quality": "SD"
+  },
+  {
+    "name": "Dunia Sinema (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/dunia-sinema-asi.png",
+    "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+    "group": "Movies",
+    "country": "MY",
+    "is_premium": false,
+    "id": "-5586866620808106867",
+    "quality": "FHD"
+  },
+  {
+    "name": "Egg Network (720p)",
+    "logo": "https://i.imgur.com/VyYo7NF.png",
+    "url": "http://210.210.155.37/uq2663/h/h22/index.m3u8",
+    "group": "Malaysia",
+    "country": "MY",
+    "is_premium": false,
+    "id": "6873874511223023821",
+    "quality": "HD"
+  },
+  {
+    "name": "Maah TV (720p)",
+    "logo": "https://i.imgur.com/FkyueH6.png",
+    "url": "https://hls.maahtv.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "MY",
+    "is_premium": false,
+    "id": "-2358433204871300473",
+    "quality": "HD"
+  },
+  {
+    "name": "Okey [Geo-blocked]",
+    "logo": "https://i.imgur.com/V2jREQ5.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+    "group": "General",
+    "country": "MY",
+    "is_premium": false,
+    "id": "6450770413422107331"
+  },
+  {
+    "name": "PRO Sport International",
+    "logo": "https://i.postimg.cc/7hjCP4mf/PROSport-International.png",
+    "url": "https://proshls.wns.live/hls/stream.m3u8",
+    "group": "Sports",
+    "country": "MY",
+    "is_premium": false,
+    "id": "-4306037869016664441"
+  },
+  {
+    "name": "RTM ASEAN",
+    "logo": "https://i.imgur.com/skAiUxg.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+    "group": "Brunei",
+    "country": "MY",
+    "is_premium": false,
+    "id": "7098643378659300192"
+  },
+  {
+    "name": "RTM Parlimen (Dewan Negara) [Geo-blocked]",
+    "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+    "group": "Malaysia",
+    "country": "MY",
+    "is_premium": false,
+    "id": "-8767820871310410366"
+  },
+  {
+    "name": "RTM Parlimen (Dewan Rakyat) [Geo-blocked]",
+    "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+    "group": "Malaysia",
+    "country": "MY",
+    "is_premium": false,
+    "id": "4048855871808862903"
+  },
+  {
+    "name": "SelangorTV (1080p)",
+    "logo": "https://www.google.com/s2/favicons?domain=selangortv.my&sz=128",
+    "url": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
+    "group": "General",
+    "country": "MY",
+    "is_premium": false,
+    "id": "-1746066194058159635",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sukan RTM [Geo-blocked]",
+    "logo": "https://i.imgur.com/1pYYSu2.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+    "group": "Malaysia",
+    "country": "MY",
+    "is_premium": false,
+    "id": "3674153852928297798"
+  },
+  {
+    "name": "Suke TV (720p)",
+    "logo": "https://i.imgur.com/hCwH3s0.png",
+    "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
+    "group": "Shop",
+    "country": "MY",
+    "is_premium": false,
+    "id": "2365969530512702294",
+    "quality": "HD"
+  },
+  {
+    "name": "TV+ 2",
+    "logo": "https://i.ibb.co/b25bhDc/TV-MAS-2.png",
+    "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+    "group": "Denmark",
+    "country": "MY",
+    "is_premium": false,
+    "id": "8220958355555157850"
+  },
+  {
+    "name": "TV1 (1080p)",
+    "logo": "https://i.imgur.com/wSyPmiY.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+    "group": "General",
+    "country": "MY",
+    "is_premium": false,
+    "id": "6349552771447344760",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV6 [Geo-blocked]",
+    "logo": "https://i.imgur.com/bK8UH9D.png",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "group": "Entertainment",
+    "country": "MY",
+    "is_premium": false,
+    "id": "-8184957194643688888"
+  },
+  {
+    "name": "TVIKIM (1080p)",
+    "logo": "https://i.imgur.com/X6JKNEE.png",
+    "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
+    "group": "Malaysia",
+    "country": "MY",
+    "is_premium": false,
+    "id": "2371843719952025660",
+    "quality": "FHD"
+  }
+]

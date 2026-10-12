@@ -1,0 +1,396 @@
+[
+  {
+    "name": "AS3 Sport TV (1080p)",
+    "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+    "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+    "group": "Sports",
+    "country": "VE",
+    "is_premium": false,
+    "id": "5444581549092735429",
+    "quality": "FHD"
+  },
+  {
+    "name": "Barinas TV (720p) [Not 24/7]",
+    "logo": "https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png",
+    "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-128643979905446448",
+    "quality": "HD"
+  },
+  {
+    "name": "BTA TV (720p)",
+    "logo": "https://i.imgur.com/vygOosC.png",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "5185342724025643807",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 21 Táchira (360p)",
+    "logo": "https://i.imgur.com/7Tb7CF4.jpg",
+    "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "7345136254285965289",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal Diplomático (720p) [Not 24/7]",
+    "logo": "https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png",
+    "url": "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8",
+    "group": "Culture",
+    "country": "VE",
+    "is_premium": false,
+    "id": "7892454914271805918",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal I (720p)",
+    "logo": "https://i.imgur.com/vKfOavW.png",
+    "url": "https://streaming.canal-i.com/canal-i/live/master.m3u8",
+    "group": "News",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-4178446604600042108",
+    "quality": "HD"
+  },
+  {
+    "name": "Catatumbo TV (406p)",
+    "logo": "https://i.imgur.com/LBI2la0.png",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "6584645606910722215"
+  },
+  {
+    "name": "GlobalTV (480p) [Not 24/7]",
+    "logo": "https://imgur.com/hzM9D9L.jpg",
+    "url": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
+    "group": "Music",
+    "country": "VE",
+    "is_premium": false,
+    "id": "6433999792217644160",
+    "quality": "SD"
+  },
+  {
+    "name": "Grande TV [Not 24/7]",
+    "logo": "https://i.imgur.com/jxCirrP.png",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-2752612371438715613"
+  },
+  {
+    "name": "Guaro TV (1080p)",
+    "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
+    "url": "https://stream.guarotv.net:3592/hybrid/play.m3u8",
+    "group": "Entertainment",
+    "country": "VE",
+    "is_premium": false,
+    "id": "6643104709571504628",
+    "quality": "FHD"
+  },
+  {
+    "name": "interTV (1080p)",
+    "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
+    "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
+    "group": "Sports",
+    "country": "VE",
+    "is_premium": false,
+    "id": "3925804699565718240",
+    "quality": "FHD"
+  },
+  {
+    "name": "Isla TV (480p)",
+    "logo": "https://i.imgur.com/l11Ixhi.jpeg",
+    "url": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-3543994104790234510",
+    "quality": "SD"
+  },
+  {
+    "name": "Lara en Redes TV (1080p)",
+    "logo": "https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg",
+    "url": "https://streamtv.laraenredes.com:3020/hybrid/play.m3u8",
+    "group": "Venezuela",
+    "country": "VE",
+    "is_premium": false,
+    "id": "2199312055357247204",
+    "quality": "FHD"
+  },
+  {
+    "name": "Latina TV (1080p)",
+    "logo": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
+    "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "1643322852460368431",
+    "quality": "FHD"
+  },
+  {
+    "name": "Más Talk (1080p)",
+    "logo": "https://i.imgur.com/unE2LGz.jpg",
+    "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+    "group": "Entertainment",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-4361132586148601187",
+    "quality": "FHD"
+  },
+  {
+    "name": "Meridiano TV",
+    "logo": "https://i.imgur.com/I6gsUqD.png",
+    "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+    "group": "Sports",
+    "country": "VE",
+    "is_premium": false,
+    "id": "8640020333055633108"
+  },
+  {
+    "name": "Onza TV (720p)",
+    "logo": "https://i.imgur.com/usrP6T2.png",
+    "url": "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "3971925258816475826",
+    "quality": "HD"
+  },
+  {
+    "name": "Plous TV (1080p)",
+    "logo": "https://i.imgur.com/OSet4en.png",
+    "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+    "group": "International",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-8438744931719255755",
+    "quality": "FHD"
+  },
+  {
+    "name": "PortuTV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jHUSfGz.png",
+    "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-5959363680125007201",
+    "quality": "SD"
+  },
+  {
+    "name": "PromarTV (1080p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "4683195540686090288",
+    "quality": "FHD"
+  },
+  {
+    "name": "Reforma TV (1080p)",
+    "logo": "https://i.imgur.com/iZMDddR.png",
+    "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+    "group": "Religious",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-7550910949739804967",
+    "quality": "FHD"
+  },
+  {
+    "name": "Siembra TV [Not 24/7]",
+    "logo": "https://i.imgur.com/zRX91Xr.png",
+    "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
+    "group": "Music",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-4067819899845526677"
+  },
+  {
+    "name": "TAM TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+    "url": "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-7125014955206315667",
+    "quality": "HD"
+  },
+  {
+    "name": "TeleAragua (480p)",
+    "logo": "https://i.imgur.com/jPzcb2S.png",
+    "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "2043206588307259183",
+    "quality": "SD"
+  },
+  {
+    "name": "Telecolor (480p)",
+    "logo": "https://i.imgur.com/YvdzJHj.png",
+    "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-5045372105916958854",
+    "quality": "SD"
+  },
+  {
+    "name": "Telesur (480p)",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+    "group": "News",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-4934379673444332334",
+    "quality": "SD"
+  },
+  {
+    "name": "Telesur English (480p)",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+    "group": "Venezuela",
+    "country": "VE",
+    "is_premium": false,
+    "id": "7024010848774771513",
+    "quality": "SD"
+  },
+  {
+    "name": "Telesur English HD (1080p)",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "group": "Venezuela",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-4811162823268470867",
+    "quality": "HD"
+  },
+  {
+    "name": "Telesur HD (1080p)",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "group": "News",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-4578007060951008953",
+    "quality": "HD"
+  },
+  {
+    "name": "TNO Radio (720p)",
+    "logo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+    "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "2825250008845878813",
+    "quality": "HD"
+  },
+  {
+    "name": "Torococo TV (720p) [Not 24/7]",
+    "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
+    "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "5827227152945386523",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Familia (720p)",
+    "logo": "https://i.imgur.com/A3bU5e7.png",
+    "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
+    "group": "Family",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-480442565059124174",
+    "quality": "HD"
+  },
+  {
+    "name": "TVO",
+    "logo": "https://i.imgur.com/MhloaFB.png",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "6015544841352955601"
+  },
+  {
+    "name": "TVS (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/a2YX1oj.jpg",
+    "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "6507453842598236623"
+  },
+  {
+    "name": "UN24 (720p)",
+    "logo": "https://i.imgur.com/nGJlulj.png",
+    "url": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
+    "group": "News",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-6118937658252931719",
+    "quality": "HD"
+  },
+  {
+    "name": "UniTV (720p)",
+    "logo": "https://i.imgur.com/KLGeznX.png",
+    "url": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-2521241928708444851",
+    "quality": "HD"
+  },
+  {
+    "name": "Vale TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/NMI2Wed.png",
+    "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-7911032091791440092",
+    "quality": "SD"
+  },
+  {
+    "name": "Venevision (480p)",
+    "logo": "https://i.imgur.com/gm1m8hW.png",
+    "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "7287698185571331708",
+    "quality": "SD"
+  },
+  {
+    "name": "Venevisión Internacional (720p)",
+    "logo": "https://i.imgur.com/vtGED07.jpg",
+    "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "-8930964305789905408",
+    "quality": "HD"
+  },
+  {
+    "name": "Vepaco TV (480p)",
+    "logo": "https://i.imgur.com/0bqJksL.png",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+    "group": "General",
+    "country": "VE",
+    "is_premium": false,
+    "id": "5273996262488919236",
+    "quality": "SD"
+  }
+]

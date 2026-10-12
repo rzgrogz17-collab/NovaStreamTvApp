@@ -1,0 +1,256 @@
+[
+  {
+    "name": "Agape TV (720p)",
+    "logo": "https://i.imgur.com/DsGmrnc.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "5769336049810099942",
+    "quality": "HD"
+  },
+  {
+    "name": "Árbol de Vida TV (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4sGDc4X.jpg",
+    "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "5517366002596698148"
+  },
+  {
+    "name": "Canal 11 TuTV (349p)",
+    "logo": "https://i.imgur.com/itqQEux.png",
+    "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-740947378763357672"
+  },
+  {
+    "name": "Canal 12 (220p)",
+    "logo": "https://i.imgur.com/UGDbp3O.png",
+    "url": "http://186.33.26.18:8000/play/a0nw/index.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "169534898533753735"
+  },
+  {
+    "name": "Canal 15 El Zamorano [Not 24/7]",
+    "logo": "https://i.imgur.com/op13ujg.png",
+    "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-4089762869847085168"
+  },
+  {
+    "name": "Canal 2 (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Nn8BtH5.png",
+    "url": "http://186.33.26.18:8000/play/a0qp/index.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-994817443636136221",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal 26 TV IAP (1080p)",
+    "logo": "https://i.imgur.com/JE7FsnN.png",
+    "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-1710870072814600362",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal 3 Impresionante (480p)",
+    "logo": "https://i.imgur.com/mdfiWG9.png",
+    "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "4186735329929703777",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal 65 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/P15QovY.png",
+    "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-1876856660155904843",
+    "quality": "FHD"
+  },
+  {
+    "name": "El Camino TV (480p)",
+    "logo": "https://i.imgur.com/ZSktjGB.png",
+    "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-2666286163248795765",
+    "quality": "SD"
+  },
+  {
+    "name": "GSG TV (720p)",
+    "logo": "https://i.imgur.com/8fZnNu0.png",
+    "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-7651049204446235155",
+    "quality": "HD"
+  },
+  {
+    "name": "Hiperconectados TV",
+    "logo": "https://i.imgur.com/CBbbrkI.png",
+    "url": "https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8",
+    "group": "International",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-763236387591531826"
+  },
+  {
+    "name": "JFV TV (720p)",
+    "logo": "https://i.imgur.com/SrmI6nU.jpeg",
+    "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-5178932289928580409",
+    "quality": "HD"
+  },
+  {
+    "name": "Josué TV (1080p)",
+    "logo": "https://i.imgur.com/LNWGe1D.jpg",
+    "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "2183598158098106437",
+    "quality": "FHD"
+  },
+  {
+    "name": "Legislative Assembly of El Salvador (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/OBuiCyb.png",
+    "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
+    "group": "Legislative",
+    "country": "SV",
+    "is_premium": false,
+    "id": "2648062402461726848",
+    "quality": "FHD"
+  },
+  {
+    "name": "Megavisión Canal 21 (720p)",
+    "logo": "https://i.imgur.com/HbdYU9k.png",
+    "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-7212845148987374200",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Canal 57 (720p)",
+    "logo": "https://i.imgur.com/tnOGWqL.png",
+    "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-2684305097720873561",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Católica Canal 40 (1080p)",
+    "logo": "https://i.imgur.com/MIlw7GI.png",
+    "url": "https://stream.giostreaming.app/canal40/canal40.m3u8",
+    "group": "El Salvador",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-4089669093821437355",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sol TV Morazán (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jaBxxpt.png",
+    "url": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
+    "group": "El Salvador",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-6439808805874430485",
+    "quality": "FHD"
+  },
+  {
+    "name": "Taber TV (1080p)",
+    "logo": "https://i.imgur.com/ikq2iSf.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "8008326276845095597",
+    "quality": "FHD"
+  },
+  {
+    "name": "TribunaTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/C5vHpd0.png",
+    "url": "https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8",
+    "group": "News",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-7836716679270424698",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Getsemaní (720p)",
+    "logo": "https://i.imgur.com/C9SJCcE.jpg",
+    "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-2845399581861513489",
+    "quality": "HD"
+  },
+  {
+    "name": "TV León de Judá (720p)",
+    "logo": "https://i.imgur.com/ZUCppwi.png",
+    "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+    "group": "Religious",
+    "country": "SV",
+    "is_premium": false,
+    "id": "6863720542749202437",
+    "quality": "HD"
+  },
+  {
+    "name": "TVC Network (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/S1xiWB3.png",
+    "url": "https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8",
+    "group": "General",
+    "country": "SV",
+    "is_premium": false,
+    "id": "453335566383490084",
+    "quality": "HD"
+  },
+  {
+    "name": "TVCa Televisión Católica Arquidiocesana (720p)",
+    "logo": "https://i.imgur.com/uPWWtCA.png",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+    "group": "El Salvador",
+    "country": "SV",
+    "is_premium": false,
+    "id": "-4512619097332976496",
+    "quality": "HD"
+  },
+  {
+    "name": "TVM El Salvador [Not 24/7]",
+    "logo": "https://i.imgur.com/fyCC8R6.png",
+    "url": "https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8",
+    "group": "News",
+    "country": "SV",
+    "is_premium": false,
+    "id": "2346104128148061963"
+  }
+]

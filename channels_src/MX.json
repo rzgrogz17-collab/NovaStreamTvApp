@@ -1,0 +1,1128 @@
+[
+  {
+    "name": "8NTV (1080p)",
+    "logo": "https://i.imgur.com/7ecgGIG.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "3127357406946694084",
+    "quality": "FHD"
+  },
+  {
+    "name": "ADN 40 (720p)",
+    "logo": "https://i.imgur.com/Og17U9N.png",
+    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7239373457166577933",
+    "quality": "HD"
+  },
+  {
+    "name": "Alcance TV (720p)",
+    "logo": "https://i.imgur.com/5nYjRlb.png",
+    "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+    "group": "Religious",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-8753732677059122997",
+    "quality": "HD"
+  },
+  {
+    "name": "AMX Noticias (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/snIU1UA.jpg",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1255006470324999967",
+    "quality": "HD"
+  },
+  {
+    "name": "Antena TV (1080p)",
+    "logo": "https://i.imgur.com/1sAgSME.png",
+    "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "4245168798950272762",
+    "quality": "FHD"
+  },
+  {
+    "name": "Azteca 7",
+    "logo": "https://i.imgur.com/UtFXjIn.png",
+    "url": "https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "96051726-b82f-5a7b-aada-5470af522b93"
+  },
+  {
+    "name": "Azteca 7 (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/UtFXjIn.png",
+    "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-3812916230863272686",
+    "quality": "HD"
+  },
+  {
+    "name": "Azteca Internacional (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
+    "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+    "group": "Entertainment",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5930137559374666451",
+    "quality": "FHD"
+  },
+  {
+    "name": "Azteca Uno (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/rRxgBtI.png",
+    "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7309454120482903020",
+    "quality": "HD"
+  },
+  {
+    "name": "B15 Fresnillo (1080p)",
+    "logo": "https://i.imgur.com/kaUhEQy.png",
+    "url": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "3756565400261788653",
+    "quality": "FHD"
+  },
+  {
+    "name": "B15 Zacatecas (1080p)",
+    "logo": "https://i.imgur.com/kaUhEQy.png",
+    "url": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "970023030505152067",
+    "quality": "FHD"
+  },
+  {
+    "name": "California Medios TV (720p)",
+    "logo": "https://i.imgur.com/IDvpRNI.png",
+    "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1611693707343766168",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 10 Cancún (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TvTn3hO.png",
+    "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5843967393654775954",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 10 Chiapas (720p)",
+    "logo": "https://i.imgur.com/dw6puHC.png",
+    "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6972042453359775767",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 22 Nacional (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/6qiYvhe.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-8988386797061764737",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 26 Aguascalientes (1080p)",
+    "logo": "https://i.imgur.com/PAvnVN9.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8923875615020269993",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal 28 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lr4MZFg.png",
+    "url": "https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "4307991452944809655",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 33 Tijuana (720p)",
+    "logo": "https://iili.io/JCt1Nbn.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-4060142074887175214",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 44 Chihuahua (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/YDp8MlN.png",
+    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7549252903498952988",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 44 Ciudad Juárez (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/oRudPXX.png",
+    "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-421995878267400877",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 5 TV Cozumel (1080p)",
+    "logo": "https://i.imgur.com/0nzNMuP.jpeg",
+    "url": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6854777748249396941",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal del Congreso 45.1",
+    "logo": "https://i.imgur.com/xAC6gQO.png",
+    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "group": "Legislative",
+    "country": "MX",
+    "is_premium": false,
+    "id": "7689977194193384118"
+  },
+  {
+    "name": "Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fLpkHfZ.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "group": "Legislative",
+    "country": "MX",
+    "is_premium": false,
+    "id": "3340024508059948833",
+    "quality": "HD"
+  },
+  {
+    "name": "Capital 21",
+    "logo": "https://i.imgur.com/8ign49i.png",
+    "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+    "group": "Culture",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6b4aea37-7dd7-5a27-be78-0ce4837a5dde"
+  },
+  {
+    "name": "Conecta TV (720p)",
+    "logo": "https://i.imgur.com/qEk0QGa.png",
+    "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+    "group": "Entertainment",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-446241626428040218",
+    "quality": "HD"
+  },
+  {
+    "name": "CreaLaTV (1080p)",
+    "logo": "https://i.imgur.com/Bnjj29f.png",
+    "url": "https://stream.crealatv.com/live.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1487030587567456765",
+    "quality": "FHD"
+  },
+  {
+    "name": "Eclipse TV (720p)",
+    "logo": "https://i.imgur.com/GiDD8xG.jpg",
+    "url": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5004182951498609076",
+    "quality": "HD"
+  },
+  {
+    "name": "Expresa TV (720p)",
+    "logo": "https://i.imgur.com/kFVVGrg.png",
+    "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2709668128404637146",
+    "quality": "HD"
+  },
+  {
+    "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Hiz2OyC.png",
+    "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+    "group": "Movies",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6924736483236467853",
+    "quality": "FHD"
+  },
+  {
+    "name": "Filmex Clásico (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/D3dj4mv.png",
+    "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+    "group": "Movies",
+    "country": "MX",
+    "is_premium": false,
+    "id": "3430466661948458697",
+    "quality": "FHD"
+  },
+  {
+    "name": "GikTVMx (480p)",
+    "logo": "https://i.imgur.com/Gwz78jZ.png",
+    "url": "https://pistream.ddns.net/hls/stream.m3u8",
+    "group": "Culture",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2534783962462424040",
+    "quality": "SD"
+  },
+  {
+    "name": "Golden TV (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/NNd1lYl.png",
+    "url": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
+    "group": "International",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5130159928932201804"
+  },
+  {
+    "name": "ICRTV Colima (1080p)",
+    "logo": "https://i.imgur.com/iUks0ot.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+    "group": "Legislative",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-4836636883329665723",
+    "quality": "FHD"
+  },
+  {
+    "name": "IERTBCS Canal 8 La Paz (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/R3icGuG.png",
+    "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "363841010563144113",
+    "quality": "FHD"
+  },
+  {
+    "name": "IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/R3icGuG.png",
+    "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-8035596731706408917",
+    "quality": "FHD"
+  },
+  {
+    "name": "ITV Deportes",
+    "logo": "https://iili.io/J1kV1Bn.png",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+    "group": "Entertainment",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8730852850532367954"
+  },
+  {
+    "name": "Jalisco TV (720p)",
+    "logo": "https://i.imgur.com/N4meE8I.png",
+    "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "group": "Culture",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6392680263181015157",
+    "quality": "HD"
+  },
+  {
+    "name": "Justicia TV (720p)",
+    "logo": "https://i.imgur.com/zyAS1hk.png",
+    "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+    "group": "Legislative",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6406894362003432755",
+    "quality": "HD"
+  },
+  {
+    "name": "Las Estrellas (1080p)",
+    "logo": "https://i.imgur.com/g5ShxZ7.png",
+    "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "3467995148844314780",
+    "quality": "FHD"
+  },
+  {
+    "name": "Lobo TV (720p)",
+    "logo": "https://i.imgur.com/3fA50RJ.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "group": "Music",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-6538401388544826960",
+    "quality": "HD"
+  },
+  {
+    "name": "María Visión Mexico (360p) [Not 24/7]",
+    "logo": "https://i.postimg.cc/Ghy9ZLBy/mariavision.png",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7266276415031526414",
+    "quality": "SD"
+  },
+  {
+    "name": "Mexiquense TV (720p)",
+    "logo": "https://i.imgur.com/iVfzakA.png",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-2811864041057726631",
+    "quality": "HD"
+  },
+  {
+    "name": "Milenio Television (720p)",
+    "logo": "https://i.imgur.com/TG1T5Oh.png",
+    "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-4725048891725750197",
+    "quality": "HD"
+  },
+  {
+    "name": "MiSURtv (1080p)",
+    "logo": "https://i.imgur.com/qStNac7.png",
+    "url": "https://stream8.mexiserver.com:1936/misurtv/misurtv/playlist.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-9208743826430488289",
+    "quality": "FHD"
+  },
+  {
+    "name": "Monte Maria (1080p)",
+    "logo": "https://i.imgur.com/0rMHbbM.png",
+    "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+    "group": "Religious",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5072273193192135168",
+    "quality": "FHD"
+  },
+  {
+    "name": "Multimedios Bajío (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-2224929316922456173",
+    "quality": "HD"
+  },
+  {
+    "name": "Multimedios CDMX",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "ddb0e899-dfea-5134-a3fa-9855a2ddf0a8"
+  },
+  {
+    "name": "Multimedios Ciudad Juárez (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1384936694793235235",
+    "quality": "HD"
+  },
+  {
+    "name": "Multimedios Guadalajara (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2987661873664606438",
+    "quality": "HD"
+  },
+  {
+    "name": "Multimedios Laguna (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-8886209332622966295",
+    "quality": "HD"
+  },
+  {
+    "name": "Multimedios Monterrey (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8569583044623043930",
+    "quality": "HD"
+  },
+  {
+    "name": "Multimedios Puebla (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-2880406383467168924",
+    "quality": "HD"
+  },
+  {
+    "name": "Multimedios Saltillo (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-6784920243504424157",
+    "quality": "HD"
+  },
+  {
+    "name": "MVS TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/TcB37yV.png",
+    "url": "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-2600641403768892911"
+  },
+  {
+    "name": "MyTime Movie Network",
+    "logo": "https://i.imgur.com/pw4NZK1.png",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "group": "Movies",
+    "country": "MX",
+    "is_premium": false,
+    "id": "46336486-87f9-5d94-b0a5-d6493548c150"
+  },
+  {
+    "name": "Nayarit Comunica (1080p)",
+    "logo": "https://i.imgur.com/aZCTkjU.jpg",
+    "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "3763643141137298987",
+    "quality": "FHD"
+  },
+  {
+    "name": "Notigram TV (XHFGL-TDT) (1080p)",
+    "logo": "https://i.imgur.com/9ZXCQvy.png",
+    "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "1174667674911212543",
+    "quality": "FHD"
+  },
+  {
+    "name": "NRT México Internacional (720p)",
+    "logo": "https://i.imgur.com/W2E0fSy.png",
+    "url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24nrt/playlist.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7138581159791376606",
+    "quality": "HD"
+  },
+  {
+    "name": "NRT México Región Carbonífera (720p)",
+    "logo": "https://i.imgur.com/ZqFJhAk.jpg",
+    "url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal10nrt/playlist.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5563752972700539805",
+    "quality": "HD"
+  },
+  {
+    "name": "NRT México Región Centro (720p)",
+    "logo": "https://i.imgur.com/yjNUzYD.jpg",
+    "url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal4mva_all/playlist.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8303195768306226367",
+    "quality": "HD"
+  },
+  {
+    "name": "NRT México Región Sureste (720p)",
+    "logo": "https://i.imgur.com/rxVVrZV.jpg",
+    "url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal6nrt_all/playlist.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "254643274125464535",
+    "quality": "HD"
+  },
+  {
+    "name": "Nueve TV San Luís Potosí (720p)",
+    "logo": "https://i.imgur.com/3fzB7zY.png",
+    "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "1287487720378478310",
+    "quality": "HD"
+  },
+  {
+    "name": "Once México (1080p)",
+    "logo": "https://i.imgur.com/K0351vF.png",
+    "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "4368626715102850565",
+    "quality": "FHD"
+  },
+  {
+    "name": "Presumiendo México (720p)",
+    "logo": "https://i.imgur.com/bFG4Rqz.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "group": "Culture",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2137014654413068177",
+    "quality": "HD"
+  },
+  {
+    "name": "PSN (288p)",
+    "logo": "https://i.imgur.com/7i7GkSL.png",
+    "url": "https://srspsn.live/live/livestream.m3u8",
+    "group": "United States",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-8131017082178658555"
+  },
+  {
+    "name": "PSN Canal 45.2 (288p)",
+    "logo": "https://i.imgur.com/7i7GkSL.png",
+    "url": "https://srspsn2.live/live/livestream.m3u8",
+    "group": "News",
+    "country": "MX",
+    "is_premium": false,
+    "id": "262652510979423175"
+  },
+  {
+    "name": "Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EW2z5Ko.jpg",
+    "url": "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8",
+    "group": "Religious",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5296993205760789389",
+    "quality": "FHD"
+  },
+  {
+    "name": "Radiotele Morelia (352p)",
+    "logo": "https://i.imgur.com/XpcCZvu.png",
+    "url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8300161100962488254"
+  },
+  {
+    "name": "Raly TV (720p)",
+    "logo": "https://i.imgur.com/W8a1dIa.png",
+    "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5173232388031859768",
+    "quality": "HD"
+  },
+  {
+    "name": "RCG TV (1080p)",
+    "logo": "https://i.imgur.com/kYtAR26.png",
+    "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+    "group": "Culture",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5653003366806675603",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTG (720p)",
+    "logo": "https://i.imgur.com/k9M2MOT.png",
+    "url": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5046728916784522537",
+    "quality": "HD"
+  },
+  {
+    "name": "RTQ Querétaro (1080p)",
+    "logo": "https://i.imgur.com/RRckCvf.png",
+    "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5855759335263836679",
+    "quality": "FHD"
+  },
+  {
+    "name": "Señal España (XHUNES-TDT) (720p)",
+    "logo": "https://i.imgur.com/LbZkdca.png",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "group": "Education",
+    "country": "MX",
+    "is_premium": false,
+    "id": "56950847551739145",
+    "quality": "HD"
+  },
+  {
+    "name": "SET Televisión Canal 26.1 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dbJKErB.png",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2562217988207670699",
+    "quality": "HD"
+  },
+  {
+    "name": "SET Televisión Canal 26.2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dbJKErB.png",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-6386709378331167986",
+    "quality": "HD"
+  },
+  {
+    "name": "SIPSE TV 8.1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/123P7dV.png",
+    "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "7126315585203633703",
+    "quality": "FHD"
+  },
+  {
+    "name": "SIPSE TVCUN 8.1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uiTgClU.png",
+    "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6376956574643542597",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sistema Michoacano de TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7MXF4Fd.png",
+    "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "4336783318373623603",
+    "quality": "FHD"
+  },
+  {
+    "name": "SIZART Canal 24 (XHZHZ-TDT) (720p)",
+    "logo": "https://i.imgur.com/RxhABeK.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-379202480415430211",
+    "quality": "HD"
+  },
+  {
+    "name": "SQCS Canal 4 (1080p)",
+    "logo": "https://i.imgur.com/qnx8nBP.png",
+    "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8133551843039891655",
+    "quality": "FHD"
+  },
+  {
+    "name": "Super Channel 12 (1080p)",
+    "logo": "https://i.imgur.com/dLHIvKz.png",
+    "url": "https://servilive.com:3263/live/channel12live.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8011451626047280476",
+    "quality": "FHD"
+  },
+  {
+    "name": "TeleFórmula (720p)",
+    "logo": "https://i.imgur.com/y0a0xwY.png",
+    "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8202544365922061929",
+    "quality": "HD"
+  },
+  {
+    "name": "Telehit Musica",
+    "logo": "https://i.imgur.com/CofYjWh.png",
+    "url": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8",
+    "group": "International",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2248412703196529961"
+  },
+  {
+    "name": "Telemax (XEWH-TDT) (1080p)",
+    "logo": "https://i.imgur.com/klhTyDU.png",
+    "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+    "group": "Argentina",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6029663800198322154",
+    "quality": "FHD"
+  },
+  {
+    "name": "Teleplay Sureste (720p)",
+    "logo": "https://i.imgur.com/MeV5N08.png",
+    "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-296860403995302629",
+    "quality": "HD"
+  },
+  {
+    "name": "Teleritmo (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9s380Bz.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2018764202078774554",
+    "quality": "HD"
+  },
+  {
+    "name": "TRC TV",
+    "logo": "https://i.imgur.com/W4xwCdl.png",
+    "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+    "group": "Amerika",
+    "country": "MX",
+    "is_premium": false,
+    "id": "f8724952-da0c-57dc-9b6e-af2306a03b80"
+  },
+  {
+    "name": "TUDN (1080p)",
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "url": "https://streaming.alwaysdata.net/tudn.php",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "934304533727557628",
+    "quality": "FHD"
+  },
+  {
+    "name": "Turistik TV (720p)",
+    "logo": "https://i.imgur.com/g9j0ze8.png",
+    "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+    "group": "Travel",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2687349294382687493",
+    "quality": "HD"
+  },
+  {
+    "name": "TV BUAP (1080p)",
+    "logo": "https://i.imgur.com/hHrIn0r.png",
+    "url": "https://tvenvivo.buap.mx/livestream/stream/index.m3u8",
+    "group": "Education",
+    "country": "MX",
+    "is_premium": false,
+    "id": "7662647741510649365",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Cuatro 4.1 (1080p)",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1396736438778039107",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Cuatro 4.2 (1080p)",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "group": "Culture",
+    "country": "MX",
+    "is_premium": false,
+    "id": "545452125023958395",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Cuatro 4.3 (1080p)",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
+    "group": "Sports",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7741557068687687849",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Lobo Durango (720p)",
+    "logo": "https://i.imgur.com/q9p1Spj.png",
+    "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5752330790051551164",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Mar La Paz (1080p)",
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5764209757463276024",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Mar Los Cabos (1080p)",
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "5160812179348771887",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Mar Puerto Vallarta (1080p)",
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5949424347499971730",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Migrante (720p)",
+    "logo": "https://i.imgur.com/tVgkiJF.png",
+    "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1608152386112493351",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT) (720p)",
+    "logo": "https://i.imgur.com/9qL4LJF.png",
+    "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+    "group": "Education",
+    "country": "MX",
+    "is_premium": false,
+    "id": "8993706051447945683",
+    "quality": "HD"
+  },
+  {
+    "name": "TV UG (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+    "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "group": "Education",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5526770977139337722",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4demWOi.png",
+    "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+    "group": "Education",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-2155969847807910220",
+    "quality": "HD"
+  },
+  {
+    "name": "TVMÁS (XHGV-TDT) (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/15kcNRb.png",
+    "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-4072564554835226334",
+    "quality": "SD"
+  },
+  {
+    "name": "TVP Culiacán (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5934894479358971659",
+    "quality": "HD"
+  },
+  {
+    "name": "TVP Los Mochis (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-7693563555443960253",
+    "quality": "HD"
+  },
+  {
+    "name": "TVP Mazatlán (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-9169638176177107842",
+    "quality": "HD"
+  },
+  {
+    "name": "TVP Obregón (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-5219108649026552103",
+    "quality": "HD"
+  },
+  {
+    "name": "Ultra TV Puebla (720p) [Not 24/7]",
+    "logo": "https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png",
+    "url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "1603977587148126612",
+    "quality": "HD"
+  },
+  {
+    "name": "UMTV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/sjxVdPh.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",
+    "group": "Mexico",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-1343382936232235103",
+    "quality": "FHD"
+  },
+  {
+    "name": "VB Media TV (1080p)",
+    "logo": "https://i.imgur.com/5qlVblr.png",
+    "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+    "group": "Entertainment",
+    "country": "MX",
+    "is_premium": false,
+    "id": "2015187745139150289",
+    "quality": "FHD"
+  },
+  {
+    "name": "Visión Televisión (720p)",
+    "logo": "https://i.imgur.com/HV5tgcM.png",
+    "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "group": "Music",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-2324301907379035749",
+    "quality": "HD"
+  },
+  {
+    "name": "WeatherSpy (720p)",
+    "logo": "https://i.imgur.com/KIEKOt1.png",
+    "url": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+    "group": "Weather",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6284818786781949277",
+    "quality": "HD"
+  },
+  {
+    "name": "XHFN-TDT1 (1080p)",
+    "logo": "https://i.imgur.com/aGup2ag.png",
+    "url": "https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8",
+    "group": "General",
+    "country": "MX",
+    "is_premium": false,
+    "id": "6441746608968097871",
+    "quality": "FHD"
+  },
+  {
+    "name": "XHSPR-TDT1",
+    "logo": "",
+    "url": "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8",
+    "group": "Amerika",
+    "country": "MX",
+    "is_premium": false,
+    "id": "ff7caa85-762b-5791-8bec-eab6196c99e4"
+  },
+  {
+    "name": "ZAZ (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Zaz-logo.svg/330px-Zaz-logo.svg.png",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+    "group": "Entertainment",
+    "country": "MX",
+    "is_premium": false,
+    "id": "-8765601930123847695",
+    "quality": "FHD"
+  }
+]

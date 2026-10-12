@@ -1,0 +1,267 @@
+[
+  {
+    "name": "24Kitchen Serbia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png",
+    "url": "http://91.132.74.5:8000/play/a00a",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-5451708955904930317",
+    "quality": "HD"
+  },
+  {
+    "name": "Bloomberg Adria (1080p)",
+    "logo": "https://i.imgur.com/A5ui53C.png",
+    "url": "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8",
+    "group": "Business",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-6356000174119660938",
+    "quality": "FHD"
+  },
+  {
+    "name": "EDU TV (576p) [Not 24/7]",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3610-294x165-FFFFFF.jpg",
+    "url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
+    "group": "General",
+    "country": "RS",
+    "is_premium": false,
+    "id": "7740706503060325235",
+    "quality": "SD"
+  },
+  {
+    "name": "Euronews Serbia (1080p)",
+    "logo": "https://i.imgur.com/7rK00VE.png",
+    "url": "https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8",
+    "group": "News",
+    "country": "RS",
+    "is_premium": false,
+    "id": "5548205203924225896",
+    "quality": "FHD"
+  },
+  {
+    "name": "LOL TV",
+    "logo": "https://i.imgur.com/fPdlyJJ.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8",
+    "group": "Lifestyle",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-5635687830027518952"
+  },
+  {
+    "name": "Marsh TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Dt1mPyX.png",
+    "url": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "8997270028922012065",
+    "quality": "HD"
+  },
+  {
+    "name": "Nova (1080p)",
+    "logo": "https://i.imgur.com/Vx1F4o5.png",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+    "group": "General",
+    "country": "RS",
+    "is_premium": false,
+    "id": "4501586757336676578",
+    "quality": "FHD"
+  },
+  {
+    "name": "Pannon RTV (648p)",
+    "logo": "https://i.imgur.com/xQa2idL.png",
+    "url": "https://stream.nmih.hu:4102/live.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "6048219528029704201"
+  },
+  {
+    "name": "Radio Hit FM TV (720p)",
+    "logo": "https://i.imgur.com/gP2OT4S.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+    "group": "Music",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-2325469852049278107",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Karolina TV (720p)",
+    "logo": "https://i.imgur.com/g2HpLX1.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "group": "Music",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-1573754858647506478",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Lola (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/41eE8fl.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "7081479413841591804",
+    "quality": "HD"
+  },
+  {
+    "name": "Red TV (720p)",
+    "logo": "https://i.imgur.com/cpN7NrL.png",
+    "url": "https://live.rednet.rs/providus/redtv_multi.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "7976714713248411509",
+    "quality": "HD"
+  },
+  {
+    "name": "RTS 1 (720p)",
+    "logo": "https://i.imgur.com/HHGktpF.png",
+    "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+    "group": "Switzerland",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-7599102243395784610",
+    "quality": "HD"
+  },
+  {
+    "name": "RTS 2 (720p)",
+    "logo": "https://i.imgur.com/YypHsF4.png",
+    "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+    "group": "Switzerland",
+    "country": "RS",
+    "is_premium": false,
+    "id": "6264792630131892105",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV AS (576p)",
+    "logo": "https://i.imgur.com/LIUtEgD.png",
+    "url": "https://srv1.adriatelekom.com/TVAS/index.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "8670544427201023649",
+    "quality": "SD"
+  },
+  {
+    "name": "RTV Bap (480p)",
+    "logo": "https://i.imgur.com/TBAtPH6.png",
+    "url": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "7689286348213240989",
+    "quality": "SD"
+  },
+  {
+    "name": "RTV Novi Pazar (576p)",
+    "logo": "https://i.imgur.com/NpyRVyC.png",
+    "url": "https://tv.rtvnp.rs/stream.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-7048006444219497388",
+    "quality": "SD"
+  },
+  {
+    "name": "Sandzak TV (576p)",
+    "logo": "https://i.imgur.com/lm9Fgsp.png",
+    "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "6420926521483255812",
+    "quality": "SD"
+  },
+  {
+    "name": "SOS Kanal Plus (720p)",
+    "logo": "https://i.imgur.com/9SD40uH.png",
+    "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
+    "group": "Sports",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-8179025248949763801",
+    "quality": "HD"
+  },
+  {
+    "name": "TDI Radio TV",
+    "logo": "https://i.imgur.com/POdTmaD.png",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+    "group": "Music",
+    "country": "RS",
+    "is_premium": false,
+    "id": "461088515351255432"
+  },
+  {
+    "name": "Top TV (1080p)",
+    "logo": "https://i.imgur.com/UJqbKEC.png",
+    "url": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+    "group": "Republic of the Congo",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-2119322519186241485",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Belle Amie (540p)",
+    "logo": "https://i.imgur.com/tOlN5Rz.png",
+    "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "4256151787027239370"
+  },
+  {
+    "name": "TV Duga Plus (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qZV3JW5.png",
+    "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-2802136668560259119",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Hram (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/XzAYOFK.png",
+    "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "3245930973464193142",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Kanal M (576p)",
+    "logo": "https://i.imgur.com/hqNVRUU.png",
+    "url": "http://176.67.210.1/hls/kanalm.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "3269724643421964353",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Pi Kanal (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8ugnFa3.png",
+    "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-2268254493828371592",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Pirot (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/o5y1ok6.png",
+    "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+    "group": "Serbia",
+    "country": "RS",
+    "is_premium": false,
+    "id": "-5546913294987708899"
+  }
+]

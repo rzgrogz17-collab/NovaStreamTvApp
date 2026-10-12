@@ -1,0 +1,110 @@
+[
+  {
+    "name": "A2i Religion (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/54WrwyN.jpg",
+    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "group": "Religious",
+    "country": "SN",
+    "is_premium": false,
+    "id": "-5584759750770606500",
+    "quality": "HD"
+  },
+  {
+    "name": "Amani TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0cY4K7G.png",
+    "url": "https://goccn.cloud/hls/amanitv/index.m3u8",
+    "group": "Culture",
+    "country": "SN",
+    "is_premium": false,
+    "id": "4412562809606371594",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bel'Afrika Media TV (1080p)",
+    "logo": "https://i.imgur.com/9UmR6cs.png",
+    "url": "https://goccn.cloud/hls/belafrikatv/index.m3u8",
+    "group": "Culture",
+    "country": "SN",
+    "is_premium": false,
+    "id": "8222211320198038870",
+    "quality": "FHD"
+  },
+  {
+    "name": "Diaspora 24 [Geo-blocked]",
+    "logo": "https://i.imgur.com/4devfx1.png",
+    "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+    "group": "Senegal",
+    "country": "SN",
+    "is_premium": false,
+    "id": "-1696154109641857988"
+  },
+  {
+    "name": "Louga TV (480p)",
+    "logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+    "url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "SN",
+    "is_premium": false,
+    "id": "6908140923113297818",
+    "quality": "SD"
+  },
+  {
+    "name": "Mader TV (720p)",
+    "logo": "https://i.imgur.com/aFzTA2t.jpg",
+    "url": "https://goccn.cloud/hls/Madertv/index.m3u8",
+    "group": "General",
+    "country": "SN",
+    "is_premium": false,
+    "id": "-8173934917863500122",
+    "quality": "HD"
+  },
+  {
+    "name": "Mouride TV (720p)",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s202038d.png",
+    "url": "http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8",
+    "group": "Religious",
+    "country": "SN",
+    "is_premium": false,
+    "id": "-1827858932825581828",
+    "quality": "HD"
+  },
+  {
+    "name": "PublicSn TV (720p)",
+    "logo": "https://i.imgur.com/P4higEz.jpg",
+    "url": "https://goccn.cloud/hls/publictv/index.m3u8",
+    "group": "News",
+    "country": "SN",
+    "is_premium": false,
+    "id": "3250799361790605602",
+    "quality": "HD"
+  },
+  {
+    "name": "Seneweb TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/i9P2qjs.png",
+    "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+    "group": "General",
+    "country": "SN",
+    "is_premium": false,
+    "id": "2530006325266817967"
+  },
+  {
+    "name": "SenJeunes TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MeCSPsI.jpg",
+    "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+    "group": "General",
+    "country": "SN",
+    "is_premium": false,
+    "id": "-1973913428610113235",
+    "quality": "SD"
+  },
+  {
+    "name": "Sunu Label TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ibp7IBk.jpeg",
+    "url": "https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8",
+    "group": "News",
+    "country": "SN",
+    "is_premium": false,
+    "id": "-1162311881989117808",
+    "quality": "SD"
+  }
+]

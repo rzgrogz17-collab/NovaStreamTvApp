@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Canal Macau Ch. 92 (720p) [Not 24/7]",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/TDM_Building.JPG/500px-TDM_Building.JPG",
+    "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+    "group": "Macao",
+    "country": "MO",
+    "is_premium": false,
+    "id": "1455511154703404291",
+    "quality": "HD"
+  },
+  {
+    "name": "Directo das Reuniões da Assembleia de Macau (720p)",
+    "logo": "",
+    "url": "https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8",
+    "group": "General",
+    "country": "MO",
+    "is_premium": false,
+    "id": "5653683374801514340",
+    "quality": "HD"
+  },
+  {
+    "name": "Ou-Mun Macau Satellite Ch. 96 (720p)",
+    "logo": "https://i.imgur.com/iIfZsD6.png",
+    "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+    "group": "Macao",
+    "country": "MO",
+    "is_premium": false,
+    "id": "1248337652881224815",
+    "quality": "HD"
+  },
+  {
+    "name": "TDM Entertainment Ch. 95 (720p)",
+    "logo": "https://i.imgur.com/7ml2bfx.png",
+    "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+    "group": "Macao",
+    "country": "MO",
+    "is_premium": false,
+    "id": "1570293106016722338",
+    "quality": "HD"
+  },
+  {
+    "name": "TDM Info. Macau (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/h7HfsLx.png",
+    "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+    "group": "Macao",
+    "country": "MO",
+    "is_premium": false,
+    "id": "3978188443909645163",
+    "quality": "HD"
+  },
+  {
+    "name": "TDM Ou Mun Macau Ch. 91 (720p)",
+    "logo": "https://i.imgur.com/qDI3aMp.png",
+    "url": "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+    "group": "Macao",
+    "country": "MO",
+    "is_premium": false,
+    "id": "-2316021535836153142",
+    "quality": "HD"
+  },
+  {
+    "name": "TDM Sports Ch. 93 (720p)",
+    "logo": "https://i.imgur.com/AsWLf8S.png",
+    "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+    "group": "Macao",
+    "country": "MO",
+    "is_premium": false,
+    "id": "1237574939590632980",
+    "quality": "HD"
+  },
+  {
+    "name": "立法會直播 (Legislative Council Live) (720p)",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8",
+    "group": "General",
+    "country": "MO",
+    "is_premium": false,
+    "id": "7451177404931852199",
+    "quality": "HD"
+  }
+]

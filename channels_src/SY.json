@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Althania (1080p)",
+    "logo": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+    "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+    "group": "General",
+    "country": "SY",
+    "is_premium": false,
+    "id": "-4404096709247766913",
+    "quality": "FHD"
+  },
+  {
+    "name": "Halab Today TV (1080p)",
+    "logo": "https://www.google.com/s2/favicons?domain=halabtodaytv.net&sz=128",
+    "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+    "group": "News",
+    "country": "SY",
+    "is_premium": false,
+    "id": "-8970257485334137421",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rojava TV (1080p)",
+    "logo": "https://i.imgur.com/42noysO.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+    "group": "General",
+    "country": "SY",
+    "is_premium": false,
+    "id": "3689667551893543678",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ronahi TV (1080p)",
+    "logo": "https://i.imgur.com/JSvJpD8.png",
+    "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+    "group": "Syria",
+    "country": "SY",
+    "is_premium": false,
+    "id": "-6650421223119296832",
+    "quality": "FHD"
+  },
+  {
+    "name": "Syria One (1080p)",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "url": "https://live.syriaone.tv/live/syriaone.m3u8",
+    "group": "Syria",
+    "country": "SY",
+    "is_premium": false,
+    "id": "-7264629701502593073",
+    "quality": "FHD"
+  },
+  {
+    "name": "Syria TV (1080p)",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+    "group": "News",
+    "country": "SY",
+    "is_premium": false,
+    "id": "4948446152890944460",
+    "quality": "FHD"
+  },
+  {
+    "name": "Welat TV (1080i)",
+    "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+    "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+    "group": "News",
+    "country": "SY",
+    "is_premium": false,
+    "id": "7149969422045454082"
+  }
+]

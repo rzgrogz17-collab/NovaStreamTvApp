@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Channel K (720p)",
+    "logo": "https://i.imgur.com/6PqxuhF.png",
+    "url": "https://mmtvs.exliatycl.online/channelk/stream.m3u8",
+    "group": "Entertainment",
+    "country": "MM",
+    "is_premium": false,
+    "id": "-880646889792424296",
+    "quality": "HD"
+  },
+  {
+    "name": "DVB TV (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/VdezHOv.png",
+    "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+    "group": "News",
+    "country": "MM",
+    "is_premium": false,
+    "id": "6087140188914604525",
+    "quality": "HD"
+  },
+  {
+    "name": "FORTUNE TV (720p)",
+    "logo": "https://i.imgur.com/MM5evnD.png",
+    "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+    "group": "Entertainment",
+    "country": "MM",
+    "is_premium": false,
+    "id": "-3760254800456286542",
+    "quality": "HD"
+  },
+  {
+    "name": "MN TV (720p)",
+    "logo": "https://i.imgur.com/nssm7QK.png",
+    "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+    "group": "Entertainment",
+    "country": "MM",
+    "is_premium": false,
+    "id": "7960982702796064373",
+    "quality": "HD"
+  },
+  {
+    "name": "MRTV",
+    "logo": "https://i.imgur.com/uyv7oJH.png",
+    "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
+    "group": "General",
+    "country": "MM",
+    "is_premium": false,
+    "id": "2243515973301655301"
+  }
+]

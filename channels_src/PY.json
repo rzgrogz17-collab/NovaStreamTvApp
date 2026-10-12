@@ -1,0 +1,188 @@
+[
+  {
+    "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+    "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+    "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+    "group": "News",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-3922121734154671916",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bruno Masi TV (720p)",
+    "logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+    "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-7185035562155702062",
+    "quality": "HD"
+  },
+  {
+    "name": "C9N",
+    "logo": "https://i.imgur.com/Cp4zJ7O.png",
+    "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
+    "group": "News",
+    "country": "PY",
+    "is_premium": false,
+    "id": "3330559593071399321"
+  },
+  {
+    "name": "Cáritas TV (1080p)",
+    "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+    "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+    "group": "Religious",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-3271323929347422173",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cosmos Tv (720p)",
+    "logo": "https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",
+    "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+    "group": "Movies",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-6111314070595110824",
+    "quality": "HD"
+  },
+  {
+    "name": "Dismar Radio TV (720p)",
+    "logo": "https://i.imgur.com/KOuxdMD.png",
+    "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+    "group": "Music",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-5108467916018169012",
+    "quality": "HD"
+  },
+  {
+    "name": "Farra Play (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bXWzstH.png",
+    "url": "http://159.203.148.226/live/farra.m3u8",
+    "group": "Music",
+    "country": "PY",
+    "is_premium": false,
+    "id": "3416103352958418999",
+    "quality": "HD"
+  },
+  {
+    "name": "Gen (480p)",
+    "logo": "https://i.imgur.com/vEMnZF4.png",
+    "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "684444708200882181",
+    "quality": "SD"
+  },
+  {
+    "name": "GO TV (720p)",
+    "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+    "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-8670905644582593676",
+    "quality": "HD"
+  },
+  {
+    "name": "Mega TV",
+    "logo": "https://i.imgur.com/UsyFADE.png",
+    "url": "https://www.desde-paraguay.com/mega.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "901416329279444200"
+  },
+  {
+    "name": "MiTV (720p)",
+    "logo": "https://i.imgur.com/sgrEt9z.png",
+    "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "1498279673575096994",
+    "quality": "HD"
+  },
+  {
+    "name": "Next HD (480p)",
+    "logo": "https://i.imgur.com/c2rF3SS.png",
+    "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+    "group": "Entertainment",
+    "country": "PY",
+    "is_premium": false,
+    "id": "2556432622930999652",
+    "quality": "HD"
+  },
+  {
+    "name": "República TV (720p)",
+    "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
+    "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "3701091359561906030",
+    "quality": "HD"
+  },
+  {
+    "name": "SNT (480p)",
+    "logo": "https://i.imgur.com/HNlWRiF.png",
+    "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "3911480618340854773",
+    "quality": "SD"
+  },
+  {
+    "name": "Suceso TV [Not 24/7]",
+    "logo": "https://i.imgur.com/BwRNes1.png",
+    "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+    "group": "News",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-8021504457734714255"
+  },
+  {
+    "name": "Tigo Sports (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/UrsLSRs.png",
+    "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+    "group": "Sports",
+    "country": "PY",
+    "is_premium": false,
+    "id": "141409277620255618",
+    "quality": "HD"
+  },
+  {
+    "name": "Trece Paraguay (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jsuXXIg.png",
+    "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
+    "group": "Paraguay",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-1179789604748035616",
+    "quality": "FHD"
+  },
+  {
+    "name": "UnionTV",
+    "logo": "https://i.imgur.com/No9YzNC.png",
+    "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+    "group": "General",
+    "country": "PY",
+    "is_premium": false,
+    "id": "-3447302961657435362"
+  },
+  {
+    "name": "Venus Media (720p)",
+    "logo": "https://i.imgur.com/XwmUbfp.png",
+    "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
+    "group": "Music",
+    "country": "PY",
+    "is_premium": false,
+    "id": "3078798060268490529",
+    "quality": "HD"
+  }
+]

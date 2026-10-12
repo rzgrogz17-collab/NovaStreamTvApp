@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Badakhshon (576p)",
+    "logo": "https://i.imgur.com/iK6AmkZ.png",
+    "url": "https://live.teleradiocom.tj/11/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "4315766525828446607",
+    "quality": "SD"
+  },
+  {
+    "name": "Dushanbe HD (1080p)",
+    "logo": "https://i.imgur.com/WWPIziG.png",
+    "url": "https://live.teleradiocom.tj/7/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-6233953090426876595",
+    "quality": "HD"
+  },
+  {
+    "name": "Futbol (1080p)",
+    "logo": "https://i.imgur.com/RngmCDn.png",
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "group": "Sports",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-2438157117103292689",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ilm va Tabiat (1080p)",
+    "logo": "https://i.imgur.com/MDULX7X.png",
+    "url": "https://live.teleradiocom.tj/15/3m.m3u8",
+    "group": "Science",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-3615045187679687306",
+    "quality": "FHD"
+  },
+  {
+    "name": "Jahonnamo (1080p)",
+    "logo": "https://i.imgur.com/ffqdD8W.png",
+    "url": "https://live.teleradiocom.tj/4/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-7305325189199533986",
+    "quality": "FHD"
+  },
+  {
+    "name": "Khatlon (576p)",
+    "logo": "https://i.imgur.com/X4xVpBj.png",
+    "url": "https://live.teleradiocom.tj/10/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-2526647431024549260",
+    "quality": "SD"
+  },
+  {
+    "name": "Tajikistan (1080p)",
+    "logo": "https://i.imgur.com/sEXCFNk.png",
+    "url": "https://live.teleradiocom.tj/1/3m.m3u8",
+    "group": "Tajikistan",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-2831581351794783974",
+    "quality": "FHD"
+  },
+  {
+    "name": "TMT (1080p)",
+    "logo": "https://i.imgur.com/Dg0UkNR.png",
+    "url": "https://live.teleradiocom.tj/9/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-4265039668591250130",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Bahoriston (1080p)",
+    "logo": "https://i.imgur.com/Dacai5z.png",
+    "url": "https://live.teleradiocom.tj/3/3m.m3u8",
+    "group": "Kids",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-533893474422487932",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Kulob (576p)",
+    "logo": "https://i.imgur.com/AFgEYFp.png",
+    "url": "https://live.teleradiocom.tj/12/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "8898782114504155156",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Safina (1080p)",
+    "logo": "https://i.imgur.com/Ho2vKZJ.png",
+    "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+    "group": "Tajikistan",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "4912877917721118847",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Sayohi (1080p)",
+    "logo": "https://i.imgur.com/lAkMrtr.png",
+    "url": "https://live.teleradiocom.tj/16/3m.m3u8",
+    "group": "Travel",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "8534639141167542543",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Sinamo (1080p)",
+    "logo": "https://i.imgur.com/W2qz5a4.png",
+    "url": "https://live.teleradiocom.tj/6/3m.m3u8",
+    "group": "Tajikistan",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "-8169305669536588891",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Sugd (1080p)",
+    "logo": "https://i.imgur.com/YzkwTHb.png",
+    "url": "https://live.teleradiocom.tj/14/3m.m3u8",
+    "group": "General",
+    "country": "TJ",
+    "is_premium": false,
+    "id": "1979304496254509061",
+    "quality": "FHD"
+  }
+]

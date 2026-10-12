@@ -1,0 +1,1525 @@
+[
+  {
+    "name": "1Almere TV (720p)",
+    "logo": "https://i.imgur.com/XfkbTrU.png",
+    "url": "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8096405718800049072",
+    "quality": "HD"
+  },
+  {
+    "name": "1Twente TV (1080p)",
+    "logo": "https://i.imgur.com/ftiuNK3.png",
+    "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5322672168820246112",
+    "quality": "FHD"
+  },
+  {
+    "name": "A1 TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JZ1oTM2.png",
+    "url": "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4424317773536833238",
+    "quality": "FHD"
+  },
+  {
+    "name": "Altena TV (720p)",
+    "logo": "https://i.imgur.com/0wblu0I.png",
+    "url": "https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-171384277704498328",
+    "quality": "HD"
+  },
+  {
+    "name": "Assen TV (720p)",
+    "logo": "https://i.imgur.com/upik15D.png",
+    "url": "https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8908814662594042919",
+    "quality": "HD"
+  },
+  {
+    "name": "AT5",
+    "logo": "https://i.imgur.com/iAiSlEL.png",
+    "url": "https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-832959082553157595"
+  },
+  {
+    "name": "BE@TTV (1080p)",
+    "logo": "https://i.imgur.com/egK33Dj.png",
+    "url": "https://tv.beatfm.nl/live.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2106101128922052878",
+    "quality": "FHD"
+  },
+  {
+    "name": "BNR Nieuwsradio (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/d0KLwkj.png",
+    "url": "https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4892226224889400369",
+    "quality": "HD"
+  },
+  {
+    "name": "BR6 TV (720p)",
+    "logo": "https://i.imgur.com/NKtAiXu.png",
+    "url": "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8588652238185613807",
+    "quality": "HD"
+  },
+  {
+    "name": "BredaNu TV (1080p)",
+    "logo": "https://i.imgur.com/Eg3sgNb.png",
+    "url": "https://01.tv.streaming.bredanu.nl/hls/stream.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1719643222101984276",
+    "quality": "FHD"
+  },
+  {
+    "name": "DeepHouse District (1080p)",
+    "logo": "https://i.imgur.com/IV2Qvc0.png",
+    "url": "https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3823294240757459023",
+    "quality": "FHD"
+  },
+  {
+    "name": "Den Haag TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/gkzlRED.jpg",
+    "url": "http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-2982757957237696437",
+    "quality": "FHD"
+  },
+  {
+    "name": "Dit is Helmond (480p)",
+    "logo": "https://i.imgur.com/fGAaBAs.png",
+    "url": "http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7378200813315260734",
+    "quality": "SD"
+  },
+  {
+    "name": "DTV Den Bosch (1080p)",
+    "logo": "https://i.imgur.com/aFBNbsy.png",
+    "url": "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-357947261228386853",
+    "quality": "FHD"
+  },
+  {
+    "name": "DTV Maashorst (1080p)",
+    "logo": "https://i.imgur.com/5WaCCAC.png",
+    "url": "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1997522657815781059",
+    "quality": "FHD"
+  },
+  {
+    "name": "DTV Oss & Bernheze (1080p)",
+    "logo": "https://i.imgur.com/JL1f9Tx.png",
+    "url": "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7469158595217516482",
+    "quality": "FHD"
+  },
+  {
+    "name": "Feel Good TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qvs1BKr.png",
+    "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1221256347113426967",
+    "quality": "HD"
+  },
+  {
+    "name": "Gigant FM (720p)",
+    "logo": "https://i.imgur.com/LwEHfjD.png",
+    "url": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5184376644637084341",
+    "quality": "HD"
+  },
+  {
+    "name": "Haarlem105 RTV (720p)",
+    "logo": "https://i.imgur.com/xyOVVZ0.png",
+    "url": "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-9086699088299164511",
+    "quality": "HD"
+  },
+  {
+    "name": "HTR TV (720p)",
+    "logo": "https://i.imgur.com/IlwVHX0.png",
+    "url": "https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8907313762823850750",
+    "quality": "HD"
+  },
+  {
+    "name": "Hype Visual Radio (1080p)",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
+    "url": "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-9018910913207149271",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ideaal TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JLYQFoX.png",
+    "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1069738644866760233",
+    "quality": "SD"
+  },
+  {
+    "name": "INFAST (1080p)",
+    "logo": "https://i.imgur.com/VwAMqA7.png",
+    "url": "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+    "group": "Lifestyle",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1308294843334835309",
+    "quality": "FHD"
+  },
+  {
+    "name": "INFAST (1080p)",
+    "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "url": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
+    "group": "Lifestyle",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-359837114990353096",
+    "quality": "FHD"
+  },
+  {
+    "name": "InTravel (1080p)",
+    "logo": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
+    "url": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Travel",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3757684755792875022",
+    "quality": "FHD"
+  },
+  {
+    "name": "INTRAVEL (1080p) [Geo-blocked]",
+    "logo": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
+    "url": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Travel",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1721348733344301094",
+    "quality": "FHD"
+  },
+  {
+    "name": "InTrouble (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/a40chFI.png",
+    "url": "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Auto",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-699070591188018718",
+    "quality": "FHD"
+  },
+  {
+    "name": "InWild (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png",
+    "url": "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8",
+    "group": "Documentary",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1361792434924140269",
+    "quality": "HD"
+  },
+  {
+    "name": "InWonder (1080p)",
+    "logo": "https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png",
+    "url": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
+    "group": "Science",
+    "country": "NL",
+    "is_premium": false,
+    "id": "3990651395054571284",
+    "quality": "FHD"
+  },
+  {
+    "name": "Jin TV",
+    "logo": "https://i.imgur.com/37ajg2j.png",
+    "url": "https://live.jintv.org/medialive/jintv.m3u8",
+    "group": "Culture",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4471127112269958923"
+  },
+  {
+    "name": "KempenTV (480p)",
+    "logo": "https://i.imgur.com/ZiPL9ar.png",
+    "url": "http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5045264261341370524",
+    "quality": "SD"
+  },
+  {
+    "name": "L1mburg TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SDD5KS5.png",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5598397676312009279",
+    "quality": "HD"
+  },
+  {
+    "name": "Langstraat TV (720p)",
+    "logo": "https://i.imgur.com/xchUfks.png",
+    "url": "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1090878105792507507",
+    "quality": "HD"
+  },
+  {
+    "name": "Lansingerland TV (720p)",
+    "logo": "https://i.imgur.com/1r7IZ7Q.png",
+    "url": "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6164524066089654529",
+    "quality": "HD"
+  },
+  {
+    "name": "LEO Middelsé TV (480p)",
+    "logo": "https://i.imgur.com/wF3FFZv.png",
+    "url": "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6186439290422714243",
+    "quality": "SD"
+  },
+  {
+    "name": "LINQ TV (480p)",
+    "logo": "https://i.imgur.com/0DgP3vu.png",
+    "url": "https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "6055305493528598229",
+    "quality": "SD"
+  },
+  {
+    "name": "LOE TV (720p)",
+    "logo": "https://i.imgur.com/8i6OwaS.png",
+    "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4759856925680280893",
+    "quality": "HD"
+  },
+  {
+    "name": "LON TV (720p)",
+    "logo": "https://i.imgur.com/bH4XSGw.png",
+    "url": "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2292401465158216080",
+    "quality": "HD"
+  },
+  {
+    "name": "LOZ (Lokale Omroep Zeewolde) (720p)",
+    "logo": "https://i.imgur.com/Dw4u9wT.png",
+    "url": "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7750388670335655133",
+    "quality": "HD"
+  },
+  {
+    "name": "Magic PowerRadio (288p) [Not 24/7]",
+    "logo": "https://i.imgur.com/sWcwIte.png",
+    "url": "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "NL",
+    "is_premium": false,
+    "id": "3645544135461808477"
+  },
+  {
+    "name": "Meer TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/p4TXVkE.png",
+    "url": "https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-726988542724499839",
+    "quality": "HD"
+  },
+  {
+    "name": "Merwe TV (720p)",
+    "logo": "https://i.imgur.com/JjB7U1q.png",
+    "url": "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2796806995168173943",
+    "quality": "HD"
+  },
+  {
+    "name": "ML5 TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/knjHdei.png",
+    "url": "https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4940098215756423882",
+    "quality": "SD"
+  },
+  {
+    "name": "NH Niews (1080p)",
+    "logo": "https://i.imgur.com/SPkK4md.png",
+    "url": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "8876939675609191601",
+    "quality": "FHD"
+  },
+  {
+    "name": "NOOS TV (720p)",
+    "logo": "https://i.imgur.com/X8xLcpT.png",
+    "url": "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8764546989397916566",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Almere (1080p)",
+    "logo": "https://i.imgur.com/y3cVTeh.png",
+    "url": "https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "3474290510623764119",
+    "quality": "FHD"
+  },
+  {
+    "name": "Omroep Brabant (1080p)",
+    "logo": "https://i.imgur.com/KLYsKKC.png",
+    "url": "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "8044446491207940897",
+    "quality": "FHD"
+  },
+  {
+    "name": "Omroep Brabant Radio (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/omroep-brabant-nl.png",
+    "url": "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3757661585323383625",
+    "quality": "FHD"
+  },
+  {
+    "name": "Omroep Centraal TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/YNUPWbL.png",
+    "url": "https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "542917468400030946",
+    "quality": "SD"
+  },
+  {
+    "name": "Omroep Dommelland (720p)",
+    "logo": "https://i.imgur.com/6Tkd9Pv.png",
+    "url": "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7980007948624941638",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Flevoland (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rF4MTYD.png",
+    "url": "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5844379386112420778",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Gelderland HD (1080p)",
+    "logo": "https://i.imgur.com/G08hKit.png",
+    "url": "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5139394541313254755",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Hoeksche Waard (480p)",
+    "logo": "https://i.imgur.com/pgMwNGV.png",
+    "url": "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5143243075351421424",
+    "quality": "SD"
+  },
+  {
+    "name": "Omroep Land van Cuijk (720p)",
+    "logo": "https://i.imgur.com/Pt2gXJ1.png",
+    "url": "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5421194631224115108",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Lingewaard (720p)",
+    "logo": "https://i.imgur.com/FqyTFVN.png",
+    "url": "https://58c04fb1d143f.streamlock.net/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4804840220880333741",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Meierijstad (480p)",
+    "logo": "https://i.imgur.com/sYzh01C.png",
+    "url": "https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "6804023238724994217",
+    "quality": "SD"
+  },
+  {
+    "name": "Omroep Ons West Brabant (480p)",
+    "logo": "https://i.imgur.com/XlWTK7s.png",
+    "url": "https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8629452912748874303",
+    "quality": "SD"
+  },
+  {
+    "name": "Omroep Peelrand (720p)",
+    "logo": "https://i.imgur.com/K4AhATP.png",
+    "url": "https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-423245898075970975",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Súdwest (720p)",
+    "logo": "https://i.imgur.com/XtKLmQS.png",
+    "url": "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2753564234477008115",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Tilburg (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rhazkU7.png",
+    "url": "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4930729997875080398",
+    "quality": "SD"
+  },
+  {
+    "name": "Omroep Venlo (720p)",
+    "logo": "https://i.imgur.com/zjDZdmM.png",
+    "url": "https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7152838062808752296",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep Venray (720p)",
+    "logo": "https://i.imgur.com/uVqTbi2.png",
+    "url": "https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-2902853356992904688",
+    "quality": "HD"
+  },
+  {
+    "name": "Omroep West (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5IDb9fk.png",
+    "url": "https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "6894860367856945722",
+    "quality": "FHD"
+  },
+  {
+    "name": "Omroep Zeeland (1080p)",
+    "logo": "https://i.imgur.com/3c3QUSn.png",
+    "url": "https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5952677420810338372",
+    "quality": "FHD"
+  },
+  {
+    "name": "Omrop Fryslân (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/khacDTU.png",
+    "url": "https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3165611352124645582",
+    "quality": "FHD"
+  },
+  {
+    "name": "OOG TV (720p)",
+    "logo": "https://i.imgur.com/WzxY0PL.png",
+    "url": "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-997383847618931703",
+    "quality": "HD"
+  },
+  {
+    "name": "Open Rotterdam (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nWahRAb.png",
+    "url": "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "3557979310343309527",
+    "quality": "SD"
+  },
+  {
+    "name": "ORTS (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RZM4Myo.png",
+    "url": "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8474067752146725110",
+    "quality": "SD"
+  },
+  {
+    "name": "Podium.TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bAhMhuz.jpg",
+    "url": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4700912733739543702",
+    "quality": "FHD"
+  },
+  {
+    "name": "Podium.TV 2 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bAhMhuz.jpg",
+    "url": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4278621229361275383",
+    "quality": "FHD"
+  },
+  {
+    "name": "Podium.TV 3 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bAhMhuz.jpg",
+    "url": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "6851619707075559526",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qmusic (720p)",
+    "logo": "https://i.imgur.com/fMTuqDu.png",
+    "url": "https://stream.qmusic.nl/qmusic/videohls.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2279630269451299283",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio 10 (720p)",
+    "logo": "https://i.imgur.com/2oGtj7r.png",
+    "url": "https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "8536693500378773949",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio 350 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3nkzXup.png",
+    "url": "https://stream.radio350.nl/hls/radio350.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-181779413838532509",
+    "quality": "SD"
+  },
+  {
+    "name": "Radio 538 (270p)",
+    "logo": "https://i.imgur.com/sd7BX9H.png",
+    "url": "https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5334484441658724859"
+  },
+  {
+    "name": "Radio Aalsmeer TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SYzjLlI.png",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4983265957425987415",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Continu TV (720p)",
+    "logo": "https://i.imgur.com/QWetX72.png",
+    "url": "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7398320469227020792",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio JND (1080p)",
+    "logo": "https://i.imgur.com/nyVlZeL.png",
+    "url": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5571707393125233063",
+    "quality": "FHD"
+  },
+  {
+    "name": "Radio Stad den Haag (720p)",
+    "logo": "https://i.imgur.com/ANK36EQ.png",
+    "url": "https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7540936192703980541",
+    "quality": "HD"
+  },
+  {
+    "name": "RadioNL TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TVaMJYB.png",
+    "url": "https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "3368591062967889859",
+    "quality": "FHD"
+  },
+  {
+    "name": "RadioToppers (720p)",
+    "logo": "https://i.imgur.com/9OMsUd7.png",
+    "url": "https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5834445230465096146",
+    "quality": "HD"
+  },
+  {
+    "name": "Rararadio (720p)",
+    "logo": "https://i.imgur.com/vTpfxUG.png",
+    "url": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8797072243108554574",
+    "quality": "HD"
+  },
+  {
+    "name": "Regio TV De Bilt (720p)",
+    "logo": "https://i.imgur.com/2jQbmyK.png",
+    "url": "https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1448044079306188882",
+    "quality": "HD"
+  },
+  {
+    "name": "Regio90 TV (720p)",
+    "logo": "https://i.imgur.com/UGnm1jd.png",
+    "url": "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6528854401263167921",
+    "quality": "HD"
+  },
+  {
+    "name": "RN7 TV (1080p)",
+    "logo": "https://i.imgur.com/dYBTrLc.png",
+    "url": "https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8616686082718450582",
+    "quality": "FHD"
+  },
+  {
+    "name": "RPL TV Woerden (720p)",
+    "logo": "https://i.imgur.com/UdYMXWQ.png",
+    "url": "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1203530809780657058",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV 1 (720p)",
+    "logo": "https://i.imgur.com/lRCsPWT.png",
+    "url": "https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5694138023391955807",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Arnhem (480p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png",
+    "url": "https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "8747063429062933825",
+    "quality": "SD"
+  },
+  {
+    "name": "RTV Drenthe (1080p)",
+    "logo": "https://i.imgur.com/UBQCjnG.png",
+    "url": "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-338407118443261019",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Focus TV (720p)",
+    "logo": "https://i.imgur.com/QBf49f8.png",
+    "url": "https://wowza3.videostreamingwowza.com/rtvfocuszwolle/rtvfocuszwolle/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3987692442228490669",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV GO! (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/WUClFUJ.png",
+    "url": "http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4335012264621332873",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Horizon (720p)",
+    "logo": "https://i.imgur.com/wnRsI8B.png",
+    "url": "https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3716669302738838441",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV LOVE (720p)",
+    "logo": "https://i.imgur.com/hucwX6v.png",
+    "url": "https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1693213827352632239",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Maastricht (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nYl8H2e.png",
+    "url": "http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1120962204857689806",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Meppel (720p)",
+    "logo": "https://i.imgur.com/RosyQkb.png",
+    "url": "https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8295436704755329624",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV NOF Achtkarspelen & Tytsjerksteradiel (720p)",
+    "logo": "https://i.imgur.com/VO6wBcD.png",
+    "url": "https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "606736676338906824",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Noord (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/l92Cb6H.png",
+    "url": "https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4833867826056207152",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Noord Extra (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/T0UvltB.png",
+    "url": "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6089849434579144457",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Noordoost Friesland (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/CpQIedo.png",
+    "url": "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2634807202731701067",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Oost (720p)",
+    "logo": "https://i.imgur.com/nTR6q9H.png",
+    "url": "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2452607969192529608",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Parkstad (1080p)",
+    "logo": "https://i.imgur.com/zsTuF9y.png",
+    "url": "https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1446290997410559723",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Purmerend (720p)",
+    "logo": "https://i.imgur.com/dLKSpqz.png",
+    "url": "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7195400959329040711",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Rijnmond (1080p)",
+    "logo": "https://i.imgur.com/fJTs9xH.png",
+    "url": "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7668941896568445851",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Rijnmond Extra (1080p)",
+    "logo": "https://i.imgur.com/mlrd5ia.png",
+    "url": "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4953582477873260296",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Rijnstreek TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uM5sJJs.png",
+    "url": "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "3093108089783359953",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV SLOS (720p)",
+    "logo": "https://i.imgur.com/xdzrT9A.png",
+    "url": "https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5354302806637878642",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Stichtse Vest (720p)",
+    "logo": "https://i.imgur.com/MMBcGNX.png",
+    "url": "http://streams.rtvsv.nl:9898/rtvsv/live.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1770733296801077188",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Utrecht (1080p)",
+    "logo": "https://i.imgur.com/nrvs30l.png",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4197123598834499047",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Veluwezoom (720p)",
+    "logo": "https://i.imgur.com/KeHbJTM.png",
+    "url": "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4884063418590962942",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV Westerwolde (432p)",
+    "logo": "https://i.imgur.com/002YXP6.png",
+    "url": "https://media.rtvwesterwolde.nl/hls/live/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4170858521226975339"
+  },
+  {
+    "name": "RTV Zulthe (720p)",
+    "logo": "https://i.imgur.com/Z3zUUsJ.png",
+    "url": "http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5830870342054183485",
+    "quality": "HD"
+  },
+  {
+    "name": "Salto 1 (720p)",
+    "logo": "https://i.imgur.com/hyubvS5.png",
+    "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8",
+    "group": "Entertainment",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7909545034574680619",
+    "quality": "HD"
+  },
+  {
+    "name": "Salto 2 (720p)",
+    "logo": "https://i.imgur.com/6H3ycdL.png",
+    "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8",
+    "group": "Culture",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7592125274456586460",
+    "quality": "HD"
+  },
+  {
+    "name": "Salto 4 (720p)",
+    "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
+    "url": "https://salto-streams.nl/hls/sotv2.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "126150763087512044",
+    "quality": "HD"
+  },
+  {
+    "name": "Salto ADE (720p)",
+    "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
+    "url": "https://live.salto.nl/hls/at5.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6302077806257797200",
+    "quality": "HD"
+  },
+  {
+    "name": "Salto Brasa Music (1080p)",
+    "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
+    "url": "https://salto-streams.nl/hls/sotv1.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7457132839425444497",
+    "quality": "FHD"
+  },
+  {
+    "name": "Salto MaLive (1080p)",
+    "logo": "https://i.imgur.com/0Vzg2OR.png",
+    "url": "https://live.salto.nl/hls/malive_high.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5614843924273610454",
+    "quality": "FHD"
+  },
+  {
+    "name": "Schie TV (576i)",
+    "logo": "https://i.imgur.com/kt4Aqvq.png",
+    "url": "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-2066367105471538280"
+  },
+  {
+    "name": "Siris TV (720p)",
+    "logo": "https://i.imgur.com/4qKe18X.png",
+    "url": "https://cdn.streammy.events/siris/playout/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4885102931897632736",
+    "quality": "HD"
+  },
+  {
+    "name": "Sleutelstad TV (720p)",
+    "logo": "https://i.imgur.com/ljVGMWV.png",
+    "url": "https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "8158876254673399340",
+    "quality": "HD"
+  },
+  {
+    "name": "Slotstad TV (720p)",
+    "logo": "https://i.imgur.com/NXCUiuF.png",
+    "url": "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5331971870006408628",
+    "quality": "HD"
+  },
+  {
+    "name": "SOL 2 (1080p)",
+    "logo": "https://i.imgur.com/VEbhJRA.png",
+    "url": "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5836918423261523490",
+    "quality": "FHD"
+  },
+  {
+    "name": "SRC TV (720p)",
+    "logo": "https://i.imgur.com/VSSbjrM.png",
+    "url": "http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2189379169145676503",
+    "quality": "HD"
+  },
+  {
+    "name": "Streek TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/48lkh57.png",
+    "url": "http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4811362466204091621",
+    "quality": "HD"
+  },
+  {
+    "name": "Streekstad Alkmaar Centraal (1080p)",
+    "logo": "https://i.imgur.com/9gM6rPb.png",
+    "url": "https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "159262378537413278",
+    "quality": "FHD"
+  },
+  {
+    "name": "Studio Rheden (1080p)",
+    "logo": "https://i.imgur.com/swfxaac.png",
+    "url": "https://stream.studiorhedenlive.nl/hlstv/stream.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-7288448137065072896",
+    "quality": "FHD"
+  },
+  {
+    "name": "Studio040 TV (720p)",
+    "logo": "https://i.imgur.com/NBludRL.png",
+    "url": "https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "6921860990501938806",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Ellef (1080p)",
+    "logo": "https://i.imgur.com/FaCd2QY.png",
+    "url": "http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-518145676680869729",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3135617500766122684",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2189512052735113993",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Enquetezaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2555037577407548057",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2641469903280199761",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Klompezaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "5661594441258506609",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "4990320403292706382",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4723743315303926120",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "6521851014404009490",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "2763458391470725057",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Tilanuskamer (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7009857596962661453",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-1884903524925311578",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/X9fezZ8.png",
+    "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "group": "Legislative",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5204857460168489498",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tynaarlo Lokaal TV (1080p)",
+    "logo": "https://i.imgur.com/llDbOoU.png",
+    "url": "https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-3216415346438285737",
+    "quality": "FHD"
+  },
+  {
+    "name": "UStad (1080p)",
+    "logo": "https://i.imgur.com/9F8ieEz.png",
+    "url": "http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6332650225962812726",
+    "quality": "FHD"
+  },
+  {
+    "name": "Vechtdal TV (480p)",
+    "logo": "https://i.imgur.com/MhcKEwr.png",
+    "url": "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-5942150876539771091",
+    "quality": "SD"
+  },
+  {
+    "name": "WEEFF TV (1080p)",
+    "logo": "https://i.imgur.com/4XCwuob.png",
+    "url": "https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8310531267894185408",
+    "quality": "FHD"
+  },
+  {
+    "name": "WeertFM TV (720p)",
+    "logo": "https://i.imgur.com/8bt6xt2.png",
+    "url": "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8",
+    "group": "General",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7909239939712354161",
+    "quality": "HD"
+  },
+  {
+    "name": "WOS TV (1080p)",
+    "logo": "https://i.imgur.com/L7MUBIo.png",
+    "url": "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-4864304249925630948",
+    "quality": "FHD"
+  },
+  {
+    "name": "XITE (720p)",
+    "logo": "https://i.imgur.com/jxuwGRi.png",
+    "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-8459722062081356211",
+    "quality": "HD"
+  },
+  {
+    "name": "XITE (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jxuwGRi.png",
+    "url": "https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-2727799596374094721",
+    "quality": "HD"
+  },
+  {
+    "name": "XITE Classic Country",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png",
+    "url": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8",
+    "group": "Music",
+    "country": "NL",
+    "is_premium": false,
+    "id": "8214464474521347141"
+  },
+  {
+    "name": "XON (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xEUHgMj.png",
+    "url": "http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "9079135372702390881",
+    "quality": "SD"
+  },
+  {
+    "name": "ZFM Zoetermeer (720p)",
+    "logo": "https://i.imgur.com/vrjACvy.png",
+    "url": "https://zfmzoetermeer.nl/live/master.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "1101764125483163039",
+    "quality": "HD"
+  },
+  {
+    "name": "ZO!34 (720p)",
+    "logo": "https://i.imgur.com/yiihDg6.png",
+    "url": "https://video.uitzending.tv:19360/zo34/zo34.m3u8",
+    "group": "Netherlands",
+    "country": "NL",
+    "is_premium": false,
+    "id": "7890686425511899900",
+    "quality": "HD"
+  },
+  {
+    "name": "Дождь (1080p) [Geo-blocked]",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+    "group": "Russia",
+    "country": "NL",
+    "is_premium": false,
+    "id": "-6107253556746507510",
+    "quality": "FHD"
+  }
+]

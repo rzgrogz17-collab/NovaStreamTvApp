@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Bravo +1",
+    "logo": "https://i.imgur.com/hphQ2kw.png",
+    "url": "https://i.mjh.nz/.r/bravo-plus1.m3u8",
+    "group": "New Zealand",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "-3576368957486715287"
+  },
+  {
+    "name": "Channel 200 (540p)",
+    "logo": "https://i.imgur.com/gAebu4q.png",
+    "url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "group": "Entertainment",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "5093412208155828974"
+  },
+  {
+    "name": "Firstlight (576p)",
+    "logo": "https://i.imgur.com/gtDROeT.png",
+    "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "7009443737859397536",
+    "quality": "SD"
+  },
+  {
+    "name": "Kordia TV (1080p)",
+    "logo": "https://i.imgur.com/BQ0qWzX.png",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "group": "New Zealand",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "8227947101838358999",
+    "quality": "FHD"
+  },
+  {
+    "name": "Parliament TV (1080p)",
+    "logo": "https://i.imgur.com/2aHW4q7.png",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+    "group": "Legislative",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "3563383436498490210",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sky Open (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/eYyYojh.png",
+    "url": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+    "group": "New Zealand",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "3739444714359834495",
+    "quality": "FHD"
+  },
+  {
+    "name": "Te Reo",
+    "logo": "https://i.imgur.com/3CNvYUN.png",
+    "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+    "group": "New Zealand",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "-5938980994902062370"
+  },
+  {
+    "name": "TVNZ 1 [Geo-blocked]",
+    "logo": "https://i.imgur.com/Nx76HUE.png",
+    "url": "https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8",
+    "group": "General",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "-5152562854826730920"
+  },
+  {
+    "name": "TVNZ 2 [Geo-blocked]",
+    "logo": "https://i.imgur.com/9sV4dbH.png",
+    "url": "https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8",
+    "group": "General",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "-6733830646006777359"
+  },
+  {
+    "name": "TVNZ Duke [Geo-blocked]",
+    "logo": "https://i.imgur.com/tJf9DEI.png",
+    "url": "https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8",
+    "group": "General",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "-6870192011045020088"
+  },
+  {
+    "name": "Wairarapa TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+    "group": "New Zealand",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "4439726893328147105",
+    "quality": "FHD"
+  },
+  {
+    "name": "Whakaata Maori",
+    "logo": "https://i.imgur.com/oT3PrHZ.png",
+    "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+    "group": "New Zealand",
+    "country": "NZ",
+    "is_premium": false,
+    "id": "-760930059388566935"
+  }
+]

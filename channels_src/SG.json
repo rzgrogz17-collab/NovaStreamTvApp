@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Animax Asia India (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "group": "India",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-6382118046453278713",
+    "quality": "FHD"
+  },
+  {
+    "name": "Aniplus Asia (720p)",
+    "logo": "https://i.imgur.com/Im3MePy.png",
+    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "group": "International",
+    "country": "SG",
+    "is_premium": false,
+    "id": "181277370350035013",
+    "quality": "HD"
+  },
+  {
+    "name": "Channel U",
+    "logo": "https://i.imgur.com/9MzEjoY.png",
+    "url": "https://cdn.qd.je/163189/chu",
+    "group": "Entertainment",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-2901565400836085032"
+  },
+  {
+    "name": "CNA (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/awIDugE.png",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "group": "News",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-2454680988721277800",
+    "quality": "FHD"
+  },
+  {
+    "name": "CNA International (1080p)",
+    "logo": "https://i.imgur.com/xWglicB.png",
+    "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+    "group": "International",
+    "country": "SG",
+    "is_premium": false,
+    "id": "3815794027871569406",
+    "quality": "FHD"
+  },
+  {
+    "name": "Crime + Investigation Asia HD (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+    "group": "International",
+    "country": "SG",
+    "is_premium": false,
+    "id": "2306776890432044364",
+    "quality": "HD"
+  },
+  {
+    "name": "KCM (1080p) [Geo-blocked]",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png",
+    "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+    "group": "Movies",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-6955937325003196478",
+    "quality": "FHD"
+  },
+  {
+    "name": "meWATCH LIVE 1 (1080p)",
+    "logo": "https://i.imgur.com/ppxUDxB.png",
+    "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+    "group": "Entertainment",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-778368827828907748",
+    "quality": "FHD"
+  },
+  {
+    "name": "Suria [Geo-blocked]",
+    "logo": "https://i.imgur.com/9xWAwzy.png",
+    "url": "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8",
+    "group": "Singapore",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-664921923821047375"
+  },
+  {
+    "name": "Vasantham [Geo-blocked]",
+    "logo": "https://i.imgur.com/vqVEcuT.png",
+    "url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8",
+    "group": "Singapore",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-1720033218315865950"
+  },
+  {
+    "name": "Zoo Moo (Australia) (1080p)",
+    "logo": "https://i.imgur.com/ciTJrnl.png",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "group": "International",
+    "country": "SG",
+    "is_premium": false,
+    "id": "-5090970177939755122",
+    "quality": "FHD"
+  }
+]

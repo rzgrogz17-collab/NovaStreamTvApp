@@ -1,0 +1,20 @@
+[
+  {
+    "name": "D3 TV",
+    "logo": "https://i.imgur.com/uFEIBtB.png",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "ML",
+    "is_premium": false,
+    "id": "2358856037407262255"
+  },
+  {
+    "name": "ORTM 1 (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/eKUpcls.png",
+    "url": "https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8",
+    "group": "General",
+    "country": "ML",
+    "is_premium": false,
+    "id": "-5556816450009969658"
+  }
+]

@@ -1,0 +1,774 @@
+[
+  {
+    "name": "A7TV (1080p)",
+    "logo": "https://i.imgur.com/RmFg8BN.png",
+    "url": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "8164930526814791778",
+    "quality": "FHD"
+  },
+  {
+    "name": "Agro TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/S7X1PiC.png",
+    "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+    "group": "Outdoor",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-8750258772387968301",
+    "quality": "SD"
+  },
+  {
+    "name": "Aleph Business (1280p)",
+    "logo": "https://i.imgur.com/IqvZBeo.png",
+    "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+    "group": "Business",
+    "country": "RO",
+    "is_premium": false,
+    "id": "4673032589609266734"
+  },
+  {
+    "name": "Aleph News (720p)",
+    "logo": "https://i.imgur.com/qPRQZMI.png",
+    "url": "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "1637999747138496138",
+    "quality": "HD"
+  },
+  {
+    "name": "Alfa Omega TV (1080p) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
+    "url": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+    "group": "Religious",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6309783337631540114",
+    "quality": "FHD"
+  },
+  {
+    "name": "Angelus TV (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512",
+    "url": "https://video.angelustv.ro/hls/angelustv.m3u8",
+    "group": "Religious",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4632916754956201303",
+    "quality": "FHD"
+  },
+  {
+    "name": "Antena Monden (720p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "group": "Lifestyle",
+    "country": "RO",
+    "is_premium": false,
+    "id": "165240439896864322",
+    "quality": "HD"
+  },
+  {
+    "name": "Antena Stars (1280p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
+    "group": "Entertainment",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-622570588851405228"
+  },
+  {
+    "name": "AntenaSport (1280p) [Not 24/7]",
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+    "url": "https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE",
+    "group": "Sports",
+    "country": "RO",
+    "is_premium": false,
+    "id": "6582180185227847020"
+  },
+  {
+    "name": "Arges TV (720p)",
+    "logo": "https://i.imgur.com/qufz6nk.png",
+    "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6800178258975829474",
+    "quality": "HD"
+  },
+  {
+    "name": "Atomic Academy TV (480p)",
+    "logo": "https://i.imgur.com/ZbrDIbZ.png",
+    "url": "https://atomic.streamnet.ro/academia.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4472313520294080759",
+    "quality": "SD"
+  },
+  {
+    "name": "Atomic TV (360p)",
+    "logo": "https://i.imgur.com/O4uI0Uy.png",
+    "url": "https://atomic.streamnet.ro/atomictv.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-5319328643943301902",
+    "quality": "SD"
+  },
+  {
+    "name": "Banat TV (720p)",
+    "logo": "https://i.imgur.com/yVsocid.png",
+    "url": "https://www.btv.ro/hls/banat-tv.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "5746820004540017077",
+    "quality": "HD"
+  },
+  {
+    "name": "Bollywood Classic",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+    "group": "Movies",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-8257792186640250"
+  },
+  {
+    "name": "Bucovina TV (576i)",
+    "logo": "https://i.imgur.com/6klhXxp.png",
+    "url": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-8399727231377507167"
+  },
+  {
+    "name": "Columna TV (720p)",
+    "logo": "https://i.imgur.com/C5dIgsc.png",
+    "url": "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "7418248578010952934",
+    "quality": "HD"
+  },
+  {
+    "name": "Comedy Play (720p)",
+    "logo": "https://i.imgur.com/6kAeVOk.png",
+    "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+    "group": "Comedy",
+    "country": "RO",
+    "is_premium": false,
+    "id": "6223771363853002513",
+    "quality": "HD"
+  },
+  {
+    "name": "Credo TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RD4TgcM.png",
+    "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+    "group": "Religious",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-3570401553573923133",
+    "quality": "HD"
+  },
+  {
+    "name": "Digi 24 (720p)",
+    "logo": "https://i.imgur.com/qmRnD0M.png",
+    "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-3044142111277999078",
+    "quality": "HD"
+  },
+  {
+    "name": "Disney Junior (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+    "url": "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8",
+    "group": "Kids",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-1473620079027943614",
+    "quality": "SD"
+  },
+  {
+    "name": "Dotto TV (1080p)",
+    "logo": "https://i.imgur.com/pfs882Z.png",
+    "url": "https://live.dottotv.ro/index.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6271937026160485825",
+    "quality": "FHD"
+  },
+  {
+    "name": "Exploris (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/r4zKU1e.png",
+    "url": "http://89.38.8.130:39419",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-7868552348016500645",
+    "quality": "SD"
+  },
+  {
+    "name": "Happy Channel",
+    "logo": "https://i.imgur.com/kpFaiku.png",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+    "group": "Entertainment",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-5626242186775042781"
+  },
+  {
+    "name": "HD365 TV (576p)",
+    "logo": "https://i.imgur.com/2cLx4ja.png",
+    "url": "https://s2.netstreaming.eu/hd365.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "3972410718339380307",
+    "quality": "SD"
+  },
+  {
+    "name": "Hunedoara 1 (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9bz15ad.png",
+    "url": "https://netstreaming.eu/hd1.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "5164323101006133969",
+    "quality": "SD"
+  },
+  {
+    "name": "IasiTV Life (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/HY7EL5e.png",
+    "url": "https://tv.streambox.ro/hls/itv/index.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "62345656600856720",
+    "quality": "FHD"
+  },
+  {
+    "name": "Impact TV Dance (1080p)",
+    "logo": "https://i.imgur.com/G5mNdpE.png",
+    "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "6632427296748324124",
+    "quality": "FHD"
+  },
+  {
+    "name": "Impact TV Manele (1080p)",
+    "logo": "https://i.imgur.com/G5mNdpE.png",
+    "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "2655621055252267978",
+    "quality": "FHD"
+  },
+  {
+    "name": "Informatia TV",
+    "logo": "https://i.imgur.com/P1ZbVRg.png",
+    "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "1771821982216453525"
+  },
+  {
+    "name": "Job Plus TV (한국직업방송) (480p)",
+    "logo": "https://i.imgur.com/Y5Zg5SR.png",
+    "url": "https://jobtvserver.eu/hls/stream.m3u8",
+    "group": "Business",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-7003332066506125697",
+    "quality": "SD"
+  },
+  {
+    "name": "Kanal D (480p)",
+    "logo": "https://i.imgur.com/15ILp0P.png",
+    "url": "https://stream1.kanald.ro/iphone/knd-live.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4689852318550372592",
+    "quality": "SD"
+  },
+  {
+    "name": "Kanal D2 (360p)",
+    "logo": "https://i.imgur.com/0SMSIm9.png",
+    "url": "https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "3233674554178418043",
+    "quality": "SD"
+  },
+  {
+    "name": "Kiss TV (1080p)",
+    "logo": "https://i.imgur.com/NKfVymH.png",
+    "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+    "group": "Ghana",
+    "country": "RO",
+    "is_premium": false,
+    "id": "6026288201088779404",
+    "quality": "FHD"
+  },
+  {
+    "name": "Light Channel (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/S3Fbf8T.png",
+    "url": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8",
+    "group": "Religious",
+    "country": "RO",
+    "is_premium": false,
+    "id": "3210059995633202358",
+    "quality": "SD"
+  },
+  {
+    "name": "Magic TV (720p)",
+    "logo": "https://i.imgur.com/9izrr4d.png",
+    "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+    "group": "Movies",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4664942149487736980",
+    "quality": "HD"
+  },
+  {
+    "name": "Metropola TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Gzq05v8.png",
+    "url": "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-1527298725358345947",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mireasa (720p)",
+    "logo": "https://i.imgur.com/k0VO0LH.png",
+    "url": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
+    "group": "Series",
+    "country": "RO",
+    "is_premium": false,
+    "id": "7667357934350043220",
+    "quality": "HD"
+  },
+  {
+    "name": "MISA TV",
+    "logo": "https://i.imgur.com/2RxQNm6.png",
+    "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+    "group": "Religious",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-1535605716069909571"
+  },
+  {
+    "name": "Moinesti FM (720p)",
+    "logo": "",
+    "url": "https://video.moinestifm.ro/hls/moinestifm.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "1128625039622131682",
+    "quality": "HD"
+  },
+  {
+    "name": "Mooz Dance",
+    "logo": "https://i.imgur.com/aX70RD2.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-2556418693917916072"
+  },
+  {
+    "name": "Mooz Hits",
+    "logo": "https://i.imgur.com/GwATd3Y.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-7602060193469799465"
+  },
+  {
+    "name": "Mooz Ro!",
+    "logo": "https://i.imgur.com/Ft24x5T.png",
+    "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6907434172820013871"
+  },
+  {
+    "name": "Muscel TV (720p)",
+    "logo": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
+    "url": "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "6846271667009409153",
+    "quality": "HD"
+  },
+  {
+    "name": "Nasul TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MoguWme.png",
+    "url": "https://live.nasul.tv/live/stream.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-3219475124205670241",
+    "quality": "HD"
+  },
+  {
+    "name": "Nova TV Brasov (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/33Vn0Ij.png",
+    "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "3257760037390938690",
+    "quality": "SD"
+  },
+  {
+    "name": "Observator News (720p)",
+    "logo": "https://i.imgur.com/f6xEIAr.png",
+    "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-209927095999112386",
+    "quality": "HD"
+  },
+  {
+    "name": "PRO TV (1280p)",
+    "logo": "https://i.imgur.com/5op8imN.png",
+    "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+    "group": "Entertainment",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-1547092661131614143"
+  },
+  {
+    "name": "Pro TV News (1080p)",
+    "logo": "https://i.imgur.com/X5PYRxF.png",
+    "url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4166309771226949260",
+    "quality": "FHD"
+  },
+  {
+    "name": "PROFI 24 TV",
+    "logo": "https://www.google.com/s2/favicons?domain=profi24.ro&sz=128",
+    "url": "https://live.ro24tv.ro/hls/stream.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "3778653726334019206"
+  },
+  {
+    "name": "Qub TV (720p)",
+    "logo": "https://i.imgur.com/GvyF2Wh.png",
+    "url": "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "2372709158039358109",
+    "quality": "HD"
+  },
+  {
+    "name": "Rapsodia TV (576p)",
+    "logo": "https://i.imgur.com/mwMG7BB.png",
+    "url": "http://92.86.248.141:8080/ram/playlist.m3u8",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "2119492330899102898",
+    "quality": "SD"
+  },
+  {
+    "name": "Realitatea Sportiva (720p)",
+    "logo": "https://i.imgur.com/BaEyZto.png",
+    "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+    "group": "Sports",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6125672254077442314",
+    "quality": "HD"
+  },
+  {
+    "name": "Rock TV (720p)",
+    "logo": "https://i.imgur.com/VB88A5V.png",
+    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "group": "Ghana",
+    "country": "RO",
+    "is_premium": false,
+    "id": "7940964642014311146",
+    "quality": "HD"
+  },
+  {
+    "name": "Romania TV (576p)",
+    "logo": "https://i.imgur.com/ZIfEp5I.png",
+    "url": "https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-3334679064578939953",
+    "quality": "SD"
+  },
+  {
+    "name": "SperantaTV (1080p)",
+    "logo": "https://i.imgur.com/KUyqQCX.png",
+    "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+    "group": "Religious",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-2972385117337640455",
+    "quality": "FHD"
+  },
+  {
+    "name": "Super TV (1080i) [Not 24/7]",
+    "logo": "https://i.imgur.com/pzxUE0O.png",
+    "url": "https://live.supertv.ro/live/supertv/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "4440531859885347791"
+  },
+  {
+    "name": "Tele7ABC HD (720p)",
+    "logo": "https://i.imgur.com/CheqyWH.png",
+    "url": "https://live.tele7abc.ro/hls/stream/index.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "8213525248111640927",
+    "quality": "HD"
+  },
+  {
+    "name": "Tele7music",
+    "logo": "https://i.imgur.com/11b5W8u.png",
+    "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-222060950271485408"
+  },
+  {
+    "name": "TeleM Botosani (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3EZ8CmJ.png",
+    "url": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4403111762754763809"
+  },
+  {
+    "name": "TeleMoldova + [Geo-blocked]",
+    "logo": "https://i.imgur.com/8z0zLjw.jpeg",
+    "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-3870763273788726350"
+  },
+  {
+    "name": "Telestar1",
+    "logo": "https://i.imgur.com/BTKh5ef.png",
+    "url": "https://dvb.tennet.ro/mobile_tv/telestar.m3u8",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "2840452726211272052"
+  },
+  {
+    "name": "Traditional TV (1080p)",
+    "logo": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
+    "url": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
+    "group": "Music",
+    "country": "RO",
+    "is_premium": false,
+    "id": "5011533319840818086",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Buzau (576p)",
+    "logo": "https://i.imgur.com/GhFmUVO.png",
+    "url": "http://78.96.33.89:8080",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "8593217703002201112",
+    "quality": "SD"
+  },
+  {
+    "name": "TV SUD (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/m3Slmbe.png",
+    "url": "https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "4515775683427491613",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVPlus Suceava (576p)",
+    "logo": "https://i.imgur.com/f4fzoLe.png",
+    "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-7529184899083310823",
+    "quality": "SD"
+  },
+  {
+    "name": "TVR 2 (1080p) [Not 24/7] [Geo-blocked]",
+    "logo": "https://i.imgur.com/mKouHIZ.png",
+    "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6940595904024778585",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR 3 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/yHCuTap.png",
+    "url": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-1386923753060367128",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Cluj (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/RkDra93.png",
+    "url": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "4505376404921300281",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Craiova (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/vxWbQiy.png",
+    "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-2358139983946773581",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Cultural (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/U9i70C9.png",
+    "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8",
+    "group": "Culture",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4401938679678076827",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Folclor (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/tvr-folclor-ro.png",
+    "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-4560521091694230498",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Iasi (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Kxkihds.png",
+    "url": "http://82.208.141.70:8778/1.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "4546857021028299404",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Info (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/7oE7ThR.png",
+    "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
+    "group": "News",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-5253415775647660990",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR International (1080p)",
+    "logo": "https://i.imgur.com/w28wcHs.png",
+    "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "4772154112706375604",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Sport (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/tvr-sport-ro.png",
+    "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "6488146589597080777",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Targu-Mures (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/9Hptdqj.png",
+    "url": "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "8961104340504224092",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVR Timisoara (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/0x6Edei.png",
+    "url": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8",
+    "group": "General",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-3383016119898904939",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVSat (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/54GHZMv.png",
+    "url": "http://89.38.8.130:39443",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "1800110112923878614",
+    "quality": "SD"
+  },
+  {
+    "name": "ZU TV (1080p)",
+    "logo": "https://i.imgur.com/1gtkGhB.png",
+    "url": "https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE",
+    "group": "Romania",
+    "country": "RO",
+    "is_premium": false,
+    "id": "-6578011646441372412",
+    "quality": "FHD"
+  }
+]

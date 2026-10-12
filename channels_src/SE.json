@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Aryen TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/hIhzT7t.png",
+    "url": "https://aryen.tv/live/tv/playlist.m3u8",
+    "group": "Sweden",
+    "country": "SE",
+    "is_premium": false,
+    "id": "729798595198998405",
+    "quality": "FHD"
+  },
+  {
+    "name": "ATG Live (720p)",
+    "logo": "https://i.imgur.com/bPWFXkL.png",
+    "url": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+    "group": "Sports",
+    "country": "SE",
+    "is_premium": false,
+    "id": "4746047798819966073",
+    "quality": "HD"
+  },
+  {
+    "name": "Best of The Drew Barrymore Show",
+    "logo": "https://i.imgur.com/5kdG4Dm.png",
+    "url": "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8",
+    "group": "Entertainment",
+    "country": "SE",
+    "is_premium": false,
+    "id": "1761412924751325900"
+  },
+  {
+    "name": "Car Chase",
+    "logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-817330236956662194"
+  },
+  {
+    "name": "Comedy Central",
+    "logo": "https://i.imgur.com/9y6TtjF.png",
+    "url": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8",
+    "group": "Comedy",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-8616567802964038140"
+  },
+  {
+    "name": "CSI",
+    "logo": "https://i.imgur.com/xLLNEfA.png",
+    "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "2707043794062416310"
+  },
+  {
+    "name": "Dallas Cowboys Cheerleaders",
+    "logo": "https://i.imgur.com/73HlRCg.png",
+    "url": "https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-2746485927310146911"
+  },
+  {
+    "name": "Di TV (1080p)",
+    "logo": "https://i.imgur.com/zApTDWn.png",
+    "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8",
+    "group": "News",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-2251379702836168590",
+    "quality": "FHD"
+  },
+  {
+    "name": "Diagnosis Murder",
+    "logo": "https://images.pluto.tv/channels/65fd548f29adfd00089c662c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-7234060949787829066"
+  },
+  {
+    "name": "Doc Martin",
+    "logo": "https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "1074892834990376747"
+  },
+  {
+    "name": "Expressen TV (1080p)",
+    "logo": "https://i.imgur.com/ai0BIci.png",
+    "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+    "group": "News",
+    "country": "SE",
+    "is_premium": false,
+    "id": "5466329065725235392",
+    "quality": "FHD"
+  },
+  {
+    "name": "Family Ties",
+    "logo": "https://i.imgur.com/WJEkKCb.png",
+    "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8",
+    "group": "Comedy",
+    "country": "SE",
+    "is_premium": false,
+    "id": "2568916016025289008"
+  },
+  {
+    "name": "Happy Days",
+    "logo": "https://i.imgur.com/LPjoORg.png",
+    "url": "https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "6423623955518427851"
+  },
+  {
+    "name": "Jersey Shore",
+    "logo": "https://i.imgur.com/SssCaj1.png",
+    "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
+    "group": "Entertainment",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-7038224114634655260"
+  },
+  {
+    "name": "Kanal 10 Asia (540p)",
+    "logo": "https://i.imgur.com/tY7IJva.png",
+    "url": "https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/playlist.m3u8",
+    "group": "International",
+    "country": "SE",
+    "is_premium": false,
+    "id": "4812026960684879607"
+  },
+  {
+    "name": "Komala TV (1080p)",
+    "logo": "https://i.imgur.com/D6KBLB8.png",
+    "url": "https://komhls.wns.live/hls/stream.m3u8",
+    "group": "Culture",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-3641179031781489602",
+    "quality": "FHD"
+  },
+  {
+    "name": "Kunskapskanalen (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/kunskapskanalen-se.png",
+    "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "group": "Education",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-1799148108464574743",
+    "quality": "FHD"
+  },
+  {
+    "name": "Miracle TV (1080p)",
+    "logo": "https://i.imgur.com/rc68GZJ.png",
+    "url": "https://live.miracleonline.org/hls/miracle1.m3u8",
+    "group": "Religious",
+    "country": "SE",
+    "is_premium": false,
+    "id": "2714646852264892642",
+    "quality": "FHD"
+  },
+  {
+    "name": "NCIS",
+    "logo": "https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "852333866032189988"
+  },
+  {
+    "name": "Rawhide",
+    "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+    "url": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
+    "group": "Series",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-3362446941932958748"
+  },
+  {
+    "name": "Smithsonian Channel Selects",
+    "logo": "https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg",
+    "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
+    "group": "Documentary",
+    "country": "SE",
+    "is_premium": false,
+    "id": "4027609459147576669"
+  },
+  {
+    "name": "SVT Barn/SVT24 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/uMEwuTH.png",
+    "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "group": "General",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-3091977585837477960",
+    "quality": "FHD"
+  },
+  {
+    "name": "SVT1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/j6KusQX.png",
+    "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "group": "Sweden",
+    "country": "SE",
+    "is_premium": false,
+    "id": "-4771843905839137033",
+    "quality": "FHD"
+  },
+  {
+    "name": "SVT2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/pGWvCxp.png",
+    "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "group": "Sweden",
+    "country": "SE",
+    "is_premium": false,
+    "id": "671425173722737604",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tosh.0",
+    "logo": "https://i.imgur.com/sXkluxg.png",
+    "url": "https://jmp2.uk/plu-65e977042873090008b48be9.m3u8",
+    "group": "Comedy",
+    "country": "SE",
+    "is_premium": false,
+    "id": "3392188863922176988"
+  }
+]

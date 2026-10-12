@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alistiqama TV (576p)",
+    "logo": "https://i.imgur.com/2FPtYZr.png",
+    "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "group": "Religious",
+    "country": "OM",
+    "is_premium": false,
+    "id": "-4231711983480103898",
+    "quality": "SD"
+  },
+  {
+    "name": "Oman Althakafia (1080p)",
+    "logo": "https://i.imgur.com/b38wNPK.png",
+    "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "group": "Oman",
+    "country": "OM",
+    "is_premium": false,
+    "id": "-1915186502296556192",
+    "quality": "FHD"
+  },
+  {
+    "name": "Oman Mubashir (1080p)",
+    "logo": "https://i.imgur.com/UkQTR5b.png",
+    "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
+    "group": "Oman",
+    "country": "OM",
+    "is_premium": false,
+    "id": "329278889789650098",
+    "quality": "FHD"
+  },
+  {
+    "name": "Oman Sports TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1omi7p8.png",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "group": "Sports",
+    "country": "OM",
+    "is_premium": false,
+    "id": "-7829031098098209559",
+    "quality": "FHD"
+  },
+  {
+    "name": "Oman TV (1080p)",
+    "logo": "https://i.imgur.com/rBftT9x.png",
+    "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+    "group": "General",
+    "country": "OM",
+    "is_premium": false,
+    "id": "1915154237441881273",
+    "quality": "FHD"
+  }
+]

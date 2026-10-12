@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Euronews Albania",
+    "logo": "https://i.imgur.com/Skf6vdi.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8",
+    "group": "News",
+    "country": "XK",
+    "is_premium": false,
+    "id": "-883441886686319701"
+  },
+  {
+    "name": "Kohavision",
+    "logo": "https://i.imgur.com/LOi9yma.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+    "group": "News",
+    "country": "XK",
+    "is_premium": false,
+    "id": "-3409210056675960304"
+  },
+  {
+    "name": "RTK 3",
+    "logo": "https://i.imgur.com/Ut9VcT3.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
+    "group": "Kosovo",
+    "country": "XK",
+    "is_premium": false,
+    "id": "2986952288780638260"
+  },
+  {
+    "name": "RTV21",
+    "logo": "https://i.imgur.com/AqQltGh.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8",
+    "group": "Kosovo",
+    "country": "XK",
+    "is_premium": false,
+    "id": "2751216529551293937"
+  },
+  {
+    "name": "T7",
+    "logo": "https://i.imgur.com/b7FvSJj.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
+    "group": "Kosovo",
+    "country": "XK",
+    "is_premium": false,
+    "id": "-3264324513993773294"
+  },
+  {
+    "name": "TV Arta",
+    "logo": "https://i.imgur.com/MAhJkK9.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8",
+    "group": "News",
+    "country": "XK",
+    "is_premium": false,
+    "id": "8783914816312874892"
+  },
+  {
+    "name": "TV Dielli (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/kLl3ar5.png",
+    "url": "http://stream.tvdielli.com:8081/dielli/index.m3u8",
+    "group": "Kosovo",
+    "country": "XK",
+    "is_premium": false,
+    "id": "-2776283358321546991",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Opoja (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/hxi4Qiq.png",
+    "url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8",
+    "group": "Kosovo",
+    "country": "XK",
+    "is_premium": false,
+    "id": "4272821364550910712",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Syri (720p)",
+    "logo": "https://i.imgur.com/ZQuFosn.png",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8",
+    "group": "Kosovo",
+    "country": "XK",
+    "is_premium": false,
+    "id": "-4481357573894765195",
+    "quality": "HD"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Canal+ Haiti [Geo-blocked]",
+    "logo": "https://i.imgur.com/Gad5qrd.png",
+    "url": "https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8",
+    "group": "Entertainment",
+    "country": "MQ",
+    "is_premium": false,
+    "id": "6599692097472071132"
+  },
+  {
+    "name": "FUSION TV (1080p)",
+    "logo": "https://i.imgur.com/WMrYEgH.png",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+    "group": "Music",
+    "country": "MQ",
+    "is_premium": false,
+    "id": "-4542554950992546740",
+    "quality": "FHD"
+  },
+  {
+    "name": "Identité Télé Caraïbes (548p)",
+    "logo": "https://i.imgur.com/Atsf6Cd.png",
+    "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+    "group": "Music",
+    "country": "MQ",
+    "is_premium": false,
+    "id": "710040932865092452"
+  },
+  {
+    "name": "Tele Zoukla",
+    "logo": "https://i.imgur.com/lWYKgPC.png",
+    "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+    "group": "Music",
+    "country": "MQ",
+    "is_premium": false,
+    "id": "-1763309247526162370"
+  },
+  {
+    "name": "TV Famille (720p)",
+    "logo": "https://i.imgur.com/Kbfihk5.png",
+    "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+    "group": "Family",
+    "country": "MQ",
+    "is_premium": false,
+    "id": "-3455809528925336068",
+    "quality": "HD"
+  },
+  {
+    "name": "ViàATV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Ua6rOXo.png",
+    "url": "https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8",
+    "group": "General",
+    "country": "MQ",
+    "is_premium": false,
+    "id": "-3738862701622841573",
+    "quality": "FHD"
+  }
+]
