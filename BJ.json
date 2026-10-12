@@ -1,0 +1,49 @@
+[
+  {
+    "name": "ADO TV (720p)",
+    "logo": "https://i.imgur.com/pxFamLr.png",
+    "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8",
+    "group": "Benin",
+    "country": "BJ",
+    "is_premium": false,
+    "id": "-4335987958261886753",
+    "quality": "HD"
+  },
+  {
+    "name": "Eden TV (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4ClnG0x.png",
+    "url": "https://rtmp.edentv.bj/hls/stream.m3u8",
+    "group": "General",
+    "country": "BJ",
+    "is_premium": false,
+    "id": "-1328309513982406125"
+  },
+  {
+    "name": "Life TV",
+    "logo": "https://i.imgur.com/iz9qHZk.png",
+    "url": "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8",
+    "group": "General",
+    "country": "BJ",
+    "is_premium": false,
+    "id": "-864924624301180423"
+  },
+  {
+    "name": "ORTB TV",
+    "logo": "https://i.imgur.com/o6zAR88.png",
+    "url": "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8",
+    "group": "General",
+    "country": "BJ",
+    "is_premium": false,
+    "id": "-8382008611440463040"
+  },
+  {
+    "name": "TVC Bénin (720p)",
+    "logo": "https://i.imgur.com/oUnEYl5.png",
+    "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+    "group": "General",
+    "country": "BJ",
+    "is_premium": false,
+    "id": "6955707427475460206",
+    "quality": "HD"
+  }
+]

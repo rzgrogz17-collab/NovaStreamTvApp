@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Abya Yala TV",
+    "logo": "https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png",
+    "url": "https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "5044911706636281272"
+  },
+  {
+    "name": "ATB La Paz (614p) [Not 24/7]",
+    "logo": "https://i.imgur.com/E243X2x.png",
+    "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-2676387085122486627"
+  },
+  {
+    "name": "Bolivia TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/tKLYYys.png",
+    "url": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "6481488630319631116",
+    "quality": "HD"
+  },
+  {
+    "name": "Cadena A (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BxQPPAA.png",
+    "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "8166049945124806136",
+    "quality": "HD"
+  },
+  {
+    "name": "CEACOM TV [Not 24/7]",
+    "logo": "https://i.imgur.com/hutdRfk.png",
+    "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+    "group": "News",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-756389146877601675"
+  },
+  {
+    "name": "Coral TV (480p)",
+    "logo": "https://i.ibb.co/xDrc5MD/CORALTv.png",
+    "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-5292501176932904022",
+    "quality": "SD"
+  },
+  {
+    "name": "CTV",
+    "logo": "https://i.imgur.com/ljKb0UX.png",
+    "url": "https://live.ctvbolivia.com/hls/ctv.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "8881394220376230232"
+  },
+  {
+    "name": "F10 HD [Geo-blocked]",
+    "logo": "https://i.imgur.com/OEsT0KN.png",
+    "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-8833381769688336065",
+    "quality": "HD"
+  },
+  {
+    "name": "FAP TV (480p)",
+    "logo": "https://i.imgur.com/jZ7g58e.png",
+    "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "2778853035974936417",
+    "quality": "SD"
+  },
+  {
+    "name": "FTV",
+    "logo": "https://i.imgur.com/YOr1Oac.png",
+    "url": "https://master.tucableip.com/ftvhd/index.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-8782176993506527596"
+  },
+  {
+    "name": "Gigavision",
+    "logo": "https://i.imgur.com/fE3BkcT.png",
+    "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-5430034183948636831"
+  },
+  {
+    "name": "Imperial TV",
+    "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
+    "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-7263845280235414022"
+  },
+  {
+    "name": "KSCE Vida Cristiana (360p)",
+    "logo": "https://i.imgur.com/970zAEn.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
+    "group": "United States",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-4496617959702853313",
+    "quality": "SD"
+  },
+  {
+    "name": "Palenque TV",
+    "logo": "https://i.imgur.com/wAIBvaO.png",
+    "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-7950194906080382226"
+  },
+  {
+    "name": "PAT La Paz",
+    "logo": "https://i.imgur.com/4A7R2Jt.png",
+    "url": "https://www.redpat.tv/proxylpz/index.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-8002292864884766702"
+  },
+  {
+    "name": "PTV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MMccHNd.png",
+    "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "3664031080524256487",
+    "quality": "FHD"
+  },
+  {
+    "name": "Red ADvenir TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/WGkMt2j.png",
+    "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-5761920437437528071",
+    "quality": "SD"
+  },
+  {
+    "name": "Red CCTV (480p)",
+    "logo": "https://i.imgur.com/YC5FRmq.png",
+    "url": "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "2143685117673697141",
+    "quality": "SD"
+  },
+  {
+    "name": "Red TV Shop",
+    "logo": "https://i.imgur.com/I7yB176.png",
+    "url": "https://master.tucableip.com/redtvshop/index.m3u8",
+    "group": "Shop",
+    "country": "BO",
+    "is_premium": false,
+    "id": "8438655301790675871"
+  },
+  {
+    "name": "Red Uno Santa Cruz",
+    "logo": "https://i.imgur.com/pqVzZQ9.png",
+    "url": "http://190.181.18.82:4111/play/a006/index.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "832033686226341683"
+  },
+  {
+    "name": "RTP",
+    "logo": "https://i.imgur.com/cECNvvr.png",
+    "url": "https://rtp.noxun.net/hls/stream.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "3886350721826818036"
+  },
+  {
+    "name": "TDT Multimedia (720p)",
+    "logo": "https://i.imgur.com/JkCywl5.png",
+    "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+    "group": "General",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-7225058331108224302",
+    "quality": "HD"
+  },
+  {
+    "name": "TV OFF",
+    "logo": "https://i.imgur.com/vBe1GgI.png",
+    "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
+    "group": "Travel",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-7869694122645855137"
+  },
+  {
+    "name": "UMSA TVU Internacional (720p)",
+    "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+    "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+    "group": "Education",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-7988098038357042016",
+    "quality": "HD"
+  },
+  {
+    "name": "UMSA TVU LP (720p)",
+    "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
+    "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+    "group": "News",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-2728338222663662994",
+    "quality": "HD"
+  },
+  {
+    "name": "Unifranz (720p)",
+    "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+    "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+    "group": "Education",
+    "country": "BO",
+    "is_premium": false,
+    "id": "-4246493207997612908",
+    "quality": "HD"
+  },
+  {
+    "name": "Unitel Santa Cruz",
+    "logo": "https://i.imgur.com/B9wg1zj.png",
+    "url": "https://master.tucableip.com/tvhome/index.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "683149551377074577"
+  },
+  {
+    "name": "Univalle Televisión (1080p)",
+    "logo": "https://i.imgur.com/qgrWDIs.png",
+    "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "3142803826829712022",
+    "quality": "FHD"
+  },
+  {
+    "name": "UPEA TV (720p)",
+    "logo": "https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png",
+    "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "9080214169194096231",
+    "quality": "HD"
+  },
+  {
+    "name": "VTV Canal 17 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TUhFzql.png",
+    "url": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8",
+    "group": "Religious",
+    "country": "BO",
+    "is_premium": false,
+    "id": "7457311565305731216",
+    "quality": "HD"
+  },
+  {
+    "name": "XTOTV (1280p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MLwLlWl.png",
+    "url": "http://190.104.15.135/0.ts",
+    "group": "Bolivia",
+    "country": "BO",
+    "is_premium": false,
+    "id": "2064962969149767350"
+  }
+]

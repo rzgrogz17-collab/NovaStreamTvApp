@@ -1,0 +1,32 @@
+[
+  {
+    "name": "KK TV Angola (1080p)",
+    "logo": "https://i.imgur.com/jWOB0oU.png",
+    "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+    "group": "Angola",
+    "country": "AO",
+    "is_premium": false,
+    "id": "-6011872353011587847",
+    "quality": "FHD"
+  },
+  {
+    "name": "Muzangala TV (1080p)",
+    "logo": "https://i.imgur.com/fBeaJoS.png",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+    "group": "Music",
+    "country": "AO",
+    "is_premium": false,
+    "id": "-920334807303670325",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Zimbo (1080p)",
+    "logo": "https://i.imgur.com/SFD8CBh.png",
+    "url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
+    "group": "General",
+    "country": "AO",
+    "is_premium": false,
+    "id": "2214429082674386750",
+    "quality": "FHD"
+  }
+]

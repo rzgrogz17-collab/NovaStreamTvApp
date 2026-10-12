@@ -1,0 +1,102 @@
+[
+  {
+    "name": "BL-TV/TV Storbyen (720p) [Not 24/7]",
+    "logo": "https://i.ibb.co/X5h3hJL/tvstb.png",
+    "url": "https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8",
+    "group": "Denmark",
+    "country": "DK",
+    "is_premium": false,
+    "id": "-1676084656779609917",
+    "quality": "HD"
+  },
+  {
+    "name": "DR Ramasjang (720p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/dr-ramasjang-dk.png",
+    "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+    "group": "Kids",
+    "country": "DK",
+    "is_premium": false,
+    "id": "-2572490636169083151",
+    "quality": "HD"
+  },
+  {
+    "name": "DR1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/OETzsOI.png",
+    "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+    "group": "General",
+    "country": "DK",
+    "is_premium": false,
+    "id": "-2536051752250311804",
+    "quality": "FHD"
+  },
+  {
+    "name": "DR2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/7bYtukP.png",
+    "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+    "group": "Culture",
+    "country": "DK",
+    "is_premium": false,
+    "id": "3294568632814378985",
+    "quality": "FHD"
+  },
+  {
+    "name": "DRTV (1080p)",
+    "logo": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
+    "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+    "group": "General",
+    "country": "DK",
+    "is_premium": false,
+    "id": "5295752769897900496",
+    "quality": "FHD"
+  },
+  {
+    "name": "Folketinget (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RqQDUzX.png",
+    "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+    "group": "Denmark",
+    "country": "DK",
+    "is_premium": false,
+    "id": "7591659647843716121",
+    "quality": "FHD"
+  },
+  {
+    "name": "Kanal Hovedstaden (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/afujBQs.jpeg",
+    "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+    "group": "General",
+    "country": "DK",
+    "is_premium": false,
+    "id": "311244155982833737",
+    "quality": "HD"
+  },
+  {
+    "name": "KKRtv (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TbtjWHI.png",
+    "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+    "group": "Religious",
+    "country": "DK",
+    "is_premium": false,
+    "id": "2536893490097262606",
+    "quality": "HD"
+  },
+  {
+    "name": "TV 2/Bornholm (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/cEOpXU6.png",
+    "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+    "group": "Denmark",
+    "country": "DK",
+    "is_premium": false,
+    "id": "5040835694796216711",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVMarineret (1080p)",
+    "logo": "https://i.imgur.com/r1Caske.jpg",
+    "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
+    "group": "General",
+    "country": "DK",
+    "is_premium": false,
+    "id": "-7825145696125537441",
+    "quality": "FHD"
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "name": "HOY Infotainment (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/LNokYLQ.png",
+    "url": "https://hoytv-live-stream.hoy.tv/ch78/index.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-3391844595408233776",
+    "quality": "FHD"
+  },
+  {
+    "name": "HOY International Business Channel (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/jaIdkbz.png",
+    "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-1871721123339101879",
+    "quality": "FHD"
+  },
+  {
+    "name": "HOY TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/NfVZPTT.png",
+    "url": "https://hoytv-live-stream.hoy.tv/ch77/index.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "8651481426950922786",
+    "quality": "FHD"
+  },
+  {
+    "name": "NewsWorld",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",
+    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "group": "News",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-6631949961650883543"
+  },
+  {
+    "name": "Pet Club TV (1080p)",
+    "logo": "https://i.imgur.com/ykPNNwQ.png",
+    "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "HK",
+    "is_premium": false,
+    "id": "2992557803446309086",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/kf818kM.png",
+    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-3888374275047436713",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/MXLuUoU.png",
+    "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-2634067107320047575",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/2MProun.png",
+    "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "4871710211949956128",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Kq5A6Qn.png",
+    "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-3469272905620351357",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/FQmNKDS.png",
+    "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+    "group": "News",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-9110073235817209723",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sun TV (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png",
+    "url": "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8",
+    "group": "Entertainment",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-3783291484649722320",
+    "quality": "FHD"
+  },
+  {
+    "name": "tvN Asia (Indonesian Subtitle) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",
+    "url": "http://58.8.186.128:10005/bysid/2518",
+    "group": "Entertainment",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-4769825376719545737",
+    "quality": "SD"
+  },
+  {
+    "name": "凤凰中文 (720p)",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+    "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "-1321527652424758656",
+    "quality": "HD"
+  },
+  {
+    "name": "凤凰资讯 (720p)",
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "5107588239432099302",
+    "quality": "HD"
+  },
+  {
+    "name": "奇妙電視 (720p)",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+    "group": "General",
+    "country": "HK",
+    "is_premium": false,
+    "id": "5292869822642838557",
+    "quality": "HD"
+  },
+  {
+    "name": "耀才財經台 (576p)",
+    "logo": "https://i.imgur.com/GVYSSgm.png",
+    "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+    "group": "Hong Kong",
+    "country": "HK",
+    "is_premium": false,
+    "id": "4374048880333753898",
+    "quality": "SD"
+  },
+  {
+    "name": "耀才财经",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8",
+    "group": "General",
+    "country": "HK",
+    "is_premium": false,
+    "id": "7919317073160897865"
+  },
+  {
+    "name": "耀才财经 (288p)",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8",
+    "group": "General",
+    "country": "HK",
+    "is_premium": false,
+    "id": "463160508537135084"
+  }
+]

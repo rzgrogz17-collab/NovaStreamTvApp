@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HGPTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0aIH6V5.png",
+    "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8",
+    "group": "General",
+    "country": "GY",
+    "is_premium": false,
+    "id": "1105007178098347856",
+    "quality": "HD"
+  },
+  {
+    "name": "Ignite Television (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/aQI9tsg.jpeg",
+    "url": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8",
+    "group": "General",
+    "country": "GY",
+    "is_premium": false,
+    "id": "2859764803802141425",
+    "quality": "FHD"
+  },
+  {
+    "name": "MTV Guyana (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ky70brA.png",
+    "url": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8",
+    "group": "General",
+    "country": "GY",
+    "is_premium": false,
+    "id": "-8220598470464518008",
+    "quality": "FHD"
+  },
+  {
+    "name": "Times Brasil (1080p)",
+    "logo": "https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png",
+    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
+    "group": "News",
+    "country": "GY",
+    "is_premium": false,
+    "id": "7777054741964712961",
+    "quality": "FHD"
+  }
+]

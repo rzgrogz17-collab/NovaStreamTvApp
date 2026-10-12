@@ -1,0 +1,3249 @@
+[
+  {
+    "name": "101tv Malaga",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8125959254310121756"
+  },
+  {
+    "name": "101tv Ronda (1080p)",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://streaming101tv.es/hls/webronda.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1296172360130147250",
+    "quality": "FHD"
+  },
+  {
+    "name": "101tv Sevilla",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5251702658648184837"
+  },
+  {
+    "name": "12tv",
+    "logo": "https://i.imgur.com/VSTgXsh.png",
+    "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4621446227465591429"
+  },
+  {
+    "name": "28 kanala",
+    "logo": "https://i.imgur.com/DyvK28q.png",
+    "url": "https://streaming.28kanala.eus/hls/z.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-987164978381405186"
+  },
+  {
+    "name": "3Cat Càmeres del temps (1080p)",
+    "logo": "https://i.imgur.com/zXy2kbe.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "group": "Public",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3157305068408768388",
+    "quality": "FHD"
+  },
+  {
+    "name": "3Cat Exclusiu 1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/YQvLPT1.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2832427466791749064",
+    "quality": "FHD"
+  },
+  {
+    "name": "3Cat Exclusiu 2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/YQvLPT1.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1322354775119434965",
+    "quality": "FHD"
+  },
+  {
+    "name": "3Cat Exclusiu 3 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/YQvLPT1.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5385833592083800206",
+    "quality": "FHD"
+  },
+  {
+    "name": "3Cat Plats bruts (1080p)",
+    "logo": "https://i.imgur.com/49ZENis.png",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+    "group": "Classic",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3396919059852331548",
+    "quality": "FHD"
+  },
+  {
+    "name": "3CatInfo (1080p)",
+    "logo": "https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1365279948366635108",
+    "quality": "FHD"
+  },
+  {
+    "name": "7 TeleValencia (576p)",
+    "logo": "https://i.imgur.com/ILfXDRs.png",
+    "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7784592958546090647",
+    "quality": "SD"
+  },
+  {
+    "name": "8 La Marina TV (576p)",
+    "logo": "https://i.imgur.com/BTJvvBK.png",
+    "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-472432253387097064",
+    "quality": "SD"
+  },
+  {
+    "name": "9 la Loma TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/WQP3el2.png",
+    "url": "https://9laloma.tv/live.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5868186981213533212",
+    "quality": "FHD"
+  },
+  {
+    "name": "A Punt",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/a-punt-es.png",
+    "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8503692330397878119"
+  },
+  {
+    "name": "Action Hollywood Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-58418031310025613"
+  },
+  {
+    "name": "Action Hollywood Movies (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "url": "https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6994659480536053937",
+    "quality": "FHD"
+  },
+  {
+    "name": "Action Hollywood Movies (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "url": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5922185092430131515",
+    "quality": "HD"
+  },
+  {
+    "name": "Activa TV (720p)",
+    "logo": "https://i.imgur.com/VCUZKiw.png",
+    "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1001882367265673278",
+    "quality": "HD"
+  },
+  {
+    "name": "Actualidad 360 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/3YeTu0n.png",
+    "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1248281017479003985",
+    "quality": "FHD"
+  },
+  {
+    "name": "Alacantí TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pcWU6e1.png",
+    "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-887778080106077390",
+    "quality": "SD"
+  },
+  {
+    "name": "Alcarria TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pzJAYan.png",
+    "url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5103262051626900139",
+    "quality": "SD"
+  },
+  {
+    "name": "American Crimes",
+    "logo": "https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png",
+    "url": "https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-917641096886259257"
+  },
+  {
+    "name": "American Crimes",
+    "logo": "https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png",
+    "url": "https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "651639281519817897"
+  },
+  {
+    "name": "Andalucía Televisión (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/andalucia-tv-es.png",
+    "url": "http://176.65.146.237:8401/play/a09g/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8130602579069688506",
+    "quality": "FHD"
+  },
+  {
+    "name": "Anime Vision (1080p)",
+    "logo": "https://i.imgur.com/pUpKznl.png",
+    "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+    "group": "Kids",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5854992677667639534",
+    "quality": "FHD"
+  },
+  {
+    "name": "Anime Vision Classics (1080p)",
+    "logo": "https://i.imgur.com/mTaiEE1.png",
+    "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+    "group": "Kids",
+    "country": "ES",
+    "is_premium": false,
+    "id": "726490489599309528",
+    "quality": "FHD"
+  },
+  {
+    "name": "Antena 3 (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena-3-es.png",
+    "url": "http://176.65.146.237:8401/play/a0ae/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8243204683507854174",
+    "quality": "FHD"
+  },
+  {
+    "name": "Arabí TV (1080p)",
+    "logo": "https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png",
+    "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8031488688402244170",
+    "quality": "FHD"
+  },
+  {
+    "name": "Atreseries (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atreseries-es.png",
+    "url": "http://176.65.146.237:8401/play/a0ai/index.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8627397106768011464",
+    "quality": "FHD"
+  },
+  {
+    "name": "Atreseries Internacional (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
+    "url": "http://38.183.182.166:8000/play/a104/index.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6866906161904209818",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bailén TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/a64hwzq.png",
+    "url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8859133429371963747",
+    "quality": "HD"
+  },
+  {
+    "name": "Barca TV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/barca-tv-es.png",
+    "url": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "213289734974078205"
+  },
+  {
+    "name": "BCN Gospel TV (1080p)",
+    "logo": "https://i.imgur.com/ZKAnehs.png",
+    "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-234330103466248590",
+    "quality": "FHD"
+  },
+  {
+    "name": "BDNCOM (1080p)",
+    "logo": "https://i.imgur.com/ktasO33.png",
+    "url": "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3556720591816686472",
+    "quality": "FHD"
+  },
+  {
+    "name": "Be Mad (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/be-mad-tv-es.png",
+    "url": "http://176.65.146.237:8401/play/a0aj/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1753948268369064046",
+    "quality": "FHD"
+  },
+  {
+    "name": "Best Action TV",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7896058269366900675"
+  },
+  {
+    "name": "Best Drama TV",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3546522911768928200"
+  },
+  {
+    "name": "Best Thriller TV",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7650833187217526261"
+  },
+  {
+    "name": "Biosfera TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/khytcgd.png",
+    "url": "https://tvdatta.com:3021/live/biosferatvlive.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1828645096458234429",
+    "quality": "HD"
+  },
+  {
+    "name": "Black Visionaries",
+    "logo": "https://images.pluto.tv/channels/66439ee041af640008ccaa98/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66439ee041af640008ccaa98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7f3cba7-ccb6-4cd5-928e-0b45fd0f9223",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7821987555094565495"
+  },
+  {
+    "name": "Black Visionaries",
+    "logo": "https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=836943b4-0ad8-4701-9506-748ebd01f06f",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7979113586227666495"
+  },
+  {
+    "name": "Bob Esponja LATAM",
+    "logo": "https://i.imgur.com/nmZ2nId.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5156475387859701735"
+  },
+  {
+    "name": "Bom Cine (1080p)",
+    "logo": "https://i.imgur.com/65OX8Gj.png",
+    "url": "http://176.65.146.237:8401/play/a09d/index.m3u8",
+    "group": "Movies",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5294490225861639129",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bon Dia TV (1080p)",
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5138860261060740647",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cadena Elite (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3yeGDTP.png",
+    "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4616518224102681946",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 1 Mar Menor-Torre Pacheco (1080p)",
+    "logo": "https://i.imgur.com/MQOwCdZ.png",
+    "url": "https://directo.tuwebtv.es/canal1.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3448948956916414902",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal 10 Empordà (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ojQ6wzX.png",
+    "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2450763095460486298",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal 2000 La Solana (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9RoBASf.png",
+    "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3305899260789397462",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 24 Horas Canarias (720p)",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5793854305084145931",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 24 Horas Catalunya (720p)",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1600550044674648972",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 25 TV (1080p)",
+    "logo": "https://i.imgur.com/p6YA5k0.png",
+    "url": "https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2443227211470255235",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal 3 Biar (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/cnKCZkK.png",
+    "url": "https://avantstreaming.es/hls/canal3.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2876188265261682130",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal 33 Madrid",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg",
+    "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8811047871170111864"
+  },
+  {
+    "name": "Canal 4 Mancha Centro (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/t3O3O9M.png",
+    "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-649242023199508310",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 45 (576p)",
+    "logo": "https://i.imgur.com/yEfSnGt.png",
+    "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8750131764054938129",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal 56 (720p)",
+    "logo": "https://i.imgur.com/HcLs5eM.png",
+    "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1043372880581824930",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal Coín (1080p)",
+    "logo": "https://i.imgur.com/3QPJIpa.png",
+    "url": "https://canalcoin.garjim.es/hls/directo.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2663939628944340252",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Diocesano (576p)",
+    "logo": "https://i.imgur.com/uWhVKL3.png",
+    "url": "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-176920726385865196",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal Doñana (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0WrKIxm.png",
+    "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6496517769197463167",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal Extremadura Satelite (1080p)",
+    "logo": "https://i.imgur.com/3eWFu7N.png",
+    "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8",
+    "group": "International",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5272203961395102507",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Málaga RTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QSUOxtM.png",
+    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "495212431960433691",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal Parlamento (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BUO0wH6.png",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8942685685562133290",
+    "quality": "SD"
+  },
+  {
+    "name": "Canal Reus TV (720p)",
+    "logo": "https://i.imgur.com/HYRc9sJ.png",
+    "url": "https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6274857986261564427",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal San Roque (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SN9kFKh.png",
+    "url": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-229180423442697186",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Sierra de Cádiz (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/94rn7pb.png",
+    "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2471167822339784108",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Sur (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg",
+    "url": "http://176.65.146.237:8401/play/a09c/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8995331245366919289",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Sur Andalucia (1080p)",
+    "logo": "https://i.imgur.com/lznnA4v.png",
+    "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1486137240223252200",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Sur Andalucía 2 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png",
+    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-630275122478246112",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal Sur Noticias",
+    "logo": "https://i.imgur.com/A3JscwS.png",
+    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1570436937181702014"
+  },
+  {
+    "name": "Canal Taronja Comarques Centrals (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RP8VcqZ.png",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5137232749396427711",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Taronja Osona i Moianés (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RP8VcqZ.png",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4753376985632745733",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Terrassa (1080p)",
+    "logo": "https://i.imgur.com/5fc5ZyI.png",
+    "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7170821389115112605",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cancionero TV (360p)",
+    "logo": "https://i.imgur.com/tbboALa.png",
+    "url": "http://89.140.229.5/hls1/cancionero.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8281887018723961364",
+    "quality": "SD"
+  },
+  {
+    "name": "CBC Murdoch Mysteries (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1999895754560807842",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cetelmón TV (404p)",
+    "logo": "https://i.imgur.com/GGn7itj.png",
+    "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1895042131518660137"
+  },
+  {
+    "name": "Ciudades Del Ocio TV (720p)",
+    "logo": "https://i.imgur.com/CTQgqsM.png",
+    "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8807888363883369121",
+    "quality": "HD"
+  },
+  {
+    "name": "Clan (1280p)",
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
+    "group": "Kids",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3309642618177157525"
+  },
+  {
+    "name": "Clan Internacional Americas (1080p) [Geo-blocked]",
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+    "group": "International",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8911982711833840144",
+    "quality": "FHD"
+  },
+  {
+    "name": "Congreso de los Diputados 1 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3Qxpe72.png",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8778986936751251625",
+    "quality": "SD"
+  },
+  {
+    "name": "Congreso de los Diputados 2 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ffN2LE3.png",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1046301998280014487",
+    "quality": "SD"
+  },
+  {
+    "name": "Congreso de los Diputados 3 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7044017976796835876",
+    "quality": "SD"
+  },
+  {
+    "name": "Congreso de los Diputados 4 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "116580151575444885",
+    "quality": "SD"
+  },
+  {
+    "name": "Congreso de los Diputados 5 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1736048603457077382",
+    "quality": "SD"
+  },
+  {
+    "name": "Cops en Español (720p)",
+    "logo": "https://i.imgur.com/J3XO6V2.png",
+    "url": "https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5413195070772468108",
+    "quality": "HD"
+  },
+  {
+    "name": "Corts Valencianes (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bVkRBg5.png",
+    "url": "https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3825937800000537111",
+    "quality": "SD"
+  },
+  {
+    "name": "Costa Noroeste TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/iM9AN6Z.png",
+    "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9053357954203339588",
+    "quality": "FHD"
+  },
+  {
+    "name": "Crímenes Reales (1080p)",
+    "logo": "https://i.imgur.com/kzUrWR5.png",
+    "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4540427880877897088",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cristiana TV (576p)",
+    "logo": "https://i.imgur.com/FpkNIIG.jpg",
+    "url": "https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4770505325091537814",
+    "quality": "SD"
+  },
+  {
+    "name": "Cuatro (1080p)",
+    "logo": "https://i.imgur.com/NYLnABb.png",
+    "url": "http://176.65.146.237:8401/play/a09s/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3746815757698436496",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cugat TV (1080p)",
+    "logo": "https://i.imgur.com/0WQC25N.png",
+    "url": "https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2900734034638562498",
+    "quality": "FHD"
+  },
+  {
+    "name": "Diez TV Las Villas (1080p)",
+    "logo": "https://i.imgur.com/QTA40lP.png",
+    "url": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4660125805870189193",
+    "quality": "FHD"
+  },
+  {
+    "name": "Diez TV Úbeda (1080p)",
+    "logo": "https://i.imgur.com/o2a7s4W.png",
+    "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5692021964709928969",
+    "quality": "FHD"
+  },
+  {
+    "name": "Distrito TV (1080p)",
+    "logo": "https://i.imgur.com/AqGIoIt.png",
+    "url": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "111574917056115407",
+    "quality": "FHD"
+  },
+  {
+    "name": "Divinity (1080p)",
+    "logo": "https://i.imgur.com/o7fvEr6.png",
+    "url": "http://176.65.146.237:8401/play/a09q/index.m3u8",
+    "group": "Lifestyle",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2205891551302562133",
+    "quality": "FHD"
+  },
+  {
+    "name": "Durangaldeko Telebista (576p)",
+    "logo": "https://i.imgur.com/qdlW6cg.png",
+    "url": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6169266648881132078",
+    "quality": "SD"
+  },
+  {
+    "name": "El 33 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/frKCBTN.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "group": "Culture",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5168352095034852150",
+    "quality": "FHD"
+  },
+  {
+    "name": "El 33 Originals (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/frKCBTN.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4049864708674972478",
+    "quality": "FHD"
+  },
+  {
+    "name": "El 9 TV (1080p)",
+    "logo": "https://i.imgur.com/QyW5VyW.png",
+    "url": "https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9071493908021901463",
+    "quality": "FHD"
+  },
+  {
+    "name": "El Confidencial TV (1080p)",
+    "logo": "https://i.imgur.com/W2Qqz2F.png",
+    "url": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-125977378097248772",
+    "quality": "FHD"
+  },
+  {
+    "name": "EL PAÍS TV (1080p)",
+    "logo": "https://i.imgur.com/JzAzsft.png",
+    "url": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5062835233886121779",
+    "quality": "FHD"
+  },
+  {
+    "name": "El Toro TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",
+    "url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8773159559626133557",
+    "quality": "HD"
+  },
+  {
+    "name": "Elche 7 TV (576p)",
+    "logo": "https://i.imgur.com/tjI0dLx.png",
+    "url": "https://elche7tv.gestec-video.com/hls/canal2.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3464763341997884213",
+    "quality": "SD"
+  },
+  {
+    "name": "Empordà TV (1080p)",
+    "logo": "https://i.imgur.com/jc0lUbX.png",
+    "url": "https://video3.lhdserver.es/empordatv2/live.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3670354410338993669",
+    "quality": "FHD"
+  },
+  {
+    "name": "Escape TV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/travel-and-escape-ca.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4356468873067337971"
+  },
+  {
+    "name": "Esport3 (1080p) [Not 24/7]",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/esport3.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "group": "Public",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7410026745051539246",
+    "quality": "FHD"
+  },
+  {
+    "name": "Este Canal TV (576p)",
+    "logo": "https://i.imgur.com/jDT5XFs.jpg",
+    "url": "http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1902965023946848178",
+    "quality": "SD"
+  },
+  {
+    "name": "Estepona Televisión (720p)",
+    "logo": "https://i.imgur.com/rMAB720.png",
+    "url": "https://cloudvideo.servers10.com:8081/8022/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6159606667887266872",
+    "quality": "HD"
+  },
+  {
+    "name": "Estilo y Vida (1080p)",
+    "logo": "",
+    "url": "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1880611714424298839",
+    "quality": "FHD"
+  },
+  {
+    "name": "EsTuTele (720p)",
+    "logo": "https://i.imgur.com/bsAbcmC.png",
+    "url": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "126462009151294679",
+    "quality": "HD"
+  },
+  {
+    "name": "ETB 1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png",
+    "url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1579365545394185246",
+    "quality": "HD"
+  },
+  {
+    "name": "ETB 2 (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ETB2%202022%20logo.svg",
+    "url": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6323006354057981740",
+    "quality": "HD"
+  },
+  {
+    "name": "ETB Basque (480p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/etb-basque-es.png",
+    "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8855580712520437452",
+    "quality": "SD"
+  },
+  {
+    "name": "ETB Events 1 (1080p)",
+    "logo": "https://i.imgur.com/bVUEmx9.png",
+    "url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9039627246319449202",
+    "quality": "FHD"
+  },
+  {
+    "name": "ETV Terramar (1080p)",
+    "logo": "https://i.imgur.com/Waf1SOq.png",
+    "url": "https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "633925791666258351",
+    "quality": "FHD"
+  },
+  {
+    "name": "EWTN Espana",
+    "logo": "https://i.imgur.com/KvpMbkd.png",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1828896971673430803"
+  },
+  {
+    "name": "FailArmy Spain",
+    "logo": "https://i.imgur.com/VIpQJxL.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2633364293936965021"
+  },
+  {
+    "name": "FDF (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",
+    "url": "http://176.65.146.237:8401/play/a09p/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4772366113759473125",
+    "quality": "FHD"
+  },
+  {
+    "name": "FilmRise Les Routes du Paradis (720p)",
+    "logo": "https://i.imgur.com/8j2npVc.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6525834388729326214",
+    "quality": "HD"
+  },
+  {
+    "name": "Fuerteventura TV (1080p)",
+    "logo": "https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png",
+    "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7661632439154787659",
+    "quality": "FHD"
+  },
+  {
+    "name": "Galicia TV Europa (720p)",
+    "logo": "https://i.imgur.com/dvkzH8n.png",
+    "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2319621046707288070",
+    "quality": "HD"
+  },
+  {
+    "name": "Goiena Eus (720p)",
+    "logo": "https://i.imgur.com/eaLIJzK.png",
+    "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-709992867759034261",
+    "quality": "HD"
+  },
+  {
+    "name": "Gol Classics",
+    "logo": "https://www.google.com/s2/favicons?domain=golstadium.com&sz=128",
+    "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8",
+    "group": "Sports",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3822888453691147772"
+  },
+  {
+    "name": "Grjngo Spain (720p)",
+    "logo": "https://i.imgur.com/wFqhK3p.png",
+    "url": "https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1901780252786748354",
+    "quality": "HD"
+  },
+  {
+    "name": "Guada TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/YaDNsYN.png",
+    "url": "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7734551292986677001",
+    "quality": "HD"
+  },
+  {
+    "name": "Hadi TV Indonesian and Thai (720p)",
+    "logo": "https://i.imgur.com/TXzEtF8.png",
+    "url": "https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8735030481088112023",
+    "quality": "HD"
+  },
+  {
+    "name": "Hallmark en español",
+    "logo": "https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5762269166384830626"
+  },
+  {
+    "name": "Hamaika Telebista (1080p)",
+    "logo": "https://i.imgur.com/HR3G3Ie.png",
+    "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+    "group": "Culture",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9104011380956758291",
+    "quality": "FHD"
+  },
+  {
+    "name": "HOLA! Play (1080p)",
+    "logo": "https://m.media-amazon.com/images/I/5194tl8duqL.png",
+    "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5381231462015744847",
+    "quality": "FHD"
+  },
+  {
+    "name": "Hot Ones",
+    "logo": "https://images.pluto.tv/channels/65a803b607e03a0008925118/colorLogoPNG.png",
+    "url": "https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5033694066196921344"
+  },
+  {
+    "name": "IberoAmerica TV (1080p)",
+    "logo": "https://i.imgur.com/N3K6PAG.png",
+    "url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2668038161892108982",
+    "quality": "FHD"
+  },
+  {
+    "name": "Interalmeria TV (1080p)",
+    "logo": "https://i.imgur.com/ulSkAjZ.png",
+    "url": "https://interalmeria.tv/directo/live.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5563129675343259941",
+    "quality": "FHD"
+  },
+  {
+    "name": "Intercomarcal TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/KLPSnAT.png",
+    "url": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1034986213097653823",
+    "quality": "SD"
+  },
+  {
+    "name": "Jewelry Television Espanol (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/960px-As_seen_on_TV.svg.png",
+    "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3066005411604093079",
+    "quality": "HD"
+  },
+  {
+    "name": "La 1 (720p)",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "40574895440459482",
+    "quality": "HD"
+  },
+  {
+    "name": "La 1 Canarias (720p)",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8864536376098730772",
+    "quality": "HD"
+  },
+  {
+    "name": "La 1 Catalunya (720p)",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8552339056824406178",
+    "quality": "HD"
+  },
+  {
+    "name": "La 1 HEVC (1080p)",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "url": "http://176.65.146.237:8401/play/a095/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7818219936489904339",
+    "quality": "FHD"
+  },
+  {
+    "name": "La 2 (1080p)",
+    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3940516746851767524",
+    "quality": "FHD"
+  },
+  {
+    "name": "La 2 Canarias (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png",
+    "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3057688830201988483",
+    "quality": "HD"
+  },
+  {
+    "name": "La 2 Catalunya (720p)",
+    "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
+    "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1121986328487491568",
+    "quality": "HD"
+  },
+  {
+    "name": "La Ranchera de Cuauhtemoc",
+    "logo": "https://i.imgur.com/jbeojin.png",
+    "url": "https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "77586f2a-a401-5d1b-bf39-5194400e0789"
+  },
+  {
+    "name": "La Sexta (1080p)",
+    "logo": "https://i.imgur.com/aKV5voq.png",
+    "url": "http://176.65.146.237:8401/play/a0af/index.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3438365014015480286",
+    "quality": "FHD"
+  },
+  {
+    "name": "Lancelot TV (404p)",
+    "logo": "https://i.imgur.com/RlzVIJP.png",
+    "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3100066123738374329"
+  },
+  {
+    "name": "Latino Vibes [Geo-blocked]",
+    "logo": "",
+    "url": "https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2954670001187914233"
+  },
+  {
+    "name": "Les Anges",
+    "logo": "https://i.imgur.com/M1OjaB0.png",
+    "url": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2487778416229906260"
+  },
+  {
+    "name": "LiraTV (720p)",
+    "logo": "https://i.imgur.com/hBswXYZ.png",
+    "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6022007252418555710",
+    "quality": "HD"
+  },
+  {
+    "name": "Lleida Televisió (1080p)",
+    "logo": "https://i.imgur.com/xWY2568.png",
+    "url": "https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7370055317966191016",
+    "quality": "FHD"
+  },
+  {
+    "name": "Logos TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Kr3U3Ub.png",
+    "url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7221031153285402049",
+    "quality": "FHD"
+  },
+  {
+    "name": "Logos TV Estudio (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qkHrttj.png",
+    "url": "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4724032326504366098",
+    "quality": "HD"
+  },
+  {
+    "name": "Logos TV Kids (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Kr3U3Ub.png",
+    "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5019770391738507315",
+    "quality": "HD"
+  },
+  {
+    "name": "Logos TV Salud (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qkHrttj.png",
+    "url": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8",
+    "group": "Lifestyle",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3486072371549432885",
+    "quality": "HD"
+  },
+  {
+    "name": "Love Magazine (1080p)",
+    "logo": "https://i.imgur.com/nT3Wxr6.png",
+    "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4836817360586280122",
+    "quality": "FHD"
+  },
+  {
+    "name": "Love Stories TV (720p)",
+    "logo": "https://i.imgur.com/nT3Wxr6.png",
+    "url": "https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8124773581448115408",
+    "quality": "HD"
+  },
+  {
+    "name": "Love The Planet [Geo-blocked]",
+    "logo": "https://i.imgur.com/RBcD49X.png",
+    "url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Documentary",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2110540945353925009"
+  },
+  {
+    "name": "M95 Televisión Marbella (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RzAkP1V.png",
+    "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+    "group": "News",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5192912515417952347",
+    "quality": "FHD"
+  },
+  {
+    "name": "Maestrat TV (1080p)",
+    "logo": "https://i.imgur.com/9gOS1ts.png",
+    "url": "https://stream.maestrat.tv/hls/stream.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4382989531623118949",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mar TV (1080p)",
+    "logo": "https://i.imgur.com/qQkkavo.png",
+    "url": "http://iptv.services.everywan.net:8080/martv-web/video.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3949772957919113718",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mataró Televisió (1080p)",
+    "logo": "https://i.imgur.com/FTGbu8A.png",
+    "url": "https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-534388016356710389",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mijas 3.40TV (720p)",
+    "logo": "https://i.imgur.com/RH1zLLs.png",
+    "url": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4020395038575549782",
+    "quality": "HD"
+  },
+  {
+    "name": "Molahits TV (720p)",
+    "logo": "https://i.imgur.com/FYcLtqT.png",
+    "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-978365428638668839",
+    "quality": "HD"
+  },
+  {
+    "name": "Mundo Series",
+    "logo": "https://i.imgur.com/CREs19T.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6137806766668673227"
+  },
+  {
+    "name": "Music TV Granada (1080p) [Not 24/7]",
+    "logo": "https://i.ibb.co/Swd9NP7n/music-tv-granada.png",
+    "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2969454524555902023",
+    "quality": "FHD"
+  },
+  {
+    "name": "MyTime movie network Spain (1080p)",
+    "logo": "https://i.imgur.com/pw4NZK1.png",
+    "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4394067036724749021",
+    "quality": "FHD"
+  },
+  {
+    "name": "Mytime Movies (1080p)",
+    "logo": "https://i.imgur.com/aiGQtzI.png",
+    "url": "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3307864428061972711",
+    "quality": "FHD"
+  },
+  {
+    "name": "NBCU Telemundo West",
+    "logo": "https://i.imgur.com/j2O4ndp.png",
+    "url": "https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2188914937652063512"
+  },
+  {
+    "name": "Negocios TV (1080p)",
+    "logo": "https://m.media-amazon.com/images/I/21HEgSJn2gL.png",
+    "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+    "group": "Business",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3309893407410189402",
+    "quality": "FHD"
+  },
+  {
+    "name": "Neox (1080p)",
+    "logo": "https://i.imgur.com/eIX71c9.png",
+    "url": "http://176.65.146.237:8401/play/a0ag/index.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2593144372077755112",
+    "quality": "FHD"
+  },
+  {
+    "name": "Noovo Comédies (1080p)",
+    "logo": "",
+    "url": "https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7108083631323993501",
+    "quality": "FHD"
+  },
+  {
+    "name": "NORTEvisión (1080p)",
+    "logo": "https://i.imgur.com/C5SYw7B.png",
+    "url": "http://amaru.dyndns.org:8870/0.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7453043243429576538",
+    "quality": "FHD"
+  },
+  {
+    "name": "Olot TV (1080p)",
+    "logo": "https://i.imgur.com/u8wO4Lf.png",
+    "url": "https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3789514767268639280",
+    "quality": "FHD"
+  },
+  {
+    "name": "Olympic Channel [Geo-blocked]",
+    "logo": "https://i.imgur.com/wPQVVtj.png",
+    "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8",
+    "group": "Sports",
+    "country": "ES",
+    "is_premium": false,
+    "id": "562456660163531825"
+  },
+  {
+    "name": "Onda 15 TV (224p)",
+    "logo": "https://i.imgur.com/mUrZz9O.png",
+    "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3786284682951886384"
+  },
+  {
+    "name": "Onda Algeciras TV (576p)",
+    "logo": "https://i.imgur.com/kUhFkVF.png",
+    "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4030856376844720562",
+    "quality": "SD"
+  },
+  {
+    "name": "Onda Cádiz 24h (720p)",
+    "logo": "https://i.imgur.com/sOBMnby.png",
+    "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5518674692998365887",
+    "quality": "HD"
+  },
+  {
+    "name": "Onda Valencia (720p)",
+    "logo": "https://i.imgur.com/6HxLUQd.png",
+    "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9122407551911916129",
+    "quality": "HD"
+  },
+  {
+    "name": "Parlamento de Andalucía (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/J6h5IQS.png",
+    "url": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8857076347474699512",
+    "quality": "SD"
+  },
+  {
+    "name": "Parlamento de Navarra (368p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JnhWxKv.png",
+    "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8",
+    "group": "Legislative",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3752316980140941731"
+  },
+  {
+    "name": "Penedès Televisió (1080p)",
+    "logo": "https://i.imgur.com/mNuv3OL.png",
+    "url": "https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6020707103634792527",
+    "quality": "FHD"
+  },
+  {
+    "name": "Piera TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/R4BzwqR.png",
+    "url": "http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3019072365327447177",
+    "quality": "HD"
+  },
+  {
+    "name": "Platzi TV (1080p)",
+    "logo": "https://i.imgur.com/vEzeqHP.png",
+    "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+    "group": "Education",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7590039324350247090",
+    "quality": "FHD"
+  },
+  {
+    "name": "Pluto TV Archivos Forenses (720p)",
+    "logo": "https://i.imgur.com/Pxrl9Ug.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5616311682924966668",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Asesinatos de Midsomer (720p)",
+    "logo": "https://i.imgur.com/JIbupT1.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4053975770935582047",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Cine Estelar Spain+",
+    "logo": "https://i.imgur.com/v3BO4nW.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1120557108737372000"
+  },
+  {
+    "name": "Pluto TV Classic Movies (England) (720p)",
+    "logo": "https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3831495161420861659",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Curro Jiménez (720p)",
+    "logo": "https://i.imgur.com/e3biTY5.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3115024591993230809",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV El Encantador de Perros (720p)",
+    "logo": "https://i.imgur.com/hYqjQ1n.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5497084973547013441",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Empeños a lo bestia (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EOttSdW.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2205398573505710898",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Los archivos del FBI (720p)",
+    "logo": "https://i.imgur.com/eDCdJO2.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2261960695466180051",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]",
+    "logo": "https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5842393936519170796",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV MTV Music Made in Spain (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/wQc3nf0.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5046622630554057075",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV MTV Originals (Spain) (480p)",
+    "logo": "https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6658379199891255187",
+    "quality": "SD"
+  },
+  {
+    "name": "Pluto TV MTV Tattoo A Dos (720p)",
+    "logo": "https://i.imgur.com/VisA1sY.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2568255747568525801",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Thrillers Spain",
+    "logo": "https://i.imgur.com/ULKvDN7.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2463752162099462138"
+  },
+  {
+    "name": "Pluto TV Vaya semanita (720p)",
+    "logo": "https://i.imgur.com/0bCLNUG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "612263654312235814",
+    "quality": "HD"
+  },
+  {
+    "name": "Pointless (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b6/Pointless_titles.png/330px-Pointless_titles.png",
+    "url": "https://amg00627-amg00627c34-samsung-au-8173.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungau/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1700333907200094357",
+    "quality": "FHD"
+  },
+  {
+    "name": "POP World TV (720p)",
+    "logo": "https://i.imgur.com/LQB6G3s.jpg",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5338195634791531690",
+    "quality": "HD"
+  },
+  {
+    "name": "Popular TV Murcia (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jFg9dGO.png",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4085612111051576692",
+    "quality": "FHD"
+  },
+  {
+    "name": "PTV Córdoba (1080p)",
+    "logo": "https://i.imgur.com/X3eIdVf.png",
+    "url": "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3980951714215906618",
+    "quality": "FHD"
+  },
+  {
+    "name": "PTV Granada (720p)",
+    "logo": "https://i.imgur.com/eOcAakM.png",
+    "url": "https://streamer.zapitv.com/PTV-granada/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6310483198853847827",
+    "quality": "HD"
+  },
+  {
+    "name": "PTV Linares (720p)",
+    "logo": "https://i.imgur.com/IqChsLQ.png",
+    "url": "https://streamer.zapitv.com/ptv-linarez/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8616843987101475914",
+    "quality": "HD"
+  },
+  {
+    "name": "PTV Málaga (1080p)",
+    "logo": "https://i.imgur.com/4eZYIX1.png",
+    "url": "https://streamer.zapitv.com/PTV-malaga/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2557901498235622567",
+    "quality": "FHD"
+  },
+  {
+    "name": "PTV Sevilla (1080p)",
+    "logo": "https://i.imgur.com/EcinFGu.png",
+    "url": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7534183186593263856",
+    "quality": "FHD"
+  },
+  {
+    "name": "Punt 3 Vall Uixó (1080p)",
+    "logo": "https://i.imgur.com/i9tsnhD.png",
+    "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7524437981284815285",
+    "quality": "FHD"
+  },
+  {
+    "name": "QVC West",
+    "logo": "https://i.imgur.com/f94kPed.png",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7942431409580889051"
+  },
+  {
+    "name": "Radio Carnaval TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/cdpbkSo.png",
+    "url": "https://eu1.servers10.com:8081/8116/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6719307120042387229",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Televisión Mogán (1080p)",
+    "logo": "https://i.imgur.com/oefjONS.png",
+    "url": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3634632237006343300",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten Top Movies UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8",
+    "group": "United Kingdom",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8802398930134178743",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Action Movies Austria (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8",
+    "group": "Austria",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1435473603861372330",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Action Movies Finland (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8",
+    "group": "Finland",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1514914040617648003",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Action Movies Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8",
+    "group": "Germany",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1585588901308468267",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Action Movies Italy (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8",
+    "group": "Italy",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8663364861908326368",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Action Movies Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6471945608621997401",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Action Movies UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
+    "group": "United Kingdom",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7304067745511160389",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Cine Español (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2740446317361920625",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Comedy Movies Austria (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8",
+    "group": "Austria",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5578509358471522965",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Comedy Movies Finland (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8",
+    "group": "Finland",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3133137893532712429",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Comedy Movies Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8",
+    "group": "Germany",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1665420642432197468",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Comedy Movies Italy (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8",
+    "group": "Italy",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8747453797730131066",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Comedy Movies Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2021790704424051978",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Comedy Movies UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
+    "group": "United Kingdom",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6695515124667047060",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Crime Series Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3691805577921791500",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Drama Movies Austria (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8",
+    "group": "Austria",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2137089809750693683",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Drama Movies Finland (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8",
+    "group": "Finland",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4968412501664343083",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Drama Movies Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8",
+    "group": "Germany",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1697009441688557702",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Drama Movies Italy (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8",
+    "group": "Italy",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9080165311926300211",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Drama Movies Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5072828892506562670",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Drama Movies UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
+    "group": "United Kingdom",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5287106804189539779",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Family Movies Austria (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8",
+    "group": "Austria",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1056722435307058381",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Family Movies Finland (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8",
+    "group": "Finland",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2048003085986069039",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Family Movies Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8",
+    "group": "Germany",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1104792722271733948",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Family Movies Italy (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8",
+    "group": "Italy",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5264743151359229169",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Family Movies Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5922369123155488162",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Family Movies UK (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8",
+    "group": "United Kingdom",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3802118490009210468",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Family Switzerland (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8",
+    "group": "Switzerland",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7657271825099597613",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Films Drames (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8467465720853868825",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Nordic Films (1080p)",
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
+    "url": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8",
+    "group": "Movies",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2281950987697614430",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Romance Movies Finland (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7080610438834914033",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Romance Movies Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1810076514272950689",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Sci-Fi Spain",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7000389367129039015"
+  },
+  {
+    "name": "Rakuten TV Séries Crime (720p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2391778009119599602",
+    "quality": "HD"
+  },
+  {
+    "name": "Rakuten TV Thrillers Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8103560703229551038",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Top Movies Finland (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8",
+    "group": "Finland",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1805505182886852235",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Top Movies Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8",
+    "group": "Germany",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1809678058716034134",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Top Movies Italy (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8",
+    "group": "Italy",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1021303712037702622",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Top Movies Spain (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2327381625070683010",
+    "quality": "FHD"
+  },
+  {
+    "name": "Real Madrid TV (1080p)",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
+    "group": "Sports",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3133163481309701588",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ribera TV (576p)",
+    "logo": "https://i.imgur.com/mPvSubP.png",
+    "url": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7462932888633349575",
+    "quality": "SD"
+  },
+  {
+    "name": "Rioja Televisión (360p) [Not 24/7]",
+    "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
+    "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "920029550961225068",
+    "quality": "SD"
+  },
+  {
+    "name": "ROTV Valencia (720p)",
+    "logo": "https://i.imgur.com/0TDnVQ4.png",
+    "url": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7575898925839479338",
+    "quality": "HD"
+  },
+  {
+    "name": "RTV El Vendrell (1080p)",
+    "logo": "https://i.imgur.com/x9CgczD.png",
+    "url": "https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6227191905017732467",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Manilva (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/zKgrnXx.png",
+    "url": "https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8564291275715343312",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTV Vida (1080p)",
+    "logo": "https://i.imgur.com/EqUfEAh.png",
+    "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5501190999367436425",
+    "quality": "FHD"
+  },
+  {
+    "name": "RTVC Cardedeu (1080p)",
+    "logo": "https://i.imgur.com/rrCJyza.png",
+    "url": "https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5522148459105083547",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ràdio Bocairent TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MzUQtrl.png",
+    "url": "http://185.81.77.4/BocairentTV/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2291573052512106082",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sevilla FC TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yujGVbm.png",
+    "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "504324444864257257",
+    "quality": "SD"
+  },
+  {
+    "name": "Sol Música (720p)",
+    "logo": "https://i.imgur.com/rbJrmPw.png",
+    "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7247564205000172988",
+    "quality": "HD"
+  },
+  {
+    "name": "Solidaria TV (720p)",
+    "logo": "https://i.imgur.com/Bgm2iZY.png",
+    "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "999623680372871147",
+    "quality": "HD"
+  },
+  {
+    "name": "Space Series",
+    "logo": "https://i.imgur.com/ufvVQJH.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7727654800872708761"
+  },
+  {
+    "name": "SpektraTV (720p)",
+    "logo": "https://i.imgur.com/0zCt8e4.png",
+    "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1861808972629994466",
+    "quality": "HD"
+  },
+  {
+    "name": "Squirrel (1080p)",
+    "logo": "https://i.imgur.com/9y8VcBr.png",
+    "url": "http://176.65.146.237:8401/play/a09h/index.m3u8",
+    "group": "Movies",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3443779311782456540",
+    "quality": "FHD"
+  },
+  {
+    "name": "Squirrel 2 (1080p)",
+    "logo": "https://i.imgur.com/BDv4ubA.png",
+    "url": "http://176.65.146.237:8401/play/a09i/index.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7280366084448042969",
+    "quality": "FHD"
+  },
+  {
+    "name": "StashTV Black Stories (720p) [Geo-blocked]",
+    "logo": "",
+    "url": "https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6642625159862621561",
+    "quality": "HD"
+  },
+  {
+    "name": "SX3 (1080p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SX3%20logo.svg",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+    "group": "Kids",
+    "country": "ES",
+    "is_premium": false,
+    "id": "878405601528096576",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tarotéame (576p)",
+    "logo": "",
+    "url": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3471575313163136530",
+    "quality": "SD"
+  },
+  {
+    "name": "TBN España (576p)",
+    "logo": "https://i.imgur.com/oGvsUH9.png",
+    "url": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-9150647734736157736",
+    "quality": "SD"
+  },
+  {
+    "name": "Tele 7 (720p)",
+    "logo": "https://i.imgur.com/JcuV9ZE.png",
+    "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "4452565451544254495",
+    "quality": "HD"
+  },
+  {
+    "name": "Tele Elx (1080p)",
+    "logo": "https://i.imgur.com/w5NTWpl.png",
+    "url": "https://tvdirecto.teleelx.es/stream/teleelx.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1540363696548058632",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tele Safor (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EowJfr0.png",
+    "url": "https://video.telesafor.com/hls/video.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5833744537198166482",
+    "quality": "HD"
+  },
+  {
+    "name": "TeleBilbao (384p)",
+    "logo": "https://i.imgur.com/x2HmBq1.png",
+    "url": "https://tbilbo.dyndns.org/hls/stream.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8078271196986096938"
+  },
+  {
+    "name": "Teledeporte (1080p)",
+    "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+    "group": "Sports",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8701616767932155891",
+    "quality": "FHD"
+  },
+  {
+    "name": "Teleganés (720p)",
+    "logo": "https://i.imgur.com/BXyplMX.png",
+    "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4590599184788266965",
+    "quality": "HD"
+  },
+  {
+    "name": "Telemadrid (720p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TeleMadrid.svg",
+    "url": "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8497772741020324392",
+    "quality": "HD"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "logo": "https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1816379673474222683"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "logo": "https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png",
+    "url": "https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "917098818830883545"
+  },
+  {
+    "name": "TeleRibera (720p) [Not 24/7]",
+    "logo": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",
+    "url": "https://video1.lhdserver.es/teleribera/live.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "691940658948823293",
+    "quality": "HD"
+  },
+  {
+    "name": "TeleVigo (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4iVmlFa.png",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5149393630647574110",
+    "quality": "FHD"
+  },
+  {
+    "name": "Televisión Aranda (720p)",
+    "logo": "https://i.imgur.com/FwIIdKG.png",
+    "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6808145166191587653",
+    "quality": "HD"
+  },
+  {
+    "name": "Televisión Consciente (1080p)",
+    "logo": "https://i.imgur.com/6QVHKPw.png",
+    "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+    "group": "Religious",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2276639468145569745",
+    "quality": "FHD"
+  },
+  {
+    "name": "The Biggest Loser (1080p)",
+    "logo": "",
+    "url": "https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "3300256671847042276",
+    "quality": "FHD"
+  },
+  {
+    "name": "Toonz Kids (Indonesian dub) (360p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",
+    "url": "http://210.210.155.37/x6bnqe/s/s81/02.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2877941952414389518",
+    "quality": "SD"
+  },
+  {
+    "name": "Toonz Kids (Indonesian dub) (576p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",
+    "url": "http://210.210.155.37/x6bnqe/s/s81/01.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6992273536029065827",
+    "quality": "SD"
+  },
+  {
+    "name": "TOP Barça Spain (1080p)",
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
+    "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1046916540333519433",
+    "quality": "FHD"
+  },
+  {
+    "name": "Trece (720p)",
+    "logo": "https://i.imgur.com/jsuXXIg.png",
+    "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7758667993213527373",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Artequatre (576p)",
+    "logo": "https://i.imgur.com/aobkgrS.png",
+    "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6977241167744642497",
+    "quality": "SD"
+  },
+  {
+    "name": "TV Berguedà (1080p)",
+    "logo": "https://i.imgur.com/U5OVi3L.png",
+    "url": "https://liveingesta318.cdnmedia.tv/berguedatvlive/smil:migracion.smil/playlist.m3u8?DVR=",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8749384858947967746",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV BRICS Spanish (1080p)",
+    "logo": "https://i.imgur.com/vLpm8tN.png",
+    "url": "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7294535316278751430",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Costa Brava (1080p)",
+    "logo": "https://i.imgur.com/i6EnVZa.png",
+    "url": "https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "7336189003350858456",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Girona (1080p)",
+    "logo": "https://i.imgur.com/yfiK1Vp.png",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-387000583970445424",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV L'Hospitalet (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png",
+    "url": "https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7735822842970316263",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Ripollès (1080p)",
+    "logo": "https://i.imgur.com/S5KB9DS.png",
+    "url": "https://liveingesta318.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8?DVR=",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "6891939750699803461",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Sabadell-Vallès (1080p)",
+    "logo": "https://i.imgur.com/fSTsGbG.png",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "329885411997614058",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV San Vicente (1080p)",
+    "logo": "https://i.imgur.com/oLnrf0d.png",
+    "url": "https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5573036490565739035",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV3 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/sCr0h4N.png",
+    "url": "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
+    "group": "Denmark",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4420194415005756474",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV3CAT (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png",
+    "url": "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5484061800898560962",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVCentro Andalucía (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xQAzYOD.png",
+    "url": "https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8869312829241869072",
+    "quality": "HD"
+  },
+  {
+    "name": "TVE Internacional America (1080p) [Geo-blocked]",
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "9378794384685874",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVE Internacional Asia-Oceania (1080p) [Geo-blocked]",
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8",
+    "group": "International",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4732137808029386812",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVE Internacional Europe-Asia HD (1080p) [Geo-blocked]",
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
+    "group": "International",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-79147836009437901",
+    "quality": "HD"
+  },
+  {
+    "name": "TVE Star (576p)",
+    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2842159169685734590",
+    "quality": "SD"
+  },
+  {
+    "name": "TVE Star HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8327785334196790904",
+    "quality": "HD"
+  },
+  {
+    "name": "TVE Star HD (1080p)",
+    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-292197758353474733",
+    "quality": "HD"
+  },
+  {
+    "name": "TVG2 (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/yFy6gxg.png",
+    "url": "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8",
+    "group": "Sports",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3056177728456404640",
+    "quality": "HD"
+  },
+  {
+    "name": "TVM Córdoba (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jN5k8Ob.png",
+    "url": "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4706328726810901205",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVO Jesus (720p)",
+    "logo": "https://tvomix.com/Logos/Tvojesus.png",
+    "url": "https://cloud.tvomix.com/TVOJESUS/index.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3242322883474088539",
+    "quality": "HD"
+  },
+  {
+    "name": "TVOMIX (1080p)",
+    "logo": "https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png",
+    "url": "https://cloud.tvomix.com/TVOMIX/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8982370364346869437",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVReus (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ee0C8UH.jpg",
+    "url": "https://eu1.servers10.com:8081/8166/index.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1422377998618173200",
+    "quality": "HD"
+  },
+  {
+    "name": "Une Vinalopó (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/WpGR7RQ.png",
+    "url": "https://streamingtvi.gestec-video.com/hls/unesd.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-409345809033438132",
+    "quality": "SD"
+  },
+  {
+    "name": "Univers TV (720p)",
+    "logo": "https://i.imgur.com/EW2bfix.png",
+    "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+    "group": "Democratic Republic of the Congo",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2040161885694205482",
+    "quality": "HD"
+  },
+  {
+    "name": "Universal Westerns",
+    "logo": "https://i.imgur.com/awa4oas.png",
+    "url": "https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "864135440186321794"
+  },
+  {
+    "name": "Untold Stories of the E.R. (720p)",
+    "logo": "",
+    "url": "https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5043323171647360286",
+    "quality": "HD"
+  },
+  {
+    "name": "Urola Telebista (416p)",
+    "logo": "https://i.imgur.com/V23bltn.png",
+    "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-3355854276434348985"
+  },
+  {
+    "name": "Vallès Visió (1080p)",
+    "logo": "https://www.vallesvisio.cat/wp-content/uploads/cropped-Logo-Valles-Visio-1.png",
+    "url": "https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7378946385799011929",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ventdelnord TV (404p)",
+    "logo": "https://i.imgur.com/6sUkVOd.png",
+    "url": "http://ventdelnord.tv:8080/hls/directe.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "2669373939405843957"
+  },
+  {
+    "name": "Veo7 (1080p)",
+    "logo": "https://i.imgur.com/kklTIMm.png",
+    "url": "http://176.65.146.237:8401/play/a09k/index.m3u8",
+    "group": "Movies",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-4952396586549081812",
+    "quality": "FHD"
+  },
+  {
+    "name": "Vevo Pop Spain (1080p)",
+    "logo": "https://i.imgur.com/dZHktKR.png",
+    "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "155250759616003569",
+    "quality": "FHD"
+  },
+  {
+    "name": "Viva Murcia TV (720p)",
+    "logo": "https://i.imgur.com/8G2FlfF.jpg",
+    "url": "http://185.36.211.142:8080/tmp_hls/viva/index.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8049535495770482972",
+    "quality": "HD"
+  },
+  {
+    "name": "VOTV (1080p)",
+    "logo": "https://i.imgur.com/1g2Z64L.png",
+    "url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7901501832218952710",
+    "quality": "FHD"
+  },
+  {
+    "name": "Voyages+",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyages%20Logo.svg",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-8489095913396562758"
+  },
+  {
+    "name": "WBTV At the Movies [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-3-wbtv-us.png",
+    "url": "https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5702727395981380850"
+  },
+  {
+    "name": "WBTV Crime scenes [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-3-wbtv-us.png",
+    "url": "https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1068679344167824169"
+  },
+  {
+    "name": "WBTV Sweet Escapes [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-3-wbtv-us.png",
+    "url": "https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-1747386734008305785"
+  },
+  {
+    "name": "WBTV Unique Lives [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-3-wbtv-us.png",
+    "url": "https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-6077662572538437832"
+  },
+  {
+    "name": "WeShort",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-2-wesh-us.png",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "8926423853796516088"
+  },
+  {
+    "name": "Wild West TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png",
+    "url": "https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8",
+    "group": "General",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-7220504233651441901"
+  },
+  {
+    "name": "XPTV US (720p)",
+    "logo": "https://i.imgur.com/1m7kDmc.png",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+    "group": "Series",
+    "country": "ES",
+    "is_premium": false,
+    "id": "1368286589754322683",
+    "quality": "HD"
+  },
+  {
+    "name": "XPTV1 (720p)",
+    "logo": "https://i.imgur.com/Ty7GkoN.png",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+    "group": "Music",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-810039657815554611",
+    "quality": "HD"
+  },
+  {
+    "name": "XPTV2 (720p)",
+    "logo": "https://i.imgur.com/74Z8ATB.png",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
+    "group": "Entertainment",
+    "country": "ES",
+    "is_premium": false,
+    "id": "5220302514410728394",
+    "quality": "HD"
+  },
+  {
+    "name": "Zylo Cine Friki (1080p)",
+    "logo": "https://i.imgur.com/b3Ospym.png",
+    "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-5649339429281454009",
+    "quality": "FHD"
+  },
+  {
+    "name": "Zylo Todo Novelas (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/NuYwGok.png",
+    "url": "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
+    "group": "Spain",
+    "country": "ES",
+    "is_premium": false,
+    "id": "-2140351623976798455",
+    "quality": "FHD"
+  }
+]

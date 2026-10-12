@@ -1,0 +1,81 @@
+[
+  {
+    "name": "AMC (1080p)",
+    "logo": "https://i.imgur.com/yj8RNnG.png",
+    "url": "https://amchls.wns.live/hls/stream.m3u8",
+    "group": "Movies",
+    "country": "AF",
+    "is_premium": false,
+    "id": "7218650039048413986",
+    "quality": "FHD"
+  },
+  {
+    "name": "Dunya Naw TV (576p)",
+    "logo": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+    "url": "https://dunyanhls.wns.live/hls/stream.m3u8",
+    "group": "General",
+    "country": "AF",
+    "is_premium": false,
+    "id": "-5400066066305199862",
+    "quality": "SD"
+  },
+  {
+    "name": "Eslah TV (720p)",
+    "logo": "https://i.imgur.com/To7VnsA.png",
+    "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+    "group": "Religious",
+    "country": "AF",
+    "is_premium": false,
+    "id": "2531508729127012652",
+    "quality": "HD"
+  },
+  {
+    "name": "Hewad TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/cK2eWUZ.png",
+    "url": "http://51.210.199.58/hls/stream.m3u8",
+    "group": "Afghanistan",
+    "country": "AF",
+    "is_premium": false,
+    "id": "5962583074155977992",
+    "quality": "HD"
+  },
+  {
+    "name": "Kayhan TV (720p)",
+    "logo": "https://i.imgur.com/2MDjU7x.png",
+    "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+    "group": "Music",
+    "country": "AF",
+    "is_premium": false,
+    "id": "6250834544228250230",
+    "quality": "HD"
+  },
+  {
+    "name": "RTA (1080p)",
+    "logo": "https://i.imgur.com/pJU2KPh.png",
+    "url": "https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8",
+    "group": "General",
+    "country": "AF",
+    "is_premium": false,
+    "id": "-1916176684663805817",
+    "quality": "FHD"
+  },
+  {
+    "name": "Shams TV",
+    "logo": "https://i.imgur.com/Lsy31iZ.jpeg",
+    "url": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8",
+    "group": "Education",
+    "country": "AF",
+    "is_premium": false,
+    "id": "-1865561852252346863"
+  },
+  {
+    "name": "Tamadon TV (720p)",
+    "logo": "https://i.imgur.com/edGyj5H.png",
+    "url": "https://hls.tamadon.live/hls/stream.m3u8",
+    "group": "Afghanistan",
+    "country": "AF",
+    "is_premium": false,
+    "id": "5618269617375368066",
+    "quality": "HD"
+  }
+]

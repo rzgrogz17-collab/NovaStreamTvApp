@@ -1,0 +1,871 @@
+[
+  {
+    "name": "13 Entretención (720p)",
+    "logo": "https://i.imgur.com/utI1tJV.png",
+    "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "5266891064059056119",
+    "quality": "HD"
+  },
+  {
+    "name": "13 Festival (1080p)",
+    "logo": "https://i.imgur.com/Ymk6j5o.png",
+    "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+    "group": "Music",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-8839210687057063461",
+    "quality": "FHD"
+  },
+  {
+    "name": "13 Humor (1080p)",
+    "logo": "https://i.imgur.com/KvMuTzN.png",
+    "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-4365784680226769931",
+    "quality": "FHD"
+  },
+  {
+    "name": "13 Kids (1080p)",
+    "logo": "https://i.imgur.com/8WJUbSD.png",
+    "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "6475959981734489445",
+    "quality": "FHD"
+  },
+  {
+    "name": "13 Prime (720p)",
+    "logo": "https://i.imgur.com/R6D228s.png",
+    "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-3494837945747878866",
+    "quality": "HD"
+  },
+  {
+    "name": "13 Realities (1080p)",
+    "logo": "https://i.imgur.com/m0SuwMU.png",
+    "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+    "group": "Entertainment",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-176011761992795704",
+    "quality": "FHD"
+  },
+  {
+    "name": "13 Teleseries (720p)",
+    "logo": "https://i.imgur.com/csBNi2L.png",
+    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+    "group": "Series",
+    "country": "CL",
+    "is_premium": false,
+    "id": "9126730885097133405",
+    "quality": "HD"
+  },
+  {
+    "name": "13C (1080p)",
+    "logo": "https://i.imgur.com/Zfe2f5j.png",
+    "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+    "group": "Culture",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-7340176365214418700",
+    "quality": "FHD"
+  },
+  {
+    "name": "24 Horas (1080p)",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "url": "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8",
+    "group": "News",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-8692104485794969995",
+    "quality": "FHD"
+  },
+  {
+    "name": "ADA TV (576p)",
+    "logo": "https://i.imgur.com/YWmkUWU.png",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8",
+    "group": "Religious",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-5045664061120858828",
+    "quality": "SD"
+  },
+  {
+    "name": "AE Radio TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/425dj2i.jpeg",
+    "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
+    "group": "Music",
+    "country": "CL",
+    "is_premium": false,
+    "id": "274877493779801707",
+    "quality": "HD"
+  },
+  {
+    "name": "Antofagasta TV (ATV) (1080p)",
+    "logo": "https://i.imgur.com/XIQr0fs.png",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-4846938539562573227",
+    "quality": "FHD"
+  },
+  {
+    "name": "Arica TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/I67WOgT.png",
+    "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6838988132399589000",
+    "quality": "SD"
+  },
+  {
+    "name": "Atacama Noticias (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Avx4Ecf.png",
+    "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
+    "group": "News",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4776432733858787110",
+    "quality": "HD"
+  },
+  {
+    "name": "Atacama TV (Copiapó) (720p) [Not 24/7]",
+    "logo": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "2760414202083321637",
+    "quality": "HD"
+  },
+  {
+    "name": "Aysen TV (720p)",
+    "logo": "https://i.imgur.com/DmdBf9S.png",
+    "url": "https://v1.tustreaming.cl/aysentv/index.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "1159358154688598508",
+    "quality": "HD"
+  },
+  {
+    "name": "Buin Somos Todos (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/zzeBtux.png",
+    "url": "https://bst.buin.cl/0.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "5164594149239556769",
+    "quality": "HD"
+  },
+  {
+    "name": "Campus TV (Talca) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/LvzLg33.png",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7112438248253580282",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal 1 Nuble",
+    "logo": "https://i.imgur.com/PGSixH5.png",
+    "url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-108263360593853363"
+  },
+  {
+    "name": "Canal 13 (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
+    "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8",
+    "group": "Argentina",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-7050943522683565171",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal 74 San Antonio",
+    "logo": "https://i.imgur.com/WRYsbjX.png",
+    "url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-5836385286619247174"
+  },
+  {
+    "name": "Canal 9 Bío Bío Televisión (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/J2G1WMs.png",
+    "url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "2456287758758409732",
+    "quality": "FHD"
+  },
+  {
+    "name": "Canal Claro (720p)",
+    "logo": "https://i.imgur.com/Kgjfd3J.png",
+    "url": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-4700247229674445604",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal ISB (Iglesia San Bernardo) (720p)",
+    "logo": "https://i.imgur.com/cQ4ggTw.png",
+    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6035583433603051877",
+    "quality": "HD"
+  },
+  {
+    "name": "Canal SCN (720p)",
+    "logo": "https://i.imgur.com/QXjdiun.png",
+    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-1221206834388755750",
+    "quality": "HD"
+  },
+  {
+    "name": "CDTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pMnk2TH.png",
+    "url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8",
+    "group": "Legislative",
+    "country": "CL",
+    "is_premium": false,
+    "id": "6610527086576153431",
+    "quality": "HD"
+  },
+  {
+    "name": "Chile Channel (720p)",
+    "logo": "https://i.imgur.com/F1it6fh.png",
+    "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+    "group": "Travel",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-229871697396197208",
+    "quality": "HD"
+  },
+  {
+    "name": "ChileVision (1080p)",
+    "logo": "https://i.imgur.com/PRijvR0.png",
+    "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7924690114728628887",
+    "quality": "FHD"
+  },
+  {
+    "name": "Chiloe Red 25",
+    "logo": "https://i.imgur.com/3tqrImm.png",
+    "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "group": "Culture",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4091835812158575866"
+  },
+  {
+    "name": "Click TV (Coronel) (720p)",
+    "logo": "https://i.imgur.com/H0XNbMS.png",
+    "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-8499837862895790622",
+    "quality": "HD"
+  },
+  {
+    "name": "Contivision (720p)",
+    "logo": "https://i.imgur.com/Lz2OlKf.png",
+    "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
+    "group": "News",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4222129251441975299",
+    "quality": "HD"
+  },
+  {
+    "name": "CRTV",
+    "logo": "https://i.imgur.com/cQWNh3L.png",
+    "url": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7142236881433479120"
+  },
+  {
+    "name": "Dance FM (720p)",
+    "logo": "https://images.pluto.tv/channels/6540fec1770cf1000866b65b/colorLogoPNG.png",
+    "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
+    "group": "Music",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-808557229688831557",
+    "quality": "HD"
+  },
+  {
+    "name": "Décima TV (Ancud) (720p)",
+    "logo": "https://i.imgur.com/eu8hDDc.png",
+    "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-9200049485713041530",
+    "quality": "HD"
+  },
+  {
+    "name": "EGM Channel (480p)",
+    "logo": "https://i.imgur.com/RXRKPvs.png",
+    "url": "https://paneltv.online:1936/8186/8186/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-5303068532087199605",
+    "quality": "SD"
+  },
+  {
+    "name": "EnerGeek (720p) [Not 24/7]",
+    "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+    "group": "International",
+    "country": "CL",
+    "is_premium": false,
+    "id": "2378580310022495866",
+    "quality": "HD"
+  },
+  {
+    "name": "EnerGeek Fan",
+    "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+    "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+    "group": "Kids",
+    "country": "CL",
+    "is_premium": false,
+    "id": "994036540095658719"
+  },
+  {
+    "name": "EnerGeek Radio (1080p)",
+    "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
+    "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+    "group": "International",
+    "country": "CL",
+    "is_premium": false,
+    "id": "2853210894101143920",
+    "quality": "FHD"
+  },
+  {
+    "name": "Holvoet TV (Copiapó) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9JKRO3R.png",
+    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "group": "Culture",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-1175920976822758559",
+    "quality": "HD"
+  },
+  {
+    "name": "Huasco Television",
+    "logo": "https://i.imgur.com/Fo2DV70.png",
+    "url": "https://paneltv.online:1936/8024/8024/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-801631596061520262"
+  },
+  {
+    "name": "ITV Patagonia (720p) [Not 24/7]",
+    "logo": "https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png",
+    "url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "5059770747746174188",
+    "quality": "HD"
+  },
+  {
+    "name": "Kanade (1080p)",
+    "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+    "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
+    "group": "International",
+    "country": "CL",
+    "is_premium": false,
+    "id": "8692961120654247874",
+    "quality": "FHD"
+  },
+  {
+    "name": "Kanade Brasil (1080p)",
+    "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+    "url": "https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "8360105178930639505",
+    "quality": "FHD"
+  },
+  {
+    "name": "La Popular TV",
+    "logo": "https://i.imgur.com/AWdgMCC.png",
+    "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7857834546072949367"
+  },
+  {
+    "name": "La Red (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nJOVM6e.png",
+    "url": "https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-1296723071186143271",
+    "quality": "HD"
+  },
+  {
+    "name": "Mega (1080p)",
+    "logo": "https://i.imgur.com/Udrt2eK.png",
+    "url": "https://iptv.bitred.cl/mega/index.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4075133882893036436",
+    "quality": "FHD"
+  },
+  {
+    "name": "Metanoia TV (720p)",
+    "logo": "https://i.imgur.com/Bf00ttL.png",
+    "url": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
+    "group": "Religious",
+    "country": "CL",
+    "is_premium": false,
+    "id": "852522530245411154",
+    "quality": "HD"
+  },
+  {
+    "name": "Nativa TV",
+    "logo": "https://i.imgur.com/0SFE2Fr.png",
+    "url": "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4629627978403195710"
+  },
+  {
+    "name": "NCTV (1080p)",
+    "logo": "https://i.imgur.com/oo5vDBv.png",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
+    "group": "News",
+    "country": "CL",
+    "is_premium": false,
+    "id": "5178350916729952254",
+    "quality": "FHD"
+  },
+  {
+    "name": "Nexo TV (720p)",
+    "logo": "https://i.imgur.com/HIFZjCj.png",
+    "url": "https://stmvideo1.livecastv.com/nexotv/nexotv/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-1158851952248024509",
+    "quality": "HD"
+  },
+  {
+    "name": "Pichilemu TV (1080p)",
+    "logo": "https://i.imgur.com/eaJVCwM.png",
+    "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7737175777432710006",
+    "quality": "FHD"
+  },
+  {
+    "name": "PRIDEtv LATAM (1080p)",
+    "logo": "https://neotv.cl/img/pridetv-512.png",
+    "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+    "group": "International",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-7872264936269243497",
+    "quality": "FHD"
+  },
+  {
+    "name": "Pucón TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nO4cV3E.png",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-3803765541306530477",
+    "quality": "FHD"
+  },
+  {
+    "name": "Puranoticia TV (720p)",
+    "logo": "https://i.imgur.com/NklUi6Y.png",
+    "url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+    "group": "News",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6401144696360840331",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Ritmo (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/qU3E0kX.png",
+    "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6418357863705718762",
+    "quality": "FHD"
+  },
+  {
+    "name": "Radio Suyai TV (1080p)",
+    "logo": "https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350",
+    "url": "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8",
+    "group": "International",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-3416441557633798177",
+    "quality": "FHD"
+  },
+  {
+    "name": "Santa María Televisión (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SnbGpoK.png",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-7750882517367540316",
+    "quality": "HD"
+  },
+  {
+    "name": "Sextavisión (720p)",
+    "logo": "https://i.imgur.com/mwUZBU9.png",
+    "url": "https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "2557309579626769212",
+    "quality": "HD"
+  },
+  {
+    "name": "SoloBáilalo (480p)",
+    "logo": "https://i.imgur.com/SImJE7c.png",
+    "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+    "group": "Music",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-4875527712181828538",
+    "quality": "SD"
+  },
+  {
+    "name": "Stgo.TV",
+    "logo": "https://i.imgur.com/VrqjFUf.png",
+    "url": "https://panel.miplay.cl:8082/stgotv/index.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6880051118721503791"
+  },
+  {
+    "name": "SUR TV",
+    "logo": "https://i.imgur.com/wDCqoor.png",
+    "url": "https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "3652020414533056628"
+  },
+  {
+    "name": "Suyai TV (1080p)",
+    "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
+    "url": "https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8",
+    "group": "International",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-4774033105545515932",
+    "quality": "FHD"
+  },
+  {
+    "name": "T-Vinet (480p)",
+    "logo": "https://i.imgur.com/KisHIpA.png",
+    "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-4391676030915780608",
+    "quality": "SD"
+  },
+  {
+    "name": "Telecanal (720p)",
+    "logo": "https://i.imgur.com/3g6SbSt.png",
+    "url": "https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "group": "News",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-3073375174044866263",
+    "quality": "HD"
+  },
+  {
+    "name": "Teletrak (720p)",
+    "logo": "https://i.imgur.com/NoJvlig.png",
+    "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "8957070611854955848",
+    "quality": "HD"
+  },
+  {
+    "name": "Televida (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/S8Zdn41.png",
+    "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
+    "group": "Religious",
+    "country": "CL",
+    "is_premium": false,
+    "id": "5476930000997497787",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tevex (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/FnInQRd.png",
+    "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+    "group": "Business",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-1443219748008201846",
+    "quality": "HD"
+  },
+  {
+    "name": "Thema Televisión (La Serena) (720p) [Not 24/7]",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg/500px-2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg",
+    "url": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "9208155911413622899",
+    "quality": "HD"
+  },
+  {
+    "name": "TNE (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8QbvXva.png",
+    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+    "group": "Religious",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6749502898414439111",
+    "quality": "HD"
+  },
+  {
+    "name": "Turf Movil (720p)",
+    "logo": "https://i.imgur.com/TwIe4lK.png",
+    "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+    "group": "Sports",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4296924266869022100",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Chile (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/oYFto0V.png",
+    "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-3652618904860486519",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Quellón (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MOwLCwT.png",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "2700465781999058443",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Senado (360p)",
+    "logo": "https://i.imgur.com/CNUZ6ig.png",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "group": "Brazil",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-9221877119498284348",
+    "quality": "SD"
+  },
+  {
+    "name": "TVN (1080p)",
+    "logo": "https://i.imgur.com/t8nUMAO.png",
+    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7158874805017626144",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVN3 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/9LEiQPJ.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+    "group": "Classic",
+    "country": "CL",
+    "is_premium": false,
+    "id": "8554921632492240028",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVO San Vicente (720p)",
+    "logo": "https://i.imgur.com/PCVWtHd.png",
+    "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-7375719894453664144",
+    "quality": "HD"
+  },
+  {
+    "name": "TVR (1080p) [Not 24/7]",
+    "logo": "https://i.postimg.cc/prDRDZw3/TVR-Logo.png",
+    "url": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "6792323081486447537",
+    "quality": "FHD"
+  },
+  {
+    "name": "TVU Concepción (1080p)",
+    "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+    "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6712367616939924632",
+    "quality": "FHD"
+  },
+  {
+    "name": "U Los Lagos TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/HxUZseV.png",
+    "url": "http://tv.ulagos.cl/web/live.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-2197626612808031706",
+    "quality": "FHD"
+  },
+  {
+    "name": "UCV TV (720p)",
+    "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
+    "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+    "group": "Culture",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-760409868086334085",
+    "quality": "HD"
+  },
+  {
+    "name": "Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BdZGS66.png",
+    "url": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "7007354661210063185",
+    "quality": "FHD"
+  },
+  {
+    "name": "UTV (720p)",
+    "logo": "https://i.imgur.com/ZJNSpfZ.png",
+    "url": "https://v2.tustreaming.cl/utv/index.m3u8",
+    "group": "Poland",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4633351948733748304",
+    "quality": "HD"
+  },
+  {
+    "name": "V Classic TV (720p)",
+    "logo": "https://i.imgur.com/WIACJSy.png",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "group": "Music",
+    "country": "CL",
+    "is_premium": false,
+    "id": "8622131153721865989",
+    "quality": "HD"
+  },
+  {
+    "name": "VC Online (720p)",
+    "logo": "https://i.imgur.com/VlKl2VB.png",
+    "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "6563101151564407861",
+    "quality": "HD"
+  },
+  {
+    "name": "Vision Plus TV (1080i)",
+    "logo": "https://i.imgur.com/mpNcG5F.png",
+    "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "4052764593635831666"
+  },
+  {
+    "name": "VTV Valle de Aconcagua (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0bFVvKj.png",
+    "url": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
+    "group": "Chile",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-6970144413010856834",
+    "quality": "HD"
+  },
+  {
+    "name": "Wapp (720p)",
+    "logo": "https://i.imgur.com/Bv1yJ1d.png",
+    "url": "https://stream.wapptv.cl/video/index.m3u8",
+    "group": "Lifestyle",
+    "country": "CL",
+    "is_premium": false,
+    "id": "6787776493569710669",
+    "quality": "HD"
+  },
+  {
+    "name": "Κρήτη TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7RtGcfY.png",
+    "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+    "group": "General",
+    "country": "CL",
+    "is_premium": false,
+    "id": "-3095677088101066443",
+    "quality": "HD"
+  }
+]

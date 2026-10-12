@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Andorra TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png",
+    "url": "https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8",
+    "group": "General",
+    "country": "AD",
+    "is_premium": false,
+    "id": "-2363460811796584956",
+    "quality": "FHD"
+  }
+]

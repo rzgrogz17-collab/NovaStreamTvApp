@@ -1,0 +1,715 @@
+[
+  {
+    "name": "ABN TV (720p)",
+    "logo": "https://www.abn.co.kr/resources/images/logo.png",
+    "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
+    "group": "News",
+    "country": "KR",
+    "is_premium": false,
+    "id": "1453087834812014022",
+    "quality": "HD"
+  },
+  {
+    "name": "Arirang Radio (720p)",
+    "logo": "https://i.imgur.com/dtfiG9k.png",
+    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+    "group": "General",
+    "country": "KR",
+    "is_premium": false,
+    "id": "159323633427945055",
+    "quality": "HD"
+  },
+  {
+    "name": "Arirang TV (1080p)",
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "group": "News",
+    "country": "KR",
+    "is_premium": false,
+    "id": "2179491607677906230",
+    "quality": "FHD"
+  },
+  {
+    "name": "Arirang TV HD",
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+    "group": "News",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8156715781185768683",
+    "quality": "HD"
+  },
+  {
+    "name": "Arirang TV UN (1080p)",
+    "logo": "https://i.imgur.com/Jdy3WNm.png",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "group": "International",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-3125571611689736870",
+    "quality": "FHD"
+  },
+  {
+    "name": "BBS Buddhist Broadcasting (1080p)",
+    "logo": "https://i.imgur.com/01UmXRe.png",
+    "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "605670573003890098",
+    "quality": "FHD"
+  },
+  {
+    "name": "Billiards+",
+    "logo": "https://i.imgur.com/fo1k0Oj.png",
+    "url": "https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8",
+    "group": "Sports",
+    "country": "KR",
+    "is_premium": false,
+    "id": "3130168623347769617"
+  },
+  {
+    "name": "BTN TV (480p)",
+    "logo": "https://i.imgur.com/WmaP8zP.png",
+    "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-8217776919951923798",
+    "quality": "SD"
+  },
+  {
+    "name": "CGNTV South Korea (1080p)",
+    "logo": "https://i.imgur.com/zwZASOB.png",
+    "url": "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "629691860622776646",
+    "quality": "FHD"
+  },
+  {
+    "name": "Channel A (360p)",
+    "logo": "https://i.imgur.com/W9laHPD.png",
+    "url": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8",
+    "group": "General",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-5571764892957272406",
+    "quality": "SD"
+  },
+  {
+    "name": "CJ OnStyle (540p)",
+    "logo": "https://i.imgur.com/JiSfEBv.png",
+    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7332523875271866840"
+  },
+  {
+    "name": "CJ OnStyle Plus (540p)",
+    "logo": "https://i.imgur.com/OYmOL20.png",
+    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "908893360955417827"
+  },
+  {
+    "name": "CTS기독교TV (720p)",
+    "logo": "https://i.imgur.com/z3L8uNB.png",
+    "url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "3461744567936343001",
+    "quality": "HD"
+  },
+  {
+    "name": "EBS 1 (400p) [Not 24/7]",
+    "logo": "https://i.imgur.com/u8DR5HZ.png",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "group": "Education",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7212269347111783336"
+  },
+  {
+    "name": "EBS 2 (400p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Schr1Mk.png",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "group": "Education",
+    "country": "KR",
+    "is_premium": false,
+    "id": "6650347126730127053"
+  },
+  {
+    "name": "EBS E (400p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5wLJzb0.png",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "374392386592964671"
+  },
+  {
+    "name": "EBS kids (400p) [Not 24/7]",
+    "logo": "https://i.imgur.com/62oo8Bx.png",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "group": "Kids",
+    "country": "KR",
+    "is_premium": false,
+    "id": "1076409889849780851"
+  },
+  {
+    "name": "EBS+ 1 (400p)",
+    "logo": "https://i.imgur.com/aCeuhon.png",
+    "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+    "group": "Education",
+    "country": "KR",
+    "is_premium": false,
+    "id": "5482080087450809314"
+  },
+  {
+    "name": "EBS+ 2 (400p)",
+    "logo": "https://i.imgur.com/pllIMGi.png",
+    "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+    "group": "Education",
+    "country": "KR",
+    "is_premium": false,
+    "id": "2092041687435724761"
+  },
+  {
+    "name": "FGTV (720p)",
+    "logo": "https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",
+    "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8541655533086455341",
+    "quality": "HD"
+  },
+  {
+    "name": "GCN24 Korean (720p)",
+    "logo": "https://i.imgur.com/yzwtMOC.png",
+    "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-1127593430433687758",
+    "quality": "HD"
+  },
+  {
+    "name": "Golf Network (540p)",
+    "logo": "https://i.imgur.com/s6lmfXF.png",
+    "url": "http://202.60.106.14:8080/1335/playlist.m3u8",
+    "group": "Sports",
+    "country": "KR",
+    "is_premium": false,
+    "id": "5854173216049062540"
+  },
+  {
+    "name": "Gongyoung Shopping (720p)",
+    "logo": "https://i.imgur.com/YL3rpd7.png",
+    "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "4305563865362318823",
+    "quality": "HD"
+  },
+  {
+    "name": "GoodTV (1080p)",
+    "logo": "https://i.ibb.co/1v913gn/logo-goodtv.png",
+    "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "3017388782552750302",
+    "quality": "FHD"
+  },
+  {
+    "name": "GS My Shop (1080p)",
+    "logo": "https://i.imgur.com/ETPQwui.png",
+    "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-929011295407165134",
+    "quality": "FHD"
+  },
+  {
+    "name": "GS Shop (1080p)",
+    "logo": "https://i.imgur.com/F7QDbEy.png",
+    "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "4674662733112732763",
+    "quality": "FHD"
+  },
+  {
+    "name": "GugakTV 국악방송 (1080p)",
+    "logo": "https://i.imgur.com/Ey7Htm8.png",
+    "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+    "group": "Music",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8031402626907526756",
+    "quality": "FHD"
+  },
+  {
+    "name": "Gugbang TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/f1tz5fg.png",
+    "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+    "group": "News",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-5343412549439666328",
+    "quality": "FHD"
+  },
+  {
+    "name": "Home & Shopping (720p)",
+    "logo": "https://i.imgur.com/IcexRXG.png",
+    "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-2975922484423287171",
+    "quality": "HD"
+  },
+  {
+    "name": "Hyundai Home Shopping (720p)",
+    "logo": "https://i.imgur.com/NJpECmq.png",
+    "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "7469088199265643050",
+    "quality": "HD"
+  },
+  {
+    "name": "Hyundai Home Shopping Plus (720p)",
+    "logo": "https://i.imgur.com/DoNOuZE.png",
+    "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-5838120218252029978",
+    "quality": "HD"
+  },
+  {
+    "name": "K+ (Indonesian subtitle) (576p)",
+    "logo": "https://i.imgur.com/RbS0q71.png",
+    "url": "http://210.210.155.37/uq2663/h/h08/index.m3u8",
+    "group": "Sports",
+    "country": "KR",
+    "is_premium": false,
+    "id": "7841764970061235629",
+    "quality": "SD"
+  },
+  {
+    "name": "KCTV 광주 CH05 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/IHkZpaI.png",
+    "url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-8877794014759409558",
+    "quality": "HD"
+  },
+  {
+    "name": "Korea TV (1080p)",
+    "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",
+    "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
+    "group": "Legislative",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-916581267999196865",
+    "quality": "FHD"
+  },
+  {
+    "name": "KShopping (1080p)",
+    "logo": "https://i.imgur.com/Tmb3xK8.png",
+    "url": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "4519259808878831306",
+    "quality": "FHD"
+  },
+  {
+    "name": "Lotte Home Shopping (720p)",
+    "logo": "https://i.imgur.com/dJeNehc.png",
+    "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-5207102273173885547",
+    "quality": "HD"
+  },
+  {
+    "name": "Lotte OneTV (720p)",
+    "logo": "https://i.imgur.com/bXe7tYE.png",
+    "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "2955477037768669722",
+    "quality": "HD"
+  },
+  {
+    "name": "MBC Andong (안동 MBC) (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nqRWpUu.png",
+    "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "1448314619977995038",
+    "quality": "SD"
+  },
+  {
+    "name": "MBC Busan (부산MBC) (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jiFOYi5.png",
+    "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7629450358808931880",
+    "quality": "SD"
+  },
+  {
+    "name": "MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lthyx2P.png",
+    "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7549954290568403809",
+    "quality": "SD"
+  },
+  {
+    "name": "MBC Chungbuk (MBC 충북) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uR0gScb.png",
+    "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8384721679400822976",
+    "quality": "HD"
+  },
+  {
+    "name": "MBC Daejeon (대전 MBC) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/HCbvAiM.png",
+    "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8073444591456731739",
+    "quality": "HD"
+  },
+  {
+    "name": "MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/FGsKCH3.png",
+    "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7089097078251931199",
+    "quality": "FHD"
+  },
+  {
+    "name": "MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://i.imgur.com/wmGJgYh.png",
+    "url": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8895454754474711293",
+    "quality": "FHD"
+  },
+  {
+    "name": "MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Ronb1JP.png",
+    "url": "https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-2298869421529838798",
+    "quality": "FHD"
+  },
+  {
+    "name": "MBC Jeju (제주 MBC) (352p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JM4rxGU.png",
+    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-3690361716916889957"
+  },
+  {
+    "name": "MBC Jeonju (450p)",
+    "logo": "https://i.imgur.com/3C57SwN.png",
+    "url": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "4056314340766759750"
+  },
+  {
+    "name": "MBC Mokpo (목포 MBC) (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5oraHc0.png",
+    "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "6433518958985315002",
+    "quality": "HD"
+  },
+  {
+    "name": "MTN (720p)",
+    "logo": "https://i.imgur.com/MS0lqoG.png",
+    "url": "http://183.110.27.87/mtnlive/720/playlist.m3u8",
+    "group": "General",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-3629179250387348161",
+    "quality": "HD"
+  },
+  {
+    "name": "National Assembly TV (720p)",
+    "logo": "https://i.imgur.com/UKdB8vD.png",
+    "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8",
+    "group": "Legislative",
+    "country": "KR",
+    "is_premium": false,
+    "id": "3794642702163786971",
+    "quality": "HD"
+  },
+  {
+    "name": "NBS Korea Agricultural Broadcasting (720p)",
+    "logo": "https://i.imgur.com/pOSroOE.png",
+    "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-4038953942812490830",
+    "quality": "HD"
+  },
+  {
+    "name": "NHTV (720p)",
+    "logo": "https://i.imgur.com/DfECkgB.png",
+    "url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-6136875712659628557",
+    "quality": "HD"
+  },
+  {
+    "name": "NS Home Shopping (720p)",
+    "logo": "https://i.imgur.com/Q9xsDQo.png",
+    "url": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-601182096448011366",
+    "quality": "HD"
+  },
+  {
+    "name": "NS Shop Plus (720p)",
+    "logo": "https://i.imgur.com/7KmXNci.png",
+    "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-3173800858285581222",
+    "quality": "HD"
+  },
+  {
+    "name": "OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/oWB3ApR.png",
+    "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
+    "group": "General",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-4189704604704635125"
+  },
+  {
+    "name": "OCN (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/960px-OCN_Logo.svg.png",
+    "url": "http://202.60.106.14:8080/207/playlist.m3u8",
+    "group": "Movies",
+    "country": "KR",
+    "is_premium": false,
+    "id": "3548477151859896464",
+    "quality": "SD"
+  },
+  {
+    "name": "OUN (1080p)",
+    "logo": "https://i.imgur.com/7s6JtcU.png",
+    "url": "https://live.knou.ac.kr/knou1/live1/playlist.m3u8",
+    "group": "Education",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-3587108155860116053",
+    "quality": "FHD"
+  },
+  {
+    "name": "RUTC TV (720p)",
+    "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
+    "url": "http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-1802147882297458119",
+    "quality": "HD"
+  },
+  {
+    "name": "SBS CJB (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/zVunmpQ.png",
+    "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-3550670694742821765"
+  },
+  {
+    "name": "SBS G1 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ABdmZMc.png",
+    "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7428836165048299658",
+    "quality": "SD"
+  },
+  {
+    "name": "SBS JIBS (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/iAz0Psw.png",
+    "url": "http://123.140.197.22/stream/1/play.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-9062310767281852564",
+    "quality": "HD"
+  },
+  {
+    "name": "SBS KNN (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/gaBq1Lz.png",
+    "url": "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "4092603240529728438",
+    "quality": "FHD"
+  },
+  {
+    "name": "SBS TBC (540p) [Geo-blocked] [Not 24/7]",
+    "logo": "https://i.imgur.com/jknoVmp.png",
+    "url": "http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-5459978299541037921"
+  },
+  {
+    "name": "SBS UBC (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BBCoqIf.png",
+    "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "6601927238671824674"
+  },
+  {
+    "name": "Shinsegae Shopping TV (720p)",
+    "logo": "https://i.imgur.com/Hq3yjqA.png",
+    "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "4059266722863288807",
+    "quality": "HD"
+  },
+  {
+    "name": "Shopping NT (720p)",
+    "logo": "https://i.imgur.com/BgbJp5X.png",
+    "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-7504079691372306633",
+    "quality": "HD"
+  },
+  {
+    "name": "Sindo News TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png",
+    "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8",
+    "group": "News",
+    "country": "KR",
+    "is_premium": false,
+    "id": "ae596ff2-84eb-558d-a7cc-35b2b5ebc45c"
+  },
+  {
+    "name": "TBS Seoul (720p)",
+    "logo": "https://i.imgur.com/iOnWS6V.png",
+    "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-756274512505823619",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Chosun (720p)",
+    "logo": "https://i.imgur.com/62EwaCG.png",
+    "url": "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8",
+    "group": "General",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-189731465233922949",
+    "quality": "HD"
+  },
+  {
+    "name": "TV Chosun 2 (720p)",
+    "logo": "https://i.imgur.com/Ev5JoBJ.png",
+    "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
+    "group": "South Korea",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-1060714253591495094",
+    "quality": "HD"
+  },
+  {
+    "name": "W Shopping (720p)",
+    "logo": "https://i.imgur.com/hfXjVJd.png",
+    "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
+    "group": "Shop",
+    "country": "KR",
+    "is_premium": false,
+    "id": "8255200392753388099",
+    "quality": "HD"
+  },
+  {
+    "name": "WBS TV (720p)",
+    "logo": "https://i.imgur.com/Lhz1Egi.png",
+    "url": "http://157.245.196.186/live/livestream.m3u8",
+    "group": "Religious",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-4924749013847525043",
+    "quality": "HD"
+  },
+  {
+    "name": "YTN (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png",
+    "url": "http://202.60.106.14:8080/214/playlist.m3u8",
+    "group": "General",
+    "country": "KR",
+    "is_premium": false,
+    "id": "-4400759463954027973",
+    "quality": "HD"
+  }
+]

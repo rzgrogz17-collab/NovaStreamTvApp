@@ -1,0 +1,3569 @@
+[
+  {
+    "name": "1-2-3 TV (270p)",
+    "logo": "https://i.imgur.com/slSUDNX.png",
+    "url": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "321338369730756909"
+  },
+  {
+    "name": "16 Anni e Incinta",
+    "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5725f638-3b36-57a2-9913-cf199bd1fae2"
+  },
+  {
+    "name": "3sat (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
+    "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2651904027159010991",
+    "quality": "HD"
+  },
+  {
+    "name": "90210",
+    "logo": "https://i.imgur.com/xqo5PxO.png",
+    "url": "https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5476096296184001537"
+  },
+  {
+    "name": "Adventure Earth (1080p)",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+    "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2474059377386764430",
+    "quality": "FHD"
+  },
+  {
+    "name": "Alex Berlin (1080p)",
+    "logo": "https://i.imgur.com/eTmHk4e.png",
+    "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7231702319000523292",
+    "quality": "FHD"
+  },
+  {
+    "name": "Alle hassen Chris",
+    "logo": "https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1607410680188703912"
+  },
+  {
+    "name": "Allgäu TV (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/allgau-tv-de.png",
+    "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8377064933054389451",
+    "quality": "FHD"
+  },
+  {
+    "name": "Altenburg TV (1080p)",
+    "logo": "https://i.imgur.com/3JriZGR.png",
+    "url": "https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "732936480118168274",
+    "quality": "FHD"
+  },
+  {
+    "name": "ANIMAL KINGDOM (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Kingdom_logo.png",
+    "url": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+    "group": "Outdoor",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2979001481603131346",
+    "quality": "HD"
+  },
+  {
+    "name": "Anixe + (360p)",
+    "logo": "https://i.imgur.com/hvGJ2oa.png",
+    "url": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7925565125089953220",
+    "quality": "SD"
+  },
+  {
+    "name": "Anixe HD Serie (360p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/anixe-hd-serie-de.png",
+    "url": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6262139060374155838",
+    "quality": "HD"
+  },
+  {
+    "name": "ARD-alpha (720p) [Not 24/7]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ard-alpha-de.png",
+    "url": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8",
+    "group": "Education",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7328375293898645161",
+    "quality": "HD"
+  },
+  {
+    "name": "Aristo TV (360p)",
+    "logo": "https://i.imgur.com/DLVjeno.png",
+    "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4771655207402793338",
+    "quality": "SD"
+  },
+  {
+    "name": "ARTE (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8985865129985202074",
+    "quality": "HD"
+  },
+  {
+    "name": "Auction Hunters",
+    "logo": "https://i.imgur.com/4SPOVN7.png",
+    "url": "https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6131329171157198412"
+  },
+  {
+    "name": "Augsburg TV (1080p)",
+    "logo": "https://i.imgur.com/27AKMUL.png",
+    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4773164520438591313",
+    "quality": "FHD"
+  },
+  {
+    "name": "Autentic History (1080p)",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3564506090389957371",
+    "quality": "FHD"
+  },
+  {
+    "name": "Autentic Travel (1080p)",
+    "logo": "https://mobibase.com/wp-content/themes/mobibase/assets/images/traveltv.png",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "group": "Lifestyle",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6401897470446174706",
+    "quality": "FHD"
+  },
+  {
+    "name": "Avatar",
+    "logo": "https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8264577374073198300"
+  },
+  {
+    "name": "Awkward",
+    "logo": "https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5819329625057597550"
+  },
+  {
+    "name": "Baden TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/L6vE9Bz.png",
+    "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4591432931237621992",
+    "quality": "FHD"
+  },
+  {
+    "name": "Baden TV Süd (480p)",
+    "logo": "https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png",
+    "url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6818277298568288614",
+    "quality": "SD"
+  },
+  {
+    "name": "BBC Top Gear Germany (1080p)",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3670543636608918197",
+    "quality": "FHD"
+  },
+  {
+    "name": "Becker",
+    "logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
+    "url": "https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4210071516214431537"
+  },
+  {
+    "name": "BET Pluto TV",
+    "logo": "https://i.imgur.com/Kq9WKZg.png",
+    "url": "https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2306120177971783441"
+  },
+  {
+    "name": "Beverly Hills 90210",
+    "logo": "https://i.imgur.com/td3d1F8.png",
+    "url": "https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "9215361200238725352"
+  },
+  {
+    "name": "Beyblade",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/nick-beyblade-burst-vod.png",
+    "url": "https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2344558696640220368"
+  },
+  {
+    "name": "Beyblade en Español (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/nick-beyblade-burst-vod.png",
+    "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5167441449471783442",
+    "quality": "FHD"
+  },
+  {
+    "name": "Bibel TV (720p)",
+    "logo": "https://i.imgur.com/RLwmrk3.png",
+    "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2653838504427756252",
+    "quality": "HD"
+  },
+  {
+    "name": "Bibel TV Impuls (720p)",
+    "logo": "https://i.imgur.com/k4tbW3W.png",
+    "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3271795564980595382",
+    "quality": "HD"
+  },
+  {
+    "name": "Bibel TV Musik (720p)",
+    "logo": "https://i.imgur.com/yIqOcP5.png",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1155931586625598907",
+    "quality": "HD"
+  },
+  {
+    "name": "BLK Regional TV (1080p)",
+    "logo": "https://i.imgur.com/JLgnPG1.png",
+    "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1175295695930683715",
+    "quality": "FHD"
+  },
+  {
+    "name": "Blue Bloods",
+    "logo": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4417339616967433975"
+  },
+  {
+    "name": "Bob Esponja",
+    "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "0ab66352-e4f5-5a44-9394-c6cbf32abd22"
+  },
+  {
+    "name": "Bob l'éponge",
+    "logo": "https://i.imgur.com/ITwU1yZ.png",
+    "url": "https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1887085063054125562"
+  },
+  {
+    "name": "Bondi Rescue",
+    "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
+    "url": "https://pb-xcqdiadvt1x0q.akamaized.net/playlist.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3283669616712454840"
+  },
+  {
+    "name": "BR Fernsehen Nord (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-fernsehen-de.png",
+    "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3618107061643476468",
+    "quality": "HD"
+  },
+  {
+    "name": "CC Pluto TV",
+    "logo": "https://i.imgur.com/MjC40At.png",
+    "url": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7213089689940477520"
+  },
+  {
+    "name": "Cheers",
+    "logo": "https://i.imgur.com/xIlF92v.png",
+    "url": "https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7841703281260952446"
+  },
+  {
+    "name": "Chemnitz Fernsehen (1080p)",
+    "logo": "https://i.imgur.com/4SEAbVf.png",
+    "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3113601085495967551",
+    "quality": "FHD"
+  },
+  {
+    "name": "Cinevault Murder and Mayhem (540p)",
+    "logo": "https://i.imgur.com/xaCyyDd.png",
+    "url": "https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9094145997299836877"
+  },
+  {
+    "name": "Cira TV",
+    "logo": "https://i.imgur.com/YFnmSLW.png",
+    "url": "https://cira-tv.akamaized.net/hls/stream_0.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1013969708548203057"
+  },
+  {
+    "name": "Comedia Made in Spain (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8ddFdSQ.png",
+    "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3451898812284596674",
+    "quality": "HD"
+  },
+  {
+    "name": "Comedy Central South Park",
+    "logo": "https://i.imgur.com/7GKO6Fp.png",
+    "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1012887427902370648"
+  },
+  {
+    "name": "Cox Meriden Public Access Channel 15 (Meriden CT) (720p)",
+    "logo": "",
+    "url": "http://applevalley.coxctv.com/live-1/live/live.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5681793289998040667",
+    "quality": "HD"
+  },
+  {
+    "name": "Curiosity Now (1080p)",
+    "logo": "https://i.imgur.com/gJ9eMaG.png",
+    "url": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3014825104182643366",
+    "quality": "FHD"
+  },
+  {
+    "name": "Das Erste (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png",
+    "url": "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4164188048499203573",
+    "quality": "FHD"
+  },
+  {
+    "name": "Das Erste HD (1080p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png",
+    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2440961464337821622",
+    "quality": "HD"
+  },
+  {
+    "name": "DASDING 90.8 (720p)",
+    "logo": "https://i.imgur.com/BmklHs8.png",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-608623620549352949",
+    "quality": "HD"
+  },
+  {
+    "name": "DAZN Darts x Pluto TV",
+    "logo": "https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9117663469076027378"
+  },
+  {
+    "name": "DAZN Heldinnen x Pluto TV",
+    "logo": "https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8395129518747777261"
+  },
+  {
+    "name": "Dazn Ringside (1080p)",
+    "logo": "https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png",
+    "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1598121322602418954",
+    "quality": "FHD"
+  },
+  {
+    "name": "Deal Zone (720p)",
+    "logo": "https://i.imgur.com/lZvNXA1.png",
+    "url": "https://pb-2x4r5igjtn1o7.akamaized.net/v1/aenetworks_dealzone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7955832508219069792",
+    "quality": "HD"
+  },
+  {
+    "name": "Dealzone (1080p)",
+    "logo": "",
+    "url": "https://c86bc87f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9EZWFsWm9uZV9ITFM/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7040407361912267458",
+    "quality": "FHD"
+  },
+  {
+    "name": "DEFA TV (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/defa-tv-de.png",
+    "url": "https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4307019904855181359",
+    "quality": "HD"
+  },
+  {
+    "name": "Deluxe Dance (1080p)",
+    "logo": "https://i.imgur.com/Qu7t15Y.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8007026666367190014",
+    "quality": "FHD"
+  },
+  {
+    "name": "Deluxe Lounge (720p)",
+    "logo": "https://i.imgur.com/pgCA35z.png",
+    "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8518130989464291525",
+    "quality": "HD"
+  },
+  {
+    "name": "Deluxe Music (720p)",
+    "logo": "https://i.imgur.com/HimuPPb.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-957155581446888783",
+    "quality": "HD"
+  },
+  {
+    "name": "Deluxe Rap (1080p)",
+    "logo": "https://i.imgur.com/s3h67hx.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6134201029717759532",
+    "quality": "FHD"
+  },
+  {
+    "name": "Die Thundermans",
+    "logo": "https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447df8cd3fdde0008f1f627/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d63b6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61fd0bc7-a796-4f7e-b012-6bced3a297ed",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9146998815283273591"
+  },
+  {
+    "name": "Die Thundermans",
+    "logo": "https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447df8cd3fdde0008f1f627/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83cc74-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02dde53-47b9-4c4f-995a-8dcff3877391",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-258755448897228974"
+  },
+  {
+    "name": "Die Thundermans",
+    "logo": "https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447df8cd3fdde0008f1f627/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=072707cc-c1e4-4fea-8582-e3b6779c864c",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6456721788445445887"
+  },
+  {
+    "name": "DMF (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/sJaBU7X.jpeg",
+    "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7135211547572654542",
+    "quality": "FHD"
+  },
+  {
+    "name": "Dokusat (1080p)",
+    "logo": "https://i.imgur.com/GadfTwF.png",
+    "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9128231423078333453",
+    "quality": "FHD"
+  },
+  {
+    "name": "Drake & Josh",
+    "logo": "https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6445655143057904399"
+  },
+  {
+    "name": "Dresden Fernsehen (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rnvprGj.png",
+    "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1701355527911078667",
+    "quality": "FHD"
+  },
+  {
+    "name": "DW Arabic (1080p)",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+    "group": "International",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3025940357083986075",
+    "quality": "FHD"
+  },
+  {
+    "name": "DW English (1080p)",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+    "group": "International",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-399831492005834176",
+    "quality": "FHD"
+  },
+  {
+    "name": "DW Espanol (1080p)",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+    "group": "International",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5521313126636093802",
+    "quality": "FHD"
+  },
+  {
+    "name": "DW Russian (1080p)",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "url": "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6723446973750881881",
+    "quality": "FHD"
+  },
+  {
+    "name": "Dynasty",
+    "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-622f48de713e510007f85808.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2091507628748292071"
+  },
+  {
+    "name": "EchtJetzt TV (720p)",
+    "logo": "https://i.ibb.co/ccNRGVj/download-10.png",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8",
+    "group": "Religious",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1274777636604817862",
+    "quality": "HD"
+  },
+  {
+    "name": "ems TV Lingen (720p)",
+    "logo": "https://i.imgur.com/Yo1GMku.png",
+    "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7081439012467707848",
+    "quality": "HD"
+  },
+  {
+    "name": "Enquetes de Choc (1080p)",
+    "logo": "https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png",
+    "url": "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "594777398492945422",
+    "quality": "FHD"
+  },
+  {
+    "name": "Erz-TV Stollberg (576p)",
+    "logo": "https://i.imgur.com/6FHl9B1.png",
+    "url": "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5452143657364146113",
+    "quality": "SD"
+  },
+  {
+    "name": "EuroAl TV (720p)",
+    "logo": "https://i.imgur.com/0GrDAWx.png",
+    "url": "http://5.135.92.131:1935/live/euroAl/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8310582896637924443",
+    "quality": "HD"
+  },
+  {
+    "name": "EWTN",
+    "logo": "https://i.imgur.com/NXeygNk.png",
+    "url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
+    "group": "Religious",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4750134835790090729"
+  },
+  {
+    "name": "FilmGold Germany (1080p)",
+    "logo": "https://images.pluto.tv/channels/6305ca798bd95300072d2f93/colorLogoPNG.png",
+    "url": "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1299512041070619927",
+    "quality": "FHD"
+  },
+  {
+    "name": "FilmRise DeGrassi la nouvelle génération",
+    "logo": "https://i.imgur.com/8j2npVc.png",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7587853183715295426"
+  },
+  {
+    "name": "Filstalwelle (1080p)",
+    "logo": "https://i.imgur.com/19iKLvf.png",
+    "url": "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5860898610505611386",
+    "quality": "FHD"
+  },
+  {
+    "name": "Finest TV (288p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1uoP10V.png",
+    "url": "https://media.finest.tv/hls/live.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8447442176275175622"
+  },
+  {
+    "name": "FOLX Music (1080p)",
+    "logo": "https://i.imgur.com/ze04puX.png",
+    "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5281594230498392750",
+    "quality": "FHD"
+  },
+  {
+    "name": "Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3pGGLLD.png",
+    "url": "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1823623648267026089",
+    "quality": "FHD"
+  },
+  {
+    "name": "FrankenPlus (1080p)",
+    "logo": "",
+    "url": "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4619783458158596929",
+    "quality": "FHD"
+  },
+  {
+    "name": "Frasier",
+    "logo": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4504156173243288695"
+  },
+  {
+    "name": "Funny AF",
+    "logo": "https://i.imgur.com/UCwjdtQ.png",
+    "url": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4661385901940969349"
+  },
+  {
+    "name": "Gardening with Monty Don",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-with-showtime-us.png",
+    "url": "https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-339782669914519889"
+  },
+  {
+    "name": "Gardening With Monty Don (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-with-showtime-us.png",
+    "url": "https://aegis-cloudfront-1.tubi.video/b82a751c-18e0-417c-92c1-d476319da423/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8566457854375238927",
+    "quality": "HD"
+  },
+  {
+    "name": "Geordie Shore",
+    "logo": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "ba52f3dd-a14e-5d69-a85c-7bc1368b4b1f"
+  },
+  {
+    "name": "Germany Shore",
+    "logo": "https://images.pluto.tv/channels/6447dea7e94c380008dba94c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8570447665310645252"
+  },
+  {
+    "name": "Golden Boy",
+    "logo": "https://i.imgur.com/xfVHrKQ.png",
+    "url": "https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3864808108755188603"
+  },
+  {
+    "name": "Goldstar TV",
+    "logo": "https://i.imgur.com/4ySO71h.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6806-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ec1275e-0641-49e2-81e6-6d37a37b7bd3",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7711567861071027585"
+  },
+  {
+    "name": "Goldstar TV",
+    "logo": "https://i.imgur.com/4ySO71h.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a93-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=75107b1a-6063-4c0b-ba4a-37ea8ecf5809",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1090064719883157170"
+  },
+  {
+    "name": "Goldstar TV",
+    "logo": "https://i.imgur.com/4ySO71h.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dfff0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95d4ef6d-a51e-4ee2-b6d2-bff9e219717f",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2737369533818434851"
+  },
+  {
+    "name": "Good-Sound (720p)",
+    "logo": "https://i.imgur.com/4kljoX2.jpg",
+    "url": "http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5752744445886726260",
+    "quality": "HD"
+  },
+  {
+    "name": "Graham Norton Germany (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/GrahamNorton-byPhilipRomano.jpg/330px-GrahamNorton-byPhilipRomano.jpg",
+    "url": "https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8164583231882204363",
+    "quality": "FHD"
+  },
+  {
+    "name": "Grjngo Films de Western (1080p)",
+    "logo": "https://i.imgur.com/wFqhK3p.png",
+    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3044612920749070441",
+    "quality": "FHD"
+  },
+  {
+    "name": "Grjngo Western Movies (720p)",
+    "logo": "https://i.imgur.com/wFqhK3p.png",
+    "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1858236325418895052",
+    "quality": "HD"
+  },
+  {
+    "name": "Hamburg 1 (1080p)",
+    "logo": "https://i.imgur.com/df3yY8W.png",
+    "url": "https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6733337516324233871",
+    "quality": "FHD"
+  },
+  {
+    "name": "Hell's Kitchen Germany (1080p)",
+    "logo": "https://i.imgur.com/P9eT0O9.png",
+    "url": "https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7403124420664813753",
+    "quality": "FHD"
+  },
+  {
+    "name": "Hoarders (720p)",
+    "logo": "",
+    "url": "https://8f2546fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0hvYXJkZXJzX0hMUw/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-675281698125991633",
+    "quality": "HD"
+  },
+  {
+    "name": "Homicide la chaîne du fait divers",
+    "logo": "https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png",
+    "url": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8388503507816748065"
+  },
+  {
+    "name": "Hours to Kill Zeitachse des Todes",
+    "logo": "https://images.pluto.tv/channels/656064e74261ca00081812a9/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a98-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc6fd09c-f448-42a1-aba4-ead7f641967b",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "67194925253390183"
+  },
+  {
+    "name": "Hours to Kill Zeitachse des Todes",
+    "logo": "https://images.pluto.tv/channels/656064e74261ca00081812a9/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f12-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=57f69955-40a5-48e8-9937-db609244fdd4",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4615955253684321365"
+  },
+  {
+    "name": "Hours to Kill – Zeitachse des Todes",
+    "logo": "https://images.pluto.tv/channels/656064e74261ca00081812a9/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dfff5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3ceee80-9777-46f1-8004-ade52d4f7837",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5817603060214439763"
+  },
+  {
+    "name": "hr-fernsehen (1080p)",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/HR-Fernsehen%20Logo%202023.svg",
+    "url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3890846798037397751",
+    "quality": "FHD"
+  },
+  {
+    "name": "hr-fernsehen HD",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/HR-Fernsehen%20Logo%202023.svg",
+    "url": "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4532090481715473912",
+    "quality": "HD"
+  },
+  {
+    "name": "HSE (1080p)",
+    "logo": "https://i.imgur.com/IecRNCk.png",
+    "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+    "group": "Shop",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5490611255259898250",
+    "quality": "FHD"
+  },
+  {
+    "name": "HSE24 Extra (1080p)",
+    "logo": "https://i.imgur.com/nvMpbip.png",
+    "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+    "group": "Shop",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3135985668809969154",
+    "quality": "FHD"
+  },
+  {
+    "name": "HSE24 Trend (576p)",
+    "logo": "https://i.imgur.com/qwh2urX.png",
+    "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+    "group": "Shop",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8135709454785012894",
+    "quality": "SD"
+  },
+  {
+    "name": "iCarly TV",
+    "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3110702803011314084"
+  },
+  {
+    "name": "Ideas en 5 minutos (1080p)",
+    "logo": "",
+    "url": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7797291783195367721",
+    "quality": "FHD"
+  },
+  {
+    "name": "Inside Outside (720p)",
+    "logo": "https://i.imgur.com/wvQYWsj.png",
+    "url": "https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3341881281309220697",
+    "quality": "HD"
+  },
+  {
+    "name": "Inside Outside (720p)",
+    "logo": "https://i.imgur.com/wvQYWsj.png",
+    "url": "https://all3media-international-insideoutside-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-969485220833623788",
+    "quality": "HD"
+  },
+  {
+    "name": "iSTUFF (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1V3UXVb.jpg",
+    "url": "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8",
+    "group": "Education",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1940936536280438966",
+    "quality": "HD"
+  },
+  {
+    "name": "Just Tattoo of Us",
+    "logo": "https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304f20c941c5d00089634e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d813-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd619bf4-9a83-4ae8-86d7-ec8f0db9023c",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7050261841273064240"
+  },
+  {
+    "name": "Juwelo (720p)",
+    "logo": "https://i.imgur.com/vmX8Qin.png",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+    "group": "Shop",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4654638413423185099",
+    "quality": "HD"
+  },
+  {
+    "name": "kabel eins (576p)",
+    "logo": "https://i.imgur.com/6pulSHZ.png",
+    "url": "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8332152109979286025",
+    "quality": "SD"
+  },
+  {
+    "name": "Kanal12 Spremberg TV (404p) [Not 24/7]",
+    "logo": "https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg",
+    "url": "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1219622843649417316"
+  },
+  {
+    "name": "KaufBei TV (576p)",
+    "logo": "https://i.imgur.com/CVJWiM0.png",
+    "url": "https://api.alpaca.t62a.com/hls/9103/index.m3u8",
+    "group": "Shop",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-580121270905963435",
+    "quality": "SD"
+  },
+  {
+    "name": "KiKA (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/vZdNp5S.png",
+    "url": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1850015066951303210",
+    "quality": "FHD"
+  },
+  {
+    "name": "KiKA HD",
+    "logo": "https://i.imgur.com/vZdNp5S.png",
+    "url": "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1661926007594325421",
+    "quality": "HD"
+  },
+  {
+    "name": "KulturMD (1080p)",
+    "logo": "https://i.imgur.com/io7cJ1Z.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+    "group": "Culture",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1444186119569104932",
+    "quality": "FHD"
+  },
+  {
+    "name": "labor14 (720p)",
+    "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
+    "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3583612156482213750",
+    "quality": "HD"
+  },
+  {
+    "name": "Lausitzwelle (1080p)",
+    "logo": "https://i.imgur.com/4kYF4bK.png",
+    "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2127517855334238259",
+    "quality": "FHD"
+  },
+  {
+    "name": "Le Meilleur de la TV Realite (1080p)",
+    "logo": "",
+    "url": "https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9161586202920007390",
+    "quality": "FHD"
+  },
+  {
+    "name": "Leaderboard Sports News (1080p)",
+    "logo": "",
+    "url": "https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7418194478240388968",
+    "quality": "FHD"
+  },
+  {
+    "name": "Leipzig Fernsehen (1080p)",
+    "logo": "https://i.imgur.com/easmJUw.png",
+    "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2770635008080682132",
+    "quality": "FHD"
+  },
+  {
+    "name": "Les Secrets de Nos Régions",
+    "logo": "https://i.imgur.com/M1OjaB0.png",
+    "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-837763022041658849"
+  },
+  {
+    "name": "Life Downunder (720p)",
+    "logo": "https://i.imgur.com/zcH3WU1.png",
+    "url": "https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8756026599971336258",
+    "quality": "HD"
+  },
+  {
+    "name": "Life Downunder (720p)",
+    "logo": "https://i.imgur.com/zcH3WU1.png",
+    "url": "https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2586717984268357737",
+    "quality": "HD"
+  },
+  {
+    "name": "Light Channel (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0OmBlfE.png",
+    "url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
+    "group": "Religious",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1208716092933531490",
+    "quality": "SD"
+  },
+  {
+    "name": "MacGyver",
+    "logo": "https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7735533297376290189"
+  },
+  {
+    "name": "Magenta Musik 360 (1080p)",
+    "logo": "https://i.imgur.com/R74gG7U.png",
+    "url": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4276312901113622990",
+    "quality": "FHD"
+  },
+  {
+    "name": "Matlock",
+    "logo": "https://i.imgur.com/BGFUQsu.png",
+    "url": "https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7680120949892244660"
+  },
+  {
+    "name": "MC TV (720p)",
+    "logo": "https://i.imgur.com/7YE0UXK.png",
+    "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4091103154971423522",
+    "quality": "HD"
+  },
+  {
+    "name": "MDF.1 (1080p)",
+    "logo": "https://i.imgur.com/IFGXK6u.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5319769881974566262",
+    "quality": "FHD"
+  },
+  {
+    "name": "MDR Fernsehen Sachsen (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mdr-sachsen-anhalt-de.png",
+    "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4685114600755431175",
+    "quality": "FHD"
+  },
+  {
+    "name": "MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mdr-sachsen-anhalt-de.png",
+    "url": "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3643522170782227431",
+    "quality": "FHD"
+  },
+  {
+    "name": "MDR Fernsehen Thuringen",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/mdr-thuringen-de.png",
+    "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5001312340452350616"
+  },
+  {
+    "name": "Mission Impossible",
+    "logo": "https://i.imgur.com/QS5lg0t.png",
+    "url": "https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5719979443565589901"
+  },
+  {
+    "name": "Modern Marvels (1080p)",
+    "logo": "https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/colorLogoPNG.png",
+    "url": "https://277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3131692036496965957",
+    "quality": "FHD"
+  },
+  {
+    "name": "Modern Marvels Presented by HISTORY",
+    "logo": "https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png",
+    "url": "https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6839641410973169397"
+  },
+  {
+    "name": "More Than Sports TV (1080p)",
+    "logo": "https://i.imgur.com/SLrjImc.png",
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1247243170656761368",
+    "quality": "FHD"
+  },
+  {
+    "name": "Motorvision TV (720p)",
+    "logo": "https://i.imgur.com/v4kj8pI.png",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+    "group": "International",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6250315654860766610",
+    "quality": "HD"
+  },
+  {
+    "name": "Moviepilot TV mit Pluto TV",
+    "logo": "https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=78e36af2-8f00-409e-9fb6-605436ac888c",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6810458293306634201"
+  },
+  {
+    "name": "Moviepilot TV mit Pluto TV",
+    "logo": "https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc0-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb6fcc3a-0bb5-4c28-b7db-ebad8628b895",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-546301189159049396"
+  },
+  {
+    "name": "Moviepilot TV mit Pluto TV",
+    "logo": "https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3741846032042931548"
+  },
+  {
+    "name": "MTV Catfish TV Show",
+    "logo": "https://i.imgur.com/tpLRnP2.png",
+    "url": "https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2016723251225551451"
+  },
+  {
+    "name": "MTV Classics+",
+    "logo": "https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8381477542705516212"
+  },
+  {
+    "name": "MTV Dating",
+    "logo": "https://i.imgur.com/dD7WbQC.png",
+    "url": "https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1787947361617348504"
+  },
+  {
+    "name": "MTV Pluto TV",
+    "logo": "https://i.imgur.com/WsQRCmZ.png",
+    "url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6116756960320298224"
+  },
+  {
+    "name": "MTV Reality",
+    "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4353638258202665337"
+  },
+  {
+    "name": "MTV Teen Mom",
+    "logo": "https://i.imgur.com/6EzdThG.png",
+    "url": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1982038035460867357"
+  },
+  {
+    "name": "MTV The Shores",
+    "logo": "https://i.imgur.com/I2QM1Gd.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6928417637322538561"
+  },
+  {
+    "name": "MTV The Shores",
+    "logo": "https://images.pluto.tv/channels/5caf32c2a5068259a32320fc/colorLogoPNG-1637850773210.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde3-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ebf4a00-03a2-4884-b769-2f03ec98826a",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5300158784384160507"
+  },
+  {
+    "name": "MTV The Shores",
+    "logo": "https://i.imgur.com/I2QM1Gd.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3454505693785109825"
+  },
+  {
+    "name": "MTV TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "url": "https://ma.anixa.tv/clips/stream/mtv/playlist.php",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6748524367361412985"
+  },
+  {
+    "name": "München TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lt7xNWW.png",
+    "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7621848823875307876",
+    "quality": "FHD"
+  },
+  {
+    "name": "Murder She Wrote",
+    "logo": "https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png",
+    "url": "https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7054682254441985257"
+  },
+  {
+    "name": "MyTime Movie Network Germany (1080p)",
+    "logo": "https://i.imgur.com/aiGQtzI.png",
+    "url": "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5123844695196104566",
+    "quality": "FHD"
+  },
+  {
+    "name": "N24 Doku",
+    "logo": "https://i.imgur.com/qgoXJu4.png",
+    "url": "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "643879066221844662"
+  },
+  {
+    "name": "Nachrichten 360 (1080p) [Geo-blocked]",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8",
+    "group": "News",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1961387277785463458",
+    "quality": "FHD"
+  },
+  {
+    "name": "Naruto Germany (1080p)",
+    "logo": "https://i.imgur.com/M8X3Kvc.png",
+    "url": "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1024497492198987474",
+    "quality": "FHD"
+  },
+  {
+    "name": "NDR Fernsehen International (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+    "url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4314877682266692075",
+    "quality": "HD"
+  },
+  {
+    "name": "NDR Mecklenburg-Vorpommern (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ndr-mecklenburg-vorpommern-de.png",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-460018655547259824",
+    "quality": "HD"
+  },
+  {
+    "name": "NDR Niedersachsen (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7026200360789086418",
+    "quality": "HD"
+  },
+  {
+    "name": "NDR Schleswig-Holstein (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/ndr-schleswig-holstein-de.png",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5905483693876470296",
+    "quality": "HD"
+  },
+  {
+    "name": "Nick Germany (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6230134155493463393",
+    "quality": "FHD"
+  },
+  {
+    "name": "Niederbayern TV (720p)",
+    "logo": "https://i.imgur.com/9uaMgTk.png",
+    "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2807929887719822531",
+    "quality": "HD"
+  },
+  {
+    "name": "Niederbayern TV Deggendorf & Straubing (1080p)",
+    "logo": "https://i.imgur.com/mAaIh3C.png",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4773689143325436053",
+    "quality": "FHD"
+  },
+  {
+    "name": "Niederbayern TV Landshut (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5sHzZAh.png",
+    "url": "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1887872122047267313",
+    "quality": "FHD"
+  },
+  {
+    "name": "Niederbayern TV Passau (1080p)",
+    "logo": "https://i.imgur.com/0wnFhNi.png",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2639442036499947455",
+    "quality": "FHD"
+  },
+  {
+    "name": "Nitro TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+    "url": "https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-739871221754233661"
+  },
+  {
+    "name": "Noa 4 Hamburg (1080p)",
+    "logo": "https://i.imgur.com/7A2LRKI.png",
+    "url": "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7396375783476732679",
+    "quality": "FHD"
+  },
+  {
+    "name": "Noa 4 Norderstedt (1080p)",
+    "logo": "https://i.imgur.com/941nrGb.png",
+    "url": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1290719736145873",
+    "quality": "FHD"
+  },
+  {
+    "name": "NRWision (1080p)",
+    "logo": "https://i.imgur.com/RkF2Kmx.png",
+    "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
+    "group": "Education",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7976773881753987559",
+    "quality": "FHD"
+  },
+  {
+    "name": "Oberpfalz TV (1080p)",
+    "logo": "https://i.imgur.com/ISI5KDd.png",
+    "url": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1980094197199552526",
+    "quality": "FHD"
+  },
+  {
+    "name": "OF-TV Offenbach (720p)",
+    "logo": "https://i.imgur.com/WAcxCJr.png",
+    "url": "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6249575105557671218",
+    "quality": "HD"
+  },
+  {
+    "name": "OK Dessau (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/nx4Wc8l.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3379593040944930187",
+    "quality": "FHD"
+  },
+  {
+    "name": "OK Flensburg (576p)",
+    "logo": "https://i.imgur.com/NPbfgQC.png",
+    "url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5807823713457033582",
+    "quality": "SD"
+  },
+  {
+    "name": "OK Kaiserslautern (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/MRrETTh.png",
+    "url": "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8093730293972514148",
+    "quality": "HD"
+  },
+  {
+    "name": "OK Kassel (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/igZ9sx2.png",
+    "url": "https://s.ok54.de/mok-ks/kassel/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1488315615724570955",
+    "quality": "HD"
+  },
+  {
+    "name": "OK Kiel (576p)",
+    "logo": "https://i.imgur.com/eToHabX.png",
+    "url": "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6628217916523219493",
+    "quality": "SD"
+  },
+  {
+    "name": "OK Magdeburg (1080p)",
+    "logo": "https://i.imgur.com/zftoymR.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "346188324987880206",
+    "quality": "FHD"
+  },
+  {
+    "name": "OK Merseburg-Querfurt (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QfzdESc.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5106480708590759500",
+    "quality": "FHD"
+  },
+  {
+    "name": "OK Rhein-Main (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/XsmPI4N.jpg",
+    "url": "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9098794806779836076",
+    "quality": "SD"
+  },
+  {
+    "name": "OK Salzwedel (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jDmiTOS.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1599979488889732046",
+    "quality": "FHD"
+  },
+  {
+    "name": "OK Stendal (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/s9wo85l.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-535464208924149373",
+    "quality": "FHD"
+  },
+  {
+    "name": "OK Trier (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/nq32HIs.png",
+    "url": "https://s.ok54.de/ott/webstream/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8333384994209637183",
+    "quality": "HD"
+  },
+  {
+    "name": "OK Wernigerode (1080p)",
+    "logo": "https://i.imgur.com/3gQvhSy.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2972085967781236087",
+    "quality": "FHD"
+  },
+  {
+    "name": "OK4 (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/cUlMOlt.png",
+    "url": "https://s.ok54.de/abr_ok4/live/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6672186739241211756",
+    "quality": "HD"
+  },
+  {
+    "name": "OK54 (720p) [Geo-blocked]",
+    "logo": "https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png",
+    "url": "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6346248438895244598",
+    "quality": "HD"
+  },
+  {
+    "name": "One Adria (1080p)",
+    "logo": "https://i.imgur.com/NYkMamU.png",
+    "url": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5004418576610777754",
+    "quality": "FHD"
+  },
+  {
+    "name": "Parlamentsfernsehen 1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/mksEgwx.png",
+    "url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
+    "group": "Legislative",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6309088012103132695",
+    "quality": "FHD"
+  },
+  {
+    "name": "Perry Mason",
+    "logo": "https://i.imgur.com/rHUUAwW.png",
+    "url": "https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5799558141814432449"
+  },
+  {
+    "name": "Phoenix (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/T1532t9.png",
+    "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-466648580535665258",
+    "quality": "HD"
+  },
+  {
+    "name": "Pimp My Ride Italy (720p)",
+    "logo": "https://images.pluto.tv/channels/636a4eaf77279a0007f14861/colorLogoPNG.png",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7340828386417760523",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Action",
+    "logo": "https://i.imgur.com/tDapGal.png",
+    "url": "https://jmp2.uk/plu-65004605110545000842035d.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3993373004648302960"
+  },
+  {
+    "name": "Pluto TV Animals (England) (720p)",
+    "logo": "https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5175753643690269956",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Animaux",
+    "logo": "https://i.imgur.com/jxYlLsd.png",
+    "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9222666431361820112"
+  },
+  {
+    "name": "Pluto TV Anime",
+    "logo": "https://i.imgur.com/bvbn8pa.png",
+    "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8640344966094135501"
+  },
+  {
+    "name": "Pluto TV Aventure",
+    "logo": "https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8984007832698529398"
+  },
+  {
+    "name": "Pluto TV Ciné",
+    "logo": "https://i.imgur.com/wvPcO63.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a64-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aaa3f7a8-585d-4916-bff9-f90769b38333",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6942742416934831081"
+  },
+  {
+    "name": "Pluto TV Cine Accion",
+    "logo": "https://i.imgur.com/PXhCzXn.png",
+    "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8420172664904647035"
+  },
+  {
+    "name": "Pluto TV Cine Clásico (720p)",
+    "logo": "https://i.imgur.com/hCA5BRr.png",
+    "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7739217905418468693",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Cine Drama (720p)",
+    "logo": "https://i.imgur.com/AQBtheU.png",
+    "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "215032346203335302",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Cine Estelar",
+    "logo": "https://i.imgur.com/v3BO4nW.png",
+    "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5205224548948708625"
+  },
+  {
+    "name": "Pluto TV Ciné+",
+    "logo": "https://i.imgur.com/wvPcO63.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f91-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08ff6b98-d06f-4b08-acd6-c97e0886ea1f",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3242054747324984581"
+  },
+  {
+    "name": "Pluto TV Cinema Italiano",
+    "logo": "https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "f21749f4-689d-5840-a8a9-f0fa6e6caa4b"
+  },
+  {
+    "name": "Pluto TV Classic TV (720p)",
+    "logo": "https://i.imgur.com/hGdXRMd.png",
+    "url": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
+    "group": "Classic",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3614503815457557000",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Cocina (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/LRtfQla.png",
+    "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8",
+    "group": "Cooking",
+    "country": "DE",
+    "is_premium": false,
+    "id": "381803129909105905",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Comédie",
+    "logo": "https://i.imgur.com/1e4IFrS.png",
+    "url": "https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4053029586855723762"
+  },
+  {
+    "name": "Pluto TV Comedy Movies",
+    "logo": "https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6095774499304397138"
+  },
+  {
+    "name": "Pluto TV Crime (England) (720p) [Not 24/7]",
+    "logo": "https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "614902353452172069",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Crime Drama",
+    "logo": "https://i.imgur.com/9j1njE3.png",
+    "url": "https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6676706822077062385"
+  },
+  {
+    "name": "Pluto TV Cuisine",
+    "logo": "https://i.imgur.com/OuAi5ef.png",
+    "url": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8",
+    "group": "Cooking",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4059256114235883644"
+  },
+  {
+    "name": "Pluto TV Cult Films",
+    "logo": "https://i.imgur.com/xoaIAus.png",
+    "url": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7178558410935172325"
+  },
+  {
+    "name": "Pluto TV Drama",
+    "logo": "https://i.imgur.com/PvhbHTZ.png",
+    "url": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8442773207036653001"
+  },
+  {
+    "name": "Pluto TV Explore",
+    "logo": "https://i.imgur.com/Fhrcxje.png",
+    "url": "https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2553624354533512700"
+  },
+  {
+    "name": "Pluto TV Film",
+    "logo": "https://images.pluto.tv/channels/65158fe20371a8000868809a/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "90cac0b2-6e93-5b0a-aa72-1f5ab2bd6102"
+  },
+  {
+    "name": "Pluto TV Film Azione",
+    "logo": "https://images.pluto.tv/channels/651593a42c585100085b9d09/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "88585097-8be6-5ea8-8cc1-c41a67ea476f"
+  },
+  {
+    "name": "Pluto TV Film Commedia",
+    "logo": "https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "a7528a80-8290-5536-8814-8e4f91329b5a"
+  },
+  {
+    "name": "Pluto TV Film Romantici",
+    "logo": "https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "c671377e-c110-5037-be91-38b5c8470945"
+  },
+  {
+    "name": "Pluto TV Film Thriller",
+    "logo": "https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "e8b8b0d0-2805-5c49-afc8-2fd6e8a97a6e"
+  },
+  {
+    "name": "Pluto TV Food (England) (720p)",
+    "logo": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png",
+    "url": "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8",
+    "group": "Cooking",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7647875380791355870",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV French Collection",
+    "logo": "https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5403114898107481401"
+  },
+  {
+    "name": "Pluto TV heiße Nächte",
+    "logo": "https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8695-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2a24ebf3-f97e-463b-8588-59963d9183fe",
+    "group": "Xxx",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2720374953216002508"
+  },
+  {
+    "name": "Pluto TV heiße Nächte",
+    "logo": "https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc855316-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=002e46e5-58f3-4305-8faa-7260768ded4e",
+    "group": "Xxx",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5655827978910593985"
+  },
+  {
+    "name": "Pluto TV heiße Nächte",
+    "logo": "https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea080-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f9d11a2-637a-40fd-aae8-8ad9bf48a0e2",
+    "group": "Xxx",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1236713421825082765"
+  },
+  {
+    "name": "Pluto TV Histoire",
+    "logo": "https://i.imgur.com/JE5xcCV.png",
+    "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7145133124926184645"
+  },
+  {
+    "name": "Pluto TV Historia (720p)",
+    "logo": "https://i.imgur.com/sgAfqzK.png",
+    "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3426382347554611460",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV History",
+    "logo": "https://i.imgur.com/XkQD5kM.png",
+    "url": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-529095664244444821"
+  },
+  {
+    "name": "Pluto TV Horror",
+    "logo": "https://i.imgur.com/k6qttca.png",
+    "url": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3590767759877399225"
+  },
+  {
+    "name": "Pluto TV Inside",
+    "logo": "https://i.imgur.com/Tb4GNml.png",
+    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5652422957825198595"
+  },
+  {
+    "name": "Pluto TV Investigation",
+    "logo": "https://i.imgur.com/8LdACfR.png",
+    "url": "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3563659541863554316"
+  },
+  {
+    "name": "Pluto TV Junior",
+    "logo": "https://i.imgur.com/7sApMZS.png",
+    "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6743899833699211906"
+  },
+  {
+    "name": "Pluto TV Kids (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yVSLWy5.png",
+    "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-13356466436070787",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Kids Classics",
+    "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+    "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4778446166169548749"
+  },
+  {
+    "name": "Pluto TV Kultfilme",
+    "logo": "https://i.imgur.com/RJhxl8t.png",
+    "url": "https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1547631719752852831"
+  },
+  {
+    "name": "Pluto TV Movies (England) (684p)",
+    "logo": "https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2725315502218693982"
+  },
+  {
+    "name": "Pluto TV Mystery",
+    "logo": "https://i.imgur.com/oXpLEXI.png",
+    "url": "https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6427778420244209827"
+  },
+  {
+    "name": "Pluto TV Natura",
+    "logo": "https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png",
+    "url": "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2c396bcc-e590-57f2-9a8e-8280a92e1856"
+  },
+  {
+    "name": "Pluto TV Nature",
+    "logo": "https://i.imgur.com/PtWUmss.png",
+    "url": "https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5158445672607239436"
+  },
+  {
+    "name": "Pluto TV Paranormal (England) (720p)",
+    "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5742145712010583839",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Polar+",
+    "logo": "https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4031947485323458963"
+  },
+  {
+    "name": "Pluto TV Polizeiserien",
+    "logo": "https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png",
+    "url": "https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-238489423335785957"
+  },
+  {
+    "name": "Pluto TV Real Life",
+    "logo": "https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png",
+    "url": "https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8",
+    "group": "Lifestyle",
+    "country": "DE",
+    "is_premium": false,
+    "id": "c903c860-fb9b-50fe-bde0-2bf24d356424"
+  },
+  {
+    "name": "Pluto TV Reality",
+    "logo": "https://i.imgur.com/OvN7FCv.png",
+    "url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1886136630099163085"
+  },
+  {
+    "name": "Pluto TV Retro Toons",
+    "logo": "https://i.imgur.com/YUQL0ki.png",
+    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1308824397760114944"
+  },
+  {
+    "name": "Pluto TV Romance (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/GJBxfyf.png",
+    "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6752540946116753701",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Sci-Fi",
+    "logo": "https://i.imgur.com/vSzd5m7.png",
+    "url": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3584327979413686353"
+  },
+  {
+    "name": "Pluto TV Science",
+    "logo": "https://i.imgur.com/uhunRoU.png",
+    "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
+    "group": "Science",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7509716284137376969"
+  },
+  {
+    "name": "Pluto TV Serie+",
+    "logo": "https://i.imgur.com/bqedNmK.png",
+    "url": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5707308241944986505"
+  },
+  {
+    "name": "Pluto TV Series",
+    "logo": "https://i.imgur.com/7ouD3E6.png",
+    "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2880370806223451298"
+  },
+  {
+    "name": "Pluto TV Séries Fantastiques",
+    "logo": "https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png",
+    "url": "https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5903461644388268138"
+  },
+  {
+    "name": "Pluto TV Sherlock (720p)",
+    "logo": "https://i.imgur.com/SL3FNcm.png",
+    "url": "https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8",
+    "group": "Classic",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5059347122131104919",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Sitcoms+",
+    "logo": "https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4970501658011812333"
+  },
+  {
+    "name": "Pluto TV Space",
+    "logo": "https://i.imgur.com/hQwS3ui.png",
+    "url": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2931091296434035222"
+  },
+  {
+    "name": "Pluto TV Sport",
+    "logo": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
+    "url": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "f64f46f3-9e86-5958-b346-916348c3e12d"
+  },
+  {
+    "name": "Pluto TV Star Trek",
+    "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7606983174392433073"
+  },
+  {
+    "name": "Pluto TV Super Kids",
+    "logo": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
+    "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8842477758623688696"
+  },
+  {
+    "name": "Pluto TV Telenovelas (720p)",
+    "logo": "https://i.imgur.com/GrtNJki.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8979541745297830043",
+    "quality": "HD"
+  },
+  {
+    "name": "Pluto TV Thrillers",
+    "logo": "https://i.imgur.com/ULKvDN7.png",
+    "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1388209627178969943"
+  },
+  {
+    "name": "Pluto TV True Crime",
+    "logo": "https://i.imgur.com/lNfaxiv.png",
+    "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1121103985489865403"
+  },
+  {
+    "name": "Pluto TV Western",
+    "logo": "https://i.imgur.com/biepi4A.png",
+    "url": "https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8535109025317812678"
+  },
+  {
+    "name": "Pluto TV Westerns",
+    "logo": "https://i.imgur.com/biepi4A.png",
+    "url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1494495382784680146"
+  },
+  {
+    "name": "ProSieben (1080p)",
+    "logo": "https://i.imgur.com/zZOk3nh.png",
+    "url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2628677083040495174",
+    "quality": "FHD"
+  },
+  {
+    "name": "PUNKTum Fernsehen (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3yamOmw.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7752708017356934604",
+    "quality": "FHD"
+  },
+  {
+    "name": "Qui Veut Gagner Des Millions La Chaîne",
+    "logo": "https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/colorLogoPNG.png",
+    "url": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8206316183056688504"
+  },
+  {
+    "name": "Quietude 4k (720p) [Geo-blocked]",
+    "logo": "",
+    "url": "https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2130469551040349884",
+    "quality": "4K"
+  },
+  {
+    "name": "QVC 2 Germany (540p)",
+    "logo": "https://i.imgur.com/f94kPed.png",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3809225966080408661"
+  },
+  {
+    "name": "QVC Germany (720p)",
+    "logo": "https://i.imgur.com/EybRtsI.png",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6026323815196215985",
+    "quality": "HD"
+  },
+  {
+    "name": "QVC Style Germany (540p)",
+    "logo": "https://i.imgur.com/DwdkHGj.png",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8418212435707896209"
+  },
+  {
+    "name": "Radio 21 TV (720p)",
+    "logo": "https://i.imgur.com/u8OhwI1.png",
+    "url": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2649847626077519948",
+    "quality": "HD"
+  },
+  {
+    "name": "Radio Bremen Fernsehen (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/wsTOcuX.png",
+    "url": "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3762940826970482567",
+    "quality": "FHD"
+  },
+  {
+    "name": "Radio Weser TV Bremen (576p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HB_2016-0607_photo27_TV_Tower.jpg/500px-HB_2016-0607_photo27_TV_Tower.jpg",
+    "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2738574970459279509",
+    "quality": "SD"
+  },
+  {
+    "name": "Rakuten TV Crime Series Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1005032538852642514",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV German Cinema (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2775856715478946406",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Romance Movies Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7603803502062783043",
+    "quality": "FHD"
+  },
+  {
+    "name": "Rakuten TV Thrillers Germany (1080p)",
+    "logo": "https://i.imgur.com/Meew6eX.png",
+    "url": "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "9164290828943305852",
+    "quality": "FHD"
+  },
+  {
+    "name": "RAN1 (1080p)",
+    "logo": "https://i.imgur.com/zRg2BEa.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6528380542802819458",
+    "quality": "FHD"
+  },
+  {
+    "name": "RBB Berlin (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rbb-berlin-de.png",
+    "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2900470107225752047",
+    "quality": "FHD"
+  },
+  {
+    "name": "RBB Brandenburg (1080p) [Geo-blocked]",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rbb-brandenburg-de.png",
+    "url": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4385424445333957738",
+    "quality": "FHD"
+  },
+  {
+    "name": "rbb Fernsehen",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rbb-fernsehen-de.png",
+    "url": "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-309128876045229158"
+  },
+  {
+    "name": "RBW (1080p)",
+    "logo": "https://i.imgur.com/A0UKdix.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4125443232063112165",
+    "quality": "FHD"
+  },
+  {
+    "name": "Regio TV Bodensee (1080p)",
+    "logo": "https://i.imgur.com/3koyLef.png",
+    "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-183849344148146632",
+    "quality": "FHD"
+  },
+  {
+    "name": "Regio TV Stuttgart (1080p)",
+    "logo": "https://i.imgur.com/3koyLef.png",
+    "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-224950130415649526",
+    "quality": "FHD"
+  },
+  {
+    "name": "Renegade Italy (720p)",
+    "logo": "https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8207088581230456112",
+    "quality": "HD"
+  },
+  {
+    "name": "RFH (1080p)",
+    "logo": "https://i.imgur.com/8DZa7in.png",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8973171029191965075",
+    "quality": "FHD"
+  },
+  {
+    "name": "RFO (1080p)",
+    "logo": "https://i.imgur.com/902BHGL.png",
+    "url": "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2780960104778013781",
+    "quality": "FHD"
+  },
+  {
+    "name": "RiC (1080p)",
+    "logo": "https://i.imgur.com/4wMZ8Em.png",
+    "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6387039275890750481",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ridiculousness",
+    "logo": "https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png",
+    "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3189012168438470913"
+  },
+  {
+    "name": "Rockland TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/6ve1FTN.png",
+    "url": "https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "871561724618739004",
+    "quality": "SD"
+  },
+  {
+    "name": "Royalworld Germany (720p)",
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg",
+    "url": "https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7645838520949222654",
+    "quality": "HD"
+  },
+  {
+    "name": "RT DE (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/v1PIbB2.png",
+    "url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+    "group": "News",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5761446922219368955",
+    "quality": "FHD"
+  },
+  {
+    "name": "Saarland Fernsehen 1 (1080p)",
+    "logo": "https://i.imgur.com/OodehFV.png",
+    "url": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6638665047055878686",
+    "quality": "FHD"
+  },
+  {
+    "name": "Saarland Fernsehen 2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Yv7j4ia.png",
+    "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1840005974573224108",
+    "quality": "HD"
+  },
+  {
+    "name": "Sabrina Total verhext!",
+    "logo": "https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8567773300895412814"
+  },
+  {
+    "name": "Sachsen Eins (1080p)",
+    "logo": "https://i.imgur.com/2EXNdd8.png",
+    "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6264020242604111265",
+    "quality": "FHD"
+  },
+  {
+    "name": "Salve TV (720p)",
+    "logo": "https://i.imgur.com/GhKjHMG.png",
+    "url": "https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5016348411847807356",
+    "quality": "HD"
+  },
+  {
+    "name": "Seenluft24 (1080p)",
+    "logo": "https://i.imgur.com/3TgBg9v.jpg",
+    "url": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9044869149476416492",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sender Neu Jerusalem (576p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/W%C3%BCrzburg_-_Geb%C3%A4ude_Universelles_Leben.JPG/500px-W%C3%BCrzburg_-_Geb%C3%A4ude_Universelles_Leben.JPG",
+    "url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8895218966443992855",
+    "quality": "SD"
+  },
+  {
+    "name": "sixx",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sixx-de.png",
+    "url": "https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4455293189600545213"
+  },
+  {
+    "name": "Sonus FM TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/h29rUcG.png",
+    "url": "https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-423335032977073184",
+    "quality": "FHD"
+  },
+  {
+    "name": "Sophia TV (720p)",
+    "logo": "https://i.imgur.com/1hNgHbB.png",
+    "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "DE",
+    "is_premium": false,
+    "id": "8250995570641487579",
+    "quality": "HD"
+  },
+  {
+    "name": "Sophia TV Español (720p)",
+    "logo": "https://i.imgur.com/T2JPCq2.png",
+    "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-635097037108171997",
+    "quality": "HD"
+  },
+  {
+    "name": "Sophia TV Français (720p)",
+    "logo": "https://i.imgur.com/T2JPCq2.png",
+    "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+    "group": "Religious",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5348223040441670093",
+    "quality": "HD"
+  },
+  {
+    "name": "South Park",
+    "logo": "https://i.imgur.com/qA3KsTh.png",
+    "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7917533439793020447"
+  },
+  {
+    "name": "South Park: Butters Collection",
+    "logo": "https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7103754356487149582"
+  },
+  {
+    "name": "South Park: Cartman Collection",
+    "logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3690816166510366391"
+  },
+  {
+    "name": "South Park: Kenny Collection",
+    "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-3363163316701912061"
+  },
+  {
+    "name": "South Park: Kyle Collection",
+    "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6206387392699632012"
+  },
+  {
+    "name": "South Park: Original Version",
+    "logo": "https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-646b150a15939400089e2702.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7063534765604000095"
+  },
+  {
+    "name": "South Park: Stan Collection",
+    "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6637203694385022012"
+  },
+  {
+    "name": "SPIEGEL TV",
+    "logo": "https://images.pluto.tv/channels/6576c20fb3801200084786c9/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
+    "group": "Education",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7727063480969180430"
+  },
+  {
+    "name": "SpongeBob Schwammkopf",
+    "logo": "https://i.imgur.com/NIsgNvI.png",
+    "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-7168470829103966744"
+  },
+  {
+    "name": "Sportdigital FUSSBALL HD (1080p)",
+    "logo": "https://i.imgur.com/NDbWxqF.png",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4838350988283000071",
+    "quality": "HD"
+  },
+  {
+    "name": "SR Fernsehen (720p)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sr-fernsehen-de.png",
+    "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1004405323393985944",
+    "quality": "HD"
+  },
+  {
+    "name": "SRF (1080p)",
+    "logo": "https://i.imgur.com/92XNBmr.png",
+    "url": "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4040219628817743379",
+    "quality": "FHD"
+  },
+  {
+    "name": "Star Trek Voyager",
+    "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
+    "group": "Movies",
+    "country": "DE",
+    "is_premium": false,
+    "id": "787743149358392390"
+  },
+  {
+    "name": "Super RTL HD (720p)",
+    "logo": "https://i.imgur.com/KbdK8t9.png",
+    "url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-734002616390151517",
+    "quality": "HD"
+  },
+  {
+    "name": "SWR 3 Visual Radio (720p)",
+    "logo": "https://i.imgur.com/PxSgxRO.jpg",
+    "url": "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "270167519490270134",
+    "quality": "HD"
+  },
+  {
+    "name": "SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png",
+    "url": "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7142462855630297261",
+    "quality": "HD"
+  },
+  {
+    "name": "Tagesschau 24 (720p)",
+    "logo": "https://i.imgur.com/LH0Gctv.png",
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1504673910922444357",
+    "quality": "HD"
+  },
+  {
+    "name": "Takeshi's Castle",
+    "logo": "https://i.imgur.com/KuK72kL.png",
+    "url": "https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8",
+    "group": "Comedy",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6151838570791623697"
+  },
+  {
+    "name": "Tastemade Home [Geo-blocked]",
+    "logo": "https://i.imgur.com/xP7Ehn8.png",
+    "url": "https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6285683413030329031"
+  },
+  {
+    "name": "Teen Mom",
+    "logo": "https://i.imgur.com/8o3ClCV.png",
+    "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4293833361881017253"
+  },
+  {
+    "name": "Tele5 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/36ZNsIL.png",
+    "url": "https://vs2132.vcdn.biz/43fb9423bec9f1138cac28c3536cf988_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818871/rsid/6db90951-c977-4cbf-a3ec-e561139805c6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid4914560279927859613-b4000000.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4818541680817261589",
+    "quality": "FHD"
+  },
+  {
+    "name": "teltOwkanal (1080p)",
+    "logo": "https://i.imgur.com/G0cImlU.png",
+    "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4330665452868671749",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tennis Channel Germany (720p)",
+    "logo": "https://i.imgur.com/tsljAnY.png",
+    "url": "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8749262626354905505",
+    "quality": "HD"
+  },
+  {
+    "name": "Terra Mater WILD (1080p)",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
+    "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+    "group": "Documentary",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6649264573205007932",
+    "quality": "FHD"
+  },
+  {
+    "name": "Terra Mater WILD English (1080p)",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
+    "url": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+    "group": "United Kingdom",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-410343462386762453",
+    "quality": "FHD"
+  },
+  {
+    "name": "Test My Ride",
+    "logo": "",
+    "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6391702257285348668"
+  },
+  {
+    "name": "The New Detectives",
+    "logo": "https://i.imgur.com/GLXg9ge.png",
+    "url": "https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8",
+    "group": "Series",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4192288628634796503"
+  },
+  {
+    "name": "Tide TV (1080p) [Not 24/7]",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",
+    "url": "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8262708311194320445",
+    "quality": "FHD"
+  },
+  {
+    "name": "Top Sci-Fi (1080p)",
+    "logo": "https://i.imgur.com/SfV2gJg.png",
+    "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3901451596451282859",
+    "quality": "FHD"
+  },
+  {
+    "name": "Top Serien (1080p)",
+    "logo": "https://i.imgur.com/SfV2gJg.png",
+    "url": "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1144463340578791646",
+    "quality": "FHD"
+  },
+  {
+    "name": "Tortues Ninja TV",
+    "logo": "https://i.imgur.com/d2ACbkV.png",
+    "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4525089405862712527"
+  },
+  {
+    "name": "Totally Turtles",
+    "logo": "https://i.imgur.com/1gIpagY.png",
+    "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
+    "group": "Kids",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1093753628238204702"
+  },
+  {
+    "name": "TV Ingolstadt (1080p)",
+    "logo": "https://i.imgur.com/Ymh11VV.png",
+    "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1598392009368999711",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Mainfranken (1080p) [Not 24/7]",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",
+    "url": "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7335495164827210552",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Oberfranken (TVO) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/tjD9fX2.png",
+    "url": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-9190749299679327886",
+    "quality": "FHD"
+  },
+  {
+    "name": "TV Rheintal (720p)",
+    "logo": "https://i.imgur.com/8PY1o81.jpg",
+    "url": "https://rtmp-vm.fidion.de/live/tvrt.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1015186851957946774",
+    "quality": "HD"
+  },
+  {
+    "name": "TV38 Südost-Niedersachen (1080p)",
+    "logo": "https://i.imgur.com/ob9JJPU.png",
+    "url": "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4198081953470966177",
+    "quality": "FHD"
+  },
+  {
+    "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+    "logo": "",
+    "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3177799562120810953",
+    "quality": "FHD"
+  },
+  {
+    "name": "Unserding (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/4j4MZTT.png",
+    "url": "https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2604007992836652171",
+    "quality": "HD"
+  },
+  {
+    "name": "Vevo Pop Germany (1080p)",
+    "logo": "https://i.imgur.com/dZHktKR.png",
+    "url": "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "1241383563155671182",
+    "quality": "FHD"
+  },
+  {
+    "name": "Volksmusik TV (1080p)",
+    "logo": "https://i.imgur.com/EsWuCJ3.png",
+    "url": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
+    "group": "Music",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1251805620955198854",
+    "quality": "FHD"
+  },
+  {
+    "name": "WDR 1 Live (720p)",
+    "logo": "https://i.imgur.com/RbqDMYx.png",
+    "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+    "group": "Entertainment",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1591447322151757555",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Aachen (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-541613871029864666",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Bielefeld (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4564852479834552899",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Bonn (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4598041280212504052",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Dortmund (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "6336177850854816658",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Duisburg (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "3320475208069499294",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Düsseldorf (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4052623493197246023",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Essen (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-2135855801889677985",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Münster (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "5345155508308395296",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Siegen (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "4378239964178325788",
+    "quality": "HD"
+  },
+  {
+    "name": "WDR Fernsehen Wuppertal (720p) [Geo-blocked]",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Wdr%20fernsehen%20logo%202016.svg",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "2137809107608140649",
+    "quality": "HD"
+  },
+  {
+    "name": "Welt der Wunder TV (576p)",
+    "logo": "https://i.imgur.com/DLXssJe.png",
+    "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8522893630133295619",
+    "quality": "SD"
+  },
+  {
+    "name": "Wicked Tuna Germany (1080p)",
+    "logo": "https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png",
+    "url": "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8182831490768311531",
+    "quality": "FHD"
+  },
+  {
+    "name": "Willkommen bei den Louds",
+    "logo": "https://images.pluto.tv/channels/627d2d1d05e09f00073ccdff/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a971-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d459f8f8-c3a5-40cd-ad1a-eab32db42e72",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6498135221815180550"
+  },
+  {
+    "name": "Willkommen bei den Louds",
+    "logo": "https://images.pluto.tv/channels/627d2d1d05e09f00073ccdff/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86d9b1-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29acfa3a-17c6-4905-ada4-3c4e7ea69250",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5320710860975278015"
+  },
+  {
+    "name": "Willkommen bei den Louds",
+    "logo": "https://images.pluto.tv/channels/627d2d1d05e09f00073ccdff/colorLogoPNG.png",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd904-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e0111a68-96dd-4929-aea5-e18528a1add5",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-8484891625778877456"
+  },
+  {
+    "name": "World of Freesports",
+    "logo": "https://i.imgur.com/lta5Mog.png",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-6140952117393388534"
+  },
+  {
+    "name": "World of Freesports (1080p)",
+    "logo": "https://i.imgur.com/lta5Mog.png",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+    "group": "Sports",
+    "country": "DE",
+    "is_premium": false,
+    "id": "643912978385582003",
+    "quality": "FHD"
+  },
+  {
+    "name": "Yol TV (720p)",
+    "logo": "https://i.imgur.com/rTBX6lS.png",
+    "url": "https://live.yoltv.com/hls/stream.m3u8",
+    "group": "General",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-5011145247974889134",
+    "quality": "HD"
+  },
+  {
+    "name": "ZDF (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/rtLb6m9.png",
+    "url": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-4023453943447511537",
+    "quality": "HD"
+  },
+  {
+    "name": "ZDFinfo (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/vtq1IWp.png",
+    "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "7930912801966402271",
+    "quality": "HD"
+  },
+  {
+    "name": "ZDFneo (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/1JIIGgL.png",
+    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
+    "group": "Germany",
+    "country": "DE",
+    "is_premium": false,
+    "id": "-1291804050779174750",
+    "quality": "HD"
+  }
+]
