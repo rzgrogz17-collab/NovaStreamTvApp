@@ -11,7 +11,7 @@
   },
   {
     "name": "24 TV",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/24%20tv.jpg",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/TV24TR.jpg",
     "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
     "group": "News",
     "country": "TR",
@@ -20,7 +20,7 @@
   },
   {
     "name": "360 TV",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/360TV.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/360TVTR.png",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
     "group": "News",
     "country": "TR",
@@ -174,9 +174,9 @@
     "quality": "SD"
   },
   {
-    "name": "ATV (360p)",
+    "name": "ATV",
     "logo": "https://i.imgur.com/HyVUwFC.png",
-    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+    "url": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/ATVTR.jpg",
     "group": "General",
     "country": "TR",
     "is_premium": false,
@@ -184,7 +184,7 @@
     "quality": "SD"
   },
   {
-    "name": "ATV Alanya (720p) [Not 24/7]",
+    "name": "ATV Alanya",
     "logo": "https://i.imgur.com/bUwarR0.png",
     "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8",
     "group": "General",
@@ -194,17 +194,8 @@
     "quality": "HD"
   },
   {
-    "name": "Beijing Traffic Radio TV [Geo-blocked]",
-    "logo": "https://i.imgur.com/vsktAez.png",
-    "url": "http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8",
-    "group": "General",
-    "country": "TR",
-    "is_premium": false,
-    "id": "8481173488447231546"
-  },
-  {
-    "name": "Benguturk TV",
-    "logo": "https://i.imgur.com/p3ON1oX.png",
+    "name": "Bengütürk TV",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/BENG%C3%9CT%C3%9CRK.jpg",
     "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
     "group": "General",
     "country": "TR",
@@ -212,7 +203,7 @@
     "id": "-27145879038875850"
   },
   {
-    "name": "Berat TV (720p) [Not 24/7]",
+    "name": "Berat TV (720p)",
     "logo": "https://i.imgur.com/BxxH8wE.png",
     "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
     "group": "General",
@@ -223,8 +214,8 @@
   },
   {
     "name": "Beyaz TV",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/BEYAZTV.png",
-    "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/BEYAZTVTR.jpg",
+    "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_360p-1792090900000.ts",
     "group": "Haber",
     "country": "TR",
     "is_premium": false,
@@ -366,7 +357,7 @@
   {
     "name": "CNN Türk",
     "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/cnnt%C3%BCrk.png",
-    "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=a3GA4AdbyzUko98dY7MlRA&e=1788766312",
+    "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=FAnpcxrXoIgJPtZA5VJJWQ&e=1792099656",
     "group": "News",
     "country": "TR",
     "is_premium": false,
@@ -2160,8 +2151,8 @@
   },
   {
     "name": "TVNET",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/tvnet.png",
-    "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/TVNET.png",
+    "url": "https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/playlist.m3u8",
     "group": "Haber",
     "country": "TR",
     "is_premium": false,
