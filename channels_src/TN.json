@@ -1,12 +1,22 @@
 [
   {
-    "name": "Mosaique FM (1080p)",
-    "logo": "https://i.imgur.com/GDUykah.png",
-    "url": "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR",
-    "group": "Music",
+    "name": "El Vatania",
+    "logo": "https://m.media-amazon.com/images/I/61JB5Besa9L.png",
+    "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist_w47323467_DVR.m3u8",
+    "group": "TunisiaTV",
     "country": "TN",
     "is_premium": false,
     "id": "-1887921071819115269",
+    "quality": "FHD"
+  },
+  {
+    "name": "El Vatania 2",
+    "logo": "https://kapitalis.com/tunisie/wp-content/uploads/2015/06/watania-2.jpg",
+    "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist_w481090160_DVR.m3u8",
+    "group": "TunisiaTV",
+    "country": "TN",
+    "is_premium": false,
+    "id": "-1887921071819115270",
     "quality": "FHD"
   }
 ]
