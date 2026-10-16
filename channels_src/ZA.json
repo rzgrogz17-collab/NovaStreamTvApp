@@ -40,8 +40,8 @@
     "quality": "FHD"
   },
   {
-    "name": "BOKTV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/mcNjuuO.png",
+    "name": "BOKTV",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/BOKTV.jpg",
     "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
     "group": "Music",
     "country": "ZA",
@@ -50,9 +50,9 @@
     "quality": "HD"
   },
   {
-    "name": "Bongo TV (720p)",
-    "logo": "https://i.imgur.com/pNKZwox.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8",
+    "name": "Bongo TV",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/BONGOTV.png",
+    "url": "https://goliveafrica.media:9998/live/6258185b02c25/index.m3u8",
     "group": "South Africa",
     "country": "ZA",
     "is_premium": false,
@@ -100,10 +100,10 @@
     "quality": "HD"
   },
   {
-    "name": "e.tv News & Sport",
-    "logo": "https://i.imgur.com/lXMzsNM.png",
-    "url": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
-    "group": "News",
+    "name": "Hope Channel Africa",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/HOPECAFR%C4%B0CA.jpg",
+    "url": "https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_i1onRBELcGV/chFEW/360p/main.m3u8",
+    "group": "Talk,News",
     "country": "ZA",
     "is_premium": false,
     "id": "1bdcb072-6cdf-56dc-a849-b3f2d9964929"
