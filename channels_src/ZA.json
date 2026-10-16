@@ -1,6 +1,6 @@
 [
   {
-    "name": "1KZN TV (576p)",
+    "name": "1KZN TV",
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
     "group": "Entertainment",
@@ -10,9 +10,9 @@
     "quality": "SD"
   },
   {
-    "name": "Afriwood Blockbuster (720p)",
-    "logo": "https://i.imgur.com/aESdqiB.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8",
+    "name": "Family Feud Africa",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/FAMILYFEUDAF.jpg",
+    "url": "https://rr6---sn-u0g3jxaa-n5fd.googlevideo.com/videoplayback?expire=1792149264&ei=sLLRatXoE5vv6dsPj7HNyAc&ip=176.237.41.67&id=YFQuq-ABQpA.4&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1792127664%2C&mh=Yt&mm=44%2C29&mn=sn-u0g3jxaa-n5fd%2Csn-ajnv4c-5p&ms=lva%2Crdu&mv=m&mvi=6&pl=19&rms=lva%2Clva&initcwndbps=1542250&spc=mpRQ_wAndw_wunsvOSCEsyNhSt2WPZ8rW4y40FEFcjRieeUnNyumncL9_uotZeeDJ0xQefqs&live=1&hang=1&noclen=1&svpuc=1&ns=xZEXltTRzLxFdti8TK_RjK0Z&sabr=1&rqh=1&reg=0&mt=1792127085&fvip=5&epbp=1&keepalive=yes&fexp=51565115%2C52184231%2C52227522&c=WEB_EMBEDDED_PLAYER&n=qqm85Ef6_A2GUA&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh%2Creg&sig=AE0s2JYwRQIhANHCXMw5Fyu-Y-y8NPQop25EgAJW2G29oBY55bFdAUKeAiBRqN9vEhPcdYGm5974BO-jMiUWVDf2bn6vWSM44uWM6A%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgPV0VWQW-nQM7aEjMfluTWMv4PUk8KSA-lsgJq28EaVMCIDhBIcr7giPw3Kx9J_qlI6l11F7AVZF8UwrL9R4OquPh&cpn=eLtT8W59-S1ODOa5&cver=2.20261015.01.00&rn=240&alr=yes",
     "group": "Movies",
     "country": "ZA",
     "is_premium": false,
