@@ -1,7 +1,7 @@
 [
   {
-    "name": "12 канал (1080p)",
-    "logo": "https://i.imgur.com/OA9hm6e.png",
+    "name": "12 канал",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/12TVRU.png",
     "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
     "group": "Latvia",
     "country": "RU",
@@ -20,7 +20,7 @@
     "quality": "FHD"
   },
   {
-    "name": "2х2 [Geo-blocked]",
+    "name": "2х2",
     "logo": "https://i.imgur.com/fhQFLEl.png",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
     "group": "General",
@@ -38,8 +38,8 @@
     "id": "200000000047"
   },
   {
-    "name": "360° (1080p)",
-    "logo": "https://i.imgur.com/VTJqdoX.png",
+    "name": "360°",
+    "logo": "https://pic.rtbcdn.ru/user/2026-05-12/9a/c5/9ac56bc4d78e1e0686ab531c51ee07ed.jpg",
     "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
     "group": "General",
     "country": "RU",
@@ -76,7 +76,7 @@
   },
   {
     "name": "Ani",
-    "logo": "https://i.imgur.com/i2AP0hp.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/anirutv.jpg",
     "url": "http://stream.mcquack.net/306/index.m3u8",
     "group": "Kids",
     "country": "RU",
@@ -130,7 +130,7 @@
     "id": "6260072249794188595"
   },
   {
-    "name": "CuriosityStream (720p)",
+    "name": "CuriosityStream",
     "logo": "https://i.imgur.com/KUb4vEz.png",
     "url": "https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8",
     "group": "International",
@@ -149,7 +149,7 @@
     "id": "-5281797964607169612"
   },
   {
-    "name": "Drive TV (1080p)",
+    "name": "Drive TV",
     "logo": "https://i.imgur.com/FnuwfSC.png",
     "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8",
     "group": "Auto",
@@ -195,7 +195,7 @@
     "id": "-8290747284097026146"
   },
   {
-    "name": "Highway Thru Hell (1080p)",
+    "name": "Highway Thru Hell",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/HTH_WINTER_RECOVERY.jpg/330px-HTH_WINTER_RECOVERY.jpg",
     "url": "https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8",
     "group": "General",
@@ -205,7 +205,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Highway Thru Hell (1080p)",
+    "name": "Highway Thru Hell",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/HTH_WINTER_RECOVERY.jpg/330px-HTH_WINTER_RECOVERY.jpg",
     "url": "https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungnz/playlist.m3u8",
     "group": "General",
@@ -215,7 +215,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Highway Thru Hell (1080p)",
+    "name": "Highway Thru Hell",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/HTH_WINTER_RECOVERY.jpg/330px-HTH_WINTER_RECOVERY.jpg",
     "url": "https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8",
     "group": "General",
@@ -235,7 +235,7 @@
   },
   {
     "name": "KHL Prime",
-    "logo": "https://i.imgur.com/pwxT0ON.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/KHLRUTV.png",
     "url": "https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv",
     "group": "Sports",
     "country": "RU",
