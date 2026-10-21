@@ -11,22 +11,12 @@
   },
   {
     "name": "Show TV",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/showtv.jpg",
+    "logo": "https://i.imgur.com/1l7SCCu.png",
     "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
     "group": "General",
     "country": "TR",
     "is_premium": false,
     "id": "2234161436273202500"
-  },
-  {
-    "name": "Show TV",
-    "logo": "https://i.imgur.com/1l7SCCu.png",
-    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
-    "group": "General",
-    "country": "TR",
-    "is_premium": false,
-    "id": "3662269882821306168",
-    "quality": "FHD"
   },
   {
     "name": "ATV",
@@ -35,17 +25,8 @@
     "group": "General",
     "country": "TR",
     "is_premium": false,
-    "id": "7866551528149572470",
+    "id": "-3666657185997272306",
     "quality": "SD"
-  },
-  {
-    "name": "Star TV",
-    "logo": "https://images.seeklogo.com/logo-png/48/2/star-tv-logo-png_seeklogo-483978.png",
-    "url": "https://dogus.daioncdn.net/startv/startv_360p.m3u8?&sid=8cuv6nmvm65k&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
-    "group": "General",
-    "country": "TR",
-    "is_premium": false,
-    "id": "-3666657185997272306"
   },
   {
     "name": "Star TV",
@@ -59,7 +40,7 @@
   },
   {
     "name": "TV8",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/tv8.png",
     "url": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=8cvqjpa6k14n&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
     "group": "General",
     "country": "TR",
