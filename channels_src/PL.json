@@ -1,851 +1,1542 @@
 [
+
   {
-    "order": 1,
-    "name": "TVP1",
-    "logo": "https://i.imgur.com/ewpSjBs.png",
-    "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1069966346770214685",
-    "quality": "FHD"
-  },
-  {
-    "order": 2,
-    "name": "TVP2",
-    "logo": "https://i.imgur.com/XxCc32B.png",
-    "url": "https://cdndai.pl/tvp2hd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "9190417583225571336"
-  },
-  {
-    "order": 3,
-    "name": "Polsat",
-    "logo": "https://i.imgur.com/xff6zGN.png",
-    "url": "https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "2099078921347231541",
-    "quality": "FHD"
-  },
-  {
-    "order": 4,
-    "name": "TVP Info",
-    "logo": "https://i.imgur.com/qXrrNxv.png",
-    "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "3986140528588766210"
-  },
-  {
-    "order": 5,
-    "name": "Polsat News",
-    "logo": "https://i.imgur.com/sx1yPuc.png",
-    "url": "http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
-    "group": "News",
-    "country": "PL",
-    "is_premium": false,
-    "id": "502794143133538340",
-    "quality": "HD"
-  },
-  {
-    "order": 6,
-    "name": "TVP Polonia",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-polonia-pl.png",
-    "url": "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1967570007878314753"
-  },
-  {
-    "order": 7,
-    "name": "Euronews",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg",
-    "url": "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
-    "group": "News",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-1037115095556359323"
-  },
-  {
-    "order": 8,
-    "name": "Euronews",
-    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png",
-    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8",
-    "group": "International",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-6560143134982324131"
-  },
-  {
-    "order": 9,
-    "name": "Disney XD",
-    "logo": "https://i.postimg.cc/MKNssTyj/disneyxd.png",
-    "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
-    "group": "Kids",
-    "country": "PL",
-    "is_premium": false,
-    "id": "7947956598702259825",
-    "quality": "HD"
-  },
-  {
-    "order": 10,
-    "name": "Polsat Viasat History",
-    "logo": "https://i.imgur.com/X16UGUf.png",
-    "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
-    "group": "Documentary",
-    "country": "PL",
-    "is_premium": false,
-    "id": "5469989121881591529",
-    "quality": "FHD"
-  },
-  {
-    "order": 11,
-    "name": "Polsat News 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
-    "url": "https://turbotv.io/play/link/75409b46-e472-4a51-9077-abd80596670f/eyJpdiI6Ik9uRkVaekdYWDUxSU9GbTF2Mm9YR2c9PSIsInZhbHVlIjoiNy9Gc3NQWXNPSFZFeFcybVBOcWYyM1JyUDRIUVFCemhOeFVLUmJjQys0VWR6VFhnMHh0L3ZmQ1VIOCsrQUN4Y2tVdldRQ3RHV2NqL3psQmtPNlJtS0dqY1ZvV3hqNVp5WllvWFZ0U0dJdVE9IiwibWFjIjoiN2EwZTJhNDhiNTBlZjAwMDlhYzczYzE2NGNlODQ1YWQ0OWNmYWMwYjk0ZTUyN2E4ODE1OTg4MzYwNzA1ZDFhMCIsInRhZyI6IiJ9.m3u8",
-    "group": "News",
-    "country": "PL",
-    "is_premium": false,
-    "id": "5233706632101942628",
-    "quality": "FHD"
-  },
-  {
-    "order": 12,
-    "name": "Polsat News Polityka",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-polityka-pl.png",
-    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
-    "group": "News",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-2631074737031506027",
-    "quality": "FHD"
-  },
-  {
-    "order": 13,
-    "name": "Polsat Rodzina",
-    "logo": "https://i.imgur.com/IS0AW48.png",
-    "url": "https://turbotv.io/play/link/97155b27-7b0c-4af7-9b67-a9ae172d89bf/eyJpdiI6IkdDTWN5bG8zTlpiSTFPdDhXbERSRUE9PSIsInZhbHVlIjoiRHJqdWhFRWdnN2p0ZjRHOEloWjcwNUVldmw4b2l0VjJ0Z2g1ZXFueWtQMU9ldzN2aFVwL1laeVVGNDFaVW1lUGhoQ2praGNsWVdCb212NUd1Y1N6VXBLSzF6bDd5TDZ3WjRQL0MxSlBRcUE9IiwibWFjIjoiNmQwNTc3N2UwNWUzZjQzOGJjMmE0MmM0YjYxMWQ4ZWZiZDg3ODQzNjIyOTY1ZTI2Y2FkMzQwMWVkN2FlYTY1MSIsInRhZyI6IiJ9.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-5381393869528032507",
-    "quality": "FHD"
-  },
-  {
-    "order": 14,
-    "name": "TV Trwam",
-    "logo": "https://i.imgur.com/yq10wS5.png",
-    "url": "https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1179118677874138288",
-    "quality": "FHD"
-  },
-  {
-    "order": 15,
-    "name": "WP TV",
-    "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
-    "url": "https://vs2124.vcdn.biz/ea4b303612d09486a02d3fb60f337b0c_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/a4076920-50ed-4d3f-b9ef-e46f74e36d4b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid2813014404360271229-b4000000.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1542413530201852722",
-    "quality": "FHD"
-  },
-  {
-    "order": 16,
-    "name": "Zoom TV",
-    "logo": "https://i.imgur.com/UtZM4zm.png",
-    "url": "https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "4028354595946836803",
-    "quality": "FHD"
-  },
-  {
-    "order": 17,
-    "name": "4 Fun TV",
-    "logo": "https://i.imgur.com/rI1wo2l.png",
-    "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
-    "group": "Music",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-7721939856785354497"
-  },
-  {
-    "order": 18,
+
     "name": "4 Fun Dance",
+
     "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/d073e252069253.5c7da53adf2f1.jpg",
+
     "url": "https://stream.4fun.tv:8888/sd/4fun_sd_low.m3u8",
+
     "group": "Music",
+
     "country": "PL",
+
     "is_premium": false,
+
     "id": "763378108310039814"
+
   },
+
   {
-    "order": 19,
+
     "name": "4 Fun Kids",
+
     "logo": "https://i.imgur.com/2JO5Y8c.png",
+
     "url": "https://stream.4fun.tv:8889/hd/kids_hd_med.m3u8",
+
     "group": "Kids",
+
     "country": "PL",
+
     "is_premium": false,
+
     "id": "-158354857925745197"
+
   },
+
   {
-    "order": 20,
-    "name": "Stars TV",
-    "logo": "https://i.imgur.com/NdITPCk.png",
-    "url": "https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid1122592601448291971-b4000000.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "5704757573393700838",
-    "quality": "FHD"
-  },
-  {
-    "order": 21,
-    "name": "Music Box Polska",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
+
+    "name": "4 Fun TV",
+
+    "logo": "https://i.imgur.com/rI1wo2l.png",
+
+    "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+
     "group": "Music",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "-4956911929287005508",
-    "quality": "FHD"
+
+    "id": "-7721939856785354497"
+
   },
+
   {
-    "order": 22,
-    "name": "TVP World",
-    "logo": "https://i.imgur.com/lB4MgRI.png",
-    "url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
-    "group": "News",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-5922714024274699763",
-    "quality": "FHD"
-  },
-  {
-    "order": 23,
-    "name": "Viasat Explore Classic",
-    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg",
-    "url": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-7144945407560186668"
-  },
-  {
-    "order": 24,
-    "name": "Viasat True Crime",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/viasat-true-crime-pl.png",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMjgvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3MDczMDImc3Q9ZzIyOUNTdUZudUd6dm9UbkJNNzJ6dw%3D%3D&master=1091",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1041846483824419273"
-  },
-  {
-    "order": 25,
-    "name": "W Polsce PL",
-    "logo": "https://i.imgur.com/HQ8UyhL.png",
-    "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "2406682804465185678",
-    "quality": "HD"
-  },
-  {
-    "order": 26,
-    "name": "Radio Czwórka",
-    "logo": "https://i.imgur.com/VAtxF7k.png",
-    "url": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-7084641773988315875",
-    "quality": "FHD"
-  },
-  {
-    "order": 27,
-    "name": "EWTN Poland",
-    "logo": "https://i.imgur.com/VtKYELf.png",
-    "url": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8",
-    "group": "Religious",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-906821631196801368",
-    "quality": "FHD"
-  },
-  {
-    "order": 28,
-    "name": "Telewizja Biznesowa",
-    "logo": "https://i.imgur.com/XC7i7ZL.png",
-    "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
-    "group": "Business",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-8440927800881402182",
-    "quality": "FHD"
-  },
-  {
-    "order": 29,
-    "name": "Red Carpet TV International",
-    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg",
-    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "7196890031023283342"
-  },
-  {
-    "order": 30,
-    "name": "TV Okazje",
-    "logo": "https://i.imgur.com/DbALkkV.png",
-    "url": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "2858402857448580813",
-    "quality": "FHD"
-  },
-  {
-    "order": 31,
-    "name": "TVP 3 Warszawa",
-    "logo": "https://i.imgur.com/AfZOO8U.jpg",
-    "url": "https://cdndai.pl/tvp3warszawasd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "8634251122663400348",
-    "quality": "SD"
-  },
-  {
-    "order": 32,
-    "name": "TVP 3 Kraków",
-    "logo": "https://i.imgur.com/MbAKxD1.jpg",
-    "url": "https://cdndai.pl/tvp3krakowsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-2055135123691907333",
-    "quality": "SD"
-  },
-  {
-    "order": 33,
-    "name": "TVP 3 Katowice",
-    "logo": "https://i.imgur.com/burRKHa.jpg",
-    "url": "https://cdndai.pl/tvp3katowicesd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-1652776350186344430",
-    "quality": "SD"
-  },
-  {
-    "order": 34,
-    "name": "TVP 3 Wrocław",
-    "logo": "https://i.imgur.com/b0Xevsc.jpg",
-    "url": "https://cdndai.pl/tvp3wroclawsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "4729155993521919406",
-    "quality": "SD"
-  },
-  {
-    "order": 35,
-    "name": "TVP 3 Poznań",
-    "logo": "https://i.imgur.com/mTnjVGQ.jpg",
-    "url": "https://cdndai.pl/tvp3poznansd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "3264109310563422529",
-    "quality": "SD"
-  },
-  {
-    "order": 36,
-    "name": "TVP 3 Gdańsk",
-    "logo": "https://i.imgur.com/wGZCj7G.jpg",
-    "url": "https://cdndai.pl/tvp3gdansksd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-9092768921706141538",
-    "quality": "SD"
-  },
-  {
-    "order": 37,
-    "name": "TVP 3 Łódź",
-    "logo": "https://i.imgur.com/b0Xevsc.jpg",
-    "url": "https://cdndai.pl/tvp3lodzsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "2820978553886045450",
-    "quality": "SD"
-  },
-  {
-    "order": 38,
-    "name": "TVP 3 Szczecin",
-    "logo": "https://i.imgur.com/NRb6S8z.jpg",
-    "url": "https://cdndai.pl/tvp3szczecinsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-2649691432214142734",
-    "quality": "SD"
-  },
-  {
-    "order": 39,
-    "name": "TVP 3 Bydgoszcz",
-    "logo": "https://i.imgur.com/b0Xevsc.jpg",
-    "url": "https://cdndai.pl/tvp3bydgoszczsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "7751077860838695176",
-    "quality": "SD"
-  },
-  {
-    "order": 40,
-    "name": "TVP 3 Lublin",
-    "logo": "https://i.imgur.com/h7oq2yg.jpg",
-    "url": "https://cdndai.pl/tvp3lublinsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "6279566887087254828",
-    "quality": "SD"
-  },
-  {
-    "order": 41,
-    "name": "TVP 3 Białystok",
-    "logo": "https://i.imgur.com/b0Xevsc.jpg",
-    "url": "https://cdndai.pl/tvp3bialystoksd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-7853828066337081264",
-    "quality": "SD"
-  },
-  {
-    "order": 42,
-    "name": "TVP 3 Rzeszów",
-    "logo": "https://i.imgur.com/6jGX6Xy.jpg",
-    "url": "https://cdndai.pl/tvp3rzeszowsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-3768605660741421176",
-    "quality": "SD"
-  },
-  {
-    "order": 43,
-    "name": "TVP 3 Olsztyn",
-    "logo": "https://i.imgur.com/Aa0HedU.jpg",
-    "url": "https://cdndai.pl/tvp3olsztynsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "3381105637567625317",
-    "quality": "SD"
-  },
-  {
-    "order": 44,
-    "name": "TVP 3 Kielce",
-    "logo": "https://i.imgur.com/YcQxM94.jpg",
-    "url": "https://cdndai.pl/tvp3kielcesd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "7447174731152376336",
-    "quality": "SD"
-  },
-  {
-    "order": 45,
-    "name": "TVP 3 Opole",
-    "logo": "https://i.imgur.com/dYRtDRA.jpg",
-    "url": "https://cdndai.pl/tvp3opolesd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1197721514157651551",
-    "quality": "SD"
-  },
-  {
-    "order": 46,
-    "name": "TVP 3 Gorzów Wielkopolski",
-    "logo": "https://i.imgur.com/H3jtBQm.jpg",
-    "url": "https://cdndai.pl/tvp3gorzowsd/index.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-8467878076502634844",
-    "quality": "SD"
-  },
-  {
-    "order": 47,
-    "name": "Top Movies Polska",
-    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png",
-    "url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-2148182428741849666"
-  },
-  {
-    "order": 48,
-    "name": "TOP Barca",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
-    "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-8412374647119036844"
-  },
-  {
-    "order": 49,
-    "name": "TNA Wrestling",
-    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
-    "url": "https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "8023946773657616605"
-  },
-  {
-    "order": 50,
-    "name": "Buzzfeed Unsolved",
-    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "3468818808211600732"
-  },
-  {
-    "order": 51,
+
     "name": "American Crime Channel",
+
     "logo": "https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",
+
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104",
+
     "group": "Entertainment",
+
     "country": "PL",
+
     "is_premium": false,
+
     "id": "-1593462832137811632"
+
   },
+
   {
-    "order": 52,
-    "name": "Dr G Medical Examiner",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Dr_G_logo.jpg",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-3797555632318012817"
-  },
-  {
-    "order": 53,
-    "name": "Cartoon Classics",
-    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
-    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
-    "group": "Kids",
-    "country": "PL",
-    "is_premium": false,
-    "id": "8588614284235513795"
-  },
-  {
-    "order": 54,
-    "name": "Cartoon Classics",
-    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8",
-    "group": "Kids",
-    "country": "PL",
-    "is_premium": false,
-    "id": "4307716825056437323"
-  },
-  {
-    "order": 55,
-    "name": "Car City Adventures",
-    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "5785093602921774601"
-  },
-  {
-    "order": 56,
+
     "name": "Bigtime",
+
     "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg",
+
     "url": "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8",
+
     "group": "Poland",
+
     "country": "PL",
+
     "is_premium": false,
+
     "id": "3879730183630766211"
+
   },
+
   {
-    "order": 57,
-    "name": "Grjngo",
-    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg",
-    "url": "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8",
+
+    "name": "Buzzfeed Unsolved",
+
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png",
+
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099",
+
     "group": "Poland",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "4801731951047206004"
+
+    "id": "3468818808211600732"
+
   },
+
   {
-    "order": 58,
-    "name": "Moconomy",
-    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg",
-    "url": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8",
+
+    "name": "Car City Adventures",
+
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg",
+
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095",
+
     "group": "Poland",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "2204931638665740754"
+
+    "id": "5785093602921774601"
+
   },
+
   {
-    "order": 59,
-    "name": "Royalworld",
-    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg",
-    "url": "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8",
-    "group": "Poland",
+
+    "name": "Cartoon Classics",
+
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
+
+    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+
+    "group": "Kids",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "6968531220525631058"
+
+    "id": "8588614284235513795"
+
   },
+
   {
-    "order": 60,
-    "name": "Shades of Black",
-    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg",
-    "url": "https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8",
-    "group": "Poland",
+
+    "name": "Cartoon Classics",
+
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
+
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8",
+
+    "group": "Kids",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "3343386962726230924"
+
+    "id": "4307716825056437323"
+
   },
+
   {
-    "order": 61,
-    "name": "RACER International",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
-    "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
-    "group": "Sports",
+
+    "name": "Disney XD (720p)",
+
+    "logo": "https://i.postimg.cc/MKNssTyj/disneyxd.png",
+
+    "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
+
+    "group": "Kids",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "5951304931541525853"
+
+    "id": "7947956598702259825",
+
+    "quality": "HD"
+
   },
+
   {
-    "order": 62,
-    "name": "World Billiards TV",
-    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png",
-    "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1347343280892749878"
-  },
-  {
-    "order": 63,
-    "name": "Hard Knocks Fighting Championship",
-    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-1095300194645764442"
-  },
-  {
-    "order": 64,
-    "name": "INA 70s",
-    "logo": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
-    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8",
+
+    "name": "Dr G Medical Examiner",
+
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Dr_G_logo.jpg",
+
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008",
+
     "group": "General",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "227640467775113128"
+
+    "id": "-3797555632318012817"
+
   },
+
   {
-    "order": 65,
-    "name": "INA Ardivision",
-    "logo": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
-    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "7299386400523773624"
-  },
-  {
-    "order": 66,
-    "name": "Echo24",
+
+    "name": "Echo24 (720p)",
+
     "logo": "https://i.imgur.com/KPogWAG.png",
+
     "url": "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8",
+
     "group": "General",
+
     "country": "PL",
+
     "is_premium": false,
+
     "id": "8465226248863115853",
+
     "quality": "HD"
+
   },
+
   {
-    "order": 67,
-    "name": "TV ASTA",
-    "logo": "https://i.imgur.com/5g7lq9N.png",
-    "url": "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-8541277791560446449",
-    "quality": "HD"
-  },
-  {
-    "order": 68,
-    "name": "TV Toruń",
-    "logo": "https://i.imgur.com/ZJ0yDWI.png",
-    "url": "http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "2168545122120535365",
-    "quality": "FHD"
-  },
-  {
-    "order": 69,
-    "name": "TVT",
-    "logo": "https://i.imgur.com/oZyeUzG.png",
-    "url": "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1889042014954289882",
-    "quality": "HD"
-  },
-  {
-    "order": 70,
-    "name": "Twoja.TV",
-    "logo": "https://i.ibb.co/vxntQD60/twojatv-hd-online.png",
-    "url": "https://stream.twoja.tv/ttv_hls/live.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-3307101212779098929",
-    "quality": "FHD"
-  },
-  {
-    "order": 71,
-    "name": "TVK Stella",
-    "logo": "https://www.tvkstella.pl/img/poster.png",
-    "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-917776463254336778",
-    "quality": "SD"
-  },
-  {
-    "order": 72,
-    "name": "Telewizja Jaslo",
-    "logo": "https://i.imgur.com/nV2jQQP.png",
-    "url": "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-4491488537040506647",
-    "quality": "HD"
-  },
-  {
-    "order": 73,
-    "name": "Telewizja Regionalna Zary",
-    "logo": "https://i.imgur.com/FB9H8DO.png",
-    "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "8908747399777723159"
-  },
-  {
-    "order": 74,
-    "name": "TV Regionalna Lubin",
-    "logo": "https://i.imgur.com/2WVNt3f.png",
-    "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "272684926481171957",
-    "quality": "SD"
-  },
-  {
-    "order": 75,
-    "name": "TV Kujawy",
-    "logo": "https://i.imgur.com/dGP7cIW.png",
-    "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
-    "group": "Poland",
-    "country": "PL",
-    "is_premium": false,
-    "id": "1030919929880124871",
-    "quality": "SD"
-  },
-  {
-    "order": 76,
-    "name": "Truso TV",
-    "logo": "https://i.imgur.com/GUsauxk.png",
-    "url": "https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8",
+
+    "name": "Euronews",
+
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg",
+
+    "url": "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
+
     "group": "News",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "1747023937268593755",
-    "quality": "SD"
+
+    "id": "-1037115095556359323"
+
   },
+
   {
-    "order": 77,
-    "name": "Sfera TV",
-    "logo": "https://i.imgur.com/aK7xfKi.png",
-    "url": "https://stream.sferatv.pl/sferatvlive/live.m3u8",
-    "group": "Italy",
+
+    "name": "Euronews",
+
+    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png",
+
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8",
+
+    "group": "International",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "-8908236305846156147",
-    "quality": "SD"
+
+    "id": "-6560143134982324131"
+
   },
+
   {
-    "order": 78,
-    "name": "TV Imperium",
-    "logo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
-    "url": "https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8",
-    "group": "Poland",
+
+    "name": "EWTN Poland (1080p)",
+
+    "logo": "https://i.imgur.com/VtKYELf.png",
+
+    "url": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8",
+
+    "group": "Religious",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "-8337692919628742965",
+
+    "id": "-906821631196801368",
+
     "quality": "FHD"
+
   },
+
   {
-    "order": 79,
-    "name": "Telewizja Lubań",
-    "logo": "https://i.imgur.com/t2BGp0G.jpeg",
-    "url": "http://stream.herissons.cloud/hls/tvluban.m3u8",
-    "group": "General",
-    "country": "PL",
-    "is_premium": false,
-    "id": "-73032339526890527",
-    "quality": "HD"
-  },
-  {
-    "order": 80,
-    "name": "TVT Zgorzelec",
-    "logo": "https://i.imgur.com/zhzVpgf.jpg",
-    "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+
+    "name": "Grjngo",
+
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg",
+
+    "url": "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8",
+
     "group": "Poland",
+
     "country": "PL",
+
     "is_premium": false,
-    "id": "1018652614942546460",
+
+    "id": "4801731951047206004"
+
+  },
+
+  {
+
+    "name": "Hard Knocks Fighting Championship",
+
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg",
+
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-1095300194645764442"
+
+  },
+
+  {
+
+    "name": "INA 70s",
+
+    "logo": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
+
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "227640467775113128"
+
+  },
+
+  {
+
+    "name": "INA Ardivision",
+
+    "logo": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
+
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "7299386400523773624"
+
+  },
+
+  {
+
+    "name": "Moconomy",
+
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg",
+
+    "url": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "2204931638665740754"
+
+  },
+
+  {
+
+    "name": "Music Box Polska (1080p) [Geo-blocked]",
+
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
+
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
+
+    "group": "Music",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-4956911929287005508",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Polsat (1080p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/xff6zGN.png",
+
+    "url": "https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "2099078921347231541",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Polsat News (720p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/sx1yPuc.png",
+
+    "url": "http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
+
+    "group": "News",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "502794143133538340",
+
+    "quality": "HD"
+
+  },
+
+  {
+
+    "name": "Polsat News 2 (1080p)",
+
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
+
+    "url": "https://turbotv.io/play/link/75409b46-e472-4a51-9077-abd80596670f/eyJpdiI6Ik9uRkVaekdYWDUxSU9GbTF2Mm9YR2c9PSIsInZhbHVlIjoiNy9Gc3NQWXNPSFZFeFcybVBOcWYyM1JyUDRIUVFCemhOeFVLUmJjQys0VWR6VFhnMHh0L3ZmQ1VIOCsrQUN4Y2tVdldRQ3RHV2NqL3psQmtPNlJtS0dqY1ZvV3hqNVp5WllvWFZ0U0dJdVE9IiwibWFjIjoiN2EwZTJhNDhiNTBlZjAwMDlhYzczYzE2NGNlODQ1YWQ0OWNmYWMwYjk0ZTUyN2E4ODE1OTg4MzYwNzA1ZDFhMCIsInRhZyI6IiJ9.m3u8",
+
+    "group": "News",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "5233706632101942628",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
+
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-polityka-pl.png",
+
+    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
+
+    "group": "News",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-2631074737031506027",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Polsat Rodzina (1080p)",
+
+    "logo": "https://i.imgur.com/IS0AW48.png",
+
+    "url": "https://turbotv.io/play/link/97155b27-7b0c-4af7-9b67-a9ae172d89bf/eyJpdiI6IkdDTWN5bG8zTlpiSTFPdDhXbERSRUE9PSIsInZhbHVlIjoiRHJqdWhFRWdnN2p0ZjRHOEloWjcwNUVldmw4b2l0VjJ0Z2g1ZXFueWtQMU9ldzN2aFVwL1laeVVGNDFaVW1lUGhoQ2praGNsWVdCb212NUd1Y1N6VXBLSzF6bDd5TDZ3WjRQL0MxSlBRcUE9IiwibWFjIjoiNmQwNTc3N2UwNWUzZjQzOGJjMmE0MmM0YjYxMWQ4ZWZiZDg3ODQzNjIyOTY1ZTI2Y2FkMzQwMWVkN2FlYTY1MSIsInRhZyI6IiJ9.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-5381393869528032507",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Polsat Viasat History (1080p)",
+
+    "logo": "https://i.imgur.com/X16UGUf.png",
+
+    "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+
+    "group": "Documentary",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "5469989121881591529",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "RACER International",
+
+    "logo": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
+
+    "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+
+    "group": "Sports",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "5951304931541525853"
+
+  },
+
+  {
+
+    "name": "Radio Czwórka (1080p)",
+
+    "logo": "https://i.imgur.com/VAtxF7k.png",
+
+    "url": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-7084641773988315875",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Red Carpet TV International",
+
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg",
+
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "7196890031023283342"
+
+  },
+
+  {
+
+    "name": "Royalworld",
+
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg",
+
+    "url": "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "6968531220525631058"
+
+  },
+
+  {
+
+    "name": "Sfera TV (480p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/aK7xfKi.png",
+
+    "url": "https://stream.sferatv.pl/sferatvlive/live.m3u8",
+
+    "group": "Italy",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-8908236305846156147",
+
     "quality": "SD"
+
+  },
+
+  {
+
+    "name": "Shades of Black",
+
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg",
+
+    "url": "https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "3343386962726230924"
+
+  },
+
+  {
+
+    "name": "Stars TV (1080p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/NdITPCk.png",
+
+    "url": "https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid1122592601448291971-b4000000.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "5704757573393700838",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Telewizja Biznesowa (1080p)",
+
+    "logo": "https://i.imgur.com/XC7i7ZL.png",
+
+    "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
+
+    "group": "Business",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-8440927800881402182",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Telewizja Jaslo (720p)",
+
+    "logo": "https://i.imgur.com/nV2jQQP.png",
+
+    "url": "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-4491488537040506647",
+
+    "quality": "HD"
+
+  },
+
+  {
+
+    "name": "Telewizja Lubań (720p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/t2BGp0G.jpeg",
+
+    "url": "http://stream.herissons.cloud/hls/tvluban.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-73032339526890527",
+
+    "quality": "HD"
+
+  },
+
+  {
+
+    "name": "Telewizja Regionalna Zary",
+
+    "logo": "https://i.imgur.com/FB9H8DO.png",
+
+    "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "8908747399777723159"
+
+  },
+
+  {
+
+    "name": "TNA Wrestling",
+
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
+
+    "url": "https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "8023946773657616605"
+
+  },
+
+  {
+
+    "name": "TOP Barca",
+
+    "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
+
+    "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-8412374647119036844"
+
+  },
+
+  {
+
+    "name": "Top Movies Polska",
+
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png",
+
+    "url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-2148182428741849666"
+
+  },
+
+  {
+
+    "name": "Truso TV (576p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/GUsauxk.png",
+
+    "url": "https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8",
+
+    "group": "News",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1747023937268593755",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TV ASTA (720p)",
+
+    "logo": "https://i.imgur.com/5g7lq9N.png",
+
+    "url": "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-8541277791560446449",
+
+    "quality": "HD"
+
+  },
+
+  {
+
+    "name": "TV Imperium (1080p) [Not 24/7]",
+
+    "logo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
+
+    "url": "https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-8337692919628742965",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "TV Kujawy (576p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/dGP7cIW.png",
+
+    "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1030919929880124871",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TV Okazje (1080p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/DbALkkV.png",
+
+    "url": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "2858402857448580813",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "TV Regionalna Lubin (576p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/2WVNt3f.png",
+
+    "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "272684926481171957",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TV Toruń (1080p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/ZJ0yDWI.png",
+
+    "url": "http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "2168545122120535365",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "TV Trwam (1080p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/yq10wS5.png",
+
+    "url": "https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1179118677874138288",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "TVK Stella (576p)",
+
+    "logo": "https://www.tvkstella.pl/img/poster.png",
+
+    "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-917776463254336778",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Białystok (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/b0Xevsc.jpg",
+
+    "url": "https://cdndai.pl/tvp3bialystoksd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-7853828066337081264",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Bydgoszcz (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/b0Xevsc.jpg",
+
+    "url": "https://cdndai.pl/tvp3bydgoszczsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "7751077860838695176",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Gdańsk (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/wGZCj7G.jpg",
+
+    "url": "https://cdndai.pl/tvp3gdansksd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-9092768921706141538",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Gorzów Wielkopolski (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/H3jtBQm.jpg",
+
+    "url": "https://cdndai.pl/tvp3gorzowsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-8467878076502634844",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Katowice (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/burRKHa.jpg",
+
+    "url": "https://cdndai.pl/tvp3katowicesd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-1652776350186344430",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Kielce (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/YcQxM94.jpg",
+
+    "url": "https://cdndai.pl/tvp3kielcesd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "7447174731152376336",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Kraków (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/MbAKxD1.jpg",
+
+    "url": "https://cdndai.pl/tvp3krakowsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-2055135123691907333",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Lublin (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/h7oq2yg.jpg",
+
+    "url": "https://cdndai.pl/tvp3lublinsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "6279566887087254828",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Olsztyn (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/Aa0HedU.jpg",
+
+    "url": "https://cdndai.pl/tvp3olsztynsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "3381105637567625317",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Opole (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/dYRtDRA.jpg",
+
+    "url": "https://cdndai.pl/tvp3opolesd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1197721514157651551",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Poznań (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/mTnjVGQ.jpg",
+
+    "url": "https://cdndai.pl/tvp3poznansd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "3264109310563422529",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Rzeszów (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/6jGX6Xy.jpg",
+
+    "url": "https://cdndai.pl/tvp3rzeszowsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-3768605660741421176",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Szczecin (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/NRb6S8z.jpg",
+
+    "url": "https://cdndai.pl/tvp3szczecinsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-2649691432214142734",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Warszawa (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/AfZOO8U.jpg",
+
+    "url": "https://cdndai.pl/tvp3warszawasd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "8634251122663400348",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Wrocław (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/b0Xevsc.jpg",
+
+    "url": "https://cdndai.pl/tvp3wroclawsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "4729155993521919406",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP 3 Łódź (576p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/b0Xevsc.jpg",
+
+    "url": "https://cdndai.pl/tvp3lodzsd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "2820978553886045450",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "TVP Info",
+
+    "logo": "https://i.imgur.com/qXrrNxv.png",
+
+    "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "3986140528588766210"
+
+  },
+
+  {
+
+    "name": "TVP Polonia",
+
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-polonia-pl.png",
+
+    "url": "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1967570007878314753"
+
+  },
+
+  {
+
+    "name": "TVP World (1080p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/lB4MgRI.png",
+
+    "url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
+
+    "group": "News",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-5922714024274699763",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "TVP1 (1080p)",
+
+    "logo": "https://i.imgur.com/ewpSjBs.png",
+
+    "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1069966346770214685",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "TVP2 (1080i) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/XxCc32B.png",
+
+    "url": "https://cdndai.pl/tvp2hd/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "9190417583225571336"
+
+  },
+
+  {
+
+    "name": "TVT (720p)",
+
+    "logo": "https://i.imgur.com/oZyeUzG.png",
+
+    "url": "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8",
+
+    "group": "General",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1889042014954289882",
+
+    "quality": "HD"
+
+  },
+
+  {
+
+    "name": "TVT Zgorzelec (576p) [Not 24/7]",
+
+    "logo": "https://i.imgur.com/zhzVpgf.jpg",
+
+    "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1018652614942546460",
+
+    "quality": "SD"
+
+  },
+
+  {
+
+    "name": "Twoja.TV (1080p)",
+
+    "logo": "https://i.ibb.co/vxntQD60/twojatv-hd-online.png",
+
+    "url": "https://stream.twoja.tv/ttv_hls/live.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-3307101212779098929",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Viasat Explore Classic",
+
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg",
+
+    "url": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "-7144945407560186668"
+
+  },
+
+  {
+
+    "name": "Viasat True Crime",
+
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/viasat-true-crime-pl.png",
+
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMjgvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3MDczMDImc3Q9ZzIyOUNTdUZudUd6dm9UbkJNNzJ6dw%3D%3D&master=1091",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1041846483824419273"
+
+  },
+
+  {
+
+    "name": "W Polsce PL (720p)",
+
+    "logo": "https://i.imgur.com/HQ8UyhL.png",
+
+    "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "2406682804465185678",
+
+    "quality": "HD"
+
+  },
+
+  {
+
+    "name": "World Billiards TV",
+
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png",
+
+    "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1347343280892749878"
+
+  },
+
+  {
+
+    "name": "WP TV (1080p) [Geo-blocked]",
+
+    "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
+
+    "url": "https://vs2124.vcdn.biz/ea4b303612d09486a02d3fb60f337b0c_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/a4076920-50ed-4d3f-b9ef-e46f74e36d4b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid2813014404360271229-b4000000.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "1542413530201852722",
+
+    "quality": "FHD"
+
+  },
+
+  {
+
+    "name": "Zoom TV (1080p) [Geo-blocked]",
+
+    "logo": "https://i.imgur.com/UtZM4zm.png",
+
+    "url": "https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8",
+
+    "group": "Poland",
+
+    "country": "PL",
+
+    "is_premium": false,
+
+    "id": "4028354595946836803",
+
+    "quality": "FHD"
+
   }
-]
+
+] 
+
