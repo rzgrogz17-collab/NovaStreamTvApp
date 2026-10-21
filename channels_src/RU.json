@@ -1,23 +1,250 @@
 [
   {
-    "name": "12 канал",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/12TVRU.png",
-    "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
-    "group": "Latvia",
+    "name": "Первый канал",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://edge2.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1788753401",
+    "group": "Russia",
     "country": "RU",
     "is_premium": false,
-    "id": "-3629758851674777705",
+    "id": "200000000001"
+  },
+  {
+    "name": "Первый канал",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-3488222103589808695"
+  },
+  {
+    "name": "Россия 1",
+    "logo": "https://cdn.smotrim.ru/photobank/prod/large/901/583/2.png",
+    "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8",
+    "group": "General",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000002"
+  },
+  {
+    "name": "НТВ",
+    "logo": "https://i.imgur.com/DtQX5P2.png",
+    "url": "https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000004"
+  },
+  {
+    "name": "НТВ",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "3691484465334758680"
+  },
+  {
+    "name": "ТНТ",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "4191972367608762024"
+  },
+  {
+    "name": "СТС",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "7533843875925265190"
+  },
+  {
+    "name": "Рен ТВ",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "3901835087043161292"
+  },
+  {
+    "name": "Пятница!",
+    "logo": "https://avatars.mds.yandex.net/get-ott/239697/2a00000182ac94d4590fc2e081e7986fddd9/orig",
+    "url": "https://vsd115.okcdn.ru/hls/7937441663606_10412.m3u8/sig/ZY9z_W2sLxc/expires/1788840693647/srcIp/176.237.40.12/urls/176.112.172.96/clientType/0/srcAg/CHROME/mid/9313862491766/video.m3u8?p",
+    "group": "Entertainment",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000016"
+  },
+  {
+    "name": "Пятница!",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "url": "https://vod.tuva.ru/friday/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-2333214693750525694"
+  },
+  {
+    "name": "ТВ3",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+    "group": "General",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5391017895099471661"
+  },
+  {
+    "name": "Россия-24",
+    "logo": "https://i.imgur.com/tpqsFzm.png",
+    "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8",
+    "group": "News",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000007"
+  },
+  {
+    "name": "Россия 24",
+    "logo": "https://i.imgur.com/tTCuczU.png",
+    "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
+    "group": "News",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-3659425297710593275",
+    "quality": "SD"
+  },
+  {
+    "name": "Звезда",
+    "logo": "https://i.imgur.com/c0L0ncA.png",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000017"
+  },
+  {
+    "name": "Звезда",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "8417707950146290010",
     "quality": "FHD"
   },
   {
-    "name": "2x2 (1080p)",
-    "logo": "https://www.tvpolsat.info/wp-content/uploads/2023/03/2x2-logo.png",
-    "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https",
-    "group": "Poland",
+    "name": "Домашний",
+    "logo": "https://avatars.mds.yandex.net/get-ott/224348/2a0000018cf2e9c9152f68e36be6defc0093/orig",
+    "url": "https://vsd123.okcdn.ru/hls/12643243985528_283822.m3u8/sig/wk9Zdb8_1xE/expires/1788840851788/srcIp/176.237.40.12/urls/185.180.203.107/clientType/0/srcAg/CHROME/mid/13462621396600/12643243985528_low/index.m3u8",
+    "group": "Russia",
     "country": "RU",
     "is_premium": false,
-    "id": "3247293669152910973",
+    "id": "200000000014"
+  },
+  {
+    "name": "Домашний",
+    "logo": "https://i.imgur.com/XVRwgom.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "6601749654211798768"
+  },
+  {
+    "name": "Мир",
+    "logo": "https://am.mir24.tv/og_image_300x300.png",
+    "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000018"
+  },
+  {
+    "name": "Мир",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "5408040393423905217",
     "quality": "FHD"
+  },
+  {
+    "name": "Матч! Арена",
+    "logo": "https://i.imgur.com/udTzwzu.png",
+    "url": "http://194.143.148.28:8080/MatchArena/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "6509508571933755874"
+  },
+  {
+    "name": "Матч! Планета",
+    "logo": "https://i.imgur.com/vhyMb9D.png",
+    "url": "http://212.0.211.102:9999/play/a00b/index.m3u8",
+    "group": "Sports",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000056"
+  },
+  {
+    "name": "Матч! Страна",
+    "logo": "https://i.imgur.com/X02s2UE.png",
+    "url": "http://stream.mcquack.net/143/index.m3u8",
+    "group": "Sports",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7321803559019826092"
+  },
+  {
+    "name": "РБК",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-876045483898107758",
+    "quality": "SD"
+  },
+  {
+    "name": "Карусель",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1841073613018984626"
+  },
+  {
+    "name": "Карусель",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "url": "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
+    "group": "Kids",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7748170641341609412"
+  },
+  {
+    "name": "Муз-ТВ",
+    "logo": "https://i.imgur.com/Ml3qqOF.png",
+    "url": "https://streaming102.interskytech.com/live/618.m3u8",
+    "group": "Music",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000020"
+  },
+  {
+    "name": "МузТВ",
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7320828294036694216"
   },
   {
     "name": "2х2",
@@ -29,6 +256,169 @@
     "id": "6968762658875544202"
   },
   {
+    "name": "2x2",
+    "logo": "https://www.tvpolsat.info/wp-content/uploads/2023/03/2x2-logo.png",
+    "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https",
+    "group": "Poland",
+    "country": "RU",
+    "is_premium": false,
+    "id": "3247293669152910973",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ю",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://strm.yandex.ru/kal/utv/utv0.m3u8",
+    "group": "Entertainment",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000055"
+  },
+  {
+    "name": "Ю",
+    "logo": "https://i.imgur.com/KDZvt0Q.png",
+    "url": "https://cdn-01.bonus-tv.ru/u/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "3515212933687808380"
+  },
+  {
+    "name": "Спас",
+    "logo": "https://i.imgur.com/A6Cqsom.jpeg",
+    "url": "https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000012"
+  },
+  {
+    "name": "Спас",
+    "logo": "https://i.imgur.com/yY39nMg.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-6314134011433734940"
+  },
+  {
+    "name": "ОТР",
+    "logo": "https://i.imgur.com/QyZvT3e.png",
+    "url": "https://www.megacdn.ru/o/otr_2/720p/1788/72/84/1788728409264.ts",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000009"
+  },
+  {
+    "name": "ОТР",
+    "logo": "https://i.imgur.com/VaWlnjZ.png",
+    "url": "https://vsd288.okcdn.ru/hls/2837282490880.m3u8/sig/C6MOQq3zmh4/expires/1788888912418/srcIp/176.237.42.162/urls/185.180.203.109/clientType/0/srcAg/CHROME/mid/5880800026112/2837282490880_high/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "337557051849510223"
+  },
+  {
+    "name": "ТВ Центр",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/250px-TV_Tsentr_Logo.svg.png",
+    "url": "https://vsd123.okcdn.ru/hls/10725655251531_5892.m3u8/sig/Rhg3RQMvJ1U/expires/1788889181491/srcIp/176.237.42.162/urls/178.237.23.113/clientType/0/srcAg/CHROME/mid/11431932468811/video.m3u8?p",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1865723439023560081"
+  },
+  {
+    "name": "Россия-Культура",
+    "logo": "https://muzobozrenie.ru/wp-content/uploads/2022/11/kultura_2022_600.jpg",
+    "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8",
+    "group": "Kültür",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000006"
+  },
+  {
+    "name": "Первый канал Европа",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "url": "https://streaming.thestream.cyou/live/210.m3u8",
+    "group": "International",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-2397608084121131344"
+  },
+  {
+    "name": "НТВ Мир",
+    "logo": "https://i.imgur.com/pUcV46F.png",
+    "url": "https://streaming.thestream.cyou/live/213.m3u8",
+    "group": "International",
+    "country": "RU",
+    "is_premium": false,
+    "id": "8797888859210787572"
+  },
+  {
+    "name": "Победа",
+    "logo": "https://i.imgur.com/4KiYSln.png",
+    "url": "https://streaming.thestream.cyou/live/43.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-4866635669950749366"
+  },
+  {
+    "name": "Мульт",
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "url": "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-6991066807071773667"
+  },
+  {
+    "name": "Известия",
+    "logo": "https://i.imgur.com/r5HzA6J.png",
+    "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-2433734921099592098"
+  },
+  {
+    "name": "КВН ТВ",
+    "logo": "https://i.imgur.com/Vw3LFLX.png",
+    "url": "https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "7376246360381215152"
+  },
+  {
+    "name": "Че!",
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-6177043282596832318"
+  },
+  {
+    "name": "Суббота!",
+    "logo": "https://i.imgur.com/nsk8PpB.png",
+    "url": "http://hls2.hd-tv.club/2_super/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-4016947274741663405"
+  },
+  {
+    "name": "Время",
+    "logo": "https://i.imgur.com/jZlj3ga.png",
+    "url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2714106186688688444"
+  },
+  {
     "name": "360 Новости",
     "logo": "https://i.imgur.com/YXDeX8q.png",
     "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
@@ -36,6 +426,135 @@
     "country": "RU",
     "is_premium": false,
     "id": "200000000047"
+  },
+  {
+    "name": "Соловьёв Live",
+    "logo": "https://i.imgur.com/v0OYe1d.png",
+    "url": "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv",
+    "group": "News",
+    "country": "RU",
+    "is_premium": false,
+    "id": "200000000054"
+  },
+  {
+    "name": "Amedia 1",
+    "logo": "https://i.imgur.com/2pAHdAi.png",
+    "url": "http://31.148.48.15/A1/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7456878068150365387"
+  },
+  {
+    "name": "Amedia 2",
+    "logo": "https://i.imgur.com/NqHla2V.png",
+    "url": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8",
+    "group": "Series",
+    "country": "RU",
+    "is_premium": false,
+    "id": "664185592374376389"
+  },
+  {
+    "name": "START Air",
+    "logo": "https://i.imgur.com/4bACa7x.png",
+    "url": "http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5304125338730198139"
+  },
+  {
+    "name": "START World",
+    "logo": "https://i.imgur.com/TXtY5eM.png",
+    "url": "http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1136691232946912364"
+  },
+  {
+    "name": "Дом Кино",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "https://streaming.thestream.cyou/live/44.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "1904582126580763371"
+  },
+  {
+    "name": "Кино 1 International",
+    "logo": "https://i.imgur.com/zsCPLs4.png",
+    "url": "http://kino-1.catcast.tv/content/38617/index.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7026653031219760937"
+  },
+  {
+    "name": "RT News",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rt-france-fr.png",
+    "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "group": "International",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-4542224829025954007",
+    "quality": "FHD"
+  },
+  {
+    "name": "Мир 24",
+    "logo": "https://i.imgur.com/dj9c8Yd.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "group": "News",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2939779901088490074",
+    "quality": "FHD"
+  },
+  {
+    "name": "STS kids",
+    "logo": "https://i.imgur.com/o9kLpAL.png",
+    "url": "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv",
+    "group": "Kids",
+    "country": "RU",
+    "is_premium": false,
+    "id": "8569311759109773714"
+  },
+  {
+    "name": "Europa Plus TV",
+    "logo": "https://i.imgur.com/GLc4qrc.png",
+    "url": "https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv",
+    "group": "Music",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2860992857484660221"
+  },
+  {
+    "name": "Футбол",
+    "logo": "https://i.imgur.com/pEuaZVx.png",
+    "url": "http://str2.iptvhd.ru:8080/Futbol/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "4698770618075344306"
+  },
+  {
+    "name": "Музыка Первого",
+    "logo": "https://i.imgur.com/U0vKj3P.png",
+    "url": "http://31.148.48.15/Muzika_Pervogo/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "5006109160962489194"
+  },
+  {
+    "name": "12 канал",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/12TVRU.png",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+    "group": "Latvia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-3629758851674777705",
+    "quality": "FHD"
   },
   {
     "name": "360°",
@@ -55,24 +574,6 @@
     "country": "RU",
     "is_premium": false,
     "id": "-7350176067699780798"
-  },
-  {
-    "name": "Amedia 1",
-    "logo": "https://i.imgur.com/2pAHdAi.png",
-    "url": "http://31.148.48.15/A1/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7456878068150365387"
-  },
-  {
-    "name": "Amedia 2",
-    "logo": "https://i.imgur.com/NqHla2V.png",
-    "url": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8",
-    "group": "Series",
-    "country": "RU",
-    "is_premium": false,
-    "id": "664185592374376389"
   },
   {
     "name": "Ani",
@@ -168,15 +669,6 @@
     "id": "-9056435988949714022"
   },
   {
-    "name": "Europa Plus TV",
-    "logo": "https://i.imgur.com/GLc4qrc.png",
-    "url": "https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv",
-    "group": "Music",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2860992857484660221"
-  },
-  {
     "name": "FoodTime",
     "logo": "https://i.imgur.com/gxCYAwH.png",
     "url": "http://stream.mcquack.net/216/index.m3u8",
@@ -252,7 +744,7 @@
     "id": "-4769701165530313299"
   },
   {
-    "name": "Leomax 24 (1080p)",
+    "name": "Leomax 24",
     "logo": "https://i.imgur.com/qU9ohQu.png",
     "url": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
     "group": "Shop",
@@ -260,16 +752,6 @@
     "is_premium": false,
     "id": "2898226356656292327",
     "quality": "FHD"
-  },
-  {
-    "name": "MGM HD [Not 24/7]",
-    "logo": "https://i.imgur.com/FRbtrxo.png",
-    "url": "https://v2.catcast.tv/content/44051/index.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-8099254650570250372",
-    "quality": "HD"
   },
   {
     "name": "MMA-TV.com",
@@ -281,7 +763,7 @@
     "id": "-6660588162829986995"
   },
   {
-    "name": "Nick Jr. (576p)",
+    "name": "Nick Jr.",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "url": "https://stream8.cinerama.uz/1501/playlist.m3u8",
     "group": "Kids",
@@ -291,7 +773,7 @@
     "quality": "SD"
   },
   {
-    "name": "Perviy Krymskiy (720p)",
+    "name": "Perviy Krymskiy",
     "logo": "https://i.imgur.com/i6hg7QG.png",
     "url": "https://live1.1tvcrimea.ru/1tvcrimea.m3u8",
     "group": "General",
@@ -301,7 +783,7 @@
     "quality": "HD"
   },
   {
-    "name": "Project Runway (1080p)",
+    "name": "Project Runway",
     "logo": "",
     "url": "https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8",
     "group": "General",
@@ -311,7 +793,7 @@
     "quality": "FHD"
   },
   {
-    "name": "RT Arabic (1080p) [Geo-blocked]",
+    "name": "RT Arabic",
     "logo": "https://i.imgur.com/G8vGrn1.png",
     "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
     "group": "International",
@@ -321,7 +803,7 @@
     "quality": "FHD"
   },
   {
-    "name": "RT Documentary English (1080p) [Geo-blocked]",
+    "name": "RT Documentary English",
     "logo": "https://i.imgur.com/aeu5zIC.png",
     "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
     "group": "International",
@@ -331,23 +813,13 @@
     "quality": "FHD"
   },
   {
-    "name": "RT en Español (1080p) [Geo-blocked]",
+    "name": "RT en Español",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
     "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
     "group": "News",
     "country": "RU",
     "is_premium": false,
     "id": "7903405473093951957",
-    "quality": "FHD"
-  },
-  {
-    "name": "RT News (1080p) [Geo-blocked]",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rt-france-fr.png",
-    "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
-    "group": "International",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-4542224829025954007",
     "quality": "FHD"
   },
   {
@@ -405,26 +877,6 @@
     "id": "1230115392438633316"
   },
   {
-    "name": "Shopping Live (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/EMmGnjV.png",
-    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
-    "group": "Shop",
-    "country": "RU",
-    "is_premium": false,
-    "id": "1015538801555244848",
-    "quality": "SD"
-  },
-  {
-    "name": "Sochi Live HD (720p) [Not 24/7]",
-    "logo": "https://www.cableman.ru/sites/default/files/sochi_live.png",
-    "url": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
-    "group": "General",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-6997213913430757517",
-    "quality": "HD"
-  },
-  {
     "name": "SONGTV Russia",
     "logo": "https://i.imgur.com/nM7LbmV.png",
     "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
@@ -432,43 +884,6 @@
     "country": "RU",
     "is_premium": false,
     "id": "2842465680735218321"
-  },
-  {
-    "name": "Star Family (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/eGuGHnZ.png",
-    "url": "http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "1961815473386813645",
-    "quality": "SD"
-  },
-  {
-    "name": "START Air",
-    "logo": "https://i.imgur.com/4bACa7x.png",
-    "url": "http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5304125338730198139"
-  },
-  {
-    "name": "START World",
-    "logo": "https://i.imgur.com/TXtY5eM.png",
-    "url": "http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1136691232946912364"
-  },
-  {
-    "name": "STS kids",
-    "logo": "https://i.imgur.com/o9kLpAL.png",
-    "url": "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv",
-    "group": "Kids",
-    "country": "RU",
-    "is_premium": false,
-    "id": "8569311759109773714"
   },
   {
     "name": "STS Love",
@@ -480,7 +895,7 @@
     "id": "8272100462419109239"
   },
   {
-    "name": "Super! Rugrats Italy (720p)",
+    "name": "Super! Rugrats Italy",
     "logo": "https://images.pluto.tv/channels/62e8ddbbaed0390007b258a6/colorLogoPNG.png",
     "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
     "group": "General",
@@ -517,7 +932,7 @@
     "id": "-3770182619415556646"
   },
   {
-    "name": "TV 3 (720p)",
+    "name": "TV 3",
     "logo": "https://i.imgur.com/76XWq08.png",
     "url": "http://178.124.179.122:8080/TB-3/index.m3u8",
     "group": "Denmark",
@@ -527,7 +942,7 @@
     "quality": "HD"
   },
   {
-    "name": "TV BRICS Russian (1080p)",
+    "name": "TV BRICS Russian",
     "logo": "https://i.imgur.com/vLpm8tN.png",
     "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
     "group": "General",
@@ -555,35 +970,7 @@
     "id": "-3354056043712732049"
   },
   {
-    "name": "Univer TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/r3u0mxr.png",
-    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "9121517170263769776",
-    "quality": "FHD"
-  },
-  {
-    "name": "VHS TV [Not 24/7]",
-    "logo": "https://i.imgur.com/BHCwWBf.png",
-    "url": "https://v2.catcast.tv/content/47609/index.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-571542412422411669"
-  },
-  {
-    "name": "VITAL Drive [Not 24/7]",
-    "logo": "https://i.imgur.com/XoR9zLh.png",
-    "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
-    "group": "Sports",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-8046055891735065195"
-  },
-  {
-    "name": "VIVA Russia (1080p)",
+    "name": "VIVA Russia",
     "logo": "https://i.imgur.com/OFhQQCD.png",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "group": "Music",
@@ -638,7 +1025,7 @@
     "id": "200000000027"
   },
   {
-    "name": "Архыз 24 (1080p)",
+    "name": "Архыз 24",
     "logo": "https://i.imgur.com/blAtdkJ.png",
     "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
     "group": "News",
@@ -657,7 +1044,7 @@
     "id": "200000000028"
   },
   {
-    "name": "Астрахань.Ru Sport (720p)",
+    "name": "Астрахань.Ru Sport",
     "logo": "https://i.imgur.com/BKaEtqL.png",
     "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
     "group": "Russia",
@@ -667,7 +1054,7 @@
     "quality": "HD"
   },
   {
-    "name": "Астрахань.Ru TV (480p)",
+    "name": "Астрахань.Ru TV",
     "logo": "https://i.imgur.com/w4ys6zm.png",
     "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8",
     "group": "Music",
@@ -677,7 +1064,7 @@
     "quality": "SD"
   },
   {
-    "name": "Белгород 24 (1080p)",
+    "name": "Белгород 24",
     "logo": "https://i.imgur.com/EEirvyx.png",
     "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
     "group": "News",
@@ -687,7 +1074,7 @@
     "quality": "FHD"
   },
   {
-    "name": "БелРос (576p)",
+    "name": "БелРос",
     "logo": "https://i.imgur.com/tUF33HD.png",
     "url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
     "group": "Belarus",
@@ -706,7 +1093,7 @@
     "id": "7917930185123629036"
   },
   {
-    "name": "БСТ 24 (Братск)",
+    "name": "БСТ 24",
     "logo": "https://i.imgur.com/IDotHmQ.png",
     "url": "http://bst.bratsk.ru/hls/bst2/index.m3u8",
     "group": "News",
@@ -724,16 +1111,6 @@
     "id": "2514371614253780334"
   },
   {
-    "name": "Ветта 24 (Пермь) (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/zKH1b5k.png",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
-    "group": "News",
-    "country": "RU",
-    "is_premium": false,
-    "id": "3174949711782350760",
-    "quality": "SD"
-  },
-  {
     "name": "Вместе РФ",
     "logo": "https://i.imgur.com/KI1qZNc.png",
     "url": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
@@ -743,7 +1120,7 @@
     "id": "2735845743732177806"
   },
   {
-    "name": "Волга (HD)",
+    "name": "Волга",
     "logo": "https://i.imgur.com/xHs1pr1.png",
     "url": "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
     "group": "Russia",
@@ -753,16 +1130,7 @@
     "quality": "HD"
   },
   {
-    "name": "Время",
-    "logo": "https://i.imgur.com/jZlj3ga.png",
-    "url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2714106186688688444"
-  },
-  {
-    "name": "Губерния (Самара) (576p)",
+    "name": "Губерния",
     "logo": "https://i.imgur.com/IlL57Rm.png",
     "url": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8",
     "group": "Russia",
@@ -772,7 +1140,7 @@
     "quality": "SD"
   },
   {
-    "name": "Дагестан (1080p)",
+    "name": "Дагестан",
     "logo": "https://i.imgur.com/jumkRvc.png",
     "url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
     "group": "Russia",
@@ -780,15 +1148,6 @@
     "is_premium": false,
     "id": "1412549675026109178",
     "quality": "FHD"
-  },
-  {
-    "name": "Дом Кино",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
-    "url": "https://streaming.thestream.cyou/live/44.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "1904582126580763371"
   },
   {
     "name": "Дом Кино Премиум HD",
@@ -801,25 +1160,7 @@
     "quality": "HD"
   },
   {
-    "name": "Домашний",
-    "logo": "https://avatars.mds.yandex.net/get-ott/224348/2a0000018cf2e9c9152f68e36be6defc0093/orig",
-    "url": "https://vsd123.okcdn.ru/hls/12643243985528_283822.m3u8/sig/wk9Zdb8_1xE/expires/1788840851788/srcIp/176.237.40.12/urls/185.180.203.107/clientType/0/srcAg/CHROME/mid/13462621396600/12643243985528_low/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000014"
-  },
-  {
-    "name": "Домашний",
-    "logo": "https://i.imgur.com/XVRwgom.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "6601749654211798768"
-  },
-  {
-    "name": "Евразия (Орск) (720p)",
+    "name": "Евразия",
     "logo": "https://i.imgur.com/4JUHIVS.png",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "group": "Russia",
@@ -845,16 +1186,6 @@
     "country": "RU",
     "is_premium": false,
     "id": "503774457128097274"
-  },
-  {
-    "name": "Енисей (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/57deE7f.png",
-    "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2414849358035256907",
-    "quality": "FHD"
   },
   {
     "name": "Живая Планета",
@@ -893,25 +1224,6 @@
     "id": "200000000033"
   },
   {
-    "name": "Звезда",
-    "logo": "https://i.imgur.com/c0L0ncA.png",
-    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000017"
-  },
-  {
-    "name": "Звезда (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/4PAcpfM.png",
-    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "8417707950146290010",
-    "quality": "FHD"
-  },
-  {
     "name": "Звезда Плюс",
     "logo": "https://i.imgur.com/NNmjD9Z.png",
     "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
@@ -928,15 +1240,6 @@
     "country": "RU",
     "is_premium": false,
     "id": "-2153070165522915278"
-  },
-  {
-    "name": "Известия",
-    "logo": "https://i.imgur.com/r5HzA6J.png",
-    "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-2433734921099592098"
   },
   {
     "name": "Иллюзион+",
@@ -975,52 +1278,6 @@
     "id": "2156499502869525434"
   },
   {
-    "name": "К16 (Саров) (406p) [Not 24/7]",
-    "logo": "https://i.imgur.com/7tNDKHe.png",
-    "url": "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8",
-    "group": "General",
-    "country": "RU",
-    "is_premium": false,
-    "id": "18146302702567382"
-  },
-  {
-    "name": "Каббала ТВ (360p) [Not 24/7]",
-    "logo": "https://i.imgur.com/uaffIpV.png",
-    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-222296372376961710",
-    "quality": "SD"
-  },
-  {
-    "name": "Карусель",
-    "logo": "https://i.imgur.com/4wmnx1W.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1841073613018984626"
-  },
-  {
-    "name": "Карусель",
-    "logo": "https://i.imgur.com/4wmnx1W.png",
-    "url": "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
-    "group": "Kids",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7748170641341609412"
-  },
-  {
-    "name": "КВН ТВ",
-    "logo": "https://i.imgur.com/Vw3LFLX.png",
-    "url": "https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "7376246360381215152"
-  },
-  {
     "name": "Кинеко",
     "logo": "https://i.imgur.com/Otfvlmf.png",
     "url": "http://194.143.148.28:8080/KINEKO/index.m3u8",
@@ -1028,15 +1285,6 @@
     "country": "RU",
     "is_premium": false,
     "id": "2223609061588119593"
-  },
-  {
-    "name": "Кино 1 International [Not 24/7]",
-    "logo": "https://i.imgur.com/zsCPLs4.png",
-    "url": "http://kino-1.catcast.tv/content/38617/index.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7026653031219760937"
   },
   {
     "name": "Кинопоказ",
@@ -1066,7 +1314,7 @@
     "id": "-1258327985370801321"
   },
   {
-    "name": "КРИК-ТВ (Екатеринбург)",
+    "name": "КРИК-ТВ",
     "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
     "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
     "group": "Russia",
@@ -1084,7 +1332,7 @@
     "id": "3003222627822447594"
   },
   {
-    "name": "Кубань 24 [Geo-blocked]",
+    "name": "Кубань 24",
     "logo": "https://i.imgur.com/atzrXcz.png",
     "url": "https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8",
     "group": "News",
@@ -1093,7 +1341,7 @@
     "id": "-937993148385694612"
   },
   {
-    "name": "Курай (Уфа) (576p)",
+    "name": "Курай",
     "logo": "https://i.imgur.com/hZXBD9F.png",
     "url": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
     "group": "Russia",
@@ -1112,7 +1360,7 @@
     "id": "2009858270423601194"
   },
   {
-    "name": "ЛДПР ТВ (1080p)",
+    "name": "ЛДПР ТВ",
     "logo": "https://i.imgur.com/gCmCRfe.png",
     "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8",
     "group": "Russia",
@@ -1131,22 +1379,13 @@
     "id": "8886025753742265701"
   },
   {
-    "name": "Лен ТВ 24 (540p) [Geo-blocked]",
+    "name": "Лен ТВ 24",
     "logo": "https://i.imgur.com/d02uxkB.png",
     "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8",
     "group": "News",
     "country": "RU",
     "is_premium": false,
     "id": "540789612482134269"
-  },
-  {
-    "name": "Любимое Индийское Кино [Not 24/7]",
-    "logo": "https://i.imgur.com/hVptFue.png",
-    "url": "https://v2.catcast.tv/content/41596/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-6718949185417978093"
   },
   {
     "name": "Магнат ТВ",
@@ -1158,15 +1397,6 @@
     "id": "43693016036416957"
   },
   {
-    "name": "Малдер Мегахит [Not 24/7]",
-    "logo": "https://i.imgur.com/Ow2Pawt.png",
-    "url": "https://v2.catcast.tv/content/47689/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "5135834373855960783"
-  },
-  {
     "name": "Мама",
     "logo": "https://i.imgur.com/kmMIjjf.png",
     "url": "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8",
@@ -1176,7 +1406,7 @@
     "id": "5343500016271746898"
   },
   {
-    "name": "Матур ТВ (1080p)",
+    "name": "Матур ТВ",
     "logo": "https://i.imgur.com/Pg7K7eV.png",
     "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
     "group": "Russia",
@@ -1186,80 +1416,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Матч! Арена",
-    "logo": "https://i.imgur.com/udTzwzu.png",
-    "url": "http://194.143.148.28:8080/MatchArena/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "6509508571933755874"
-  },
-  {
-    "name": "Матч! Планета",
-    "logo": "https://i.imgur.com/vhyMb9D.png",
-    "url": "http://212.0.211.102:9999/play/a00b/index.m3u8",
-    "group": "Sports",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000056"
-  },
-  {
-    "name": "Матч! Страна",
-    "logo": "https://i.imgur.com/X02s2UE.png",
-    "url": "http://stream.mcquack.net/143/index.m3u8",
-    "group": "Sports",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7321803559019826092"
-  },
-  {
-    "name": "Миллет (540p) [Not 24/7]",
-    "logo": "https://i.imgur.com/hUjLRLy.png",
-    "url": "https://live.trkmillet.ru/millet/index.m3u8",
-    "group": "Ukraine",
-    "country": "RU",
-    "is_premium": false,
-    "id": "6964933685958621998"
-  },
-  {
-    "name": "Мир",
-    "logo": "https://am.mir24.tv/og_image_300x300.png",
-    "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000018"
-  },
-  {
-    "name": "Мир (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/AqWaJT8.png",
-    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "5408040393423905217",
-    "quality": "FHD"
-  },
-  {
-    "name": "Мир +2 (540p) [Not 24/7]",
-    "logo": "https://i.imgur.com/AqWaJT8.png",
-    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8",
-    "group": "Series",
-    "country": "RU",
-    "is_premium": false,
-    "id": "7341990551510472140"
-  },
-  {
-    "name": "Мир +4 (540p) [Not 24/7]",
-    "logo": "https://i.imgur.com/AqWaJT8.png",
-    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "128248822612331917"
-  },
-  {
-    "name": "Мир +7 (540p)",
+    "name": "Мир +7",
     "logo": "https://i.imgur.com/AqWaJT8.png",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
     "group": "General",
@@ -1268,17 +1425,7 @@
     "id": "4387113237298709547"
   },
   {
-    "name": "Мир 24 (1080p)",
-    "logo": "https://i.imgur.com/dj9c8Yd.png",
-    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "group": "News",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2939779901088490074",
-    "quality": "FHD"
-  },
-  {
-    "name": "Мир Белагорья (720p) [Geo-blocked]",
+    "name": "Мир Белагорья",
     "logo": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
     "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "group": "Russia",
@@ -1297,7 +1444,7 @@
     "id": "200000000038"
   },
   {
-    "name": "МосОбрТВ (720p)",
+    "name": "МосОбрТВ",
     "logo": "https://i.imgur.com/t6PmOD5.png",
     "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
     "group": "Russia",
@@ -1316,17 +1463,7 @@
     "id": "-8158309385094504877"
   },
   {
-    "name": "МТВ (Волгоград) (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/pdCAUrP.png",
-    "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2154346342481730490",
-    "quality": "HD"
-  },
-  {
-    "name": "Муз союз (576p)",
+    "name": "Муз союз",
     "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
     "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
     "group": "Russia",
@@ -1334,60 +1471,6 @@
     "is_premium": false,
     "id": "6345614290040242198",
     "quality": "SD"
-  },
-  {
-    "name": "Муз-ТВ",
-    "logo": "https://i.imgur.com/Ml3qqOF.png",
-    "url": "https://streaming102.interskytech.com/live/618.m3u8",
-    "group": "Music",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000020"
-  },
-  {
-    "name": "МузТВ",
-    "logo": "https://i.imgur.com/BtqrHmz.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7320828294036694216"
-  },
-  {
-    "name": "Музыка 1 International [Not 24/7]",
-    "logo": "https://i.imgur.com/DIKe5vA.png",
-    "url": "https://kino-1.catcast.tv/content/37745/index.m3u8",
-    "group": "Movies",
-    "country": "RU",
-    "is_premium": false,
-    "id": "4712800647836809053"
-  },
-  {
-    "name": "Музыка Кино International [Not 24/7]",
-    "logo": "https://i.imgur.com/2SG0Swa.png",
-    "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
-    "group": "Kids",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7797077037647108334"
-  },
-  {
-    "name": "Музыка Первого",
-    "logo": "https://i.imgur.com/U0vKj3P.png",
-    "url": "http://31.148.48.15/Muzika_Pervogo/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "5006109160962489194"
-  },
-  {
-    "name": "Мульт",
-    "logo": "https://i.imgur.com/xi351Fx.png",
-    "url": "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-6991066807071773667"
   },
   {
     "name": "Мульт и музыка",
@@ -1399,7 +1482,7 @@
     "id": "4303277247730963064"
   },
   {
-    "name": "Надежда (720p)",
+    "name": "Надежда",
     "logo": "https://i.imgur.com/ah6VnFJ.png",
     "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
     "group": "Russia",
@@ -1426,16 +1509,6 @@
     "country": "RU",
     "is_premium": false,
     "id": "211054808169104925"
-  },
-  {
-    "name": "НВК Саха (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/LwXNUhf.png",
-    "url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1229526499328574860",
-    "quality": "FHD"
   },
   {
     "name": "Небеса ТВ7",
@@ -1465,41 +1538,13 @@
     "id": "200000000040"
   },
   {
-    "name": "Ника ТВ (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/dccsFAu.png",
-    "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "766721780199602062",
-    "quality": "SD"
-  },
-  {
-    "name": "Новгородское областное телевидение [Geo-blocked]",
+    "name": "Новгородское областное телевидение",
     "logo": "https://i.imgur.com/2JspHVY.png",
     "url": "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "-5171981950557247889"
-  },
-  {
-    "name": "НТВ",
-    "logo": "https://i.imgur.com/DtQX5P2.png",
-    "url": "https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000004"
-  },
-  {
-    "name": "НТВ",
-    "logo": "https://i.imgur.com/9r1BKzK.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "3691484465334758680"
   },
   {
     "name": "НТВ +1",
@@ -1538,15 +1583,6 @@
     "id": "-9010001027608122497"
   },
   {
-    "name": "НТВ Мир",
-    "logo": "https://i.imgur.com/pUcV46F.png",
-    "url": "https://streaming.thestream.cyou/live/213.m3u8",
-    "group": "International",
-    "country": "RU",
-    "is_premium": false,
-    "id": "8797888859210787572"
-  },
-  {
     "name": "НТВ Право",
     "logo": "https://i.imgur.com/3ChnWGg.png",
     "url": "https://cdn.ntv.ru/th_pravo/playlist.m3u8",
@@ -1583,33 +1619,13 @@
     "id": "4954849230062936511"
   },
   {
-    "name": "НТК 21 (Биробиджан) [Geo-blocked]",
+    "name": "НТК 21",
     "logo": "https://i.imgur.com/W9s1flH.png",
     "url": "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8",
     "group": "Music",
     "country": "RU",
     "is_premium": false,
     "id": "303782947366378062"
-  },
-  {
-    "name": "НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/AH50pGT.png",
-    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1686309554892580900",
-    "quality": "HD"
-  },
-  {
-    "name": "НТС (Севастополь) (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/skkDR7q.png",
-    "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
-    "group": "Ukraine",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2960776048845988864",
-    "quality": "FHD"
   },
   {
     "name": "Осетия Ирыстон",
@@ -1639,58 +1655,13 @@
     "id": "5618459787899857170"
   },
   {
-    "name": "ОТР",
-    "logo": "https://i.imgur.com/QyZvT3e.png",
-    "url": "https://www.megacdn.ru/o/otr_2/720p/1788/72/84/1788728409264.ts",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000009"
-  },
-  {
-    "name": "ОТР",
-    "logo": "https://i.imgur.com/VaWlnjZ.png",
-    "url": "https://vsd288.okcdn.ru/hls/2837282490880.m3u8/sig/C6MOQq3zmh4/expires/1788888912418/srcIp/176.237.42.162/urls/185.180.203.109/clientType/0/srcAg/CHROME/mid/5880800026112/2837282490880_high/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "337557051849510223"
-  },
-  {
-    "name": "Патриот (576i)",
+    "name": "Патриот",
     "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
     "url": "http://catchup.videoline.ru/asvtv/index.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "5349718175738490652"
-  },
-  {
-    "name": "Первый канал",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
-    "url": "https://edge2.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1788753401",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000001"
-  },
-  {
-    "name": "Первый канал",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
-    "url": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-3488222103589808695"
-  },
-  {
-    "name": "Первый канал Европа",
-    "logo": "https://i.imgur.com/RUSX0rX.png",
-    "url": "https://streaming.thestream.cyou/live/210.m3u8",
-    "group": "International",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-2397608084121131344"
   },
   {
     "name": "Первый Республиканский",
@@ -1711,15 +1682,6 @@
     "id": "4652934152146249251"
   },
   {
-    "name": "Победа",
-    "logo": "https://i.imgur.com/4KiYSln.png",
-    "url": "https://streaming.thestream.cyou/live/43.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-4866635669950749366"
-  },
-  {
     "name": "Поехали!",
     "logo": "https://i.imgur.com/ZNCpbII.png",
     "url": "https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv",
@@ -1729,7 +1691,7 @@
     "id": "-5385261937347005090"
   },
   {
-    "name": "Прима (1080p)",
+    "name": "Прима",
     "logo": "https://i.imgur.com/33XGMch.png",
     "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
     "group": "Russia",
@@ -1748,7 +1710,7 @@
     "id": "-6287144378301205219"
   },
   {
-    "name": "Просвещение (540p) [Geo-blocked]",
+    "name": "Просвещение",
     "logo": "https://i.imgur.com/uppFhhq.png",
     "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8",
     "group": "Russia",
@@ -1757,41 +1719,13 @@
     "id": "3122545057834394853"
   },
   {
-    "name": "Пятница!",
-    "logo": "https://avatars.mds.yandex.net/get-ott/239697/2a00000182ac94d4590fc2e081e7986fddd9/orig",
-    "url": "https://vsd115.okcdn.ru/hls/7937441663606_10412.m3u8/sig/ZY9z_W2sLxc/expires/1788840693647/srcIp/176.237.40.12/urls/176.112.172.96/clientType/0/srcAg/CHROME/mid/9313862491766/video.m3u8?p",
-    "group": "Entertainment",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000016"
-  },
-  {
-    "name": "Пятница!",
-    "logo": "https://i.imgur.com/UfmlXxe.png",
-    "url": "https://vod.tuva.ru/friday/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-2333214693750525694"
-  },
-  {
-    "name": "Радио Говорит Москва (Веб-камера) (720p)",
+    "name": "Радио Говорит Москва",
     "logo": "https://i.imgur.com/z2mxf3E.png",
     "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "3966045906250174110",
-    "quality": "HD"
-  },
-  {
-    "name": "Радио Шансон (720p) [Not 24/7]",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
-    "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-2253049300723105231",
     "quality": "HD"
   },
   {
@@ -1804,26 +1738,7 @@
     "id": "6556838343431549107"
   },
   {
-    "name": "РБК (576p)",
-    "logo": "https://i.imgur.com/CwhmJby.png",
-    "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-876045483898107758",
-    "quality": "SD"
-  },
-  {
-    "name": "Рен ТВ",
-    "logo": "https://i.imgur.com/0Tu5lte.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "3901835087043161292"
-  },
-  {
-    "name": "РЖД ТВ (1080p) [Geo-blocked]",
+    "name": "РЖД ТВ",
     "logo": "https://i.imgur.com/lf1r9L6.png",
     "url": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8",
     "group": "Russia",
@@ -1831,43 +1746,6 @@
     "is_premium": false,
     "id": "-4776049431701774499",
     "quality": "FHD"
-  },
-  {
-    "name": "Россия 1",
-    "logo": "https://cdn.smotrim.ru/photobank/prod/large/901/583/2.png",
-    "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8",
-    "group": "General",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000002"
-  },
-  {
-    "name": "Россия 24 (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/tTCuczU.png",
-    "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
-    "group": "News",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-3659425297710593275",
-    "quality": "SD"
-  },
-  {
-    "name": "Россия-24",
-    "logo": "https://i.imgur.com/tpqsFzm.png",
-    "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8",
-    "group": "News",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000007"
-  },
-  {
-    "name": "Россия-Культура",
-    "logo": "https://muzobozrenie.ru/wp-content/uploads/2022/11/kultura_2022_600.jpg",
-    "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8",
-    "group": "Kültür",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000006"
   },
   {
     "name": "Русский Бестселлер",
@@ -1897,17 +1775,7 @@
     "id": "-8231498545929551382"
   },
   {
-    "name": "С1 (Сургут) (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/chNBF5t.png",
-    "url": "https://sitv.ru/hls/stv.m3u8",
-    "group": "General",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-8435187813308519037",
-    "quality": "FHD"
-  },
-  {
-    "name": "Салям (Уфа) (576p)",
+    "name": "Салям",
     "logo": "https://i.imgur.com/FfULLr1.png",
     "url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
     "group": "Russia",
@@ -1915,16 +1783,6 @@
     "is_premium": false,
     "id": "-376663249885768991",
     "quality": "SD"
-  },
-  {
-    "name": "Самара ГИС (1080p) [Not 24/7]",
-    "logo": "https://samaragis.ru/wp-includes/images/logo.png",
-    "url": "http://45.67.57.9:8080/new/new/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5796770858147828421",
-    "quality": "FHD"
   },
   {
     "name": "Санкт-Петербург HD",
@@ -1956,7 +1814,7 @@
     "id": "200000000050"
   },
   {
-    "name": "Север (Нарьян-Мар) (1080p)",
+    "name": "Север",
     "logo": "https://i.imgur.com/sTOQLYl.png",
     "url": "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8",
     "group": "Russia",
@@ -1964,195 +1822,6 @@
     "is_premium": false,
     "id": "-8536205450551494167",
     "quality": "FHD"
-  },
-  {
-    "name": "Сити Эдем Meditation Music [Not 24/7]",
-    "logo": "https://i.imgur.com/HPWevWb.png",
-    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
-    "group": "Music",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7000167073354375234"
-  },
-  {
-    "name": "Сити Эдем Play Христианский Музыкальный [Not 24/7]",
-    "logo": "https://i.imgur.com/ozEqob9.png",
-    "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
-    "group": "Music",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5075046463991163710"
-  },
-  {
-    "name": "Сити Эдем АвтоГид [Not 24/7]",
-    "logo": "https://i.imgur.com/qpe8L27.png",
-    "url": "https://cityeden.catcast.tv/content/47515/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "1081252695923665603"
-  },
-  {
-    "name": "Сити Эдем Бирма Play [Not 24/7]",
-    "logo": "https://i.imgur.com/38Q5L5W.png",
-    "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
-    "group": "Music",
-    "country": "RU",
-    "is_premium": false,
-    "id": "1723859855779555648"
-  },
-  {
-    "name": "Сити Эдем КиноАзия [Not 24/7]",
-    "logo": "https://i.imgur.com/gaket4B.png",
-    "url": "https://cityeden.catcast.tv/content/34393/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5497822366605185507"
-  },
-  {
-    "name": "Сити Эдем КиноАрт [Not 24/7]",
-    "logo": "https://i.imgur.com/67CWCtz.png",
-    "url": "https://cityeden.catcast.tv/content/38398/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "4988072053541498348"
-  },
-  {
-    "name": "Сити Эдем КиноДетектив [Not 24/7]",
-    "logo": "https://i.imgur.com/9rKHwBV.png",
-    "url": "https://cityeden.catcast.tv/content/41327/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-8505777609227571997"
-  },
-  {
-    "name": "Сити Эдем КиноДок [Not 24/7]",
-    "logo": "https://i.imgur.com/itRbMX3.png",
-    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "3923404163227884868"
-  },
-  {
-    "name": "Сити Эдем КиноДрама [Not 24/7]",
-    "logo": "https://i.imgur.com/29ddffh.png",
-    "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "5755741250161373165"
-  },
-  {
-    "name": "Сити Эдем КиноКлассика [Not 24/7]",
-    "logo": "https://i.imgur.com/0qGCS1S.png",
-    "url": "https://cityeden.catcast.tv/content/34185/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2524613461963752066"
-  },
-  {
-    "name": "Сити Эдем КиноКомедия [Not 24/7]",
-    "logo": "https://i.imgur.com/Aga2XVA.png",
-    "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5999277809738560113"
-  },
-  {
-    "name": "Сити Эдем КиноМистика [Not 24/7]",
-    "logo": "https://i.imgur.com/s1Pid0K.png",
-    "url": "https://cityeden.catcast.tv/content/40783/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-3340722589574602391"
-  },
-  {
-    "name": "Сити Эдем КиноСемья [Not 24/7]",
-    "logo": "https://i.imgur.com/YoWOZMx.png",
-    "url": "https://v2.catcast.tv/content/38128/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-4287990603500611262"
-  },
-  {
-    "name": "Сити Эдем КиноФантастика [Not 24/7]",
-    "logo": "https://i.imgur.com/I64FeIO.png",
-    "url": "https://cityeden.catcast.tv/content/45268/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2818702620375516012"
-  },
-  {
-    "name": "Сити Эдем КиноЭкшен [Not 24/7]",
-    "logo": "https://i.imgur.com/uuzuvD0.png",
-    "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-2387420775856501722"
-  },
-  {
-    "name": "Сити Эдем Классическая Музыка [Not 24/7]",
-    "logo": "https://i.imgur.com/l7BE8l6.png",
-    "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "8055759851522370744"
-  },
-  {
-    "name": "Сити Эдем МедЗдрав [Not 24/7]",
-    "logo": "https://i.imgur.com/BM4E0Kr.png",
-    "url": "https://cityeden.catcast.tv/content/47519/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "2157216553874627727"
-  },
-  {
-    "name": "Сити Эдем Рецепты Гурмана [Not 24/7]",
-    "logo": "https://i.imgur.com/wR0pvRc.png",
-    "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1085097689147645301"
-  },
-  {
-    "name": "Сити Эдем Сиртаки ТВ [Not 24/7]",
-    "logo": "https://i.imgur.com/V3MTfyc.png",
-    "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "4445725840634549314"
-  },
-  {
-    "name": "Сити Эдем ТВ Христианский [Not 24/7]",
-    "logo": "https://i.imgur.com/X9kACKi.png",
-    "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5168955260160397331"
-  },
-  {
-    "name": "Сити Эдем ТелеНовелла [Not 24/7]",
-    "logo": "https://i.imgur.com/mT5liTh.png",
-    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1806361442219707716"
   },
   {
     "name": "Смайл ТВ",
@@ -2200,15 +1869,6 @@
     "id": "-6657665257811264201"
   },
   {
-    "name": "Соловьёв Live",
-    "logo": "https://i.imgur.com/v0OYe1d.png",
-    "url": "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv",
-    "group": "News",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000054"
-  },
-  {
     "name": "Сочи 24 HD",
     "logo": "https://i.imgur.com/iwWxkl6.png",
     "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
@@ -2219,7 +1879,7 @@
     "quality": "HD"
   },
   {
-    "name": "Союз (576p)",
+    "name": "Союз",
     "logo": "https://i.imgur.com/w3OewHc.png",
     "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "group": "Russia",
@@ -2227,24 +1887,6 @@
     "is_premium": false,
     "id": "-3530400185382508541",
     "quality": "SD"
-  },
-  {
-    "name": "Спас",
-    "logo": "https://i.imgur.com/A6Cqsom.jpeg",
-    "url": "https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000012"
-  },
-  {
-    "name": "Спас",
-    "logo": "https://i.imgur.com/yY39nMg.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-6314134011433734940"
   },
   {
     "name": "СТАРТ Триумф",
@@ -2256,34 +1898,6 @@
     "id": "-1206981086659721281"
   },
   {
-    "name": "Страна FM (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/WsPlKJJ.png",
-    "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "group": "Music",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-7483612495491928238",
-    "quality": "HD"
-  },
-  {
-    "name": "СТС",
-    "logo": "https://i.imgur.com/ilUzAeb.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "7533843875925265190"
-  },
-  {
-    "name": "Суббота!",
-    "logo": "https://i.imgur.com/nsk8PpB.png",
-    "url": "http://hls2.hd-tv.club/2_super/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-4016947274741663405"
-  },
-  {
     "name": "Таврия",
     "logo": "https://i.imgur.com/gqung6i.png",
     "url": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
@@ -2293,7 +1907,7 @@
     "id": "-6548126438228933149"
   },
   {
-    "name": "Тамыр (Уфа)",
+    "name": "Тамыр",
     "logo": "https://i.imgur.com/Ia3acCB.png",
     "url": "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
     "group": "Russia",
@@ -2302,25 +1916,7 @@
     "id": "1976326824745279761"
   },
   {
-    "name": "ТВ Центр",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/250px-TV_Tsentr_Logo.svg.png",
-    "url": "https://vsd123.okcdn.ru/hls/10725655251531_5892.m3u8/sig/Rhg3RQMvJ1U/expires/1788889181491/srcIp/176.237.42.162/urls/178.237.23.113/clientType/0/srcAg/CHROME/mid/11431932468811/video.m3u8?p",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-1865723439023560081"
-  },
-  {
-    "name": "ТВ3",
-    "logo": "https://i.imgur.com/JLAvq8O.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
-    "group": "General",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5391017895099471661"
-  },
-  {
-    "name": "ТВК 24 (576p)",
+    "name": "ТВК 24",
     "logo": "https://i.imgur.com/tTCuczU.png",
     "url": "https://air.tvk6.ru/tvk24/playlist.m3u8",
     "group": "News",
@@ -2358,16 +1954,6 @@
     "id": "5102877098835805556"
   },
   {
-    "name": "Телеканал 86 (Сургут) (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/0dRS4Cb.png",
-    "url": "https://sitv.ru/hls/s86.m3u8",
-    "group": "General",
-    "country": "RU",
-    "is_premium": false,
-    "id": "8663898893781414992",
-    "quality": "FHD"
-  },
-  {
     "name": "Телеканал Краснодар",
     "logo": "https://i.imgur.com/YVtutzp.png",
     "url": "https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8",
@@ -2395,7 +1981,7 @@
     "id": "8961890425003035861"
   },
   {
-    "name": "Телерадиокомпания 555 (Алушта) (720p)",
+    "name": "Телерадиокомпания 555",
     "logo": "https://i.imgur.com/JQZkxeA.png",
     "url": "http://trk555.tv:8888/live",
     "group": "General",
@@ -2405,42 +1991,13 @@
     "quality": "HD"
   },
   {
-    "name": "Телплюс ТВ (Астрахань) (360p) [Not 24/7]",
-    "logo": "https://i.imgur.com/1zbcZ3p.png",
-    "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "6596305802177228867",
-    "quality": "SD"
-  },
-  {
-    "name": "ТКР (Рязань) (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/VqtPB7L.png",
-    "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "1681175940969351563",
-    "quality": "FHD"
-  },
-  {
-    "name": "ТНВ-Планета (Казань)",
+    "name": "ТНВ-Планета",
     "logo": "https://i.imgur.com/ijA1zDw.png",
     "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "-7515049441631592468"
-  },
-  {
-    "name": "ТНТ",
-    "logo": "https://i.imgur.com/T4A6rEI.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "4191972367608762024"
   },
   {
     "name": "ТНТ International",
@@ -2452,7 +2009,7 @@
     "id": "-8444678854766598013"
   },
   {
-    "name": "ТНТ4 [Geo-blocked]",
+    "name": "ТНТ4",
     "logo": "https://i.imgur.com/gBokU5i.png",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
     "group": "Movies",
@@ -2480,7 +2037,7 @@
     "quality": "HD"
   },
   {
-    "name": "Три Ангела (720p)",
+    "name": "Три Ангела",
     "logo": "https://i.imgur.com/4fhBbam.png",
     "url": "https://hls.tv.3angels.ru/stream.m3u8",
     "group": "Russia",
@@ -2508,16 +2065,7 @@
     "id": "6834466992590514831"
   },
   {
-    "name": "Футбол",
-    "logo": "https://i.imgur.com/pEuaZVx.png",
-    "url": "http://str2.iptvhd.ru:8080/Futbol/index.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "4698770618075344306"
-  },
-  {
-    "name": "Фэшн ТВ (Fashion TV)",
+    "name": "Фэшн ТВ",
     "logo": "https://optim.tildacdn.com/tild6465-6661-4339-a531-326563373864/-/format/webp/200449212_0_2.png",
     "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8",
     "group": "Russia",
@@ -2526,26 +2074,7 @@
     "id": "200000000005"
   },
   {
-    "name": "Хузур ТВ (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/Abg1fct.png",
-    "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8",
-    "group": "International",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-3845127410711279871",
-    "quality": "FHD"
-  },
-  {
-    "name": "Че!",
-    "logo": "https://i.imgur.com/ZOcDGpB.png",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-6177043282596832318"
-  },
-  {
-    "name": "Шансон ТВ (576p) [Geo-blocked]",
+    "name": "Шансон ТВ",
     "logo": "https://i.imgur.com/Fk4sd8t.png",
     "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
     "group": "Russia",
@@ -2555,7 +2084,7 @@
     "quality": "SD"
   },
   {
-    "name": "Шаян ТВ (Татарстан)",
+    "name": "Шаян ТВ",
     "logo": "https://i.imgur.com/CvFwczN.png",
     "url": "https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8",
     "group": "Russia",
@@ -2564,35 +2093,7 @@
     "id": "6646793813122106079"
   },
   {
-    "name": "Щёлковское ТВ (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/0us6l04.png",
-    "url": "http://stream0.tv41.ru/live.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "-5911545156056455276",
-    "quality": "SD"
-  },
-  {
-    "name": "Ю",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
-    "url": "https://strm.yandex.ru/kal/utv/utv0.m3u8",
-    "group": "Entertainment",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000055"
-  },
-  {
-    "name": "Ю",
-    "logo": "https://i.imgur.com/KDZvt0Q.png",
-    "url": "https://cdn-01.bonus-tv.ru/u/playlist.m3u8",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "3515212933687808380"
-  },
-  {
-    "name": "Ювелирочка ТВ (576p)",
+    "name": "Ювелирочка ТВ",
     "logo": "https://i.imgur.com/IcWtXCZ.png",
     "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
     "group": "Russia",
@@ -2620,7 +2121,506 @@
     "id": "200000000046"
   },
   {
-    "name": "上虞1新闻综合 (720p) [Not 24/7]",
+    "name": "MGM HD",
+    "logo": "https://i.imgur.com/FRbtrxo.png",
+    "url": "https://v2.catcast.tv/content/44051/index.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-8099254650570250372",
+    "quality": "HD"
+  },
+  {
+    "name": "Shopping Live",
+    "logo": "https://i.imgur.com/EMmGnjV.png",
+    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "group": "Shop",
+    "country": "RU",
+    "is_premium": false,
+    "id": "1015538801555244848",
+    "quality": "SD"
+  },
+  {
+    "name": "Sochi Live HD",
+    "logo": "https://www.cableman.ru/sites/default/files/sochi_live.png",
+    "url": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
+    "group": "General",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-6997213913430757517",
+    "quality": "HD"
+  },
+  {
+    "name": "Star Family",
+    "logo": "https://i.imgur.com/eGuGHnZ.png",
+    "url": "http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "1961815473386813645",
+    "quality": "SD"
+  },
+  {
+    "name": "Univer TV",
+    "logo": "https://i.imgur.com/r3u0mxr.png",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "9121517170263769776",
+    "quality": "FHD"
+  },
+  {
+    "name": "VHS TV",
+    "logo": "https://i.imgur.com/BHCwWBf.png",
+    "url": "https://v2.catcast.tv/content/47609/index.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-571542412422411669"
+  },
+  {
+    "name": "VITAL Drive",
+    "logo": "https://i.imgur.com/XoR9zLh.png",
+    "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "group": "Sports",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-8046055891735065195"
+  },
+  {
+    "name": "Ветта 24",
+    "logo": "https://i.imgur.com/zKH1b5k.png",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "group": "News",
+    "country": "RU",
+    "is_premium": false,
+    "id": "3174949711782350760",
+    "quality": "SD"
+  },
+  {
+    "name": "Енисей",
+    "logo": "https://i.imgur.com/57deE7f.png",
+    "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2414849358035256907",
+    "quality": "FHD"
+  },
+  {
+    "name": "К16",
+    "logo": "https://i.imgur.com/7tNDKHe.png",
+    "url": "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8",
+    "group": "General",
+    "country": "RU",
+    "is_premium": false,
+    "id": "18146302702567382"
+  },
+  {
+    "name": "Каббала ТВ",
+    "logo": "https://i.imgur.com/uaffIpV.png",
+    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-222296372376961710",
+    "quality": "SD"
+  },
+  {
+    "name": "Любимое Индийское Кино",
+    "logo": "https://i.imgur.com/hVptFue.png",
+    "url": "https://v2.catcast.tv/content/41596/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-6718949185417978093"
+  },
+  {
+    "name": "Малдер Мегахит",
+    "logo": "https://i.imgur.com/Ow2Pawt.png",
+    "url": "https://v2.catcast.tv/content/47689/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "5135834373855960783"
+  },
+  {
+    "name": "Миллет",
+    "logo": "https://i.imgur.com/hUjLRLy.png",
+    "url": "https://live.trkmillet.ru/millet/index.m3u8",
+    "group": "Ukraine",
+    "country": "RU",
+    "is_premium": false,
+    "id": "6964933685958621998"
+  },
+  {
+    "name": "Мир +2",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8",
+    "group": "Series",
+    "country": "RU",
+    "is_premium": false,
+    "id": "7341990551510472140"
+  },
+  {
+    "name": "Мир +4",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "128248822612331917"
+  },
+  {
+    "name": "МТВ",
+    "logo": "https://i.imgur.com/pdCAUrP.png",
+    "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2154346342481730490",
+    "quality": "HD"
+  },
+  {
+    "name": "Музыка 1 International",
+    "logo": "https://i.imgur.com/DIKe5vA.png",
+    "url": "https://kino-1.catcast.tv/content/37745/index.m3u8",
+    "group": "Movies",
+    "country": "RU",
+    "is_premium": false,
+    "id": "4712800647836809053"
+  },
+  {
+    "name": "Музыка Кино International",
+    "logo": "https://i.imgur.com/2SG0Swa.png",
+    "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
+    "group": "Kids",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7797077037647108334"
+  },
+  {
+    "name": "НВК Саха",
+    "logo": "https://i.imgur.com/LwXNUhf.png",
+    "url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1229526499328574860",
+    "quality": "FHD"
+  },
+  {
+    "name": "Ника ТВ",
+    "logo": "https://i.imgur.com/dccsFAu.png",
+    "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "766721780199602062",
+    "quality": "SD"
+  },
+  {
+    "name": "НТМ",
+    "logo": "https://i.imgur.com/AH50pGT.png",
+    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1686309554892580900",
+    "quality": "HD"
+  },
+  {
+    "name": "НТС",
+    "logo": "https://i.imgur.com/skkDR7q.png",
+    "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
+    "group": "Ukraine",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2960776048845988864",
+    "quality": "FHD"
+  },
+  {
+    "name": "Радио Шансон",
+    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-2253049300723105231",
+    "quality": "HD"
+  },
+  {
+    "name": "С1",
+    "logo": "https://i.imgur.com/chNBF5t.png",
+    "url": "https://sitv.ru/hls/stv.m3u8",
+    "group": "General",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-8435187813308519037",
+    "quality": "FHD"
+  },
+  {
+    "name": "Самара ГИС",
+    "logo": "https://samaragis.ru/wp-includes/images/logo.png",
+    "url": "http://45.67.57.9:8080/new/new/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5796770858147828421",
+    "quality": "FHD"
+  },
+  {
+    "name": "Сити Эдем Meditation Music",
+    "logo": "https://i.imgur.com/HPWevWb.png",
+    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
+    "group": "Music",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7000167073354375234"
+  },
+  {
+    "name": "Сити Эдем Play Христианский Музыкальный",
+    "logo": "https://i.imgur.com/ozEqob9.png",
+    "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+    "group": "Music",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5075046463991163710"
+  },
+  {
+    "name": "Сити Эдем АвтоГид",
+    "logo": "https://i.imgur.com/qpe8L27.png",
+    "url": "https://cityeden.catcast.tv/content/47515/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "1081252695923665603"
+  },
+  {
+    "name": "Сити Эдем Бирма Play",
+    "logo": "https://i.imgur.com/38Q5L5W.png",
+    "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
+    "group": "Music",
+    "country": "RU",
+    "is_premium": false,
+    "id": "1723859855779555648"
+  },
+  {
+    "name": "Сити Эдем КиноАзия",
+    "logo": "https://i.imgur.com/gaket4B.png",
+    "url": "https://cityeden.catcast.tv/content/34393/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5497822366605185507"
+  },
+  {
+    "name": "Сити Эдем КиноАрт",
+    "logo": "https://i.imgur.com/67CWCtz.png",
+    "url": "https://cityeden.catcast.tv/content/38398/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "4988072053541498348"
+  },
+  {
+    "name": "Сити Эдем КиноДетектив",
+    "logo": "https://i.imgur.com/9rKHwBV.png",
+    "url": "https://cityeden.catcast.tv/content/41327/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-8505777609227571997"
+  },
+  {
+    "name": "Сити Эдем КиноДок",
+    "logo": "https://i.imgur.com/itRbMX3.png",
+    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "3923404163227884868"
+  },
+  {
+    "name": "Сити Эдем КиноДрама",
+    "logo": "https://i.imgur.com/29ddffh.png",
+    "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "5755741250161373165"
+  },
+  {
+    "name": "Сити Эдем КиноКлассика",
+    "logo": "https://i.imgur.com/0qGCS1S.png",
+    "url": "https://cityeden.catcast.tv/content/34185/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2524613461963752066"
+  },
+  {
+    "name": "Сити Эдем КиноКомедия",
+    "logo": "https://i.imgur.com/Aga2XVA.png",
+    "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5999277809738560113"
+  },
+  {
+    "name": "Сити Эдем КиноМистика",
+    "logo": "https://i.imgur.com/s1Pid0K.png",
+    "url": "https://cityeden.catcast.tv/content/40783/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-3340722589574602391"
+  },
+  {
+    "name": "Сити Эдем КиноСемья",
+    "logo": "https://i.imgur.com/YoWOZMx.png",
+    "url": "https://v2.catcast.tv/content/38128/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-4287990603500611262"
+  },
+  {
+    "name": "Сити Эдем КиноФантастика",
+    "logo": "https://i.imgur.com/I64FeIO.png",
+    "url": "https://cityeden.catcast.tv/content/45268/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2818702620375516012"
+  },
+  {
+    "name": "Сити Эдем КиноЭкшен",
+    "logo": "https://i.imgur.com/uuzuvD0.png",
+    "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-2387420775856501722"
+  },
+  {
+    "name": "Сити Эдем Классическая Музыка",
+    "logo": "https://i.imgur.com/l7BE8l6.png",
+    "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "8055759851522370744"
+  },
+  {
+    "name": "Сити Эдем МедЗдрав",
+    "logo": "https://i.imgur.com/BM4E0Kr.png",
+    "url": "https://cityeden.catcast.tv/content/47519/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "2157216553874627727"
+  },
+  {
+    "name": "Сити Эдем Рецепты Гурмана",
+    "logo": "https://i.imgur.com/wR0pvRc.png",
+    "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1085097689147645301"
+  },
+  {
+    "name": "Сити Эдем Сиртаки ТВ",
+    "logo": "https://i.imgur.com/V3MTfyc.png",
+    "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "4445725840634549314"
+  },
+  {
+    "name": "Сити Эдем ТВ Христианский",
+    "logo": "https://i.imgur.com/X9kACKi.png",
+    "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5168955260160397331"
+  },
+  {
+    "name": "Сити Эдем ТелеНовелла",
+    "logo": "https://i.imgur.com/mT5liTh.png",
+    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-1806361442219707716"
+  },
+  {
+    "name": "Страна FM",
+    "logo": "https://i.imgur.com/WsPlKJJ.png",
+    "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "group": "Music",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-7483612495491928238",
+    "quality": "HD"
+  },
+  {
+    "name": "Телеканал 86",
+    "logo": "https://i.imgur.com/0dRS4Cb.png",
+    "url": "https://sitv.ru/hls/s86.m3u8",
+    "group": "General",
+    "country": "RU",
+    "is_premium": false,
+    "id": "8663898893781414992",
+    "quality": "FHD"
+  },
+  {
+    "name": "Телплюс ТВ",
+    "logo": "https://i.imgur.com/1zbcZ3p.png",
+    "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "6596305802177228867",
+    "quality": "SD"
+  },
+  {
+    "name": "ТКР",
+    "logo": "https://i.imgur.com/VqtPB7L.png",
+    "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "1681175940969351563",
+    "quality": "FHD"
+  },
+  {
+    "name": "Хузур ТВ",
+    "logo": "https://i.imgur.com/Abg1fct.png",
+    "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8",
+    "group": "International",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-3845127410711279871",
+    "quality": "FHD"
+  },
+  {
+    "name": "Щёлковское ТВ",
+    "logo": "https://i.imgur.com/0us6l04.png",
+    "url": "http://stream0.tv41.ru/live.m3u8",
+    "group": "Russia",
+    "country": "RU",
+    "is_premium": false,
+    "id": "-5911545156056455276",
+    "quality": "SD"
+  },
+  {
+    "name": "上虞1新闻综合",
     "logo": "https://i.imgur.com/CZy4Cqi.png",
     "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
     "group": "General",
