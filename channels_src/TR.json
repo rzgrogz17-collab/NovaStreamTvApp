@@ -223,15 +223,6 @@
   },
   {
     "name": "A Spor",
-    "logo": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/a-spor-logo.png",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
-    "group": "Sports",
-    "country": "TR",
-    "is_premium": false,
-    "id": "5777502017898082949"
-  },
-  {
-    "name": "A Spor",
     "logo": "https://i.imgur.com/ZhkZzLf.png",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
     "group": "Sports",
@@ -258,8 +249,8 @@
     "id": "2087920014637809195"
   },
   {
-    "name": "TRT Spor Yildiz",
-    "logo": "https://images.seeklogo.com/logo-png/40/2/trt-spor-yildiz-logo-png_seeklogo-404267.png",
+    "name": "TRT Spor Yıldız",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/trtsy%C4%B1ld%C4%B1z.jpg",
     "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
     "group": "Sports",
     "country": "TR",
@@ -275,15 +266,6 @@
     "is_premium": false,
     "id": "5999096034935336943",
     "quality": "FHD"
-  },
-  {
-    "name": "Bloomberg HT",
-    "logo": "https://i.imgur.com/bmkXfIE.png",
-    "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
-    "group": "Ekonomi",
-    "country": "TR",
-    "is_premium": false,
-    "id": "-8878041336944119283"
   },
   {
     "name": "Bloomberg HT",
@@ -361,7 +343,7 @@
   },
   {
     "name": "TRT Çocuk",
-    "logo": "https://images.seeklogo.com/logo-png/44/2/trt-cocuk-logo-png_seeklogo-440097.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/trtcocuk.jpg",
     "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "group": "Kids",
     "country": "TR",
@@ -435,15 +417,6 @@
     "id": "8675392465558230423"
   },
   {
-    "name": "Kral Pop TV",
-    "logo": "https://i.imgur.com/ch365lh.png",
-    "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web",
-    "group": "Music",
-    "country": "TR",
-    "is_premium": false,
-    "id": "-2760918641896338171"
-  },
-  {
     "name": "KRAL Pop TV",
     "logo": "https://i.imgur.com/ch365lh.png",
     "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
@@ -452,15 +425,6 @@
     "is_premium": false,
     "id": "1967227107637417998",
     "quality": "HD"
-  },
-  {
-    "name": "Power TV",
-    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/powertv.png",
-    "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
-    "group": "Muzik",
-    "country": "TR",
-    "is_premium": false,
-    "id": "-2980027544926245312"
   },
   {
     "name": "Power TV",
@@ -480,15 +444,6 @@
     "country": "TR",
     "is_premium": false,
     "id": "-4811042510759429879"
-  },
-  {
-    "name": "Number 1 TV",
-    "logo": "https://i.imgur.com/02cDIBi.png",
-    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
-    "group": "Music",
-    "country": "TR",
-    "is_premium": false,
-    "id": "5892692778572965743"
   },
   {
     "name": "Number 1 Türk",
