@@ -1,6 +1,6 @@
 [
   {
-    "name": "TVP1 (1080p)",
+    "name": "TVP1",
     "logo": "https://i.imgur.com/ewpSjBs.png",
     "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
     "group": "Poland",
@@ -10,7 +10,7 @@
     "quality": "FHD"
   },
   {
-    "name": "TVP2 (1080i) [Geo-blocked]",
+    "name": "TVP2",
     "logo": "https://i.imgur.com/XxCc32B.png",
     "url": "https://cdndai.pl/tvp2hd/index.m3u8",
     "group": "Poland",
@@ -19,7 +19,7 @@
     "id": "9190417583225571336"
   },
   {
-    "name": "Polsat (1080p) [Geo-blocked]",
+    "name": "Polsat",
     "logo": "https://i.imgur.com/xff6zGN.png",
     "url": "https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
     "group": "General",
@@ -38,7 +38,7 @@
     "id": "3986140528588766210"
   },
   {
-    "name": "Polsat News (720p) [Geo-blocked]",
+    "name": "Polsat News",
     "logo": "https://i.imgur.com/sx1yPuc.png",
     "url": "http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
     "group": "News",
@@ -48,7 +48,7 @@
     "quality": "HD"
   },
   {
-    "name": "TVP World (1080p) [Geo-blocked]",
+    "name": "TVP World",
     "logo": "https://i.imgur.com/lB4MgRI.png",
     "url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
     "group": "News",
@@ -58,7 +58,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Polsat Rodzina (1080p)",
+    "name": "Polsat Rodzina",
     "logo": "https://i.imgur.com/IS0AW48.png",
     "url": "https://turbotv.io/play/link/97155b27-7b0c-4af7-9b67-a9ae172d89bf/eyJpdiI6IkdDTWN5bG8zTlpiSTFPdDhXbERSRUE9PSIsInZhbHVlIjoiRHJqdWhFRWdnN2p0ZjRHOEloWjcwNUVldmw4b2l0VjJ0Z2g1ZXFueWtQMU9ldzN2aFVwL1laeVVGNDFaVW1lUGhoQ2praGNsWVdCb212NUd1Y1N6VXBLSzF6bDd5TDZ3WjRQL0MxSlBRcUE9IiwibWFjIjoiNmQwNTc3N2UwNWUzZjQzOGJjMmE0MmM0YjYxMWQ4ZWZiZDg3ODQzNjIyOTY1ZTI2Y2FkMzQwMWVkN2FlYTY1MSIsInRhZyI6IiJ9.m3u8",
     "group": "Poland",
@@ -68,7 +68,7 @@
     "quality": "FHD"
   },
   {
-    "name": "WP TV (1080p) [Geo-blocked]",
+    "name": "WP TV",
     "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
     "url": "https://vs2124.vcdn.biz/ea4b303612d09486a02d3fb60f337b0c_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/a4076920-50ed-4d3f-b9ef-e46f74e36d4b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid2813014404360271229-b4000000.m3u8",
     "group": "Poland",
@@ -78,7 +78,7 @@
     "quality": "FHD"
   },
   {
-    "name": "TV Trwam (1080p) [Geo-blocked]",
+    "name": "TV Trwam",
     "logo": "https://i.imgur.com/yq10wS5.png",
     "url": "https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd",
     "group": "Poland",
@@ -106,7 +106,7 @@
     "id": "-6560143134982324131"
   },
   {
-    "name": "Disney XD (720p)",
+    "name": "Disney XD",
     "logo": "https://i.postimg.cc/MKNssTyj/disneyxd.png",
     "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
     "group": "Kids",
@@ -125,7 +125,7 @@
     "id": "-7721939856785354497"
   },
   {
-    "name": "Polsat Viasat History (1080p)",
+    "name": "Polsat Viasat History",
     "logo": "https://i.imgur.com/X16UGUf.png",
     "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
     "group": "Documentary",
@@ -153,7 +153,7 @@
     "id": "-158354857925745197"
   },
   {
-    "name": "Music Box Polska (1080p) [Geo-blocked]",
+    "name": "Music Box Polska",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
     "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
     "group": "Music",
@@ -190,7 +190,7 @@
     "id": "1967570007878314753"
   },
   {
-    "name": "Polsat News 2 (1080p)",
+    "name": "Polsat News 2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
     "url": "https://turbotv.io/play/link/75409b46-e472-4a51-9077-abd80596670f/eyJpdiI6Ik9uRkVaekdYWDUxSU9GbTF2Mm9YR2c9PSIsInZhbHVlIjoiNy9Gc3NQWXNPSFZFeFcybVBOcWYyM1JyUDRIUVFCemhOeFVLUmJjQys0VWR6VFhnMHh0L3ZmQ1VIOCsrQUN4Y2tVdldRQ3RHV2NqL3psQmtPNlJtS0dqY1ZvV3hqNVp5WllvWFZ0U0dJdVE9IiwibWFjIjoiN2EwZTJhNDhiNTBlZjAwMDlhYzczYzE2NGNlODQ1YWQ0OWNmYWMwYjk0ZTUyN2E4ODE1OTg4MzYwNzA1ZDFhMCIsInRhZyI6IiJ9.m3u8",
     "group": "News",
@@ -200,7 +200,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
+    "name": "Polsat News Polityka",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-polityka-pl.png",
     "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
     "group": "News",
@@ -210,7 +210,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Zoom TV (1080p) [Geo-blocked]",
+    "name": "Zoom TV",
     "logo": "https://i.imgur.com/UtZM4zm.png",
     "url": "https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8",
     "group": "Poland",
@@ -220,7 +220,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Stars TV (1080p) [Geo-blocked]",
+    "name": "Stars TV",
     "logo": "https://i.imgur.com/NdITPCk.png",
     "url": "https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid1122592601448291971-b4000000.m3u8",
     "group": "Poland",
@@ -248,7 +248,7 @@
     "id": "1041846483824419273"
   },
   {
-    "name": "W Polsce PL (720p)",
+    "name": "W Polsce PL",
     "logo": "https://i.imgur.com/HQ8UyhL.png",
     "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
     "group": "Poland",
@@ -258,7 +258,7 @@
     "quality": "HD"
   },
   {
-    "name": "Radio Czwórka (1080p)",
+    "name": "Radio Czwórka",
     "logo": "https://i.imgur.com/VAtxF7k.png",
     "url": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
     "group": "Poland",
@@ -268,7 +268,7 @@
     "quality": "FHD"
   },
   {
-    "name": "EWTN Poland (1080p)",
+    "name": "EWTN Poland",
     "logo": "https://i.imgur.com/VtKYELf.png",
     "url": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8",
     "group": "Religious",
@@ -278,7 +278,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Telewizja Biznesowa (1080p)",
+    "name": "Telewizja Biznesowa",
     "logo": "https://i.imgur.com/XC7i7ZL.png",
     "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
     "group": "Business",
@@ -297,7 +297,7 @@
     "id": "7196890031023283342"
   },
   {
-    "name": "TV Okazje (1080p) [Geo-blocked]",
+    "name": "TV Okazje",
     "logo": "https://i.imgur.com/DbALkkV.png",
     "url": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd",
     "group": "Poland",
@@ -460,7 +460,7 @@
     "id": "7299386400523773624"
   },
   {
-    "name": "Echo24 (720p)",
+    "name": "Echo24",
     "logo": "https://i.imgur.com/KPogWAG.png",
     "url": "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8",
     "group": "General",
@@ -470,7 +470,7 @@
     "quality": "HD"
   },
   {
-    "name": "TV ASTA (720p)",
+    "name": "TV ASTA",
     "logo": "https://i.imgur.com/5g7lq9N.png",
     "url": "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8",
     "group": "General",
@@ -480,7 +480,7 @@
     "quality": "HD"
   },
   {
-    "name": "TVT (720p)",
+    "name": "TVT",
     "logo": "https://i.imgur.com/oZyeUzG.png",
     "url": "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8",
     "group": "General",
@@ -490,7 +490,7 @@
     "quality": "HD"
   },
   {
-    "name": "Twoja.TV (1080p)",
+    "name": "Twoja.TV",
     "logo": "https://i.ibb.co/vxntQD60/twojatv-hd-online.png",
     "url": "https://stream.twoja.tv/ttv_hls/live.m3u8",
     "group": "Poland",
@@ -500,7 +500,7 @@
     "quality": "FHD"
   },
   {
-    "name": "TVK Stella (576p)",
+    "name": "TVK Stella",
     "logo": "https://www.tvkstella.pl/img/poster.png",
     "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
     "group": "General",
@@ -510,7 +510,7 @@
     "quality": "SD"
   },
   {
-    "name": "Telewizja Jaslo (720p)",
+    "name": "Telewizja Jaslo",
     "logo": "https://i.imgur.com/nV2jQQP.png",
     "url": "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8",
     "group": "General",
@@ -529,7 +529,7 @@
     "id": "8908747399777723159"
   },
   {
-    "name": "TVP 3 Warszawa (576p) [Geo-blocked]",
+    "name": "TVP 3 Warszawa",
     "logo": "https://i.imgur.com/AfZOO8U.jpg",
     "url": "https://cdndai.pl/tvp3warszawasd/index.m3u8",
     "group": "Poland",
@@ -539,7 +539,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Kraków (576p) [Geo-blocked]",
+    "name": "TVP 3 Kraków",
     "logo": "https://i.imgur.com/MbAKxD1.jpg",
     "url": "https://cdndai.pl/tvp3krakowsd/index.m3u8",
     "group": "Poland",
@@ -549,7 +549,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Katowice (576p) [Geo-blocked]",
+    "name": "TVP 3 Katowice",
     "logo": "https://i.imgur.com/burRKHa.jpg",
     "url": "https://cdndai.pl/tvp3katowicesd/index.m3u8",
     "group": "Poland",
@@ -559,7 +559,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Wrocław (576p) [Geo-blocked]",
+    "name": "TVP 3 Wrocław",
     "logo": "https://i.imgur.com/b0Xevsc.jpg",
     "url": "https://cdndai.pl/tvp3wroclawsd/index.m3u8",
     "group": "Poland",
@@ -569,7 +569,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Poznań (576p) [Geo-blocked]",
+    "name": "TVP 3 Poznań",
     "logo": "https://i.imgur.com/mTnjVGQ.jpg",
     "url": "https://cdndai.pl/tvp3poznansd/index.m3u8",
     "group": "Poland",
@@ -579,7 +579,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Gdańsk (576p) [Geo-blocked]",
+    "name": "TVP 3 Gdańsk",
     "logo": "https://i.imgur.com/wGZCj7G.jpg",
     "url": "https://cdndai.pl/tvp3gdansksd/index.m3u8",
     "group": "Poland",
@@ -589,7 +589,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Łódź (576p) [Geo-blocked]",
+    "name": "TVP 3 Łódź",
     "logo": "https://i.imgur.com/b0Xevsc.jpg",
     "url": "https://cdndai.pl/tvp3lodzsd/index.m3u8",
     "group": "Poland",
@@ -599,7 +599,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Szczecin (576p) [Geo-blocked]",
+    "name": "TVP 3 Szczecin",
     "logo": "https://i.imgur.com/NRb6S8z.jpg",
     "url": "https://cdndai.pl/tvp3szczecinsd/index.m3u8",
     "group": "Poland",
@@ -609,7 +609,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Bydgoszcz (576p) [Geo-blocked]",
+    "name": "TVP 3 Bydgoszcz",
     "logo": "https://i.imgur.com/b0Xevsc.jpg",
     "url": "https://cdndai.pl/tvp3bydgoszczsd/index.m3u8",
     "group": "Poland",
@@ -619,7 +619,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Lublin (576p) [Geo-blocked]",
+    "name": "TVP 3 Lublin",
     "logo": "https://i.imgur.com/h7oq2yg.jpg",
     "url": "https://cdndai.pl/tvp3lublinsd/index.m3u8",
     "group": "Poland",
@@ -629,7 +629,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Białystok (576p) [Geo-blocked]",
+    "name": "TVP 3 Białystok",
     "logo": "https://i.imgur.com/b0Xevsc.jpg",
     "url": "https://cdndai.pl/tvp3bialystoksd/index.m3u8",
     "group": "Poland",
@@ -639,7 +639,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Rzeszów (576p) [Geo-blocked]",
+    "name": "TVP 3 Rzeszów",
     "logo": "https://i.imgur.com/6jGX6Xy.jpg",
     "url": "https://cdndai.pl/tvp3rzeszowsd/index.m3u8",
     "group": "Poland",
@@ -649,7 +649,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Olsztyn (576p) [Geo-blocked]",
+    "name": "TVP 3 Olsztyn",
     "logo": "https://i.imgur.com/Aa0HedU.jpg",
     "url": "https://cdndai.pl/tvp3olsztynsd/index.m3u8",
     "group": "Poland",
@@ -659,7 +659,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Kielce (576p) [Geo-blocked]",
+    "name": "TVP 3 Kielce",
     "logo": "https://i.imgur.com/YcQxM94.jpg",
     "url": "https://cdndai.pl/tvp3kielcesd/index.m3u8",
     "group": "Poland",
@@ -669,7 +669,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Opole (576p) [Geo-blocked]",
+    "name": "TVP 3 Opole",
     "logo": "https://i.imgur.com/dYRtDRA.jpg",
     "url": "https://cdndai.pl/tvp3opolesd/index.m3u8",
     "group": "Poland",
@@ -679,7 +679,7 @@
     "quality": "SD"
   },
   {
-    "name": "TVP 3 Gorzów Wielkopolski (576p) [Geo-blocked]",
+    "name": "TVP 3 Gorzów Wielkopolski",
     "logo": "https://i.imgur.com/H3jtBQm.jpg",
     "url": "https://cdndai.pl/tvp3gorzowsd/index.m3u8",
     "group": "Poland",
@@ -689,7 +689,7 @@
     "quality": "SD"
   },
   {
-    "name": "TV Toruń (1080p) [Not 24/7]",
+    "name": "TV Toruń",
     "logo": "https://i.imgur.com/ZJ0yDWI.png",
     "url": "http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8",
     "group": "Poland",
@@ -699,7 +699,7 @@
     "quality": "FHD"
   },
   {
-    "name": "TV Regionalna Lubin (576p) [Not 24/7]",
+    "name": "TV Regionalna Lubin",
     "logo": "https://i.imgur.com/2WVNt3f.png",
     "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
     "group": "Poland",
@@ -709,7 +709,7 @@
     "quality": "SD"
   },
   {
-    "name": "TV Kujawy (576p) [Not 24/7]",
+    "name": "TV Kujawy",
     "logo": "https://i.imgur.com/dGP7cIW.png",
     "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
     "group": "Poland",
@@ -719,7 +719,7 @@
     "quality": "SD"
   },
   {
-    "name": "Truso TV (576p) [Not 24/7]",
+    "name": "Truso TV",
     "logo": "https://i.imgur.com/GUsauxk.png",
     "url": "https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8",
     "group": "News",
@@ -729,7 +729,7 @@
     "quality": "SD"
   },
   {
-    "name": "Sfera TV (480p) [Not 24/7]",
+    "name": "Sfera TV",
     "logo": "https://i.imgur.com/aK7xfKi.png",
     "url": "https://stream.sferatv.pl/sferatvlive/live.m3u8",
     "group": "Italy",
@@ -739,7 +739,7 @@
     "quality": "SD"
   },
   {
-    "name": "TV Imperium (1080p) [Not 24/7]",
+    "name": "TV Imperium",
     "logo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
     "url": "https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8",
     "group": "Poland",
@@ -749,7 +749,7 @@
     "quality": "FHD"
   },
   {
-    "name": "Telewizja Lubań (720p) [Not 24/7]",
+    "name": "Telewizja Lubań",
     "logo": "https://i.imgur.com/t2BGp0G.jpeg",
     "url": "http://stream.herissons.cloud/hls/tvluban.m3u8",
     "group": "General",
@@ -759,7 +759,7 @@
     "quality": "HD"
   },
   {
-    "name": "TVT Zgorzelec (576p) [Not 24/7]",
+    "name": "TVT Zgorzelec",
     "logo": "https://i.imgur.com/zhzVpgf.jpg",
     "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
     "group": "Poland",
