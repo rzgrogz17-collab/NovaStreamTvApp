@@ -20,8 +20,8 @@
   },
   {
     "name": "ATV",
-    "logo": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p-1792616120000.ts",
-    "url": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/ATVTR.jpg",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/ATVTR.jpg",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p-1792616120000.ts",
     "group": "General",
     "country": "TR",
     "is_premium": false,
@@ -132,7 +132,7 @@
   },
   {
     "name": "Haber Global",
-    "logo": "https://images.seeklogo.com/logo-png/61/1/haber-global-logo-png_seeklogo-612626.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/haberglobal.jpg",
     "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
     "group": "News",
     "country": "TR",
@@ -447,7 +447,7 @@
   },
   {
     "name": "Number 1 Türk",
-    "logo": "https://i.imgur.com/18zjk3q.png",
+    "logo": "https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg",
     "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
     "group": "Music",
     "country": "TR",
@@ -457,7 +457,7 @@
   },
   {
     "name": "TRT Muzik",
-    "logo": "https://images.seeklogo.com/logo-png/41/1/trt-muzik-logo-png_seeklogo-410489.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/trtm%C3%BCzik.png",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
     "group": "Music",
     "country": "TR",
@@ -484,7 +484,7 @@
   },
   {
     "name": "HT Spor",
-    "logo": "https://i.ibb.co/F0Tsz1v/htsportr.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/htspor.png",
     "url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8",
     "group": "Sports",
     "country": "TR",
@@ -512,7 +512,7 @@
   },
   {
     "name": "Ekol Haber",
-    "logo": "https://i.ibb.co/Ln92Dj2/Ekoltv.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/ekolhaber.jpg",
     "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
     "group": "Haber",
     "country": "TR",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Cine 1 TV",
-    "logo": "https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/cine1.png",
     "url": "http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
     "group": "General",
     "country": "TR",
@@ -566,7 +566,7 @@
   },
   {
     "name": "Grand Cinema",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/grandsinema.jpg",
     "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
     "group": "Movies",
     "country": "TR",
@@ -575,7 +575,7 @@
   },
   {
     "name": "TBMM TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/tbmmtv.png",
     "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
     "group": "Haber",
     "country": "TR",
@@ -593,7 +593,7 @@
   },
   {
     "name": "TRT World",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/trtworld.jpg",
     "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "group": "Yurt Disi",
     "country": "TR",
