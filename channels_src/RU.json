@@ -1,16 +1,7 @@
 [
   {
     "name": "Первый канал",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
-    "url": "https://edge2.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1788753401",
-    "group": "Russia",
-    "country": "RU",
-    "is_premium": false,
-    "id": "200000000001"
-  },
-  {
-    "name": "Первый канал",
-    "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+    "logo": "https://www.1tv.ru/resources/images/social-stub-image.jpg",
     "url": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8",
     "group": "Russia",
     "country": "RU",
@@ -36,45 +27,45 @@
     "id": "200000000004"
   },
   {
-    "name": "НТВ",
-    "logo": "https://i.imgur.com/9r1BKzK.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
+    "name": "Auto Plus",
+    "logo": "https://www.autoplustv.ru/wp-content/uploads/2021/03/favicon.png",
+    "url": "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "3691484465334758680"
   },
   {
-    "name": "ТНТ",
-    "logo": "https://i.imgur.com/T4A6rEI.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
+    "name": "Baby Time",
+    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2022/10/14105716/Baby-Time-Russia.jpeg",
+    "url": "https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "4191972367608762024"
   },
   {
-    "name": "СТС",
-    "logo": "https://i.imgur.com/ilUzAeb.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
+    "name": "БСT - BST",
+    "logo": "https://iptvru.ru/templates/TV_online/images/logo/bst.jpg",
+    "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "7533843875925265190"
   },
   {
-    "name": "Рен ТВ",
-    "logo": "https://i.imgur.com/0Tu5lte.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
+    "name": "Channel 12",
+    "logo": "https://maxofficial.ru/uploads/channels/channel-1133-a5b86bc0.jpg",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist_sdhigh.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
     "id": "3901835087043161292"
   },
   {
-    "name": "Пятница!",
-    "logo": "https://avatars.mds.yandex.net/get-ott/239697/2a00000182ac94d4590fc2e081e7986fddd9/orig",
-    "url": "https://vsd115.okcdn.ru/hls/7937441663606_10412.m3u8/sig/ZY9z_W2sLxc/expires/1788840693647/srcIp/176.237.40.12/urls/176.112.172.96/clientType/0/srcAg/CHROME/mid/9313862491766/video.m3u8?p",
+    "name": "3ABN",
+    "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/3ABNRUTV.jpg",
+    "url": "https://hls.tv.3angels.ru/stream/MQ.m3u8",
     "group": "Entertainment",
     "country": "RU",
     "is_premium": false,
@@ -83,7 +74,7 @@
   {
     "name": "Пятница!",
     "logo": "https://i.imgur.com/UfmlXxe.png",
-    "url": "https://vod.tuva.ru/friday/index.m3u8",
+    "url": "https://vsd288.okcdn.ru/hls/7937441663606.m3u8/sig/5C46Zc_8BkY/expires/1792819648502/srcIp/176.237.31.26/urls/95.163.35.103/clientType/0/srcAg/CHROME/mid/9313862491766/7937441663606_high/index.m3u8",
     "group": "Russia",
     "country": "RU",
     "is_premium": false,
@@ -92,7 +83,7 @@
   {
     "name": "ТВ3",
     "logo": "https://i.imgur.com/JLAvq8O.png",
-    "url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+    "url": "https://vsd123.okcdn.ru/hls/7983656733302.m3u8/sig/O0Q1KEXrWmM/expires/1792819900095/srcIp/176.237.31.26/urls/176.112.172.107/clientType/0/srcAg/CHROME/mid/9344408428150/7983656733302_medium/index.m3u8",
     "group": "General",
     "country": "RU",
     "is_premium": false,
