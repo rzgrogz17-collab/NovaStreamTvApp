@@ -22,7 +22,7 @@
   {
     "name": "BOKTV",
     "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/TVLOGO/refs/heads/main/BOKTV.jpg",
-    "url": "https://livestream2.bokradio.co.za/hls/Bok5c_hd720-96.ts",
+    "url": "https://livestream2.bokradio.co.za/hls/Bok5c_hd720.m3u8",
     "group": "Music",
     "country": "ZA",
     "is_premium": false,
@@ -47,36 +47,6 @@
     "country": "ZA",
     "is_premium": false,
     "id": "-4535124578156331647",
-    "quality": "SD"
-  },
-  {
-    "name": "Faith TV (576p)",
-    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
-    "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
-    "group": "Religious",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-6197588922929160769",
-    "quality": "SD"
-  },
-  {
-    "name": "Gospel (720p)",
-    "logo": "https://i.imgur.com/s61IYIi.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8",
-    "group": "General",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-6945729761986230382",
-    "quality": "HD"
-  },
-  {
-    "name": "Homebase TV (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/MaLNfJG.png",
-    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
-    "group": "Religious",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "7721503647845945219",
     "quality": "SD"
   },
   {
@@ -118,25 +88,6 @@
     "is_premium": false,
     "id": "-4867193066750264113",
     "quality": "FHD"
-  },
-  {
-    "name": "LOL (720p)",
-    "logo": "https://i.imgur.com/mgUk4qB.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8",
-    "group": "Lifestyle",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-3549724964586829251",
-    "quality": "HD"
-  },
-  {
-    "name": "NuView TV",
-    "logo": "https://i.imgur.com/dYRJ7F0.png",
-    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8",
-    "group": "Entertainment",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "8631907375901910899"
   },
   {
     "name": "Pulse TV",
