@@ -60,16 +60,6 @@
     "quality": "SD"
   },
   {
-    "name": "Fresh (720p)",
-    "logo": "https://i.imgur.com/2ig8jUH.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-1460464780855368288",
-    "quality": "HD"
-  },
-  {
     "name": "Gospel (720p)",
     "logo": "https://i.imgur.com/s61IYIi.png",
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8",
@@ -149,16 +139,6 @@
     "id": "8631907375901910899"
   },
   {
-    "name": "Pulse (720p)",
-    "logo": "https://i.imgur.com/J9VRDDR.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "5255268511581583896",
-    "quality": "HD"
-  },
-  {
     "name": "Pulse TV",
     "logo": "https://i.imgur.com/J9VRDDR.png",
     "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8",
@@ -166,16 +146,6 @@
     "country": "ZA",
     "is_premium": false,
     "id": "8728189981736152785"
-  },
-  {
-    "name": "Redemption TV Ministry (720p)",
-    "logo": "https://i.imgur.com/63SmAby.png",
-    "url": "https://live.nixsat.com/play/rtm/index.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "6595602935768865228",
-    "quality": "HD"
   },
   {
     "name": "Romanza+ Africa (720p)",
@@ -186,54 +156,6 @@
     "is_premium": false,
     "id": "-3640930062230068808",
     "quality": "HD"
-  },
-  {
-    "name": "ROV TV (576p)",
-    "logo": "https://i.imgur.com/sbeuEYY.png",
-    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-4997614955251177697",
-    "quality": "SD"
-  },
-  {
-    "name": "RPM (720p)",
-    "logo": "https://i.imgur.com/gWJ1lN8.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",
-    "group": "Auto",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "2811539524144682138",
-    "quality": "HD"
-  },
-  {
-    "name": "SABC 1 (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/G8OXWe4.png",
-    "url": "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-1610484916421958494",
-    "quality": "HD"
-  },
-  {
-    "name": "SABC 2 [Geo-blocked]",
-    "logo": "https://i.imgur.com/rj6i9sn.png",
-    "url": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "2273103433097398851"
-  },
-  {
-    "name": "SABC 3 [Geo-blocked]",
-    "logo": "https://i.imgur.com/eEhLk1D.png",
-    "url": "https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-3565169826627258643"
   },
   {
     "name": "SABC Lehae [Geo-blocked]",
@@ -265,32 +187,13 @@
     "quality": "SD"
   },
   {
-    "name": "Sports Connect (720p)",
+    "name": "eSportclub",
     "logo": "https://i.imgur.com/0sNWg54.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
     "group": "Sports",
     "country": "ZA",
     "is_premium": false,
     "id": "2504675984096568577",
-    "quality": "HD"
-  },
-  {
-    "name": "Trigger",
-    "logo": "https://i.imgur.com/TrlrcWf.png",
-    "url": "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-2910591839356490985"
-  },
-  {
-    "name": "True African (720p)",
-    "logo": "https://i.imgur.com/nDi2br7.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-1433702332926916508",
     "quality": "HD"
   },
   {
