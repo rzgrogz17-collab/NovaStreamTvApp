@@ -10,16 +10,6 @@
     "quality": "SD"
   },
   {
-    "name": "",
-    "logo": "",
-    "url": "",
-    "group": "",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-1754846698969655562",
-    "quality": "HD"
-  },
-  {
     "name": "Faith Africa",
     "logo": "https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Ffaith-africa.1744912829.png",
     "url": "https://vse2-as-pk11.secdn.net/faithnow-holland-chorigin/live/FaithAfrica_480p/chunklist_sess160792813.m3u8",
@@ -60,16 +50,6 @@
     "quality": "SD"
   },
   {
-    "name": "",
-    "logo": "",
-    "url": "",
-    "group": "",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-8550278673168370729",
-    "quality": "HD"
-  },
-  {
     "name": "Faith TV (576p)",
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
@@ -78,16 +58,6 @@
     "is_premium": false,
     "id": "-6197588922929160769",
     "quality": "SD"
-  },
-  {
-    "name": "",
-    "logo": "",
-    "url": "",
-    "group": "",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-3606029721128568312",
-    "quality": "HD"
   },
   {
     "name": "Fresh (720p)",
