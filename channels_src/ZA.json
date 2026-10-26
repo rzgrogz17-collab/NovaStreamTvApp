@@ -60,26 +60,6 @@
     "quality": "FHD"
   },
   {
-    "name": "Kiddiwinks (720p)",
-    "logo": "https://i.imgur.com/tStBWnn.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8",
-    "group": "Kids",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "-5544075162198422530",
-    "quality": "HD"
-  },
-  {
-    "name": "Limelight (720p)",
-    "logo": "https://i.imgur.com/yclinEh.png",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8",
-    "group": "South Africa",
-    "country": "ZA",
-    "is_premium": false,
-    "id": "5045983122764007433",
-    "quality": "HD"
-  },
-  {
     "name": "LN24SA (1080p)",
     "logo": "https://i.imgur.com/Hg5YTwu.png",
     "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
